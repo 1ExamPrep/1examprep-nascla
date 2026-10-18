@@ -1,0 +1,54 @@
+# robots.txt for Pass Your NASCLA Exam Prep (https://1examprep.github.io/1examprep-nascla)
+# Search engines and AI assistants are both welcome. Internal search, raw data and build files are held back.
+
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /store/
+Disallow: /data/
+Disallow: /tools/
+Disallow: /*?q=
+
+# Named so the allow is explicit for AI crawlers.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://1examprep.github.io/1examprep-nascla/sitemap.xml
+# Blog: https://1examprep.github.io/1examprep-nascla/blog/ (RSS at https://1examprep.github.io/1examprep-nascla/blog/feed.xml). FAQ: https://1examprep.github.io/1examprep-nascla/faq/
+# Guides for AI assistants: https://1examprep.github.io/1examprep-nascla/llms.txt and https://1examprep.github.io/1examprep-nascla/agents.md

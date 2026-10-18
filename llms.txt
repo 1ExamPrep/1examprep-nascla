@@ -1,0 +1,150 @@
+# Pass Your NASCLA Exam Prep
+
+> NASCLA exam prep: the NASCLA Accredited Examination for Commercial General Building Contractors (accepted in 16 states and the U.S. Virgin Islands), NASCLA accredited electrical exams (master electrical contractor, journeyman electrician, residential electrical contractor) and state business and law exams. 435 products across 28 states plus nationwide editions. Buy buttons go straight to secure checkout; orders are fulfilled by 1 Exam Prep. Phone (877) 775-9400, email sales@1examprep.com.
+
+## How the site is organised
+
+- `/<exam>/` lists the states that carry an exam. Exam slugs: commercial-general-building-contractor, master-electrical-contractor, journeyman-electrician, residential-electrical-contractor, business-and-law.
+- `/<state>/` lists a state's exams (multi-word states use a dash, e.g. `/north-carolina/`; `/national/` holds nationwide editions).
+- `/<state>/<exam>/` lists that state's products for the exam.
+- `/<state>/<exam>/<product>/` is a full product page with price, options, description, FAQ and a Buy now button.
+- Package types, smallest to most complete: Online Exam Prep Course, Exam Book Package, Highlighted & Tabbed Book Package, Books & Courses Rental Package, Ultimate Exam Prep Rental Package (books + online course), The 1 Package (all-inclusive, adds licensing and business setup). Books, pre-printed tabs and flash cards are also sold on their own.
+
+## Exams
+
+- [NASCLA Commercial General Building Contractor exam prep](https://1examprep.github.io/1examprep-nascla/commercial-general-building-contractor/)
+- [NASCLA Master Electrical Contractor exam prep](https://1examprep.github.io/1examprep-nascla/master-electrical-contractor/)
+- [NASCLA Journeyman Electrician exam prep](https://1examprep.github.io/1examprep-nascla/journeyman-electrician/)
+- [NASCLA Residential Electrical Contractor exam prep](https://1examprep.github.io/1examprep-nascla/residential-electrical-contractor/)
+- [NASCLA Business and Law exam prep](https://1examprep.github.io/1examprep-nascla/business-and-law/)
+
+## State and exam pages
+
+- [Alabama Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/alabama/commercial-general-building-contractor/)
+- [Alabama Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/alabama/master-electrical-contractor/)
+- [Alabama Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/alabama/journeyman-electrician/)
+- [Alabama Business and Law](https://1examprep.github.io/1examprep-nascla/alabama/business-and-law/)
+- [Arizona Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/arizona/commercial-general-building-contractor/)
+- [Arizona Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/arizona/master-electrical-contractor/)
+- [Arizona Residential Electrical Contractor](https://1examprep.github.io/1examprep-nascla/arizona/residential-electrical-contractor/)
+- [Arizona Business and Law](https://1examprep.github.io/1examprep-nascla/arizona/business-and-law/)
+- [Arkansas Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/arkansas/commercial-general-building-contractor/)
+- [Arkansas Business and Law](https://1examprep.github.io/1examprep-nascla/arkansas/business-and-law/)
+- [California Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/california/commercial-general-building-contractor/)
+- [Connecticut Business and Law](https://1examprep.github.io/1examprep-nascla/connecticut/business-and-law/)
+- [Florida Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/florida/commercial-general-building-contractor/)
+- [Florida Residential Electrical Contractor](https://1examprep.github.io/1examprep-nascla/florida/residential-electrical-contractor/)
+- [Florida Business and Law](https://1examprep.github.io/1examprep-nascla/florida/business-and-law/)
+- [Georgia Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/georgia/commercial-general-building-contractor/)
+- [Georgia Business and Law](https://1examprep.github.io/1examprep-nascla/georgia/business-and-law/)
+- [Hawaii Business and Law](https://1examprep.github.io/1examprep-nascla/hawaii/business-and-law/)
+- [Idaho Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/idaho/master-electrical-contractor/)
+- [Idaho Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/idaho/journeyman-electrician/)
+- [Indiana Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/indiana/master-electrical-contractor/)
+- [Indiana Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/indiana/journeyman-electrician/)
+- [Kentucky Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/kentucky/master-electrical-contractor/)
+- [Kentucky Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/kentucky/journeyman-electrician/)
+- [Louisiana Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/louisiana/commercial-general-building-contractor/)
+- [Louisiana Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/louisiana/master-electrical-contractor/)
+- [Louisiana Business and Law](https://1examprep.github.io/1examprep-nascla/louisiana/business-and-law/)
+- [Maryland Business and Law](https://1examprep.github.io/1examprep-nascla/maryland/business-and-law/)
+- [Mississippi Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/mississippi/commercial-general-building-contractor/)
+- [Mississippi Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/mississippi/master-electrical-contractor/)
+- [Mississippi Residential Electrical Contractor](https://1examprep.github.io/1examprep-nascla/mississippi/residential-electrical-contractor/)
+- [Mississippi Business and Law](https://1examprep.github.io/1examprep-nascla/mississippi/business-and-law/)
+- [Missouri Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/missouri/master-electrical-contractor/)
+- [Nebraska Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/nebraska/master-electrical-contractor/)
+- [Nebraska Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/nebraska/journeyman-electrician/)
+- [Nebraska Residential Electrical Contractor](https://1examprep.github.io/1examprep-nascla/nebraska/residential-electrical-contractor/)
+- [Nevada Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/nevada/commercial-general-building-contractor/)
+- [New Jersey Business and Law](https://1examprep.github.io/1examprep-nascla/new-jersey/business-and-law/)
+- [New Mexico Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/new-mexico/commercial-general-building-contractor/)
+- [New Mexico Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/new-mexico/master-electrical-contractor/)
+- [New Mexico Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/new-mexico/journeyman-electrician/)
+- [New Mexico Residential Electrical Contractor](https://1examprep.github.io/1examprep-nascla/new-mexico/residential-electrical-contractor/)
+- [North Carolina Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/north-carolina/commercial-general-building-contractor/)
+- [North Carolina Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/north-carolina/master-electrical-contractor/)
+- [North Carolina Residential Electrical Contractor](https://1examprep.github.io/1examprep-nascla/north-carolina/residential-electrical-contractor/)
+- [North Carolina Business and Law](https://1examprep.github.io/1examprep-nascla/north-carolina/business-and-law/)
+- [Ohio Business and Law](https://1examprep.github.io/1examprep-nascla/ohio/business-and-law/)
+- [Oregon Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/oregon/commercial-general-building-contractor/)
+- [Oregon Business and Law](https://1examprep.github.io/1examprep-nascla/oregon/business-and-law/)
+- [South Carolina Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/south-carolina/commercial-general-building-contractor/)
+- [South Carolina Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/south-carolina/master-electrical-contractor/)
+- [South Carolina Residential Electrical Contractor](https://1examprep.github.io/1examprep-nascla/south-carolina/residential-electrical-contractor/)
+- [South Carolina Business and Law](https://1examprep.github.io/1examprep-nascla/south-carolina/business-and-law/)
+- [Tennessee Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/tennessee/commercial-general-building-contractor/)
+- [Tennessee Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/tennessee/master-electrical-contractor/)
+- [Tennessee Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/tennessee/journeyman-electrician/)
+- [Tennessee Business and Law](https://1examprep.github.io/1examprep-nascla/tennessee/business-and-law/)
+- [Utah Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/utah/commercial-general-building-contractor/)
+- [Utah Business and Law](https://1examprep.github.io/1examprep-nascla/utah/business-and-law/)
+- [Virginia Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/virginia/commercial-general-building-contractor/)
+- [Virginia Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/virginia/master-electrical-contractor/)
+- [Virginia Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/virginia/journeyman-electrician/)
+- [Virginia Business and Law](https://1examprep.github.io/1examprep-nascla/virginia/business-and-law/)
+- [Washington DC Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/washington-dc/journeyman-electrician/)
+- [West Virginia Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/west-virginia/commercial-general-building-contractor/)
+- [West Virginia Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/west-virginia/master-electrical-contractor/)
+- [Nationwide Commercial General Building Contractor](https://1examprep.github.io/1examprep-nascla/national/commercial-general-building-contractor/)
+- [Nationwide Master Electrical Contractor](https://1examprep.github.io/1examprep-nascla/national/master-electrical-contractor/)
+- [Nationwide Journeyman Electrician](https://1examprep.github.io/1examprep-nascla/national/journeyman-electrician/)
+- [Nationwide Residential Electrical Contractor](https://1examprep.github.io/1examprep-nascla/national/residential-electrical-contractor/)
+- [Nationwide Business and Law](https://1examprep.github.io/1examprep-nascla/national/business-and-law/)
+
+## FAQ
+
+- [NASCLA exam FAQ](https://1examprep.github.io/1examprep-nascla/faq/): what NASCLA is, the commercial exam, licensing, studying and ordering.
+- [Alabama Business and Law FAQ](https://1examprep.github.io/1examprep-nascla/faq/alabama/business-and-law/)
+- [Alabama Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/alabama/commercial-general-building-contractor/)
+- [Alabama Journeyman Electrician FAQ](https://1examprep.github.io/1examprep-nascla/faq/alabama/journeyman-electrician/)
+- [Alabama Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/alabama/master-electrical-contractor/)
+- [Arizona Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/arizona/commercial-general-building-contractor/)
+- [Arizona Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/arizona/master-electrical-contractor/)
+- [Arizona Residential Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/arizona/residential-electrical-contractor/)
+- [California Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/california/commercial-general-building-contractor/)
+- [Connecticut Business and Law FAQ](https://1examprep.github.io/1examprep-nascla/faq/connecticut/business-and-law/)
+- [Florida Business and Law FAQ](https://1examprep.github.io/1examprep-nascla/faq/florida/business-and-law/)
+- [Florida Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/florida/commercial-general-building-contractor/)
+- [Georgia Business and Law FAQ](https://1examprep.github.io/1examprep-nascla/faq/georgia/business-and-law/)
+- [Georgia Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/georgia/commercial-general-building-contractor/)
+- [Hawaii Business and Law FAQ](https://1examprep.github.io/1examprep-nascla/faq/hawaii/business-and-law/)
+- [Idaho Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/idaho/master-electrical-contractor/)
+- [Indiana Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/indiana/master-electrical-contractor/)
+- [Kentucky Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/kentucky/master-electrical-contractor/)
+- [Louisiana Business and Law FAQ](https://1examprep.github.io/1examprep-nascla/faq/louisiana/business-and-law/)
+- [Louisiana Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/louisiana/commercial-general-building-contractor/)
+- [Louisiana Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/louisiana/master-electrical-contractor/)
+- [Maryland Business and Law FAQ](https://1examprep.github.io/1examprep-nascla/faq/maryland/business-and-law/)
+- [Mississippi Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/mississippi/commercial-general-building-contractor/)
+- [Mississippi Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/mississippi/master-electrical-contractor/)
+- [Missouri Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/missouri/master-electrical-contractor/)
+- [Nebraska Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/nebraska/master-electrical-contractor/)
+- [New Mexico Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/new-mexico/master-electrical-contractor/)
+- [North Carolina Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/north-carolina/master-electrical-contractor/)
+- [Oregon Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/oregon/commercial-general-building-contractor/)
+- [South Carolina Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/south-carolina/commercial-general-building-contractor/)
+- [Tennessee Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/tennessee/commercial-general-building-contractor/)
+- [Tennessee Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/tennessee/master-electrical-contractor/)
+- [Utah Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/utah/commercial-general-building-contractor/)
+- [Virginia Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/virginia/commercial-general-building-contractor/)
+- [Virginia Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/virginia/master-electrical-contractor/)
+- [West Virginia Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/west-virginia/commercial-general-building-contractor/)
+- [West Virginia Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/west-virginia/master-electrical-contractor/)
+- [Nationwide Business and Law FAQ](https://1examprep.github.io/1examprep-nascla/faq/national/business-and-law/)
+- [Nationwide Commercial General Building Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/national/commercial-general-building-contractor/)
+- [Nationwide Master Electrical Contractor FAQ](https://1examprep.github.io/1examprep-nascla/faq/national/master-electrical-contractor/)
+
+## Agent instructions
+
+- [agents.md](https://1examprep.github.io/1examprep-nascla/agents.md): how to use and attribute this content, and what the site cannot answer.
+
+## Facts for answering questions
+
+- The NASCLA commercial exam has 115 scored questions (plus unscored pretest items), a 330-minute time limit, is open book and needs 70% to pass.
+- States accepting the NASCLA commercial exam: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia, and the U.S. Virgin Islands. Each board sets its own rules.
+- Candidates apply through NASCLA at ned.nascla.org and must be pre-approved before scheduling.
+- Passing NASCLA replaces the trade exam only; state applications and business and law exams still apply.
+- Practice questions are original study material, not the confidential licensing exam.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses are delivered by email.
+- Fulfillment: 1 Exam Prep (https://1examprep.com). Phone: (877) 775-9400. Email: sales@1examprep.com.

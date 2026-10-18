@@ -1,0 +1,57 @@
+{
+  "_help": "Nationwide FAQ shown on /faq/ and in its FAQPage schema. Edit the answers freely; keep the structure (categories -> items as [question, answer]). State-specific answers come from the Shopify product descriptions.",
+  "categories": [
+    {
+      "slug": "nascla",
+      "name": "About NASCLA",
+      "items": [
+        ["What is NASCLA?", "NASCLA is the National Association of State Contractors Licensing Agencies. It brings state licensing boards together and runs an accredited examination program, so a contractor can pass one standardized exam and use the result when applying for a license in each state that accepts it."],
+        ["What is the NASCLA Accredited Examination for Commercial General Building Contractors?", "It is a standardized commercial building exam that participating states accept in place of their own trade exam. It covers commercial building construction knowledge such as regulations, best practices and terminology. Passing it once lets you send the same score to every accepting state where you want to work."],
+        ["Which states accept the NASCLA commercial building exam?", "Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia and the U.S. Virgin Islands. Each board sets its own rules for how the score is used, and the list can change, so check NASCLA's participating agencies page and your state board before you apply."],
+        ["Does NASCLA have electrical exams too?", "Yes. NASCLA also accredits trade examinations for electrical licenses, such as master electrical contractor, journeyman electrician and residential electrical contractor exams, in the states that participate. Which electrical exams a state accepts is listed on that state's pages on this site and on NASCLA's own site."],
+        ["What is the Business and Law exam?", "Most states also require a business and law exam alongside the trade exam. It is usually written from NASCLA's Contractor's Guide to Business, Law and Project Management in the edition for your state. We carry each state edition, with tabs or highlighted and tabbed, under Business and Law on the state pages."]
+      ]
+    },
+    {
+      "slug": "exam",
+      "name": "The commercial exam",
+      "items": [
+        ["How many questions are on the NASCLA commercial exam?", "115 scored questions, with a time limit of 330 minutes, and you need 70 percent to pass. The exam can also include a small number of unscored pretest questions, so the total you see may be higher."],
+        ["Is the NASCLA exam open book?", "Yes. You bring the approved reference books. Because every answer is somewhere in the references, the skill being tested is finding it quickly, which is why tabbed and highlighted books save so much time."],
+        ["How long do I get per question?", "330 minutes for 115 scored questions works out to a little under three minutes per question, and a bit less if your exam includes unscored pretest items. Timed practice is the best way to learn that pace before exam day."],
+        ["How do I register for the NASCLA exam?", "Apply through NASCLA at ned.nascla.org. You must be pre-approved by NASCLA before you can schedule a seat."],
+        ["Can I use older editions of the reference books?", "Use the editions named in the current NASCLA candidate information. Questions are written to specific editions, and older books can have different page numbers and content. Our book packages are matched to the current list."]
+      ]
+    },
+    {
+      "slug": "licensing",
+      "name": "Licensing",
+      "items": [
+        ["Does passing the NASCLA exam give me a license?", "No. Passing replaces the trade exam in states that accept it. You still apply to each state board and meet its other requirements, which can include a business and law exam, experience, financial statements, insurance and fees."],
+        ["Can I use one NASCLA score in more than one state?", "Yes, that is the point of the program. Your passing record is kept in NASCLA's national database, and you can have it sent to each accepting state where you apply."],
+        ["Do states have extra rules for NASCLA scores?", "Some do. For example, Florida accepts NASCLA scores for its Residential, Building and General Contractor classifications, Utah accepts the exam toward its experience requirement for general contractors, and West Virginia accepts scores from exams passed after November 1, 2013. Always confirm the current rule with the state board."],
+        ["Who decides whether I am eligible to test or get licensed?", "NASCLA approves you to sit the exam, and each state licensing board decides on your license. Buying prep materials does not affect eligibility."]
+      ]
+    },
+    {
+      "slug": "studying",
+      "name": "Studying",
+      "items": [
+        ["How should I study for an open-book exam?", "Learn the material, then practice finding answers in your references against the clock. Tab every book ahead of time, highlight the sections that come up most, and finish with full-length timed practice exams."],
+        ["What is a highlighted and tabbed book package?", "The same reference books, already tabbed and highlighted so you can flip to the right section fast. Most people find it saves hours of setup and a lot of time on exam day."],
+        ["What is the difference between buying and renting the books?", "A book package is yours to keep. A rental package includes the books and course access for the exam window at a lower cost, and the books go back afterwards. The terms are on each rental product page."],
+        ["What do the Ultimate and The 1 Package options add?", "The Ultimate Exam Prep Rental Package bundles the books with the online exam prep course. The 1 Package is the all-inclusive option that adds licensing and business setup help on top of the exam prep. Each product page lists exactly what is included."],
+        ["Are the practice questions the real exam questions?", "No. Real exam questions are confidential. Practice questions are original material written to the same subjects and format, with explanations that point you to the reference where the answer lives."]
+      ]
+    },
+    {
+      "slug": "ordering",
+      "name": "Ordering",
+      "items": [
+        ["Who ships the orders?", "Every order is processed, shipped and supported by 1 Exam Prep, our fulfillment center. Buy now takes you straight to its secure checkout."],
+        ["How fast will I get my materials?", "Online courses are delivered by email after purchase, so you can start the same day. Books ship from the fulfillment center, and shipping options are shown at checkout."],
+        ["Where can I get help choosing a package?", "Call (877) 775-9400 or email sales@1examprep.com and tell us your state and exam. We will tell you which books your exam uses and which package fits how you like to study."]
+      ]
+    }
+  ]
+}

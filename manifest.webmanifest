@@ -1,0 +1,25 @@
+{
+ "name": "Pass Your NASCLA Exam Prep",
+ "short_name": "NASCLA Prep",
+ "start_url": "./",
+ "display": "browser",
+ "background_color": "#0B0F1A",
+ "theme_color": "#0B0F1A",
+ "icons": [
+  {
+   "src": "shared/logo-mark.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "shared/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "shared/favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

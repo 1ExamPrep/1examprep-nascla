@@ -1,0 +1,43 @@
+name: Weekly Shopify sync
+
+on:
+  schedule:
+    - cron: "15 11 * * 1"      # Mondays 11:15 UTC = 6:15 am Central (5:15 am during standard time)
+  workflow_dispatch:           # also lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull products from Shopify and rebuild if anything changed
+        id: sync
+        env:
+          SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+        run: |
+          pip install -q pillow
+          set +e
+          python3 tools/sync_shopify.py
+          code=$?
+          set -e
+          if [ "$code" = "0" ]; then echo "changed=false" >> "$GITHUB_OUTPUT"; echo "No product changes."; exit 0; fi
+          if [ "$code" = "3" ]; then echo "changed=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          exit $code
+
+      - name: Commit and publish
+        if: steps.sync.outputs.changed == 'true'
+        run: |
+          git config user.name "shopify-sync[bot]"
+          git config user.email "shopify-sync@users.noreply.github.com"
+          git add -A
+          git commit -m "Weekly Shopify sync: products, prices or descriptions changed ($(date -u +%Y-%m-%d))"
+          git push

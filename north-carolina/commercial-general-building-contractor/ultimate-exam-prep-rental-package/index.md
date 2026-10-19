@@ -1,13 +1,13 @@
 ---
 title: North Carolina Commercial GC Ultimate Rental Package
 url: https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the North Carolina NASCLA Commercial General Building Contractor exam with a comprehensive Ultimate Exam Prep Rental Package that combines an.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial GC](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
 

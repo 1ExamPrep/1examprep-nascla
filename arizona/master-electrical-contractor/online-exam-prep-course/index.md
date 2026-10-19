@@ -1,13 +1,13 @@
 ---
 title: Arizona Online Exam Prep Course | NASCLA Master Electrical
 url: https://passyournasclaexam.com/arizona/master-electrical-contractor/online-exam-prep-course/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The course is designed for candidates preparing for the NASCLA electrical contractor trade exam accepted for Arizona electrical contractor licensing.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical Contractor](https://passyournasclaexam.com/arizona/master-electrical-contractor/) Online Exam Prep Course
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical](https://passyournasclaexam.com/arizona/master-electrical-contractor/)
 

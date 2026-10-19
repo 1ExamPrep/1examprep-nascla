@@ -1,13 +1,13 @@
 ---
 title: Maryland Business & Law Guide + Tabs (7th Ed.) (Option 2)
 url: https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-plus-tabs-7th-ed-2/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Maryland Home Improvement Contractor (MHIC) licensing exam with the . This convenient bundle includes the official Maryland-specific NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Maryland](https://passyournasclaexam.com/maryland/) · [Business and Law](https://passyournasclaexam.com/maryland/business-and-law/) Business & Law Guide + Tabs (7th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Maryland](https://passyournasclaexam.com/maryland/) · [Business & Law](https://passyournasclaexam.com/maryland/business-and-law/)
 

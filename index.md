@@ -1,7 +1,7 @@
 ---
 title: NASCLA Exam Prep: Commercial, Electrical, Business & Law
 url: https://passyournasclaexam.com/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for the commercial general building contractor exam accepted in 16 states, plus NASCLA electrical and business and law exams. Books, tabbed sets, rentals and online courses by state.
 ---

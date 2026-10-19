@@ -1,13 +1,13 @@
 ---
 title: Nationwide NASCLA Exam Prep Editions
 url: https://passyournasclaexam.com/national/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Nationwide: Commercial GC, Master Electrical, Journeyman, Residential Electrical, Business & Law. 30 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Nationwide
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide NASCLA Exam Prep
 

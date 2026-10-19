@@ -1,13 +1,13 @@
 ---
 title: Kentucky Online Exam Prep Course | NASCLA Journeyman
 url: https://passyournasclaexam.com/kentucky/journeyman-electrician/online-exam-prep-course/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Kentucky NASCLA Journeyman Electrician examination with an online exam prep program focused on the electrical knowledge, National Electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) · [Journeyman Electrician](https://passyournasclaexam.com/kentucky/journeyman-electrician/) Online Exam Prep Course
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Kentucky](https://passyournasclaexam.com/kentucky/) · [Journeyman](https://passyournasclaexam.com/kentucky/journeyman-electrician/)
 

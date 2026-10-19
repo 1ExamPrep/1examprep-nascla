@@ -1,13 +1,13 @@
 ---
 title: Virginia B&L Guide H&T (11th Ed.)
 url: https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Virginia-NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition — Highlighted & Tabbed The *Virginia-NASCLA Contractors.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Business and Law](https://passyournasclaexam.com/virginia/business-and-law/) Business & Law Guide Highlighted & Tabbed (11th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Business & Law](https://passyournasclaexam.com/virginia/business-and-law/)
 

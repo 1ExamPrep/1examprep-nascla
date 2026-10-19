@@ -1,13 +1,13 @@
 ---
 title: North Carolina Master Electrical H&T Book Package
 url: https://passyournasclaexam.com/north-carolina/master-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a professionally organized reference-book package designed to support.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Master Electrical Contractor](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Master Electrical](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
 

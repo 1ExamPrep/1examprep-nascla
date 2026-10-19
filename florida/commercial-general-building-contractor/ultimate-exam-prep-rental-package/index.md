@@ -1,13 +1,13 @@
 ---
 title: Florida Commercial GC Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/florida/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Florida Business and Finance examination and the NASCLA Accredited Examination for Commercial General Building Contractors with a complete.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Commercial General Building Contractor](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Commercial GC](https://passyournasclaexam.com/florida/commercial-general-building-contractor/)
 

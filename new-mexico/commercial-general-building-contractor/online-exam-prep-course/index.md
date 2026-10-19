@@ -1,13 +1,13 @@
 ---
 title: New Mexico Online Exam Prep Course | NASCLA Commercial GC
 url: https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the New Mexico NASCLA Commercial General Building Contractor exam with an online exam prep course designed to help you organize a broad.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Commercial General Building Contractor](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/) Online Exam Prep Course
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
 

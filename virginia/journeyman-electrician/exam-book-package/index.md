@@ -1,13 +1,13 @@
 ---
 title: Virginia Exam Book Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/virginia/journeyman-electrician/exam-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Virginia NASCLA Journeyman Electrician examination with a focused collection of electrical code, safety, theory, fire alarm, and field.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Journeyman Electrician](https://passyournasclaexam.com/virginia/journeyman-electrician/) Exam Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Journeyman](https://passyournasclaexam.com/virginia/journeyman-electrician/)
 

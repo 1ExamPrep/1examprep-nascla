@@ -1,13 +1,13 @@
 ---
 title: Alabama Business & Law Guide (3rd Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The , published by the National Association of State Contractors Licensing Agencies (NASCLA) and approved by the Alabama Licensing Board for General.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Business & Law Guide (3rd Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 

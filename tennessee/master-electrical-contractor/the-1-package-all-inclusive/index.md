@@ -1,13 +1,13 @@
 ---
 title: Tennessee Master Electrical The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/tennessee/master-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: is designed for electrical professionals who want a complete preparation path that supports exam study, licensing organization, and business setup in one.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Master Electrical Contractor](https://passyournasclaexam.com/tennessee/master-electrical-contractor/) The 1 Package: All-Inclusive
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Master Electrical](https://passyournasclaexam.com/tennessee/master-electrical-contractor/)
 

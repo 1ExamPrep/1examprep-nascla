@@ -1,13 +1,13 @@
 ---
 title: West Virginia Online Exam Prep Course | NASCLA Commercial GC
 url: https://passyournasclaexam.com/west-virginia/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the West Virginia NASCLA Commercial General Building Contractor examination with an online exam prep course designed around the broad technical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Commercial General Building Contractor](https://passyournasclaexam.com/west-virginia/commercial-general-building-contractor/) Online Exam Prep Course
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Commercial GC](https://passyournasclaexam.com/west-virginia/commercial-general-building-contractor/)
 

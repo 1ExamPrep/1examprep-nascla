@@ -1,13 +1,13 @@
 ---
 title: Oregon Business & Law Guide + Tabs (2nd Ed.)
 url: https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Oregon NASCLA Contractors Guide to Business, Law and Project Management, OR Construction Contractors, 2nd Edition – Tabs Bundle Pak The *Oregon NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oregon](https://passyournasclaexam.com/oregon/) · [Business and Law](https://passyournasclaexam.com/oregon/business-and-law/) Business & Law Guide + Tabs (2nd Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Oregon](https://passyournasclaexam.com/oregon/) · [Business & Law](https://passyournasclaexam.com/oregon/business-and-law/)
 

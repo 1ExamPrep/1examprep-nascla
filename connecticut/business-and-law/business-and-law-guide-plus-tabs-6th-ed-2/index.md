@@ -1,13 +1,13 @@
 ---
 title: Connecticut Business & Law Guide + Tabs (6th Ed.) (Option 2)
 url: https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed-2/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Connecticut contractor business and law examinations with the from 1 Exam Prep. This convenient package includes the Connecticut-specific NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Connecticut](https://passyournasclaexam.com/connecticut/) · [Business and Law](https://passyournasclaexam.com/connecticut/business-and-law/) Business & Law Guide + Tabs (6th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Connecticut](https://passyournasclaexam.com/connecticut/) · [Business & Law](https://passyournasclaexam.com/connecticut/business-and-law/)
 

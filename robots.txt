@@ -1,4 +1,4 @@
-# robots.txt for Pass Your NASCLA Exam Prep (https://1examprep.github.io/1examprep-nascla)
+# robots.txt for Pass Your NASCLA Exam Prep (https://passyournasclaexam.com)
 # Search engines and AI assistants are both welcome. Internal search, raw data and build files are held back.
 
 User-agent: *
@@ -49,6 +49,6 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://1examprep.github.io/1examprep-nascla/sitemap.xml
-# Blog: https://1examprep.github.io/1examprep-nascla/blog/ (RSS at https://1examprep.github.io/1examprep-nascla/blog/feed.xml). FAQ: https://1examprep.github.io/1examprep-nascla/faq/
-# Guides for AI assistants: https://1examprep.github.io/1examprep-nascla/llms.txt and https://1examprep.github.io/1examprep-nascla/agents.md
+Sitemap: https://passyournasclaexam.com/sitemap.xml
+# Blog: https://passyournasclaexam.com/blog/ (RSS at https://passyournasclaexam.com/blog/feed.xml). FAQ: https://passyournasclaexam.com/faq/
+# Guides for AI assistants: https://passyournasclaexam.com/llms.txt and https://passyournasclaexam.com/agents.md

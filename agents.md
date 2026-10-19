@@ -1,6 +1,6 @@
 # Pass Your NASCLA Exam Prep
 
-> Instructions for AI assistants and agents reading https://1examprep.github.io/1examprep-nascla/.
+> Instructions for AI assistants and agents reading https://passyournasclaexam.com/.
 
 Last updated: 2026-10-18
 
@@ -41,7 +41,7 @@ Pass Your NASCLA Exam Prep sells preparation for NASCLA exams: the NASCLA Accred
 
 ## Crawling
 
-- Rules: https://1examprep.github.io/1examprep-nascla/robots.txt (all major search and AI crawlers are allowed)
-- Shortlist of pages: https://1examprep.github.io/1examprep-nascla/llms.txt
-- Every page: https://1examprep.github.io/1examprep-nascla/sitemap.xml
+- Rules: https://passyournasclaexam.com/robots.txt (all major search and AI crawlers are allowed)
+- Shortlist of pages: https://passyournasclaexam.com/llms.txt
+- Every page: https://passyournasclaexam.com/sitemap.xml
 - Please identify yourself with a user agent that says who you are.

@@ -1,6 +1,6 @@
 # Pass Your NASCLA Exam Prep
 
-Static site for passyournasclaexamprep.com: NASCLA exam prep for the Commercial General Building Contractor
+Static site for passyournasclaexam.com: NASCLA exam prep for the Commercial General Building Contractor
 exam, NASCLA electrical exams (master, journeyman, residential) and state business and law exams.
 Every product comes from the 1 Exam Prep Shopify store (all products with NASCLA in the title).
 Buy now buttons go straight to Shopify checkout.
@@ -47,9 +47,9 @@ data/shopify/            raw Shopify export (2026-10-18)
 
 ## Going live on the domain
 
-1. DNS: four `A` records on `passyournasclaexamprep.com` to `185.199.108.153`, `185.199.109.153`,
+1. DNS: four `A` records on `passyournasclaexam.com` to `185.199.108.153`, `185.199.109.153`,
    `185.199.110.153`, `185.199.111.153`, and a `CNAME` for `www` to `1examprep.github.io`.
-2. Repo Settings > Pages > Custom domain: `passyournasclaexamprep.com`, then Enforce HTTPS once offered.
+2. Repo Settings > Pages > Custom domain: `passyournasclaexam.com`, then Enforce HTTPS once offered.
 3. In `site-config.json` set `siteUrl` and `logo` to the domain, then push. Canonicals, sitemap, robots,
    llms.txt and agents.md all switch over on the next build.
 

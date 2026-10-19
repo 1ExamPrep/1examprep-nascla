@@ -268,3 +268,8 @@ p{margin:0 0 1em}
 .post-body img{border-radius:12px}
 .post-body h2{font-size:26px;margin:36px 0 12px}.post-body h3{font-size:20px;margin:26px 0 10px}.post-body ul,.post-body ol{padding-left:22px}.post-body li{margin:6px 0}
 @media (max-width:600px){.post-body{padding:22px 16px}}
+
+/* image logo */
+.brand-img{display:block;height:48px;width:auto}
+.site-footer .brand-img{height:56px;margin-bottom:4px}
+@media (max-width:720px){.brand-img{height:38px}}

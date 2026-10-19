@@ -163,14 +163,17 @@ def dash_tag():
     """dashboard tracker, placed in <body> as the dashboard's Settings > Tracker snippet shows"""
     if not (CFG.get("dashboardUrl") and CFG.get("siteKey")): return ""
     return '<script>window.__dashCustom=true;</script><script src="%s/t.js" data-site="%s" defer></script>' % (esc(CFG["dashboardUrl"].rstrip("/")), esc(CFG["siteKey"]))
-def wordmark(): return '%s<span class="wm">%s<span>%s</span>%s</span>' % (ICON_CLOCK, esc(WM[0]), esc(WM[1]), esc(WM[2])) if len(WM) == 3 else ICON_CLOCK + esc(BRAND)
+HAS_LOGO = os.path.exists(os.path.join(ROOT, "brand", "logo-full.png"))
+def wordmark(rel=""):
+    if HAS_LOGO: return '<img class="brand-img" src="%sshared/logo-nav.png" alt="%s" width="156" height="48" decoding="async">' % (rel, esc(BRAND))
+    return '%s<span class="wm">%s<span>%s</span>%s</span>' % (ICON_CLOCK, esc(WM[0]), esc(WM[1]), esc(WM[2])) if len(WM) == 3 else ICON_CLOCK + esc(BRAND)
 def header(rel, cta_href, cta_label="Find my exam", current=""):
     home = rel or "./"
     links = [("Exams", home + "#exams", "exams"), ("States", home + "#states", "states"), ("FAQ", rel + "faq/", "faq"), ("Blog", rel + "blog/", "blog")]
     return ('<a class="skip" href="#main">Skip to content</a><header class="nav"><div class="wrap"><a class="brand" href="%s" aria-label="%s home">%s</a>'
             '<nav class="nav-links" aria-label="Main">%s</nav><div class="nav-tools"><a class="nav-phone" href="tel:%s" aria-label="Call %s">%s<span>%s</span></a>'
             '<button type="button" class="nav-search" data-sopen aria-label="Search the site">%s</button><a class="btn btn-buy btn-sm" href="%s">%s</a></div></div></header>'
-            % (home, esc(BRAND), wordmark(), "".join('<a href="%s"%s>%s</a>' % (h, ' aria-current="page"' if k == current else "", n) for n, h, k in links),
+            % (home, esc(BRAND), wordmark(rel), "".join('<a href="%s"%s>%s</a>' % (h, ' aria-current="page"' if k == current else "", n) for n, h, k in links),
                CFG["phoneTel"], esc(CFG["phone"]), ICON_PHONE, esc(CFG["phone"]), ICON_SEARCH, cta_href, esc(cta_label)))
 def footer(rel):
     home = rel or "./"
@@ -182,7 +185,7 @@ def footer(rel):
             '<nav aria-label="Help"><h2>Help</h2><ul><li><a href="%sfaq/">FAQ</a></li><li><a href="%sblog/">Blog</a></li><li><a href="%ssearch/">Search</a></li></ul><h2 style="margin-top:20px">Follow</h2><ul>%s</ul></nav></div>'
             '<p class="fine"><strong>%s</strong> &copy; <span data-year>%s</span>. %s Prices come from the fulfillment store and were last checked <time datetime="%s">%s</time>; the price at checkout is the one that applies. '
             'Not affiliated with NASCLA, any state licensing board or testing vendor. Purchasing does not grant exam eligibility or a license.</p></div></footer>'
-            % (home, wordmark(), esc(CFG.get("tagline", "")), CFG["phoneTel"], esc(CFG["phone"]), CFG["email"], CFG["email"], exams, pop, home, rel, rel, rel, soc,
+            % (home, wordmark(rel), esc(CFG.get("tagline", "")), CFG["phoneTel"], esc(CFG["phone"]), CFG["email"], CFG["email"], exams, pop, home, rel, rel, rel, soc,
                esc(BRAND), YEAR, esc(FUL.get("note") or ""), TODAY, datetime.date.fromisoformat(TODAY).strftime("%B %-d, %Y")))
 
 from html.parser import HTMLParser
@@ -749,25 +752,58 @@ nf = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="vi
 open(os.path.join(ROOT, "404.html"), "w", encoding="utf-8").write(nf)
 
 # ---------- icons, social card, manifest ----------
-open(os.path.join(ROOT, "shared", "favicon.svg"), "w").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0B0F1A"/><circle cx="32" cy="32" r="20" fill="none" stroke="#4C8DFF" stroke-width="5"/><path d="M32 20v12l9 5" fill="none" stroke="#EEF1F8" stroke-width="5" stroke-linecap="round"/></svg>')
-try:
+def brand_assets():
+    """header logo, favicons, app icon and social card, made from brand/logo-full.png and brand/logo-icon.png"""
     from PIL import Image, ImageDraw, ImageFont
-    def font(sz, bold=True):
-        for f in (("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"), "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"):
+    S = lambda *p: os.path.join(ROOT, "shared", *p)
+    full = Image.open(os.path.join(ROOT, "brand", "logo-full.png")).convert("RGBA")
+    icon = Image.open(os.path.join(ROOT, "brand", "logo-icon.png")).convert("RGBA")
+    h = 96; full.resize((round(full.width * h / full.height), h), Image.LANCZOS).save(S("logo-nav.png"), optimize=True)   # 2x for a 48 px header
+    def square(size, pad, bg=(11, 15, 26, 255), radius=0):
+        c = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+        m = Image.new("L", (size, size), 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, size - 1, size - 1), radius=radius, fill=255)
+        c.paste(Image.new("RGBA", (size, size), bg), (0, 0), m)
+        box = size - 2 * pad; sc = min(box / icon.width, box / icon.height); ic = icon.resize((max(1, round(icon.width * sc)), max(1, round(icon.height * sc))), Image.LANCZOS)
+        c.alpha_composite(ic, ((size - ic.width) // 2, (size - ic.height) // 2)); return c
+    square(64, 5, radius=14).save(S("favicon.png")); square(32, 2, radius=7).save(S("favicon-32.png"))
+    square(180, 18).convert("RGB").save(S("apple-touch-icon.png")); square(512, 56).save(S("logo-mark.png"))
+    import base64, io
+    buf = io.BytesIO(); square(64, 5, radius=14).save(buf, "PNG")
+    open(S("favicon.svg"), "w").write('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64"><image width="64" height="64" xlink:href="data:image/png;base64,%s"/></svg>' % base64.b64encode(buf.getvalue()).decode())
+    lg = Image.new("RGBA", (1200, 630), (11, 15, 26, 255)); d = ImageDraw.Draw(lg)
+    w = 1000; fl = full.resize((w, round(full.height * w / full.width)), Image.LANCZOS); lg.alpha_composite(fl, ((1200 - w) // 2, 95))
+    def font(sz, bold=False):
+        for f in (("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"), "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf"):
             if os.path.exists(f): return ImageFont.truetype(f, sz)
         return ImageFont.load_default()
-    def clock(d, cx, cy, r, w):
-        d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(76, 141, 255), width=w)
-        d.line([(cx, cy - r * .58), (cx, cy)], fill=(238, 241, 248), width=w); d.line([(cx, cy), (cx + r * .42, cy + r * .25)], fill=(238, 241, 248), width=w)
-    for name, size in (("favicon.png", 64), ("apple-touch-icon.png", 180), ("logo-mark.png", 512)):
-        im = Image.new("RGBA", (size, size), (11, 15, 26, 255)); clock(ImageDraw.Draw(im), size / 2, size / 2, size * .32, max(3, size // 13)); im.save(os.path.join(ROOT, "shared", name))
-    lg = Image.new("RGB", (1200, 630), (11, 15, 26)); d = ImageDraw.Draw(lg); clock(d, 170, 315, 90, 16)
-    d.text((310, 200), "Pass Your NASCLA", font=font(76), fill=(238, 241, 248)); d.text((310, 290), "Exam Prep", font=font(76), fill=(76, 141, 255))
-    d.text((312, 400), "Commercial, electrical and business & law exams", font=font(30, False), fill=(179, 188, 208))
-    d.text((312, 445), "115 scored questions  ·  330 minutes  ·  open book", font=font(26, False), fill=(141, 182, 255))
-    d.text((312, 560), "Fulfilled by %s" % FUL["name"], font=font(22, False), fill=(141, 151, 174))
-    lg.save(os.path.join(ROOT, "shared", "logo.png"), optimize=True)
-except Exception as e: print("icons skipped:", e)
+    y = 95 + fl.height + 45
+    for txt, f, col in (("Commercial, electrical and business & law exam prep, state by state", font(30), (179, 188, 208)), ("passyournasclaexam.com  \u00b7  fulfilled by %s" % FUL["name"], font(24), (141, 182, 255))):
+        tw = d.textlength(txt, font=f); d.text(((1200 - tw) / 2, y), txt, font=f, fill=col); y += 48
+    lg.convert("RGB").save(S("logo.png"), optimize=True)
+try:
+    if HAS_LOGO: brand_assets()
+    else: raise RuntimeError("no brand logo")
+except Exception as e:
+    print("brand assets: using the generated clock icon (%s)" % e)
+    open(os.path.join(ROOT, "shared", "favicon.svg"), "w").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0B0F1A"/><circle cx="32" cy="32" r="20" fill="none" stroke="#4C8DFF" stroke-width="5"/><path d="M32 20v12l9 5" fill="none" stroke="#EEF1F8" stroke-width="5" stroke-linecap="round"/></svg>')
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+        def font(sz, bold=True):
+            for f in (("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"), "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"):
+                if os.path.exists(f): return ImageFont.truetype(f, sz)
+            return ImageFont.load_default()
+        def clock(d, cx, cy, r, w):
+            d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(76, 141, 255), width=w)
+            d.line([(cx, cy - r * .58), (cx, cy)], fill=(238, 241, 248), width=w); d.line([(cx, cy), (cx + r * .42, cy + r * .25)], fill=(238, 241, 248), width=w)
+        for name, size in (("favicon.png", 64), ("apple-touch-icon.png", 180), ("logo-mark.png", 512)):
+            im = Image.new("RGBA", (size, size), (11, 15, 26, 255)); clock(ImageDraw.Draw(im), size / 2, size / 2, size * .32, max(3, size // 13)); im.save(os.path.join(ROOT, "shared", name))
+        lg = Image.new("RGB", (1200, 630), (11, 15, 26)); d = ImageDraw.Draw(lg); clock(d, 170, 315, 90, 16)
+        d.text((310, 200), "Pass Your NASCLA", font=font(76), fill=(238, 241, 248)); d.text((310, 290), "Exam Prep", font=font(76), fill=(76, 141, 255))
+        d.text((312, 400), "Commercial, electrical and business & law exams", font=font(30, False), fill=(179, 188, 208))
+        d.text((312, 445), "115 scored questions  ·  330 minutes  ·  open book", font=font(26, False), fill=(141, 182, 255))
+        d.text((312, 560), "Fulfilled by %s" % FUL["name"], font=font(22, False), fill=(141, 151, 174))
+        lg.save(os.path.join(ROOT, "shared", "logo.png"), optimize=True)
+    except Exception as e: print("icons skipped:", e)
 open(os.path.join(ROOT, "manifest.webmanifest"), "w").write(json.dumps({"name": BRAND, "short_name": "NASCLA Prep", "start_url": "./", "display": "browser", "background_color": "#0B0F1A", "theme_color": "#0B0F1A",
      "icons": [{"src": "shared/logo-mark.png", "sizes": "512x512", "type": "image/png"}, {"src": "shared/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}, {"src": "shared/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]}, indent=1))
 

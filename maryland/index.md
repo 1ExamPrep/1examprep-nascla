@@ -1,13 +1,13 @@
 ---
 title: Maryland MHIC Exam: Contractor and Salesperson Guide
 url: https://passyournasclaexam.com/maryland/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Pass the Maryland MHIC exam. Contractor and salesperson exam format, NASCLA reference books, fees, licensing steps and the tabbed study guides that fit you.
 ---
 
 [Home](https://passyournasclaexam.com/) Maryland
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Maryland MHIC Exam: How to Get Your Home Improvement License
 

@@ -1,13 +1,13 @@
 ---
 title: Virginia Business & Law Guide Tabs (10th Ed.)
 url: https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-10th-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The NASCLA Contractors Guide to Business, Law and Project Management – Virginia 10th Edition is the official reference for the National Association of State.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Business and Law](https://passyournasclaexam.com/virginia/business-and-law/) Business & Law Guide Tabs (10th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Business & Law](https://passyournasclaexam.com/virginia/business-and-law/)
 

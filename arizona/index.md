@@ -1,13 +1,13 @@
 ---
 title: Arizona NASCLA Exam: ROC License Steps and Exam Prep
 url: https://passyournasclaexam.com/arizona/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Arizona NASCLA exam guide: B-1, B-2, C-11, R-11 and CR-11 options, ROC exams, experience, bond and fee figures, plus prep packages for each license path.
 ---
 
 [Home](https://passyournasclaexam.com/) Arizona
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona NASCLA Exam: Getting Your ROC License and Preparing to Pass
 

@@ -1,13 +1,13 @@
 ---
 title: Arizona Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/arizona/master-electrical-contractor/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The is designed for contractor candidates preparing for the NASCLA Accredited Trade Examination for Electrical Contractors as part of the Arizona electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical Contractor](https://passyournasclaexam.com/arizona/master-electrical-contractor/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical](https://passyournasclaexam.com/arizona/master-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: Alabama NASCLA Exam: License Steps and Exam Prep
 url: https://passyournasclaexam.com/alabama/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Alabama NASCLA exam guide: which boards accept it, the Business and Law exam, financial rules, fees, electrical options, and prep packages for each license.
 ---
 
 [Home](https://passyournasclaexam.com/) Alabama
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Alabama NASCLA Exam: How to Get Licensed and How to Prepare
 

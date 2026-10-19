@@ -1,13 +1,13 @@
 ---
 title: Kentucky NASCLA Exam: Electrician License Guide
 url: https://passyournasclaexam.com/kentucky/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the Kentucky NASCLA exam works for master electrician and journeyman licenses: hours, fees, insurance, the HBC application and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Kentucky
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Kentucky NASCLA Exam Guide for Master and Journeyman Electricians
 

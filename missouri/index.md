@@ -1,13 +1,13 @@
 ---
 title: Missouri NASCLA Electrical Exam: License and Prep Guide
 url: https://passyournasclaexam.com/missouri/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How to earn a Missouri statewide electrical contractor license with the NASCLA electrical exam: OSEC rules, hours, insurance, PSI testing and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Missouri
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Missouri NASCLA Electrical Exam and Statewide Electrical Contractor License
 

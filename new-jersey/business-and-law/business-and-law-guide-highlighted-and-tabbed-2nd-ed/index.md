@@ -1,13 +1,13 @@
 ---
 title: New Jersey B&L Guide H&T (2nd Ed.)
 url: https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The , offered by Pass Your NASCLA Exam Prep, is the officially approved reference manual for the New Jersey contractor licensing examinations administered by.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Jersey](https://passyournasclaexam.com/new-jersey/) · [Business and Law](https://passyournasclaexam.com/new-jersey/business-and-law/) Business & Law Guide Highlighted & Tabbed (2nd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [New Jersey](https://passyournasclaexam.com/new-jersey/) · [Business & Law](https://passyournasclaexam.com/new-jersey/business-and-law/)
 

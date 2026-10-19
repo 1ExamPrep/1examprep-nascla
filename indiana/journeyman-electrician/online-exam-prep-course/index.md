@@ -1,13 +1,13 @@
 ---
 title: Indiana Online Exam Prep Course | NASCLA Journeyman
 url: https://passyournasclaexam.com/indiana/journeyman-electrician/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Vanderburgh County, Indiana NASCLA Journey-level Electrician examination with an online exam prep program focused on electrical knowledge.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) · [Journeyman Electrician](https://passyournasclaexam.com/indiana/journeyman-electrician/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Indiana](https://passyournasclaexam.com/indiana/) · [Journeyman](https://passyournasclaexam.com/indiana/journeyman-electrician/)
 

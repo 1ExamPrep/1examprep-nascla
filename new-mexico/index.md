@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Exam: Licensing and Prep Guide
 url: https://passyournasclaexam.com/new-mexico/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the New Mexico NASCLA exam fits CID licensing for GB-98 and EE-98, plus the Business and Law exam, bond, fees and the prep packages that match each path.
 ---
 
 [Home](https://passyournasclaexam.com/) New Mexico
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico NASCLA Exam: How to Get Licensed and Prepare
 

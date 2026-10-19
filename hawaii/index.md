@@ -1,13 +1,13 @@
 ---
 title: Hawaii Business and Law Exam: Contractor License Guide
 url: https://passyournasclaexam.com/hawaii/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Pass the Hawaii Business and Law exam for your contractor license: PSI format, closed book rules, Class A, B and C steps, fees and the NASCLA Hawaii guide.
 ---
 
 [Home](https://passyournasclaexam.com/) Hawaii
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Hawaii Business and Law Exam and Contractor License Guide
 

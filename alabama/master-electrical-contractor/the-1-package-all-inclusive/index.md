@@ -1,13 +1,13 @@
 ---
 title: Alabama Master Electrical The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/alabama/master-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama NASCLA Master Electrical Contractor examination, work through the licensing process, and establish your electrical contracting.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Master Electrical Contractor](https://passyournasclaexam.com/alabama/master-electrical-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Master Electrical](https://passyournasclaexam.com/alabama/master-electrical-contractor/)
 

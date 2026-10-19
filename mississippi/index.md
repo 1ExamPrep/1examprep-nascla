@@ -1,13 +1,13 @@
 ---
 title: Mississippi NASCLA Exam: Contractor License Guide
 url: https://passyournasclaexam.com/mississippi/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the Mississippi NASCLA exam works for building and electrical licenses, the required Law and Business exam, MSBOC fees, steps and the prep that fits you.
 ---
 
 [Home](https://passyournasclaexam.com/) Mississippi
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Mississippi NASCLA Exam: Your Path to a Contractor License
 

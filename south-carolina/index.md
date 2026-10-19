@@ -1,13 +1,13 @@
 ---
 title: South Carolina NASCLA Exam: License and Prep Guide
 url: https://passyournasclaexam.com/south-carolina/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the NASCLA exam fits South Carolina contractor and electrician licensing: CLB and RBC rules, Business and Law exam, groups, fees and exam prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) South Carolina
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # South Carolina NASCLA Exam and Contractor License Guide
 

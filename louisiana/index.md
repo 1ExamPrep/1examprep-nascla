@@ -1,13 +1,13 @@
 ---
 title: Louisiana NASCLA Exam: Contractor License Guide
 url: https://passyournasclaexam.com/louisiana/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the Louisiana NASCLA exam works with the LSLBC: building and electrical credit, Business and Law, net worth, transcripts, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Louisiana
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana NASCLA Exam Guide for Commercial and Electrical Contractors
 

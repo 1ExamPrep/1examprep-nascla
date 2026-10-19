@@ -1,13 +1,13 @@
 ---
 title: West Virginia NASCLA Exam: Contractor License Guide
 url: https://passyournasclaexam.com/west-virginia/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How to get a West Virginia contractor license with the NASCLA exam: general building and electrical acceptance, Contractor Licensing Act exam, fees and prep.
 ---
 
 [Home](https://passyournasclaexam.com/) West Virginia
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # West Virginia NASCLA Exam Guide for Commercial and Electrical Contractors
 

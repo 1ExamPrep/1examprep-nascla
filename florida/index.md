@@ -1,13 +1,13 @@
 ---
 title: Florida NASCLA Exam: Contractor License Steps and Prep
 url: https://passyournasclaexam.com/florida/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How Florida accepts the NASCLA exam for general, building, residential and electrical licenses, plus Business and Finance, fees, experience and exam prep.
 ---
 
 [Home](https://passyournasclaexam.com/) Florida
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Florida NASCLA Exam: How to Get Your Florida Contractor License
 

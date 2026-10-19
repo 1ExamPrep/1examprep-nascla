@@ -1,13 +1,13 @@
 ---
 title: Connecticut Business and Law Exam: Contractor License Guide
 url: https://passyournasclaexam.com/connecticut/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How to get a Connecticut contractor license: who needs the PSI Business and Law exam, the NASCLA 6th Edition guide, fees, experience and how to prepare.
 ---
 
 [Home](https://passyournasclaexam.com/) Connecticut
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Connecticut Business and Law Exam and Contractor License Guide
 

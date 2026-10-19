@@ -1,13 +1,13 @@
 ---
 title: Indiana NASCLA Electrical Exam: Vanderburgh County Guide
 url: https://passyournasclaexam.com/indiana/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The Indiana NASCLA electrical exam is given in Vanderburgh County. Learn Evansville licensing steps, Prov exam format, fees, and prep packages that fit.
 ---
 
 [Home](https://passyournasclaexam.com/) Indiana
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Indiana NASCLA Electrical Exam: Vanderburgh County Master and Journeyman Licensing
 

@@ -1,13 +1,13 @@
 ---
 title: Georgia NASCLA Exam: GC License Steps and Exam Prep
 url: https://passyournasclaexam.com/georgia/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the Georgia NASCLA exam and Business and Law exam fit into a Georgia general contractor license, with requirements, PSI details, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Georgia
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Georgia NASCLA Exam and General Contractor License Guide
 

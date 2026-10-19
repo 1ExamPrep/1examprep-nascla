@@ -1,13 +1,13 @@
 ---
 title: Arkansas NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/arkansas/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Arkansas business and law exam prep: 5 products from $19.95 to $219.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Arkansas Business and Law Exam Prep
 

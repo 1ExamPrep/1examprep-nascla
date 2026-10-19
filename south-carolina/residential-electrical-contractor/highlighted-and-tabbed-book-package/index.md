@@ -1,13 +1,13 @@
 ---
 title: South Carolina Residential Electrical H&T Book Package
 url: https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the South Carolina NASCLA Residential Electrical Contractor examination with an organized highlighted and tabbed reference-book package covering.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Residential Electrical Contractor](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Residential Electrical](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/)
 

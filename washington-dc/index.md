@@ -1,13 +1,13 @@
 ---
 title: Washington DC NASCLA Exam: Journeyman Electrician Guide
 url: https://passyournasclaexam.com/washington-dc/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How to get a DC journeyman electrician license with the NASCLA exam: Board of Industrial Trades rules, 8,000 hour path, fees, reciprocity and exam prep.
 ---
 
 [Home](https://passyournasclaexam.com/) Washington DC
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Washington DC NASCLA Exam Guide for Journeyman Electricians
 

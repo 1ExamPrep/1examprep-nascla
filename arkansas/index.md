@@ -1,13 +1,13 @@
 ---
 title: Arkansas NASCLA Exam: Commercial License and Prep Guide
 url: https://passyournasclaexam.com/arkansas/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the Arkansas NASCLA exam fits the commercial contractor license: ACLB rules, the $84 Business and Law test, net worth, bond, steps and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Arkansas
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Arkansas NASCLA Exam and Commercial Contractor License Guide
 

@@ -1,13 +1,13 @@
 ---
 title: North Carolina Exam Pre-Printed Tabs | NASCLA Commercial GC
 url: https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/exam-pre-printed-tabs/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The North Carolina NASCLA Commercial General Building Contractor Exam Pre-Printed Tabs, provided by Pass Your NASCLA Exam Prep, are specifically designed for.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) Exam Pre-Printed Tabs
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial GC](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
 

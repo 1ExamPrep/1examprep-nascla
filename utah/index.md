@@ -1,13 +1,13 @@
 ---
 title: Utah NASCLA Exam: B100 License and Exam Prep Guide
 url: https://passyournasclaexam.com/utah/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the Utah NASCLA exam meets the B100 experience rule, what the Business and Law exam covers, the steps to apply, and which prep package fits you.
 ---
 
 [Home](https://passyournasclaexam.com/) Utah
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Utah NASCLA Exam: How to Get Your General Contractor License
 

@@ -1,13 +1,13 @@
 ---
 title: Georgia Business & Law Guide (5th Ed.)
 url: https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Build a stronger foundation for your Georgia contractor exam preparation with the NASCLA Contractors Guide to Business, Law and Project Management — Georgia.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Business & Law Guide (5th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 

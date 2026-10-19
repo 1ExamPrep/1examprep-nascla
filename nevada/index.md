@@ -1,13 +1,13 @@
 ---
 title: Nevada NASCLA Exam: B License Guide and Exam Prep
 url: https://passyournasclaexam.com/nevada/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the Nevada NASCLA exam can waive the B or B-2 trade test, plus the CMS exam, experience, bond and financial rules, and the prep packages that fit you.
 ---
 
 [Home](https://passyournasclaexam.com/) Nevada
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Nevada NASCLA Exam: How to Get Your Nevada General Contractor License
 

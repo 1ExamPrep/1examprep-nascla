@@ -1,13 +1,13 @@
 ---
 title: Virginia NASCLA Exam: Contractor and Electrician Guide
 url: https://passyournasclaexam.com/virginia/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: How the Virginia NASCLA exam fits Class A, B and C contractor licensing and electrician licenses, plus business exam details, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Virginia
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia NASCLA Exam: Contractor and Electrician Licensing
 

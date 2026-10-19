@@ -1,13 +1,13 @@
 ---
 title: NASCLA Multi-State Application Bundle | NASCLA Commercial GC
 url: https://passyournasclaexam.com/national/commercial-general-building-contractor/multi-state-application-bundle/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Professional Licensing Support Across 16 States — Done Right, Done Fast The NASCLA Multi-State Application Bundle is designed for contractors who want to.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Commercial General Building Contractor](https://passyournasclaexam.com/national/commercial-general-building-contractor/) Multi-State Application Bundle
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Commercial GC](https://passyournasclaexam.com/national/commercial-general-building-contractor/)
 

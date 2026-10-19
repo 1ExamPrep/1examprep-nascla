@@ -1,13 +1,13 @@
 ---
 title: Idaho Exam Book Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/idaho/journeyman-electrician/exam-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Idaho NASCLA Journeyman Electrician examination with a complete reference-book package built around the electrical codes, safety standards.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Idaho](https://passyournasclaexam.com/idaho/) · [Journeyman Electrician](https://passyournasclaexam.com/idaho/journeyman-electrician/) Exam Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Idaho](https://passyournasclaexam.com/idaho/) · [Journeyman](https://passyournasclaexam.com/idaho/journeyman-electrician/)
 

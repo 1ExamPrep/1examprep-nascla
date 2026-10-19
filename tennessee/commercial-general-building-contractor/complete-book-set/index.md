@@ -1,13 +1,13 @@
 ---
 title: Tennessee Complete Book Set | NASCLA Commercial GC
 url: https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/complete-book-set/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The provides all state-approved trade references required for the NASCLA-accredited commercial general building contractor licensing exam in Tennessee. The.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Commercial General Building Contractor](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/) Complete Book Set
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Commercial GC](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/)
 

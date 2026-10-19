@@ -1,13 +1,13 @@
 ---
 title: Louisiana Book | NASCLA Commercial GC (Option 3)
 url: https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/book-3/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The Louisiana General Contractors, 12th Edition is an official reference. Distributed through Pass Your NASCLA Exam Prep, this guide provides essential.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial General Building Contractor](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/) Book
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial GC](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/)
 

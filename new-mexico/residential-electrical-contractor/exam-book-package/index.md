@@ -1,13 +1,13 @@
 ---
 title: New Mexico Exam Book Package | NASCLA Residential Electrical
 url: https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/exam-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the New Mexico NASCLA Residential Electrical Contractor examination with a complete reference-book package covering residential electrical code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Residential Electrical Contractor](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/) Exam Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Residential Electrical](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
 

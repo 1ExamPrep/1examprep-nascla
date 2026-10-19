@@ -1,13 +1,13 @@
 ---
 title: California Commercial GC Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/california/commercial-general-building-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with a complete set of highlighted and tabbed reference books.
 ---
 
 [Home](https://passyournasclaexam.com/) · [California](https://passyournasclaexam.com/california/) · [Commercial General Building Contractor](https://passyournasclaexam.com/california/commercial-general-building-contractor/) Highlighted & Tabbed Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [California](https://passyournasclaexam.com/california/) · [Commercial GC](https://passyournasclaexam.com/california/commercial-general-building-contractor/)
 

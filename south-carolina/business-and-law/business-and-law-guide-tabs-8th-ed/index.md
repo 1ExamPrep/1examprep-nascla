@@ -1,13 +1,13 @@
 ---
 title: South Carolina Business & Law Guide Tabs (8th Ed.)
 url: https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-tabs-8th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: SOUTH CAROLINA-NASCLA CONTRACTORS GUIDE TO BUSINESS, LAW AND PROJECT MANAGEMENT, SOUTH CAROLINA COMMERCIAL CONTRACTORS, 8TH EDITION; PRE-PRINTED TABS The.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business and Law](https://passyournasclaexam.com/south-carolina/business-and-law/) Business & Law Guide Tabs (8th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business & Law](https://passyournasclaexam.com/south-carolina/business-and-law/)
 

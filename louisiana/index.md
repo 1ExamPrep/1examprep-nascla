@@ -1,13 +1,13 @@
 ---
 title: Louisiana NASCLA Exam Prep
 url: https://passyournasclaexam.com/louisiana/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Louisiana: Commercial GC, Master Electrical, Business & Law. 25 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Louisiana
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana NASCLA Exam Prep
 

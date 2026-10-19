@@ -1,13 +1,13 @@
 ---
 title: Washington DC Journeyman Books & Courses Rental Package
 url: https://passyournasclaexam.com/washington-dc/journeyman-electrician/books-and-courses-rental-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Washington DC NASCLA Journeyman Electrician examination with a complete books and courses rental package designed for organized, practical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Washington DC](https://passyournasclaexam.com/washington-dc/) · [Journeyman Electrician](https://passyournasclaexam.com/washington-dc/journeyman-electrician/) Books & Courses Rental Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Washington DC](https://passyournasclaexam.com/washington-dc/) · [Journeyman](https://passyournasclaexam.com/washington-dc/journeyman-electrician/)
 

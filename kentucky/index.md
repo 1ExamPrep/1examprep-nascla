@@ -1,13 +1,13 @@
 ---
 title: Kentucky NASCLA Exam Prep
 url: https://passyournasclaexam.com/kentucky/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Kentucky: Master Electrical, Journeyman. 10 products from $295.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Kentucky
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Kentucky NASCLA Exam Prep
 
@@ -22,26 +22,26 @@ NASCLA exam prep for Kentucky: master electrical contractor, journeyman electric
 
 ### Does Kentucky accept the NASCLA exam?
 
-Kentucky is not on NASCLA's list of states that accept the commercial building exam in place of the state trade exam. The prep listed here is for the Kentucky exams named below; check the Kentucky licensing board for which exams it requires.
+Kentucky is not on NASCLA's list for the commercial building exam. It does take part in NASCLA's separate electrical exam program; the guide below explains which electrical licenses that covers.
 
 ### Which NASCLA exams can I prepare for in Kentucky?
 
 Master Electrical Contractor (6 products from $295.00); Journeyman Electrician (4 products from $295.00). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
-### How do I register for the NASCLA exam?
+### How do I schedule my Kentucky exam?
 
-Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can schedule, and then you apply to the Kentucky board with your passing record.
+Through the Kentucky licensing board and its testing vendor, not through NASCLA's commercial exam portal. The guide below names the board and vendor and walks through the steps.
 
 [6 PRODUCTS · FROM $295.00
 
 ### Master Electrical Contractor
 
-NASCLA accredits trade examinations for electrical contractor licenses in participating states. Our master.
+Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.
 See Master Electrical packages →](https://passyournasclaexam.com/kentucky/master-electrical-contractor/) · [4 PRODUCTS · FROM $295.00
 
 ### Journeyman Electrician
 
-Prep for NASCLA accredited journeyman electrician exams in the states that use them, with the reference.
+Reference books, tabbed sets, rentals and online prep for the NASCLA journeyman exam.
 See Journeyman packages →](https://passyournasclaexam.com/kentucky/journeyman-electrician/)
 
 ---

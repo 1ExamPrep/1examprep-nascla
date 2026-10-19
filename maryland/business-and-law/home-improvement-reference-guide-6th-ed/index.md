@@ -1,13 +1,13 @@
 ---
 title: Maryland Home Improvement Reference Guide (6th Ed.)
 url: https://passyournasclaexam.com/maryland/business-and-law/home-improvement-reference-guide-6th-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The Maryland NASCLA Home Improvement Salesperson Reference Guide, 6th Edition, published under the Maryland Home Improvement Commission (MHIC) and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Maryland](https://passyournasclaexam.com/maryland/) · [Business and Law](https://passyournasclaexam.com/maryland/business-and-law/) Home Improvement Reference Guide (6th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Maryland](https://passyournasclaexam.com/maryland/) · [Business & Law](https://passyournasclaexam.com/maryland/business-and-law/)
 

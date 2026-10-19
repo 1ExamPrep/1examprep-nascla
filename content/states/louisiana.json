@@ -1,360 +1,368 @@
 {
-  "state": "Louisiana",
-  "slug": "louisiana",
-  "title": "Louisiana NASCLA Exam: Contractor License Guide",
-  "meta_description": "How the Louisiana NASCLA exam works with the LSLBC: building and electrical credit, Business and Law, net worth, transcripts, fees and prep packages.",
-  "h1": "Louisiana NASCLA Exam Guide for Commercial and Electrical Contractors",
-  "keywords": [
-    "louisiana nascla exam",
-    "louisiana contractor license",
-    "louisiana general contractor license",
-    "louisiana business and law exam",
-    "louisiana electrical contractor license"
+ "state": "Louisiana",
+ "slug": "louisiana",
+ "title": "Louisiana NASCLA Exam: Contractor License Guide",
+ "meta_description": "How the Louisiana NASCLA exam works with the LSLBC: building and electrical credit, Business and Law, net worth, transcripts, fees and prep packages.",
+ "h1": "Louisiana NASCLA Exam Guide for Commercial and Electrical Contractors",
+ "keywords": [
+  "louisiana nascla exam",
+  "louisiana contractor license",
+  "louisiana general contractor license",
+  "louisiana business and law exam",
+  "louisiana electrical contractor license"
+ ],
+ "package_keywords": [
+  "nascla highlighted and tabbed books louisiana",
+  "louisiana nascla online course",
+  "louisiana nascla book rental package",
+  "louisiana business and law book highlighted and tabbed"
+ ],
+ "intro": [
+  "Louisiana is one of the most useful states for the NASCLA route. The Louisiana State Licensing Board for Contractors (LSLBC) gives exam credit for passing NASCLA scores in three classifications: Building Construction, Residential Construction and Electrical. That means a single Louisiana NASCLA exam can stand in for the state trade exam, as long as you still finish the state's own Business and Law requirement and the rest of the application.",
+  "This page explains which exams Louisiana accepts, when you need a license, how the qualifying party system works, what the Business and Law course looks like, the financial and reciprocity rules, and which of our study packages match each exam. Louisiana changed several licensing rules in 2025 and 2026, so we point you to the board wherever a detail could shift."
+ ],
+ "sections": [
+  {
+   "h2": "Does Louisiana accept the NASCLA exam?",
+   "paragraphs": [
+    "Yes. The LSLBC is a participating agency on NASCLA's [commercial exam list](https://www.nascla.org/page/ParticipatingAgencies) and on its [electrical exam list](https://www.nascla.org/page/ParticipatingAgencies_Electrical). The board's own [NASCLA exam credit page](https://lslbc.louisiana.gov/?p=6355) spells out what each exam earns you."
+   ],
+   "list": [
+    "NASCLA Commercial General Building Contractor exam: credit for the Building Construction trade exam on a commercial license.",
+    "The same NASCLA building exam: credit for the Residential Construction trade exam on a residential license.",
+    "NASCLA Electrical Contractor/Master Electrician exam: credit for the Electrical trade exam on a commercial license.",
+    "Any other classification: the LSLBC says it does not accept NASCLA scores, so you take the state's trade exam through PSI."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "Who issues contractor licenses in Louisiana",
+   "paragraphs": [
+    "The [Louisiana State Licensing Board for Contractors](https://lslbc.louisiana.gov/?p=2445), at 600 North Street in Baton Rouge, licenses commercial, residential, home improvement and mold remediation contractors. It sets classifications, reviews applications, approves qualifying parties and issues the license. State trade exams are delivered by PSI.",
+    "Plumbing has been handled separately by the State Plumbing Board of Louisiana, which licenses master plumbers and master natural gas fitters and gives its own exams. That is changing. Act 908 of the 2026 Regular Session abolishes the State Plumbing Board and moves its functions to a plumbing subcommittee within the LSLBC, with plumbers licensed on or before December 31, 2026 holding the matching LSLBC license from January 1, 2027. If you are pursuing a plumbing credential, confirm the current process before you apply.",
+    "A Louisiana license is issued to the business. Each business must keep a qualifying party, a person who passes the required exams or supplies the required credential for each classification, and also covers the Business and Law requirement. You can be the owner and the qualifying party, or the company can name an employee who meets the board's definition."
+   ],
+   "list": []
+  },
+  {
+   "h2": "When you need a Louisiana contractor license, and which exam applies",
+   "paragraphs": [
+    "Louisiana sets licensing thresholds by project value, including labor and materials. The figures below come from the LSLBC's [commercial license page](https://lslbc.louisiana.gov/?p=2445) and the 2025 rewrite of the contractor law in [SB 122](https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1412590)."
+   ],
+   "list": [
+    "Commercial work of $50,000 or more needs a commercial license in the right classification. For Building Construction, the NASCLA Commercial General Building exam can supply the trade exam.",
+    "Electrical, mechanical and plumbing work over $10,000 needs the matching classification. For Electrical, the NASCLA Electrical Contractor/Master Electrician exam can supply the trade exam.",
+    "Asbestos, hazardous waste, lead abatement and underground storage tank work needs a license from $1.",
+    "New residential construction of $50,000 or more needs a residential license, where the NASCLA building exam can count for the Residential Construction exam.",
+    "Every commercial and residential qualifying party also needs Louisiana Business and Law, which NASCLA does not replace."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "How to get a Louisiana general contractor license, step by step",
+   "paragraphs": [
+    "Here is the usual sequence for a commercial Building Construction license using the NASCLA exam. The electrical route is the same with the NASCLA electrical exam."
+   ],
+   "list": [
+    "Set up the business. Corporations, LLCs and limited partnerships must be active and in good standing with the Louisiana Secretary of State and give their charter number.",
+    "Choose your classification and your qualifying party.",
+    "Apply to NASCLA for pre-approval, then schedule and pass the NASCLA exam with PSI.",
+    "Buy a transcript release in the NASCLA Examination Database (ned.nascla.org). NASCLA emails it directly to the LSLBC; the board will not accept a copy from you.",
+    "Submit the online commercial application with fees, entity documents and a financial statement showing the required net worth.",
+    "Complete the qualifying party verification email the board sends, then take the online Business and Law course and exam once you receive approval.",
+    "Answer any deficiency notice, wait for board approval, and do not bid or contract until the license is issued."
+   ],
+   "ordered": true
+  },
+  {
+   "h2": "The Louisiana NASCLA exam itself",
+   "paragraphs": [
+    "The NASCLA Accredited Examination for Commercial General Building Contractors has 115 scored questions and a 330 minute time limit, and you need 70 percent to pass (81 correct answers out of the 115 scored questions). It may also include unscored pretest items. It is open book, so you bring the references on NASCLA's list and follow PSI's rules on tabs, highlighting and markings. Topics range from project management and safety to concrete, steel, wood, roofing, sitework and accessibility.",
+    "The NASCLA Electrical Contractor/Master Electrician exam is different. NASCLA's [candidate information bulletin](https://test-takers.psiexams.com/api/content/bulletin/6677) lists 100 scored questions, 270 minutes and a minimum passing score of 75, plus 10 unscored experimental questions. You may use the 2020 or 2023 NEC along with the other listed references. The NEC topics carry most of the weight: general code requirements and wiring and protection at 17 questions each and wiring methods and materials at 16.",
+    "For both exams you apply through NASCLA with pre-approval at ned.nascla.org, then pay and schedule with PSI. Per the bulletin and NASCLA's [exam FAQ](https://nascla.org/nascla-accredited-examinations-faq), approval lasts one year and you get up to three attempts in that time. NASCLA lists a $65 application fee and a $45 fee for each transcript sent to an agency; these are published figures, so check them when you apply. NASCLA says your results do not expire."
+   ],
+   "list": []
+  },
+  {
+   "h2": "The Louisiana Business and Law exam",
+   "paragraphs": [
+    "Every Louisiana commercial and residential qualifying party must complete Business and Law, and a NASCLA trade score does not count toward it. The LSLBC now offers it as an online course through its Contractor Portal, with an exam at the end. According to the board's [after you apply page](https://lslbc.gov/what-happens-after-i-apply/), the exam has 50 questions, takes about 30 to 45 minutes, and requires a score of 70 or higher.",
+    "You do not sign up for it on your own. After the application is filed, the board emails an Examination Approval Notice to qualifying parties who have not taken the course before. If you already completed Louisiana Business and Law as a qualifier, you will not get that notice.",
+    "NASCLA publishes two Louisiana editions of its Contractor's Guide to Business, Law and Project Management, both listed in the [NASCLA store](https://store.nascla.org/collections/louisiana): Louisiana General Contractors, 12th Edition, and Louisiana Master Plumbers and Master Natural Gas Fitters, 2nd Edition. The 12th Edition is the Louisiana guide for contractors. The 2nd Edition is the listed reference for the 40 question, 2 hour business and law part of the State Plumbing Board's master plumber and master natural gas fitter exams. Ask the board which materials go with the current online course before you buy."
+   ],
+   "list": []
+  },
+  {
+   "h2": "Louisiana contractor license requirements: net worth, insurance and documents",
+   "paragraphs": [
+    "Every applicant files a [financial statement](https://lslbc.gov/wp-content/uploads/Financial-Statement.pdf) dated within 12 months of the application, prepared by a CPA, bookkeeper or accountant. The form and the 2025 law set a minimum net worth of $50,000 for commercial and residential licenses and $25,000 for home improvement, mold remediation and commercial labor only. If you fall short, the form allows an irrevocable letter of credit instead. Some older board pages still show a lower figure, so go by the current form.",
+    "Business documents depend on the entity. Corporations send articles of incorporation and any bylaws, LLCs send articles of organization and any operating agreement, and partnerships send the partnership agreement. The board's [initial license checklist](https://lslbc.gov/checklist-of-items-required-for-initial-license-and-to-maintain-license/) says commercial applicants do not submit insurance certificates with the application. Projects, owners and local permit offices may still require coverage, and a state license does not replace parish or city permits.",
+    "Some classifications also need a credential from another agency, such as a Department of Agriculture license for landscaping or a plumbing credential for the Plumbing classification."
+   ],
+   "list": []
+  },
+  {
+   "h2": "Costs and fees",
+   "paragraphs": [
+    "The LSLBC's public pages say you must pay all fees with the application but do not list amounts, so check the fee schedule in the application portal or call the board at (225) 765-2301. On the NASCLA side, the published figures are a $65 application fee and a $45 transcript fee, plus the PSI exam fee you pay when you schedule.",
+    "For plumbing, the State Plumbing Board's [license page](https://www.spbla.com/licenses/) lists a $110 application fee for master plumber and master natural gas fitter applications. With the move to the LSLBC in 2027, confirm fees before you file."
+   ],
+   "list": []
+  },
+  {
+   "h2": "Reciprocity and working in other states",
+   "paragraphs": [
+    "The LSLBC lists [reciprocity agreements](https://lslbc.louisiana.gov/?p=6332) with boards in Alabama, Arkansas, California, Florida, Georgia, Kentucky, Mississippi, Nevada, North Carolina, Ohio, South Carolina, Tennessee, Texas and Utah. Each agreement covers only certain classifications. For example, Kentucky and Texas cover Electrical, and California covers Building Construction.",
+    "Reciprocity waives only the trade exam. You still need Business and Law, the financial statement and the rest of the application. You must also be free of sanctions from the other board for the past three years, and California, Florida and Nevada add longer licensing or clean record periods.",
+    "If your home state is not on that list, the NASCLA exam is usually the easier path. A passing score can be released to Louisiana and to other agencies that accept the same exam, each for its own transcript fee."
+   ],
+   "list": []
+  },
+  {
+   "h2": "How to prepare for the Louisiana NASCLA exam, and which package fits",
+   "paragraphs": [
+    "Split your study into two tracks: the NASCLA trade exam, which is long, technical and open book, and Louisiana Business and Law. For the trade exam, learn where things live in each book and practice timed lookups. Orders are fulfilled by 1 Exam Prep.",
+    "[Commercial General Building Contractor](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/): the NASCLA Louisiana General Contractors 12th Edition guide comes as a [Book](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/book/) from $124.99, with tabs from $134.99, or [highlighted and tabbed](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/book-3/) from $219.99. The [Online Exam Prep Course](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/online-exam-prep-course/) is from $395. For the full reference set, the [Complete Book Set](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/complete-book-set/) is from $2099 and the NASCLA highlighted and tabbed books for Louisiana come in the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/highlighted-and-tabbed-book-package/) from $2849. Our Louisiana NASCLA book rental package options are the [Books & Courses Rental Package](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/books-and-courses-rental-package/) from $3244 and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/ultimate-exam-prep-rental-package/) from $3669, which adds live classes, a Business and Law course and Application Service. [The 1 Package: All-Inclusive](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/the-1-package-all-inclusive/) is from $4269.",
+    "[Master Electrical Contractor](https://passyournasclaexam.com/louisiana/master-electrical-contractor/): the Louisiana NASCLA online course is the [Online Exam Prep Course](https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/) from $295, with [Live Virtual + Self-Study Training](https://passyournasclaexam.com/louisiana/master-electrical-contractor/live-virtual-plus-self-study-training/) from $595. Book options run from the [Exam Book Package](https://passyournasclaexam.com/louisiana/master-electrical-contractor/exam-book-package/) from $1195 to the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/louisiana/master-electrical-contractor/highlighted-and-tabbed-book-package/) from $1695. Rentals include the [Books & Courses Rental Package](https://passyournasclaexam.com/louisiana/master-electrical-contractor/books-and-courses-rental-package/) from $2090 and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/louisiana/master-electrical-contractor/ultimate-exam-prep-rental-package/) from $2515, and [The 1 Package: All-Inclusive](https://passyournasclaexam.com/louisiana/master-electrical-contractor/the-1-package-all-inclusive/) is from $3155.",
+    "[Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/): the [12th Edition guide](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/) is from $124.99, [guide plus tabs](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/) from $149.99, the [highlighted and tabbed 12th Edition](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/) from $219.99, and [highlighted and tabbed plus flash cards](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-12th-ed/) from $264.99. Pre-printed [12th Edition tabs](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-tabs-12th-ed/) alone are from $19.95. For master plumbers and gas fitters, the 2nd Edition comes as the [guide](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/) from $124.99, [guide plus tabs](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) from $149.99, [highlighted and tabbed](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) from $219.99, and [with flash cards](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/) from $264.99."
+   ],
+   "list": []
+  },
+  {
+   "h2": "After you pass: approval, renewal and continuing education",
+   "paragraphs": [
+    "Once your NASCLA transcript reaches the board, the qualifying party gets credit for the matching trade exam. The board emails when the license is issued; you can print the certificate from the portal, and the original is mailed to you.",
+    "Your first Louisiana commercial license certificate is valid for one year. After that you can renew for one, two or three years. The board sends renewal notices about 60 days and 15 days before expiration and again when it expires, so keep your address current. You must keep a qualifying party on file for every classification, and losing one puts that classification at risk.",
+    "According to the LSLBC's [continuing education page](https://lslbc.gov/continuing-education/), commercial licensees have no continuing education requirement. Residential building contractors must complete at least six hours each year from a board approved provider, unless they also hold a qualifying commercial license such as Building Construction."
+   ],
+   "list": []
+  }
+ ],
+ "faq": [
+  [
+   "Does Louisiana accept the NASCLA commercial exam?",
+   "Yes. The LSLBC gives Building Construction exam credit to qualifying parties who pass the NASCLA Commercial General Building Contractor exam. The same score can also count for Residential Construction on a residential license."
   ],
-  "package_keywords": [
-    "nascla highlighted and tabbed books louisiana",
-    "louisiana nascla online course",
-    "louisiana nascla book rental package",
-    "louisiana business and law book highlighted and tabbed"
+  [
+   "Does the NASCLA exam replace Louisiana Business and Law?",
+   "No. NASCLA only replaces the trade exam. Your qualifying party still has to complete the LSLBC's online Business and Law course and pass its 50 question exam with a 70 or higher."
   ],
-  "intro": [
-    "Louisiana is one of the most useful states for the NASCLA route. The Louisiana State Licensing Board for Contractors (LSLBC) gives exam credit for passing NASCLA scores in three classifications: Building Construction, Residential Construction and Electrical. That means a single Louisiana NASCLA exam can stand in for the state trade exam, as long as you still finish the state's own Business and Law requirement and the rest of the application.",
-    "This page explains which exams Louisiana accepts, when you need a license, how the qualifying party system works, what the Business and Law course looks like, the financial and reciprocity rules, and which of our study packages match each exam. Louisiana changed several licensing rules in 2025 and 2026, so we point you to the board wherever a detail could shift."
+  [
+   "How do I send my NASCLA score to Louisiana?",
+   "Buy a transcript release in the NASCLA Examination Database at ned.nascla.org. NASCLA emails it straight to the LSLBC, and the board will not accept a transcript you send yourself."
   ],
-  "sections": [
-    {
-      "h2": "Does Louisiana accept the NASCLA exam?",
-      "paragraphs": [
-        "Yes. The LSLBC is a participating agency on NASCLA's [commercial exam list](https://www.nascla.org/page/ParticipatingAgencies) and on its [electrical exam list](https://www.nascla.org/page/ParticipatingAgencies_Electrical). The board's own [NASCLA exam credit page](https://lslbc.louisiana.gov/?p=6355) spells out what each exam earns you."
-      ],
-      "list": [
-        "NASCLA Commercial General Building Contractor exam: credit for the Building Construction trade exam on a commercial license.",
-        "The same NASCLA building exam: credit for the Residential Construction trade exam on a residential license.",
-        "NASCLA Electrical Contractor/Master Electrician exam: credit for the Electrical trade exam on a commercial license.",
-        "Any other classification: the LSLBC says it does not accept NASCLA scores, so you take the state's trade exam through PSI."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "Who issues contractor licenses in Louisiana",
-      "paragraphs": [
-        "The [Louisiana State Licensing Board for Contractors](https://lslbc.louisiana.gov/?p=2445), at 600 North Street in Baton Rouge, licenses commercial, residential, home improvement and mold remediation contractors. It sets classifications, reviews applications, approves qualifying parties and issues the license. State trade exams are delivered by PSI.",
-        "Plumbing has been handled separately by the State Plumbing Board of Louisiana, which licenses master plumbers and master natural gas fitters and gives its own exams. That is changing. Act 908 of the 2026 Regular Session abolishes the State Plumbing Board and moves its functions to a plumbing subcommittee within the LSLBC, with plumbers licensed on or before December 31, 2026 holding the matching LSLBC license from January 1, 2027. If you are pursuing a plumbing credential, confirm the current process before you apply.",
-        "A Louisiana license is issued to the business. Each business must keep a qualifying party, a person who passes the required exams or supplies the required credential for each classification, and also covers the Business and Law requirement. You can be the owner and the qualifying party, or the company can name an employee who meets the board's definition."
-      ]
-    },
-    {
-      "h2": "When you need a Louisiana contractor license, and which exam applies",
-      "paragraphs": [
-        "Louisiana sets licensing thresholds by project value, including labor and materials. The figures below come from the LSLBC's [commercial license page](https://lslbc.louisiana.gov/?p=2445) and the 2025 rewrite of the contractor law in [SB 122](https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1412590)."
-      ],
-      "list": [
-        "Commercial work of $50,000 or more needs a commercial license in the right classification. For Building Construction, the NASCLA Commercial General Building exam can supply the trade exam.",
-        "Electrical, mechanical and plumbing work over $10,000 needs the matching classification. For Electrical, the NASCLA Electrical Contractor/Master Electrician exam can supply the trade exam.",
-        "Asbestos, hazardous waste, lead abatement and underground storage tank work needs a license from $1.",
-        "New residential construction of $50,000 or more needs a residential license, where the NASCLA building exam can count for the Residential Construction exam.",
-        "Every commercial and residential qualifying party also needs Louisiana Business and Law, which NASCLA does not replace."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "How to get a Louisiana general contractor license, step by step",
-      "paragraphs": [
-        "Here is the usual sequence for a commercial Building Construction license using the NASCLA exam. The electrical route is the same with the NASCLA electrical exam."
-      ],
-      "list": [
-        "Set up the business. Corporations, LLCs and limited partnerships must be active and in good standing with the Louisiana Secretary of State and give their charter number.",
-        "Choose your classification and your qualifying party.",
-        "Apply to NASCLA for pre-approval, then schedule and pass the NASCLA exam with PSI.",
-        "Buy a transcript release in the NASCLA Examination Database (ned.nascla.org). NASCLA emails it directly to the LSLBC; the board will not accept a copy from you.",
-        "Submit the online commercial application with fees, entity documents and a financial statement showing the required net worth.",
-        "Complete the qualifying party verification email the board sends, then take the online Business and Law course and exam once you receive approval.",
-        "Answer any deficiency notice, wait for board approval, and do not bid or contract until the license is issued."
-      ],
-      "ordered": true
-    },
-    {
-      "h2": "The Louisiana NASCLA exam itself",
-      "paragraphs": [
-        "The NASCLA Accredited Examination for Commercial General Building Contractors has 115 scored questions and a 330 minute time limit, and you need 70 percent to pass. It may also include unscored pretest items. It is open book, so you bring the references on NASCLA's list and follow PSI's rules on tabs, highlighting and markings. Topics range from project management and safety to concrete, steel, wood, roofing, sitework and accessibility.",
-        "The NASCLA Electrical Contractor/Master Electrician exam is different. NASCLA's [candidate information bulletin](https://test-takers.psiexams.com/api/content/bulletin/6677) lists 100 scored questions, 270 minutes and a minimum passing score of 75, plus 10 unscored experimental questions. You may use the 2020 or 2023 NEC along with the other listed references. The NEC topics carry most of the weight: general code requirements and wiring and protection at 17 questions each and wiring methods and materials at 16.",
-        "For both exams you apply through NASCLA with pre-approval at ned.nascla.org, then pay and schedule with PSI. Per the bulletin and NASCLA's [exam FAQ](https://nascla.org/nascla-accredited-examinations-faq), approval lasts one year and you get up to three attempts in that time. NASCLA lists a $65 application fee and a $45 fee for each transcript sent to an agency; these are published figures, so check them when you apply. NASCLA says your results do not expire."
-      ]
-    },
-    {
-      "h2": "The Louisiana Business and Law exam",
-      "paragraphs": [
-        "Every Louisiana commercial and residential qualifying party must complete Business and Law, and a NASCLA trade score does not count toward it. The LSLBC now offers it as an online course through its Contractor Portal, with an exam at the end. According to the board's [after you apply page](https://lslbc.gov/what-happens-after-i-apply/), the exam has 50 questions, takes about 30 to 45 minutes, and requires a score of 70 or higher.",
-        "You do not sign up for it on your own. After the application is filed, the board emails an Examination Approval Notice to qualifying parties who have not taken the course before. If you already completed Louisiana Business and Law as a qualifier, you will not get that notice.",
-        "NASCLA publishes two Louisiana editions of its Contractor's Guide to Business, Law and Project Management, both listed in the [NASCLA store](https://store.nascla.org/collections/louisiana): Louisiana General Contractors, 12th Edition, and Louisiana Master Plumbers and Master Natural Gas Fitters, 2nd Edition. The 12th Edition is the Louisiana guide for contractors. The 2nd Edition is the listed reference for the 40 question, 2 hour business and law part of the State Plumbing Board's master plumber and master natural gas fitter exams. Ask the board which materials go with the current online course before you buy."
-      ]
-    },
-    {
-      "h2": "Louisiana contractor license requirements: net worth, insurance and documents",
-      "paragraphs": [
-        "Every applicant files a [financial statement](https://lslbc.gov/wp-content/uploads/Financial-Statement.pdf) dated within 12 months of the application, prepared by a CPA, bookkeeper or accountant. The form and the 2025 law set a minimum net worth of $50,000 for commercial and residential licenses and $25,000 for home improvement, mold remediation and commercial labor only. If you fall short, the form allows an irrevocable letter of credit instead. Some older board pages still show a lower figure, so go by the current form.",
-        "Business documents depend on the entity. Corporations send articles of incorporation and any bylaws, LLCs send articles of organization and any operating agreement, and partnerships send the partnership agreement. The board's [initial license checklist](https://lslbc.gov/checklist-of-items-required-for-initial-license-and-to-maintain-license/) says commercial applicants do not submit insurance certificates with the application. Projects, owners and local permit offices may still require coverage, and a state license does not replace parish or city permits.",
-        "Some classifications also need a credential from another agency, such as a Department of Agriculture license for landscaping or a plumbing credential for the Plumbing classification."
-      ]
-    },
-    {
-      "h2": "Costs and fees",
-      "paragraphs": [
-        "The LSLBC's public pages say you must pay all fees with the application but do not list amounts, so check the fee schedule in the application portal or call the board at (225) 765-2301. On the NASCLA side, the published figures are a $65 application fee and a $45 transcript fee, plus the PSI exam fee you pay when you schedule.",
-        "For plumbing, the State Plumbing Board's [license page](https://www.spbla.com/licenses/) lists a $110 application fee for master plumber and master natural gas fitter applications. With the move to the LSLBC in 2027, confirm fees before you file."
-      ]
-    },
-    {
-      "h2": "Reciprocity and working in other states",
-      "paragraphs": [
-        "The LSLBC lists [reciprocity agreements](https://lslbc.louisiana.gov/?p=6332) with boards in Alabama, Arkansas, California, Florida, Georgia, Kentucky, Mississippi, Nevada, North Carolina, Ohio, South Carolina, Tennessee, Texas and Utah. Each agreement covers only certain classifications. For example, Kentucky and Texas cover Electrical, and California covers Building Construction.",
-        "Reciprocity waives only the trade exam. You still need Business and Law, the financial statement and the rest of the application. You must also be free of sanctions from the other board for the past three years, and California, Florida and Nevada add longer licensing or clean record periods.",
-        "If your home state is not on that list, the NASCLA exam is usually the easier path. A passing score can be released to Louisiana and to other agencies that accept the same exam, each for its own transcript fee."
-      ]
-    },
-    {
-      "h2": "How to prepare for the Louisiana NASCLA exam, and which package fits",
-      "paragraphs": [
-        "Split your study into two tracks: the NASCLA trade exam, which is long, technical and open book, and Louisiana Business and Law. For the trade exam, learn where things live in each book and practice timed lookups. Orders are fulfilled by 1 Exam Prep.",
-        "[Commercial General Building Contractor](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/): the NASCLA Louisiana General Contractors 12th Edition guide comes as a [Book](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/book/) from $124.99, with tabs from $134.99, or [highlighted and tabbed](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/book-3/) from $219.99. The [Online Exam Prep Course](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/online-exam-prep-course/) is from $395. For the full reference set, the [Complete Book Set](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/complete-book-set/) is from $2099 and the NASCLA highlighted and tabbed books for Louisiana come in the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/highlighted-and-tabbed-book-package/) from $2849. Our Louisiana NASCLA book rental package options are the [Books & Courses Rental Package](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/books-and-courses-rental-package/) from $3244 and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/ultimate-exam-prep-rental-package/) from $3669, which adds live classes, a Business and Law course and Application Service. [The 1 Package: All-Inclusive](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/the-1-package-all-inclusive/) is from $4269.",
-        "[Master Electrical Contractor](https://passyournasclaexam.com/louisiana/master-electrical-contractor/): the Louisiana NASCLA online course is the [Online Exam Prep Course](https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/) from $295, with [Live Virtual + Self-Study Training](https://passyournasclaexam.com/louisiana/master-electrical-contractor/live-virtual-plus-self-study-training/) from $595. Book options run from the [Exam Book Package](https://passyournasclaexam.com/louisiana/master-electrical-contractor/exam-book-package/) from $1195 to the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/louisiana/master-electrical-contractor/highlighted-and-tabbed-book-package/) from $1695. Rentals include the [Books & Courses Rental Package](https://passyournasclaexam.com/louisiana/master-electrical-contractor/books-and-courses-rental-package/) from $2090 and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/louisiana/master-electrical-contractor/ultimate-exam-prep-rental-package/) from $2515, and [The 1 Package: All-Inclusive](https://passyournasclaexam.com/louisiana/master-electrical-contractor/the-1-package-all-inclusive/) is from $3155.",
-        "[Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/): the [12th Edition guide](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/) is from $124.99, [guide plus tabs](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/) from $149.99, the [highlighted and tabbed 12th Edition](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/) from $219.99, and [highlighted and tabbed plus flash cards](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-12th-ed/) from $264.99. Pre-printed [12th Edition tabs](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-tabs-12th-ed/) alone are from $19.95. For master plumbers and gas fitters, the 2nd Edition comes as the [guide](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/) from $124.99, [guide plus tabs](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) from $149.99, [highlighted and tabbed](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) from $219.99, and [with flash cards](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/) from $264.99."
-      ]
-    },
-    {
-      "h2": "After you pass: approval, renewal and continuing education",
-      "paragraphs": [
-        "Once your NASCLA transcript reaches the board, the qualifying party gets credit for the matching trade exam. The board emails when the license is issued; you can print the certificate from the portal, and the original is mailed to you.",
-        "Your first Louisiana commercial license certificate is valid for one year. After that you can renew for one, two or three years. The board sends renewal notices about 60 days and 15 days before expiration and again when it expires, so keep your address current. You must keep a qualifying party on file for every classification, and losing one puts that classification at risk.",
-        "According to the LSLBC's [continuing education page](https://lslbc.gov/continuing-education/), commercial licensees have no continuing education requirement. Residential building contractors must complete at least six hours each year from a board approved provider, unless they also hold a qualifying commercial license such as Building Construction."
-      ]
-    }
+  [
+   "When do I need a contractor license in Louisiana?",
+   "A commercial license is needed for commercial projects of $50,000 or more, counting labor and materials. Electrical, mechanical and plumbing work needs a license above $10,000, and hazardous materials work needs one from $1."
   ],
-  "faq": [
-    [
-      "Does Louisiana accept the NASCLA commercial exam?",
-      "Yes. The LSLBC gives Building Construction exam credit to qualifying parties who pass the NASCLA Commercial General Building Contractor exam. The same score can also count for Residential Construction on a residential license."
-    ],
-    [
-      "Does the NASCLA exam replace Louisiana Business and Law?",
-      "No. NASCLA only replaces the trade exam. Your qualifying party still has to complete the LSLBC's online Business and Law course and pass its 50 question exam with a 70 or higher."
-    ],
-    [
-      "How do I send my NASCLA score to Louisiana?",
-      "Buy a transcript release in the NASCLA Examination Database at ned.nascla.org. NASCLA emails it straight to the LSLBC, and the board will not accept a transcript you send yourself."
-    ],
-    [
-      "When do I need a contractor license in Louisiana?",
-      "A commercial license is needed for commercial projects of $50,000 or more, counting labor and materials. Electrical, mechanical and plumbing work needs a license above $10,000, and hazardous materials work needs one from $1."
-    ],
-    [
-      "What net worth does Louisiana require?",
-      "The current financial statement form lists $50,000 for commercial and residential applicants and $25,000 for home improvement, mold remediation and commercial labor only. An irrevocable letter of credit can make up a shortfall."
-    ],
-    [
-      "Does Louisiana accept the NASCLA electrical exam?",
-      "Yes. The NASCLA Electrical Contractor/Master Electrician exam earns credit for the Electrical classification on a commercial license. NASCLA's list does not show Louisiana accepting the Journeyman Electrician exam."
-    ],
-    [
-      "Is the NASCLA exam open book?",
-      "Yes. The commercial building exam allows the NASCLA reference list for its 115 scored questions over 330 minutes. The electrical exam is also open book, with 100 scored questions in 270 minutes."
-    ],
-    [
-      "Do Louisiana commercial contractors need continuing education?",
-      "No. The LSLBC says commercial licensees have no CE requirement. Residential building contractors need six hours a year unless they also hold a qualifying commercial license."
-    ],
-    [
-      "Which NASCLA guide do Louisiana master plumbers use?",
-      "The State Plumbing Board lists the NASCLA Louisiana Master Plumbers and Master Natural Gas Fitters guide, 2nd Edition, for the 40 question business and law part. Plumbing licensing moves to the LSLBC under Act 908, so confirm the current exam with the board."
-    ]
+  [
+   "What net worth does Louisiana require?",
+   "The current financial statement form lists $50,000 for commercial and residential applicants and $25,000 for home improvement, mold remediation and commercial labor only. An irrevocable letter of credit can make up a shortfall."
   ],
-  "sources": [
-    {
-      "title": "LSLBC: NASCLA exam credit",
-      "url": "https://lslbc.louisiana.gov/?p=6355"
-    },
-    {
-      "title": "LSLBC: Commercial License",
-      "url": "https://lslbc.louisiana.gov/?p=2445"
-    },
-    {
-      "title": "LSLBC: What happens after I apply",
-      "url": "https://lslbc.gov/what-happens-after-i-apply/"
-    },
-    {
-      "title": "LSLBC: Financial Statement form",
-      "url": "https://lslbc.gov/wp-content/uploads/Financial-Statement.pdf"
-    },
-    {
-      "title": "LSLBC: Reciprocity Agreements",
-      "url": "https://lslbc.louisiana.gov/?p=6332"
-    },
-    {
-      "title": "NASCLA: Participating State Agencies, Commercial Examination",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies"
-    },
-    {
-      "title": "NASCLA: Participating Agencies, Electrical",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
-    },
-    {
-      "title": "PSI: NASCLA Accredited Electrical Examinations Candidate Information Bulletin",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "title": "Louisiana Legislature: SB 122 (2025), contractor licensing law",
-      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1412590"
-    },
-    {
-      "title": "Louisiana Legislature: HB 953 / Act 908 (2026), plumbing board transfer",
-      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1486872"
-    }
+  [
+   "Does Louisiana accept the NASCLA electrical exam?",
+   "Yes. The NASCLA Electrical Contractor/Master Electrician exam earns credit for the Electrical classification on a commercial license. NASCLA's list does not show Louisiana accepting the Journeyman Electrician exam."
   ],
-  "facts": [
-    {
-      "claim": "LSLBC gives NASCLA credit for Building Construction, Residential Construction and Electrical only",
-      "url": "https://lslbc.louisiana.gov/?p=6355"
-    },
-    {
-      "claim": "NASCLA transcript must be received directly from NASCLA, released via ned.nascla.org",
-      "url": "https://lslbc.louisiana.gov/?p=6355"
-    },
-    {
-      "claim": "LSLBC listed on NASCLA commercial participating agencies; 600 North Street, Baton Rouge; (225) 765-2301",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies"
-    },
-    {
-      "claim": "Louisiana accepts the NASCLA Electrical Contractor/Master Electrician exam; Journeyman not listed",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
-    },
-    {
-      "claim": "State trade exams are scheduled through PSI",
-      "url": "https://lslbc.louisiana.gov/exams-classifications/"
-    },
-    {
-      "claim": "Commercial license required at $50,000 or more; electrical, mechanical, plumbing over $10,000; hazardous materials from $1",
-      "url": "https://lslbc.louisiana.gov/?p=2445"
-    },
-    {
-      "claim": "Residential construction license at $50,000 or more; net worth $50,000 commercial and residential, $25,000 home improvement, mold, labor only",
-      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1412590"
-    },
-    {
-      "claim": "Financial statement within 12 months, prepared by CPA, bookkeeper or accountant; letter of credit allowed if short",
-      "url": "https://lslbc.gov/wp-content/uploads/Financial-Statement.pdf"
-    },
-    {
-      "claim": "Commercial applicants do not submit insurance certificates; entities must be active and in good standing with Secretary of State; entity documents listed",
-      "url": "https://lslbc.gov/checklist-of-items-required-for-initial-license-and-to-maintain-license/"
-    },
-    {
-      "claim": "Qualifying party required for Business & Law and each classification",
-      "url": "https://lslbc.gov/checklist-of-items-required-for-initial-license-and-to-maintain-license/"
-    },
-    {
-      "claim": "Business and Law is an online course via the Contractor Portal; exam has 50 questions, about 30 to 45 minutes, 70 to pass; approval notice emailed",
-      "url": "https://lslbc.gov/what-happens-after-i-apply/"
-    },
-    {
-      "claim": "Board emails when license issued; certificate printable from portal; original mailed",
-      "url": "https://lslbc.gov/what-happens-after-i-apply/"
-    },
-    {
-      "claim": "NASCLA commercial exam: 115 scored questions, 330 minutes, open book, 70 percent to pass",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies"
-    },
-    {
-      "claim": "Electrical Contractor exam: 100 scored, 270 minutes, passing 75, 10 unscored items, 2020 or 2023 NEC",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "claim": "One year eligibility, three attempts",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "claim": "NASCLA application fee $65, transcript $45, results do not expire",
-      "url": "https://nascla.org/nascla-accredited-examinations-faq"
-    },
-    {
-      "claim": "Electrical exam content: general code requirements 17, wiring and protection 17, wiring methods and materials 16",
-      "url": "https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/"
-    },
-    {
-      "claim": "NASCLA Louisiana editions: General Contractors 12th Edition; Master Plumbers & Master Natural Gas Fitters 2nd Edition",
-      "url": "https://store.nascla.org/collections/louisiana"
-    },
-    {
-      "claim": "Master plumber Part III and master gas fitter Part II: 40 questions, 2 hours, NASCLA 2nd Edition; application fee $110",
-      "url": "https://www.spbla.com/licenses/"
-    },
-    {
-      "claim": "Act 908 (2026) abolishes State Plumbing Board, transfers functions to LSLBC; plumbers licensed by Dec 31, 2026 hold LSLBC license from Jan 1, 2027",
-      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1486872"
-    },
-    {
-      "claim": "Initial license valid one year; renew for one, two or three years; notices at 60 and 15 days and at expiration",
-      "url": "https://lslbc.louisiana.gov/?p=2445"
-    },
-    {
-      "claim": "Commercial licensees have no CE; residential need six hours annually unless holding qualifying commercial license",
-      "url": "https://lslbc.gov/continuing-education/"
-    },
-    {
-      "claim": "Reciprocity with 14 states listed; waives trade exam only; no sanctions in past three years; longer periods for California, Florida, Nevada",
-      "url": "https://lslbc.louisiana.gov/?p=6332"
-    },
-    {
-      "claim": "Landscaping requires Department of Agriculture license; Plumbing is a credential classification",
-      "url": "https://lslbc.louisiana.gov/exams-classifications/"
-    },
-    {
-      "claim": "Louisiana General Contractors 12th Edition Book from $124.99; with tabs from $134.99; highlighted and tabbed from $219.99",
-      "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/book/"
-    },
-    {
-      "claim": "Commercial General Building Online Exam Prep Course from $395",
-      "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/online-exam-prep-course/"
-    },
-    {
-      "claim": "Commercial General Building Complete Book Set from $2099",
-      "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/complete-book-set/"
-    },
-    {
-      "claim": "Commercial General Building Highlighted & Tabbed Book Package from $2849",
-      "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/highlighted-and-tabbed-book-package/"
-    },
-    {
-      "claim": "Commercial General Building Books & Courses Rental Package from $3244",
-      "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/books-and-courses-rental-package/"
-    },
-    {
-      "claim": "Commercial General Building Ultimate Exam Prep Rental Package from $3669 with live classes, Business and Law course and Application Service",
-      "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "Commercial General Building The 1 Package: All-Inclusive from $4269",
-      "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/the-1-package-all-inclusive/"
-    },
-    {
-      "claim": "Master Electrical Online Exam Prep Course from $295; Live Virtual + Self-Study from $595",
-      "url": "https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/"
-    },
-    {
-      "claim": "Master Electrical Exam Book Package from $1195; Highlighted & Tabbed Book Package from $1695",
-      "url": "https://passyournasclaexam.com/louisiana/master-electrical-contractor/highlighted-and-tabbed-book-package/"
-    },
-    {
-      "claim": "Master Electrical Books & Courses Rental from $2090; Ultimate from $2515; The 1 Package from $3155",
-      "url": "https://passyournasclaexam.com/louisiana/master-electrical-contractor/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "Business & Law 12th Ed: guide $124.99, plus tabs $149.99, highlighted and tabbed $219.99, plus flash cards $264.99, tabs alone $19.95",
-      "url": "https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/"
-    },
-    {
-      "claim": "Business & Law 2nd Ed: guide $124.99, plus tabs $149.99, highlighted and tabbed $219.99, plus flash cards $264.99",
-      "url": "https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/"
-    }
+  [
+   "Is the NASCLA exam open book?",
+   "Yes. The commercial building exam allows the NASCLA reference list for its 115 scored questions over 330 minutes. The electrical exam is also open book, with 100 scored questions in 270 minutes."
   ],
-  "word_count": 2263
+  [
+   "Do Louisiana commercial contractors need continuing education?",
+   "No. The LSLBC says commercial licensees have no CE requirement. Residential building contractors need six hours a year unless they also hold a qualifying commercial license."
+  ],
+  [
+   "Which NASCLA guide do Louisiana master plumbers use?",
+   "The State Plumbing Board lists the NASCLA Louisiana Master Plumbers and Master Natural Gas Fitters guide, 2nd Edition, for the 40 question business and law part. Plumbing licensing moves to the LSLBC under Act 908, so confirm the current exam with the board."
+  ]
+ ],
+ "sources": [
+  {
+   "title": "LSLBC: NASCLA exam credit",
+   "url": "https://lslbc.louisiana.gov/?p=6355"
+  },
+  {
+   "title": "LSLBC: Commercial License",
+   "url": "https://lslbc.louisiana.gov/?p=2445"
+  },
+  {
+   "title": "LSLBC: What happens after I apply",
+   "url": "https://lslbc.gov/what-happens-after-i-apply/"
+  },
+  {
+   "title": "LSLBC: Financial Statement form",
+   "url": "https://lslbc.gov/wp-content/uploads/Financial-Statement.pdf"
+  },
+  {
+   "title": "LSLBC: Reciprocity Agreements",
+   "url": "https://lslbc.louisiana.gov/?p=6332"
+  },
+  {
+   "title": "NASCLA: Participating State Agencies, Commercial Examination",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies"
+  },
+  {
+   "title": "NASCLA: Participating Agencies, Electrical",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
+  },
+  {
+   "title": "PSI: NASCLA Accredited Electrical Examinations Candidate Information Bulletin",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "title": "Louisiana Legislature: SB 122 (2025), contractor licensing law",
+   "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1412590"
+  },
+  {
+   "title": "Louisiana Legislature: HB 953 / Act 908 (2026), plumbing board transfer",
+   "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1486872"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "LSLBC gives NASCLA credit for Building Construction, Residential Construction and Electrical only",
+   "url": "https://lslbc.louisiana.gov/?p=6355"
+  },
+  {
+   "claim": "NASCLA transcript must be received directly from NASCLA, released via ned.nascla.org",
+   "url": "https://lslbc.louisiana.gov/?p=6355"
+  },
+  {
+   "claim": "LSLBC listed on NASCLA commercial participating agencies; 600 North Street, Baton Rouge; (225) 765-2301",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies"
+  },
+  {
+   "claim": "Louisiana accepts the NASCLA Electrical Contractor/Master Electrician exam; Journeyman not listed",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
+  },
+  {
+   "claim": "State trade exams are scheduled through PSI",
+   "url": "https://lslbc.louisiana.gov/exams-classifications/"
+  },
+  {
+   "claim": "Commercial license required at $50,000 or more; electrical, mechanical, plumbing over $10,000; hazardous materials from $1",
+   "url": "https://lslbc.louisiana.gov/?p=2445"
+  },
+  {
+   "claim": "Residential construction license at $50,000 or more; net worth $50,000 commercial and residential, $25,000 home improvement, mold, labor only",
+   "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1412590"
+  },
+  {
+   "claim": "Financial statement within 12 months, prepared by CPA, bookkeeper or accountant; letter of credit allowed if short",
+   "url": "https://lslbc.gov/wp-content/uploads/Financial-Statement.pdf"
+  },
+  {
+   "claim": "Commercial applicants do not submit insurance certificates; entities must be active and in good standing with Secretary of State; entity documents listed",
+   "url": "https://lslbc.gov/checklist-of-items-required-for-initial-license-and-to-maintain-license/"
+  },
+  {
+   "claim": "Qualifying party required for Business & Law and each classification",
+   "url": "https://lslbc.gov/checklist-of-items-required-for-initial-license-and-to-maintain-license/"
+  },
+  {
+   "claim": "Business and Law is an online course via the Contractor Portal; exam has 50 questions, about 30 to 45 minutes, 70 to pass; approval notice emailed",
+   "url": "https://lslbc.gov/what-happens-after-i-apply/"
+  },
+  {
+   "claim": "Board emails when license issued; certificate printable from portal; original mailed",
+   "url": "https://lslbc.gov/what-happens-after-i-apply/"
+  },
+  {
+   "claim": "NASCLA commercial exam: 115 scored questions, 330 minutes, open book, 70 percent to pass",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies"
+  },
+  {
+   "claim": "Electrical Contractor exam: 100 scored, 270 minutes, passing 75, 10 unscored items, 2020 or 2023 NEC",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "claim": "One year eligibility, three attempts",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "claim": "NASCLA application fee $65, transcript $45, results do not expire",
+   "url": "https://nascla.org/nascla-accredited-examinations-faq"
+  },
+  {
+   "claim": "Electrical exam content: general code requirements 17, wiring and protection 17, wiring methods and materials 16",
+   "url": "https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/"
+  },
+  {
+   "claim": "NASCLA Louisiana editions: General Contractors 12th Edition; Master Plumbers & Master Natural Gas Fitters 2nd Edition",
+   "url": "https://store.nascla.org/collections/louisiana"
+  },
+  {
+   "claim": "Master plumber Part III and master gas fitter Part II: 40 questions, 2 hours, NASCLA 2nd Edition; application fee $110",
+   "url": "https://www.spbla.com/licenses/"
+  },
+  {
+   "claim": "Act 908 (2026) abolishes State Plumbing Board, transfers functions to LSLBC; plumbers licensed by Dec 31, 2026 hold LSLBC license from Jan 1, 2027",
+   "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1486872"
+  },
+  {
+   "claim": "Initial license valid one year; renew for one, two or three years; notices at 60 and 15 days and at expiration",
+   "url": "https://lslbc.louisiana.gov/?p=2445"
+  },
+  {
+   "claim": "Commercial licensees have no CE; residential need six hours annually unless holding qualifying commercial license",
+   "url": "https://lslbc.gov/continuing-education/"
+  },
+  {
+   "claim": "Reciprocity with 14 states listed; waives trade exam only; no sanctions in past three years; longer periods for California, Florida, Nevada",
+   "url": "https://lslbc.louisiana.gov/?p=6332"
+  },
+  {
+   "claim": "Landscaping requires Department of Agriculture license; Plumbing is a credential classification",
+   "url": "https://lslbc.louisiana.gov/exams-classifications/"
+  },
+  {
+   "claim": "Louisiana General Contractors 12th Edition Book from $124.99; with tabs from $134.99; highlighted and tabbed from $219.99",
+   "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/book/"
+  },
+  {
+   "claim": "Commercial General Building Online Exam Prep Course from $395",
+   "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/online-exam-prep-course/"
+  },
+  {
+   "claim": "Commercial General Building Complete Book Set from $2099",
+   "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/complete-book-set/"
+  },
+  {
+   "claim": "Commercial General Building Highlighted & Tabbed Book Package from $2849",
+   "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/highlighted-and-tabbed-book-package/"
+  },
+  {
+   "claim": "Commercial General Building Books & Courses Rental Package from $3244",
+   "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/books-and-courses-rental-package/"
+  },
+  {
+   "claim": "Commercial General Building Ultimate Exam Prep Rental Package from $3669 with live classes, Business and Law course and Application Service",
+   "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "Commercial General Building The 1 Package: All-Inclusive from $4269",
+   "url": "https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/the-1-package-all-inclusive/"
+  },
+  {
+   "claim": "Master Electrical Online Exam Prep Course from $295; Live Virtual + Self-Study from $595",
+   "url": "https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/"
+  },
+  {
+   "claim": "Master Electrical Exam Book Package from $1195; Highlighted & Tabbed Book Package from $1695",
+   "url": "https://passyournasclaexam.com/louisiana/master-electrical-contractor/highlighted-and-tabbed-book-package/"
+  },
+  {
+   "claim": "Master Electrical Books & Courses Rental from $2090; Ultimate from $2515; The 1 Package from $3155",
+   "url": "https://passyournasclaexam.com/louisiana/master-electrical-contractor/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "Business & Law 12th Ed: guide $124.99, plus tabs $149.99, highlighted and tabbed $219.99, plus flash cards $264.99, tabs alone $19.95",
+   "url": "https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/"
+  },
+  {
+   "claim": "Business & Law 2nd Ed: guide $124.99, plus tabs $149.99, highlighted and tabbed $219.99, plus flash cards $264.99",
+   "url": "https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/"
+  }
+ ],
+ "word_count": 2263
 }

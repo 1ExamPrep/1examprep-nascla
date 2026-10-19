@@ -1,13 +1,13 @@
 ---
 title: Arizona Master Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/arizona/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The is designed for contractors preparing for the electrical contractor trade exam connected to Arizona commercial and dual residential/commercial electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical Contractor](https://passyournasclaexam.com/arizona/master-electrical-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical](https://passyournasclaexam.com/arizona/master-electrical-contractor/)
 

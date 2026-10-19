@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam Flash Cards | NASCLA Commercial GC
 url: https://passyournasclaexam.com/national/commercial-general-building-contractor/exam-flash-cards/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA commercial general building contractor examination with a high-volume study tool built for repeated, focused review. The set includes.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Commercial General Building Contractor](https://passyournasclaexam.com/national/commercial-general-building-contractor/) Exam Flash Cards
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Commercial GC](https://passyournasclaexam.com/national/commercial-general-building-contractor/)
 

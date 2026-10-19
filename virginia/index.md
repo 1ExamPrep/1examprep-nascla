@@ -1,13 +1,13 @@
 ---
 title: Virginia NASCLA Exam Prep
 url: https://passyournasclaexam.com/virginia/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Virginia: Commercial GC, Master Electrical, Journeyman, Business & Law. 25 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Virginia
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia NASCLA Exam Prep
 
@@ -37,22 +37,22 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ### Commercial General Building Contractor
 
-The NASCLA Accredited Examination for Commercial General Building Contractors is one standardized exam that.
+Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
 See Commercial GC packages →](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/) · [7 PRODUCTS · FROM $295.00
 
 ### Master Electrical Contractor
 
-NASCLA accredits trade examinations for electrical contractor licenses in participating states. Our master.
+Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.
 See Master Electrical packages →](https://passyournasclaexam.com/virginia/master-electrical-contractor/) · [5 PRODUCTS · FROM $295.00
 
 ### Journeyman Electrician
 
-Prep for NASCLA accredited journeyman electrician exams in the states that use them, with the reference.
+Reference books, tabbed sets, rentals and online prep for the NASCLA journeyman exam.
 See Journeyman packages →](https://passyournasclaexam.com/virginia/journeyman-electrician/) · [5 PRODUCTS · FROM $19.95
 
 ### Business and Law
 
-Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's.
+The state edition of NASCLA's business and law guide, on its own, with tabs, or highlighted and tabbed.
 See Business & Law packages →](https://passyournasclaexam.com/virginia/business-and-law/)
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: Georgia Res. B&L Guide + Tabs (3rd Ed.) (Option 2)
 url: https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed-2/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Georgia Residential and General Contractor Business and Law Examination with the from 1 Exam Prep. This convenient package combines the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Residential Business & Law Guide + Tabs (3rd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 

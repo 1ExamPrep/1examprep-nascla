@@ -1,13 +1,13 @@
 ---
 title: Oregon Business & Law Guide (2nd Ed.)
 url: https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-2nd-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The Oregon NASCLA Contractors Guide to Business, Law and Project Management, Oregon Construction Contractors 2nd Edition is an official NASCLA publication.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oregon](https://passyournasclaexam.com/oregon/) · [Business and Law](https://passyournasclaexam.com/oregon/business-and-law/) Business & Law Guide (2nd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Oregon](https://passyournasclaexam.com/oregon/) · [Business & Law](https://passyournasclaexam.com/oregon/business-and-law/)
 

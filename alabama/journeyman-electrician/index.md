@@ -1,13 +1,13 @@
 ---
 title: Alabama NASCLA Journeyman Electrician Exam Prep
 url: https://passyournasclaexam.com/alabama/journeyman-electrician/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Alabama journeyman electrician exam prep: 7 products from $295.00 to $2,215.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) Journeyman Electrician
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Alabama Journeyman Electrician Exam Prep
 

@@ -74,6 +74,13 @@ EXAM_COPY = {
         "intro": "Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's Guide to Business, Law and Project Management in the edition for your state. We carry each state edition on its own, with pre-printed tabs, or highlighted and tabbed.",
         "points": ["Each state has its own edition of the guide; use the one your state names.", "Tabbed and highlighted copies are cleared for open-book use in most states, but confirm with your candidate bulletin.", "Pair it with your trade exam package from the same state page."]},
 }
+EXAM_BLURB = {
+    "commercial-general-building-contractor": "Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.",
+    "master-electrical-contractor": "Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.",
+    "journeyman-electrician": "Reference books, tabbed sets, rentals and online prep for the NASCLA journeyman exam.",
+    "residential-electrical-contractor": "Reference books, tabbed sets, rentals and online prep for the NASCLA residential electrical exam.",
+    "business-and-law": "The state edition of NASCLA's business and law guide, on its own, with tabs, or highlighted and tabbed.",
+}
 PRODUCT_FAQ = [("Is the NASCLA exam open book?", "Yes. You bring the approved reference books, so knowing where things are in the books matters as much as knowing the material."),
                ("Are these the actual exam questions?", "No. Real exam questions are confidential. Practice questions are original material written to the same subjects and format, with explanations."),
                ("When will I get it?", "Online courses are delivered by email after purchase. Books ship from our fulfillment center, %s; shipping options are shown at checkout." % FUL["name"]),
@@ -444,7 +451,7 @@ def guide_page(s, G, ex, ps, rel, qa):
                     ("%s accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply." % s) if s in NCOMM else "",
                     "Books ship from our fulfillment center, %s; online courses arrive by email." % FUL["name"]])
     cards = "".join('<a class="exam" href="%s/"><span class="k">%d PRODUCTS \u00b7 FROM %s</span><h3>%s %s</h3><p>%s</p><span class="more">See %s packages \u2192</span></a>'
-                    % (k, len(items_for(s, k)), money(price_range(items_for(s, k))[0]), esc(s), esc(EXAMS[k]["name"]), esc(trim_desc(EXAM_COPY[k]["intro"], 110)), esc(EXAMS[k]["short"])) for k in ex)
+                    % (k, len(items_for(s, k)), money(price_range(items_for(s, k))[0]), esc(s), esc(EXAMS[k]["name"]), esc(EXAM_BLURB[k]), esc(EXAMS[k]["short"])) for k in ex)
     secs, toc = [], []
     for s_ in G.get("sections", []):
         h = s_.get("h2", "").strip()
@@ -493,7 +500,7 @@ for s in STATES + [None]:
     rel = "../"; ex = [k for k in EXAM_ORDER if items_for(s, k)]; ps = [p for p in CATALOG if p["state"] == s]
     if not ps: continue
     cards = "".join('<a class="exam" href="%s/"><span class="k">%d PRODUCTS · FROM %s</span><h3>%s</h3><p>%s</p><span class="more">See %s packages →</span></a>'
-                    % (k, len(items_for(s, k)), money(price_range(items_for(s, k))[0]), esc(EXAMS[k]["name"]), esc(trim_desc(EXAM_COPY[k]["intro"], 110)), esc(EXAMS[k]["short"])) for k in ex)
+                    % (k, len(items_for(s, k)), money(price_range(items_for(s, k))[0]), esc(EXAMS[k]["name"]), esc(EXAM_BLURB[k]), esc(EXAMS[k]["short"])) for k in ex)
     nm = sname(s)
     accept = ("%s accepts the NASCLA commercial building exam in place of its state trade exam; the board's own rules still apply." % s) if s in NCOMM else ""
     body = ('<section class="phead"><div class="wrap">%s<h1>%s NASCLA Exam Prep</h1><p class="lead">%s</p>%s</div></section>'
@@ -504,9 +511,10 @@ for s in STATES + [None]:
     body += '<section class="sec-tight"><div class="wrap"><div class="exams">%s</div></div></section>' % cards
     if s:
         qa = [("Does %s accept the NASCLA exam?" % s, ("Yes. %s accepts the NASCLA Accredited Examination for Commercial General Building Contractors in place of its state trade exam. You still apply to the %s board and meet its other requirements, which usually include a business and law exam." % (s, s)) if s in NCOMM else
-               "%s is not on NASCLA's list of states that accept the commercial building exam in place of the state trade exam. The prep listed here is for the %s exams named below; check the %s licensing board for which exams it requires." % (s, s, s)),
+               ("%s is not on NASCLA's list for the commercial building exam. %s" % (s, ("It does take part in NASCLA's separate electrical exam program; the guide below explains which electrical licenses that covers." if any(items_for(s, k) for k in ("master-electrical-contractor", "journeyman-electrician", "residential-electrical-contractor")) else "The prep here is for %s's own exams named below; check the %s licensing board for which exams it requires." % (s, s))))),
               ("Which NASCLA exams can I prepare for in %s?" % s, "%s. Each has its own page with the books, tabbed sets, rentals and online courses for that exam." % "; ".join("%s (%d products from %s)" % (EXAMS[k]["name"], len(items_for(s, k)), money(price_range(items_for(s, k))[0])) for k in ex)),
-              ("How do I register for the NASCLA exam?", "Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can schedule, and then you apply to the %s board with your passing record." % s)]
+              (("How do I register for the NASCLA exam?", "Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can schedule, and then you apply to the %s board with your passing record." % s) if s in NCOMM else
+               ("How do I schedule my %s exam?" % s, "Through the %s licensing board and its testing vendor, not through NASCLA's commercial exam portal. The guide below names the board and vendor and walks through the steps." % s))]
     else:
         qa = [("What are the nationwide NASCLA editions?", "Prep materials that are not tied to one state: the NASCLA commercial and electrical book packages, highlighted and tabbed sets, rentals and online courses, the Basic edition business and law guide, and the multi-state application bundle.")]
     body = body.replace('<section class="sec-tight"><div class="wrap"><div class="exams">', '<section class="sec-tight" style="padding-top:0"><div class="wrap">%s</div></section><section class="sec-tight"><div class="wrap"><div class="exams">' % quick_answers(qa), 1)

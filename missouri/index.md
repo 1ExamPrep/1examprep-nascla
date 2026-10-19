@@ -1,13 +1,13 @@
 ---
 title: Missouri NASCLA Exam Prep
 url: https://passyournasclaexam.com/missouri/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Missouri: Master Electrical. 6 products from $395.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Missouri
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Missouri NASCLA Exam Prep
 
@@ -22,21 +22,21 @@ NASCLA exam prep for Missouri: master electrical contractor. Pick your exam to s
 
 ### Does Missouri accept the NASCLA exam?
 
-Missouri is not on NASCLA's list of states that accept the commercial building exam in place of the state trade exam. The prep listed here is for the Missouri exams named below; check the Missouri licensing board for which exams it requires.
+Missouri is not on NASCLA's list for the commercial building exam. It does take part in NASCLA's separate electrical exam program; the guide below explains which electrical licenses that covers.
 
 ### Which NASCLA exams can I prepare for in Missouri?
 
 Master Electrical Contractor (6 products from $395.00). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
-### How do I register for the NASCLA exam?
+### How do I schedule my Missouri exam?
 
-Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can schedule, and then you apply to the Missouri board with your passing record.
+Through the Missouri licensing board and its testing vendor, not through NASCLA's commercial exam portal. The guide below names the board and vendor and walks through the steps.
 
 [6 PRODUCTS · FROM $395.00
 
 ### Master Electrical Contractor
 
-NASCLA accredits trade examinations for electrical contractor licenses in participating states. Our master.
+Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.
 See Master Electrical packages →](https://passyournasclaexam.com/missouri/master-electrical-contractor/)
 
 ---

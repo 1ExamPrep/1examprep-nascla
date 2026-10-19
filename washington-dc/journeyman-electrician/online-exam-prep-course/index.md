@@ -1,13 +1,13 @@
 ---
 title: Washington DC Online Exam Prep Course | NASCLA Journeyman
 url: https://passyournasclaexam.com/washington-dc/journeyman-electrician/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Washington DC NASCLA Journeyman Electrician examination with structured online exam preparation focused on electrical code, electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Washington DC](https://passyournasclaexam.com/washington-dc/) · [Journeyman Electrician](https://passyournasclaexam.com/washington-dc/journeyman-electrician/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Washington DC](https://passyournasclaexam.com/washington-dc/) · [Journeyman](https://passyournasclaexam.com/washington-dc/journeyman-electrician/)
 

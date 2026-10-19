@@ -1,13 +1,13 @@
 ---
 title: Idaho NASCLA Master Electrical FAQ
 url: https://passyournasclaexam.com/faq/idaho/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: 36 answers about the Idaho master electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Idaho Master Electrical
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Idaho Master Electrical Contractor exam: frequently asked questions
 

@@ -1,13 +1,13 @@
 ---
 title: West Virginia NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/west-virginia/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: 18 answers about the West Virginia commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) West Virginia Commercial GC
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # West Virginia Commercial General Building Contractor exam: frequently asked questions
 

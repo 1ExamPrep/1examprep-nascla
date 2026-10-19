@@ -1,13 +1,13 @@
 ---
 title: New Jersey NASCLA Exam Prep
 url: https://passyournasclaexam.com/new-jersey/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for New Jersey: Business & Law. 4 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) New Jersey
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # New Jersey NASCLA Exam Prep
 
@@ -22,21 +22,21 @@ NASCLA exam prep for New Jersey: business and law. Pick your exam to see the boo
 
 ### Does New Jersey accept the NASCLA exam?
 
-New Jersey is not on NASCLA's list of states that accept the commercial building exam in place of the state trade exam. The prep listed here is for the New Jersey exams named below; check the New Jersey licensing board for which exams it requires.
+New Jersey is not on NASCLA's list for the commercial building exam. The prep here is for New Jersey's own exams named below; check the New Jersey licensing board for which exams it requires.
 
 ### Which NASCLA exams can I prepare for in New Jersey?
 
 Business and Law (4 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
-### How do I register for the NASCLA exam?
+### How do I schedule my New Jersey exam?
 
-Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can schedule, and then you apply to the New Jersey board with your passing record.
+Through the New Jersey licensing board and its testing vendor, not through NASCLA's commercial exam portal. The guide below names the board and vendor and walks through the steps.
 
 [4 PRODUCTS · FROM $19.95
 
 ### Business and Law
 
-Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's.
+The state edition of NASCLA's business and law guide, on its own, with tabs, or highlighted and tabbed.
 See Business & Law packages →](https://passyournasclaexam.com/new-jersey/business-and-law/)
 
 ---

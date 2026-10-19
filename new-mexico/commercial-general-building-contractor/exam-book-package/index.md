@@ -1,13 +1,13 @@
 ---
 title: New Mexico Exam Book Package | NASCLA Commercial GC
 url: https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the New Mexico NASCLA Commercial General Building Contractor exam with a comprehensive exam book package built around the commercial construction.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Commercial General Building Contractor](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
 

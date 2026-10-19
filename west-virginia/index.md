@@ -1,13 +1,13 @@
 ---
 title: West Virginia NASCLA Exam Prep
 url: https://passyournasclaexam.com/west-virginia/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for West Virginia: Commercial GC, Master Electrical. 13 products from $295.00.
 ---
 
 [Home](https://passyournasclaexam.com/) West Virginia
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # West Virginia NASCLA Exam Prep
 
@@ -37,12 +37,12 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ### Commercial General Building Contractor
 
-The NASCLA Accredited Examination for Commercial General Building Contractors is one standardized exam that.
+Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
 See Commercial GC packages →](https://passyournasclaexam.com/west-virginia/commercial-general-building-contractor/) · [7 PRODUCTS · FROM $295.00
 
 ### Master Electrical Contractor
 
-NASCLA accredits trade examinations for electrical contractor licenses in participating states. Our master.
+Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.
 See Master Electrical packages →](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/)
 
 ---

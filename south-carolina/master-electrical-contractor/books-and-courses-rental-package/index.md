@@ -1,13 +1,13 @@
 ---
 title: South Carolina Master Electrical Book + Course Rental
 url: https://passyournasclaexam.com/south-carolina/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The South Carolina NASCLA Master Electrical Contractor – Books & Courses Rental Package by Pass Your NASCLA Exam Prep is designed to prepare candidates for.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Master Electrical Contractor](https://passyournasclaexam.com/south-carolina/master-electrical-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Master Electrical](https://passyournasclaexam.com/south-carolina/master-electrical-contractor/)
 

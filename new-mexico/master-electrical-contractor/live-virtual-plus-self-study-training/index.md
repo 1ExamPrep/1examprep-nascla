@@ -1,13 +1,13 @@
 ---
 title: New Mexico Master Electrical Live + Self-Study Training
 url: https://passyournasclaexam.com/new-mexico/master-electrical-contractor/live-virtual-plus-self-study-training/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a flexible training program that combines live virtual instruction with.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical Contractor](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) Live Virtual + Self-Study Training
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/)
 

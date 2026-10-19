@@ -1,13 +1,13 @@
 ---
 title: Louisiana B&L Guide H&T (12th Ed.)
 url: https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Strengthen your knowledge of Louisiana contractor business and law with the Lousiana NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) Business & Law Guide Highlighted & Tabbed (12th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business & Law](https://passyournasclaexam.com/louisiana/business-and-law/)
 

@@ -1,13 +1,13 @@
 ---
 title: Arkansas Business & Law Guide (8th Ed.)
 url: https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-8th-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The , authorized by the Arkansas Contractors Licensing Board (ACLB) and published by NASCLA, serves as the principal reference for the Arkansas Commercial.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) · [Business and Law](https://passyournasclaexam.com/arkansas/business-and-law/) Business & Law Guide (8th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arkansas](https://passyournasclaexam.com/arkansas/) · [Business & Law](https://passyournasclaexam.com/arkansas/business-and-law/)
 

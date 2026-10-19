@@ -1,13 +1,13 @@
 ---
 title: Louisiana NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Louisiana commercial general building contractor exam prep: 9 products from $124.99 to $4,269.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana Commercial General Building Contractor Exam Prep
 

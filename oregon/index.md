@@ -1,13 +1,13 @@
 ---
 title: Oregon NASCLA Exam Prep
 url: https://passyournasclaexam.com/oregon/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Oregon: Commercial GC, Business & Law. 10 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Oregon
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Oregon NASCLA Exam Prep
 
@@ -37,12 +37,12 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ### Commercial General Building Contractor
 
-The NASCLA Accredited Examination for Commercial General Building Contractors is one standardized exam that.
+Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
 See Commercial GC packages →](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) · [4 PRODUCTS · FROM $19.95
 
 ### Business and Law
 
-Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's.
+The state edition of NASCLA's business and law guide, on its own, with tabs, or highlighted and tabbed.
 See Business & Law packages →](https://passyournasclaexam.com/oregon/business-and-law/)
 
 ---

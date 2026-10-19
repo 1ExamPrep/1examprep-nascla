@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Residential Electrical Exam Prep
 url: https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: New Mexico residential electrical contractor exam prep: 6 products from $295.00 to $4,885.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) Residential Electrical Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico Residential Electrical Contractor Exam Prep
 

@@ -1,13 +1,13 @@
 ---
 title: Arizona Master Electrical The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/arizona/master-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors while building the licensing and business foundation needed to pursue the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical Contractor](https://passyournasclaexam.com/arizona/master-electrical-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical](https://passyournasclaexam.com/arizona/master-electrical-contractor/)
 

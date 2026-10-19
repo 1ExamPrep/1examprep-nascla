@@ -37,7 +37,7 @@
       "paragraphs": [
         "The [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/) in Montgomery licenses contractors on commercial, industrial and public projects. Under the Code of Alabama, you need this license when the cost of an undertaking, labor and materials included, is $100,000 or more. Swimming pool work has a lower $5,000 trigger. Subcontractors also need a license once their own contracts reach that minimum.",
         "The [Alabama Board of Electrical Contractors](https://aecb.alabama.gov/) licenses electrical contractors and journeyman electricians statewide. Its contractor application also points out that an electrical contractor taking on a job over $50,000 must hold a license from the General Contractors Board as well.",
-        "The [Alabama Home Builders Licensure Board](https://hblb.alabama.gov/how-to-get-licensed/) regulates residential construction and remodeling. Its applicant FAQ applies the license to residential jobs where labor and materials exceed $10,000. If you do both homes and commercial buildings, plan on holding more than one license."
+        "The [Alabama Home Builders Licensure Board](https://hblb.alabama.gov/how-to-get-licensed/) regulates residential construction and remodeling. Its applicant FAQ applies the license to residential jobs where labor and materials exceed $10,000. If you do both homes and commercial buildings, plan on holding more than one license. Each board keeps its own roster, so check the right one when you verify a competitor or a sub."
       ]
     },
     {
@@ -50,7 +50,8 @@
         "Subcontractor license from the General Contractors Board: trade and Business and Law exams as the board requires for your classification. Check with the board for your trade.",
         "Electrical contractor (Master Electrician): either the Alabama Electrical Contractor exam or the NASCLA Electrical Contractor exam, plus the Alabama Electrical Contractor Business and Law exam.",
         "Journeyman electrician: either the Alabama Journeyman exam or the NASCLA Journey-level Electrician exam.",
-        "Unlimited home builder: the Alabama Home Builders Business and Law exam and the Skills exam, both through Prov. Limited and roofer licenses follow different rules set by that board."
+        "Unlimited home builder: the Alabama Home Builders Business and Law exam and the Skills exam, both through Prov. Limited and roofer licenses follow different rules set by that board.",
+        "Not sure which applies? Call the board before you register for anything, because exam fees are not refunded if you test for the wrong license."
       ],
       "ordered": false
     },
@@ -100,7 +101,7 @@
     {
       "h2": "Alabama Contractor License Costs and Fees",
       "paragraphs": [
-        "These are the published figures we found on official pages. Fees change, so confirm with the board before you pay."
+        "These are the published figures we found on official pages. Fees change, so confirm with the board before you pay. Remember that study materials, notary costs, CPA fees for your financial statement and insurance premiums come on top of these."
       ],
       "list": [
         "General Contractors Board prime application: $300. Subcontractor application: $150.",
@@ -118,7 +119,7 @@
       "paragraphs": [
         "The General Contractors Board has reciprocity with Arkansas, Louisiana, Mississippi, North Carolina and Tennessee. You need a license in good standing in a comparable classification, held for at least one year, and the same qualifier must stand behind both licenses. The trade exam can be waived, but the Business and Law exam cannot.",
         "The Electrical Board accepts contractor licenses from Mississippi, Tennessee, North Carolina, South Carolina, Virginia, Ohio and Louisiana, and both contractor and journeyman licenses from Texas. It no longer has reciprocity with Georgia. You still pass the Business and Law exam through Prov first.",
-        "A NASCLA score travels further than any single agreement. Your result sits in the National Examination Database, and you can send it to any participating state that accepts that exam. If you plan to work in several Southern states, that is often the simplest way to avoid repeating a trade test."
+        "A NASCLA score travels further than any single agreement. Your result sits in the National Examination Database, and you can send it to any participating state that accepts that exam. If you plan to work in several Southern states, that is often the simplest way to avoid repeating a trade test. Each state still sets its own business, law and financial rules."
       ]
     },
     {
@@ -366,5 +367,5 @@
       "url": "https://passyournasclaexam.com/alabama/commercial-general-building-contractor/the-1-package-all-inclusive/"
     }
   ],
-  "word_count": 2549
+  "word_count": 2624
 }

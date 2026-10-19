@@ -1,13 +1,13 @@
 ---
 title: Arizona Master Electrical Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/arizona/master-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The is designed for electrical contractor candidates preparing for the NASCLA electrical trade exam option accepted for Arizona C-11 and CR-11 Electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical Contractor](https://passyournasclaexam.com/arizona/master-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical](https://passyournasclaexam.com/arizona/master-electrical-contractor/)
 

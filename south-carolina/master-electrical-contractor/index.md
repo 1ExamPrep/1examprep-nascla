@@ -1,13 +1,13 @@
 ---
 title: South Carolina NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/south-carolina/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: South Carolina master electrical contractor exam prep: 1 products from $1,995.00 to $1,995.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) Master Electrical Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # South Carolina Master Electrical Contractor Exam Prep
 

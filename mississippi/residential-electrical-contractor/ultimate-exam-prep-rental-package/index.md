@@ -1,13 +1,13 @@
 ---
 title: Mississippi Residential Electrical Ultimate Rental Package
 url: https://passyournasclaexam.com/mississippi/residential-electrical-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Mississippi NASCLA Residential Electrical Contractor examination with a complete Ultimate exam-preparation package that combines highlighted.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Residential Electrical Contractor](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Residential Electrical](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/)
 

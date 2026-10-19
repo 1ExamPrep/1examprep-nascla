@@ -1,13 +1,13 @@
 ---
 title: Nebraska Residential Electrical Ultimate Rental Package
 url: https://passyournasclaexam.com/nebraska/residential-electrical-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Nebraska NASCLA Residential Electrical Contractor examination with an Ultimate exam-preparation package that combines highlighted and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Residential Electrical Contractor](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Residential Electrical](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/)
 

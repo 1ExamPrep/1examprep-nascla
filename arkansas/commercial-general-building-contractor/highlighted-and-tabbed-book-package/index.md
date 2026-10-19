@@ -1,13 +1,13 @@
 ---
 title: Arkansas Commercial GC Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with a complete highlighted and tabbed reference-book set designed.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) · [Commercial General Building Contractor](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/) Highlighted & Tabbed Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arkansas](https://passyournasclaexam.com/arkansas/) · [Commercial GC](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/)
 

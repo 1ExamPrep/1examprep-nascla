@@ -1,13 +1,13 @@
 ---
 title: Utah Online Exam Prep Course | NASCLA Commercial GC
 url: https://passyournasclaexam.com/utah/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an online exam prep course designed for Utah contractor.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Utah](https://passyournasclaexam.com/utah/) · [Commercial General Building Contractor](https://passyournasclaexam.com/utah/commercial-general-building-contractor/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Utah](https://passyournasclaexam.com/utah/) · [Commercial GC](https://passyournasclaexam.com/utah/commercial-general-building-contractor/)
 

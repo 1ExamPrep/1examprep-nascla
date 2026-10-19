@@ -1,13 +1,13 @@
 ---
 title: Arkansas Commercial GC Books & Courses Rental Package
 url: https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Arkansas NASCLA Commercial General Building Contractor licensing process with a comprehensive rental package that combines the reference.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) · [Commercial General Building Contractor](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arkansas](https://passyournasclaexam.com/arkansas/) · [Commercial GC](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/)
 

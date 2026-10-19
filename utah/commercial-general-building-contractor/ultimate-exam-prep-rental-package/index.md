@@ -1,13 +1,13 @@
 ---
 title: Utah Commercial GC Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/utah/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Utah NASCLA Commercial General Building Contractor pathway with a comprehensive Ultimate Exam Prep Rental Package that combines an extensive.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Utah](https://passyournasclaexam.com/utah/) · [Commercial General Building Contractor](https://passyournasclaexam.com/utah/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Utah](https://passyournasclaexam.com/utah/) · [Commercial GC](https://passyournasclaexam.com/utah/commercial-general-building-contractor/)
 

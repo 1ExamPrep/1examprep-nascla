@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam Pre-Printed Tabs | NASCLA Master Electrical
 url: https://passyournasclaexam.com/national/master-electrical-contractor/exam-pre-printed-tabs/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The NASCLA Master Unlimited Electrical Contractor Exam Pre-Printed Tabs from Pass Your NASCLA Exam Prep are designed for licensed contractors preparing for.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical Contractor](https://passyournasclaexam.com/national/master-electrical-contractor/) Exam Pre-Printed Tabs
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical](https://passyournasclaexam.com/national/master-electrical-contractor/)
 

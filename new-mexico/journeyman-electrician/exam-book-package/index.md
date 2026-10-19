@@ -1,13 +1,13 @@
 ---
 title: New Mexico Exam Book Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/new-mexico/journeyman-electrician/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the New Mexico NASCLA Journeyman Electrician examination with a complete reference-book package built around the electrical codes, safety.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Journeyman Electrician](https://passyournasclaexam.com/new-mexico/journeyman-electrician/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/)
 

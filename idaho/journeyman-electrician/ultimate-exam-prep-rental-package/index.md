@@ -1,13 +1,13 @@
 ---
 title: Idaho Ultimate Exam Prep Rental Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/idaho/journeyman-electrician/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Idaho NASCLA Journeyman Electrician examination with a complete study package that combines online exam preparation, a highlighted and tabbed.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Idaho](https://passyournasclaexam.com/idaho/) · [Journeyman Electrician](https://passyournasclaexam.com/idaho/journeyman-electrician/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Idaho](https://passyournasclaexam.com/idaho/) · [Journeyman](https://passyournasclaexam.com/idaho/journeyman-electrician/)
 

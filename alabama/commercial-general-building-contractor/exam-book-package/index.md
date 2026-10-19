@@ -1,13 +1,13 @@
 ---
 title: Alabama Exam Book Package | NASCLA Commercial GC
 url: https://passyournasclaexam.com/alabama/commercial-general-building-contractor/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Alabama NASCLA Examination for Commercial General Building Contractors Complete Book Set Prepare for the Alabama Business and Law examination and the NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Commercial General Building Contractor](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Commercial GC](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/)
 

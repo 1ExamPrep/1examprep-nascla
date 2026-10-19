@@ -411,6 +411,7 @@ for k in EXAM_ORDER:
 # ---------- long-form state guides (content/states/<slug>.json) ----------
 GUIDE_DIR = os.path.join(ROOT, "content", "states")
 def load_guide(sl):
+    if os.environ.get("NO_GUIDES"): return None  # NO_GUIDES=1 python3 build.py builds the plain state pages
     f = os.path.join(GUIDE_DIR, sl + ".json")
     if not os.path.exists(f): return None
     try: return json.load(open(f, encoding="utf-8"))
@@ -698,7 +699,7 @@ for q in POSTS + PAGES:
     rel_posts = [r for r in POSTS if r["slug"] != q["slug"] and set(r["tags"]) & set(q["tags"])][:3] or [r for r in POSTS if r["slug"] != q["slug"]][:3]
     hero = ('<figure class="hero-img"><img src="%s" alt="%s"></figure>' % (esc(q["image"]), esc(q["title"]))) if q["image"] and q["image"] not in q["html"] else ""
     cr = [("Home", ""), (q["title"], path)] if is_page else [("Home", ""), ("Blog", "blog/"), (q["title"], path)]
-    body = ('<section class="phead"><div class="wrap" style="max-width:860px">%s<h1>%s</h1>%s</div></section><section class="sec-tight post" style="padding-top:0"><div class="wrap" style="max-width:860px">%s%s<article class="prose">%s</article></div></section>'
+    body = ('<section class="phead"><div class="wrap" style="max-width:860px">%s<h1>%s</h1>%s</div></section><section class="sec-tight post" style="padding-top:0"><div class="wrap" style="max-width:960px">%s%s<article class="post-body">%s</article></div></section>'
             % (crumbs_html(cr, rel), esc(q["title"]), "" if is_page else '<p class="post-meta"><time datetime="%s">%s</time><span>%d min read</span>%s</p>' % (q["date"], nice(q["date"]), max(1, round(q["words"] / 220)), ("<span>%s</span>" % esc(q["author"])) if q["author"] else ""),
                hero, takeaways(q.get("takeaways") or []), q["html"]))
     body += final_cta(("%s exams" % st) if st else "Ready to study?", ("See the %s NASCLA packages." % st) if st else "Pick your exam and state.", "Book packages, tabbed sets, rentals and online courses.", (rel + slug(st) + "/") if st else rel + "#exams", ("See %s" % st) if st else "Find my exam")

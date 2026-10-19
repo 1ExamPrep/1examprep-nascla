@@ -1,13 +1,13 @@
 ---
 title: North Carolina Commercial GC The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for North Carolina general contractor licensing with an all-inclusive package that combines NASCLA Commercial General Building Contractor exam.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial GC](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
 

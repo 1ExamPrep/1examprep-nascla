@@ -260,3 +260,11 @@ p{margin:0 0 1em}
 .toc ol{list-style:decimal;padding-left:20px;display:grid;gap:8px;font-size:14.5px}
 @media (min-width:1000px){.side-col .toc{position:sticky;top:90px}}
 .sources{margin-top:40px;color:var(--muted);font-size:15px}.sources h2{font-size:24px;color:var(--text)}.sources ol{padding-left:22px;display:grid;gap:6px}
+
+/* blog post body: a light paper panel, because posts from the dashboard and Rankwork carry their own styles written for a white page */
+.post-body{max-width:none;background:#F7F8FB;color:#1B2235;--text:#0B1226;border-radius:var(--r-lg);padding:36px 40px;margin-top:8px}
+.post-body a{color:#1D4ED8}.post-body a:hover{color:#1E3A8A}
+.post-body .faq details{background:#fff;border-color:#DDE2EC}.post-body .faq summary{color:#0B1226}.post-body .faq details p{color:#3A4359}
+.post-body img{border-radius:12px}
+.post-body h2{font-size:26px;margin:36px 0 12px}.post-body h3{font-size:20px;margin:26px 0 10px}.post-body ul,.post-body ol{padding-left:22px}.post-body li{margin:6px 0}
+@media (max-width:600px){.post-body{padding:22px 16px}}

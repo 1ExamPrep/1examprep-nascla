@@ -1,13 +1,13 @@
 ---
 title: Tennessee B&L Guide H&T (4th Ed.)
 url: https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Tennessee-NASCLA Contractors Guide to Business, Law and Project Management, Tennessee 4th Edition — Highlighted & Tabbed The *Tennessee-NASCLA Contractors.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Business and Law](https://passyournasclaexam.com/tennessee/business-and-law/) Business & Law Guide Highlighted & Tabbed (4th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Business & Law](https://passyournasclaexam.com/tennessee/business-and-law/)
 

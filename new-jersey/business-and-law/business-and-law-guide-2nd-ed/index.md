@@ -1,13 +1,13 @@
 ---
 title: New Jersey Business & Law Guide (2nd Ed.)
 url: https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-2nd-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The New Jersey NASCLA Contractors Guide to Business, Law and Project Management, 2nd Edition , published under the authority of the New Jersey Division of.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Jersey](https://passyournasclaexam.com/new-jersey/) · [Business and Law](https://passyournasclaexam.com/new-jersey/business-and-law/) Business & Law Guide (2nd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [New Jersey](https://passyournasclaexam.com/new-jersey/) · [Business & Law](https://passyournasclaexam.com/new-jersey/business-and-law/)
 

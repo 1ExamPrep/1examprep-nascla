@@ -1,13 +1,13 @@
 ---
 title: Washington DC NASCLA Exam Prep
 url: https://passyournasclaexam.com/washington-dc/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Washington DC: Journeyman. 5 products from $295.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Washington DC
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Washington DC NASCLA Exam Prep
 

@@ -1,13 +1,13 @@
 ---
 title: Georgia NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/georgia/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Georgia business and law exam prep: 13 products from $19.95 to $264.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Georgia Business and Law Exam Prep
 

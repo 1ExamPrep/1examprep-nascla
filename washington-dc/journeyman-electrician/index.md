@@ -1,13 +1,13 @@
 ---
 title: Washington DC NASCLA Journeyman Electrician Exam Prep
 url: https://passyournasclaexam.com/washington-dc/journeyman-electrician/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Washington DC journeyman electrician exam prep: 5 products from $295.00 to $1,795.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Washington DC](https://passyournasclaexam.com/washington-dc/) Journeyman Electrician
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Washington DC Journeyman Electrician Exam Prep
 

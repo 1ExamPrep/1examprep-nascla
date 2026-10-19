@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Exam Prep
 url: https://passyournasclaexam.com/new-mexico/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for New Mexico: Commercial GC, Master Electrical, Journeyman, Residential Electrical. 24 products from $295.00.
 ---
 
 [Home](https://passyournasclaexam.com/) New Mexico
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico NASCLA Exam Prep
 

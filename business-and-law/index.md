@@ -1,13 +1,13 @@
 ---
 title: NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's. 116 products across 18 states, from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 Contractor's Guide to Business, Law and Project Management
 
 # NASCLA Business and Law Exam Prep

@@ -1,13 +1,13 @@
 ---
 title: Florida NASCLA Exam Prep
 url: https://passyournasclaexam.com/florida/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Florida: Commercial GC, Residential Electrical, Business & Law. 18 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Florida
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Florida NASCLA Exam Prep
 

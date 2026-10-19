@@ -1,13 +1,13 @@
 ---
 title: Alabama Journeyman Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/alabama/journeyman-electrician/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: If you’re preparing for the NASCLA Accredited Examination for Journeyman Electricians in Alabama, you already know the biggest challenge isn’t just “knowing.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Journeyman Electrician](https://passyournasclaexam.com/alabama/journeyman-electrician/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Journeyman](https://passyournasclaexam.com/alabama/journeyman-electrician/)
 

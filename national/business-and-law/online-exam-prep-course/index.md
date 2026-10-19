@@ -1,13 +1,13 @@
 ---
 title: NASCLA Online Exam Prep Course | NASCLA Business & Law
 url: https://passyournasclaexam.com/national/business-and-law/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The NASCLA Contractors Guide to Business, Law and Project Management Basic Edition Online Practice Questions by Pass Your NASCLA Exam Prep is designed for.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Business and Law](https://passyournasclaexam.com/national/business-and-law/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Business & Law](https://passyournasclaexam.com/national/business-and-law/)
 

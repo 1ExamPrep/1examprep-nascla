@@ -1,13 +1,13 @@
 ---
 title: Oregon Books & Courses Rental Package | NASCLA Commercial GC
 url: https://passyournasclaexam.com/oregon/commercial-general-building-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Oregon NASCLA Commercial General Building Contractor pathway with a comprehensive books and courses rental package that combines the listed.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oregon](https://passyournasclaexam.com/oregon/) · [Commercial General Building Contractor](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Oregon](https://passyournasclaexam.com/oregon/) · [Commercial GC](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/)
 

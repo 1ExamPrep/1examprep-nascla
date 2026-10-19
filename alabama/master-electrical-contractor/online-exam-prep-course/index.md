@@ -1,13 +1,13 @@
 ---
 title: Alabama Online Exam Prep Course | NASCLA Master Electrical
 url: https://passyournasclaexam.com/alabama/master-electrical-contractor/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama NASCLA Master Electrical Contractor examination with an online exam prep course designed to help you organize your study time.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Master Electrical Contractor](https://passyournasclaexam.com/alabama/master-electrical-contractor/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Master Electrical](https://passyournasclaexam.com/alabama/master-electrical-contractor/)
 

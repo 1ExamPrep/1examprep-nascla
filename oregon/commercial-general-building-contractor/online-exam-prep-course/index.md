@@ -1,13 +1,13 @@
 ---
 title: Oregon Online Exam Prep Course | NASCLA Commercial GC
 url: https://passyournasclaexam.com/oregon/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an online exam prep course designed for Oregon contractor.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oregon](https://passyournasclaexam.com/oregon/) · [Commercial General Building Contractor](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Oregon](https://passyournasclaexam.com/oregon/) · [Commercial GC](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/)
 

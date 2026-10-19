@@ -1,13 +1,13 @@
 ---
 title: Arkansas NASCLA Exam Prep
 url: https://passyournasclaexam.com/arkansas/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Arkansas: Commercial GC, Business & Law. 11 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Arkansas
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Arkansas NASCLA Exam Prep
 

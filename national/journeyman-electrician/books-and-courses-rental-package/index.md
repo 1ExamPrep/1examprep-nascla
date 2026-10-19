@@ -1,13 +1,13 @@
 ---
 title: NASCLA Books & Courses Rental Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/national/journeyman-electrician/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Journeyman Electrical open-book exam with a complete rental package that combines the required reference books with an online trade.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Journeyman Electrician](https://passyournasclaexam.com/national/journeyman-electrician/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Journeyman](https://passyournasclaexam.com/national/journeyman-electrician/)
 

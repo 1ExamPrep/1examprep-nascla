@@ -1,13 +1,13 @@
 ---
 title: West Virginia NASCLA Exam Prep
 url: https://passyournasclaexam.com/west-virginia/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for West Virginia: Commercial GC, Master Electrical. 13 products from $295.00.
 ---
 
 [Home](https://passyournasclaexam.com/) West Virginia
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # West Virginia NASCLA Exam Prep
 

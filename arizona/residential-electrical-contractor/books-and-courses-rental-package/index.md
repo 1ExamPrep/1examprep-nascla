@@ -1,13 +1,13 @@
 ---
 title: Arizona Residential Electrical Book + Course Rental
 url: https://passyournasclaexam.com/arizona/residential-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The is designed for contractors preparing for the residential electrical contractor trade exam connected to the Arizona R-11 residential electrical license.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Residential Electrical Contractor](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Residential Electrical](https://passyournasclaexam.com/arizona/residential-electrical-contractor/)
 

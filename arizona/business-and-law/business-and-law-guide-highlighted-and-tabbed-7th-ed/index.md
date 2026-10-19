@@ -1,13 +1,13 @@
 ---
 title: Arizona Business & Law Guide Highlighted & Tabbed (7th Ed.)
 url: https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-highlighted-and-tabbed-7th-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The , available from Pass Your NASCLA Exam Prep, is the officially recognized reference manual for contractor licensing examinations administered by PSI on.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Business and Law](https://passyournasclaexam.com/arizona/business-and-law/) Business & Law Guide Highlighted & Tabbed (7th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Business & Law](https://passyournasclaexam.com/arizona/business-and-law/)
 

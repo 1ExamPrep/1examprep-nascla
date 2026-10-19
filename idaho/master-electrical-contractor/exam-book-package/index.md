@@ -1,13 +1,13 @@
 ---
 title: Idaho Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/idaho/master-electrical-contractor/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a comprehensive reference-book package built around the electrical code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Idaho](https://passyournasclaexam.com/idaho/) · [Master Electrical Contractor](https://passyournasclaexam.com/idaho/master-electrical-contractor/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Idaho](https://passyournasclaexam.com/idaho/) · [Master Electrical](https://passyournasclaexam.com/idaho/master-electrical-contractor/)
 

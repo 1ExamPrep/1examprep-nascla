@@ -1,13 +1,13 @@
 ---
 title: Nebraska NASCLA Exam Prep
 url: https://passyournasclaexam.com/nebraska/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Nebraska: Master Electrical, Journeyman, Residential Electrical. 18 products from $295.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Nebraska
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Nebraska NASCLA Exam Prep
 

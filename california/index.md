@@ -1,13 +1,13 @@
 ---
 title: California NASCLA Exam Prep
 url: https://passyournasclaexam.com/california/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for California: Commercial GC. 6 products from $395.00.
 ---
 
 [Home](https://passyournasclaexam.com/) California
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # California NASCLA Exam Prep
 

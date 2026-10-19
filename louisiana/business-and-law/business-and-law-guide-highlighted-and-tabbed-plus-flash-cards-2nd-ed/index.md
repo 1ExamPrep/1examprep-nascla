@@ -1,13 +1,13 @@
 ---
 title: Louisiana B&L Guide H&T + Flash Cards (2nd Ed.)
 url: https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Louisiana Master Plumber or Master Natural Gas Fitter licensing examination with the Louisiana NASCLA Highlighted & Tabbed Contractor's.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business & Law](https://passyournasclaexam.com/louisiana/business-and-law/)
 

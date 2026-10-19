@@ -1,13 +1,13 @@
 ---
 title: South Carolina B&L Guide H&T (9th Ed.)
 url: https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-highlighted-and-tabbed-9th-ed/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare your South Carolina commercial contractor reference book for faster, more organized exam-day navigation with the NASCLA Contractors Guide to.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business and Law](https://passyournasclaexam.com/south-carolina/business-and-law/) Business & Law Guide Highlighted & Tabbed (9th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business & Law](https://passyournasclaexam.com/south-carolina/business-and-law/)
 

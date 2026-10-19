@@ -253,3 +253,10 @@ p{margin:0 0 1em}
 .qa>h2{font-size:15px!important;font-family:var(--body);font-weight:700;color:var(--accent-hi);letter-spacing:0;margin-bottom:6px}
 .qa-item{padding:12px 0;border-top:1px solid var(--line2)}.qa-item:first-of-type{border-top:0}
 .qa-item h3{font-size:17px;margin:0 0 4px}.qa-item p{margin:0;color:var(--muted);font-size:16px}
+.byline{color:var(--dim);font-size:14px;margin:-6px 0 16px}
+.lead-2{color:var(--muted);font-size:17px;max-width:760px}
+.guide section{scroll-margin-top:90px}.guide h2{font-size:28px;margin:44px 0 14px}.guide section:first-child h2{margin-top:0}
+.guide a,.sources a,.lead a,.lead-2 a{color:var(--accent-hi)}
+.toc ol{list-style:decimal;padding-left:20px;display:grid;gap:8px;font-size:14.5px}
+@media (min-width:1000px){.side-col .toc{position:sticky;top:90px}}
+.sources{margin-top:40px;color:var(--muted);font-size:15px}.sources h2{font-size:24px;color:var(--text)}.sources ol{padding-left:22px;display:grid;gap:6px}

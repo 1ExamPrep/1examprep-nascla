@@ -1,13 +1,13 @@
 ---
 title: Kentucky Master Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/kentucky/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the Kentucky electrical licensing process with a comprehensive rental.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical Contractor](https://passyournasclaexam.com/kentucky/master-electrical-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical](https://passyournasclaexam.com/kentucky/master-electrical-contractor/)
 

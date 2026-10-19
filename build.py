@@ -408,6 +408,81 @@ for k in EXAM_ORDER:
           "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": absurl("%s/%s/" % (slug(s), k)), "name": "%s %s" % (s, E["name"])} for i, s in enumerate(sts)]}}],
           cta=("#main", "Choose my state"), route={"exam": k}, priority="0.9")
 
+# ---------- long-form state guides (content/states/<slug>.json) ----------
+GUIDE_DIR = os.path.join(ROOT, "content", "states")
+def load_guide(sl):
+    f = os.path.join(GUIDE_DIR, sl + ".json")
+    if not os.path.exists(f): return None
+    try: return json.load(open(f, encoding="utf-8"))
+    except Exception as e: print("guide skipped (bad JSON):", f, e); return None
+def md_inline(text, rel):
+    """plain text with [label](url) links -> safe HTML; links to this site become relative"""
+    out, pos = [], 0
+    for m in re.finditer(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", text):
+        out.append(esc(text[pos:m.start()])); url = m.group(2)
+        if SITE and url.startswith(SITE): out.append('<a href="%s%s">%s</a>' % (rel, esc(url[len(SITE):]), esc(m.group(1))))
+        else: out.append('<a href="%s" rel="noopener" target="_blank">%s</a>' % (esc(url), esc(m.group(1))))
+        pos = m.end()
+    out.append(esc(text[pos:])); return "".join(out)
+def plain_md(text): return re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+def guide_words(G):
+    parts = list(G.get("intro", [])) + [x for s_ in G.get("sections", []) for x in [s_.get("h2", "")] + s_.get("paragraphs", []) + s_.get("list", [])] + [x for q, a in G.get("faq", []) for x in (q, a)]
+    return len(" ".join(plain_md(p) for p in parts).split())
+def sec_id(h): return re.sub(r"[^a-z0-9]+", "-", h.lower()).strip("-")[:60] or "section"
+def guide_page(s, G, ex, ps, rel, qa):
+    nm = s; words = guide_words(G); mins = max(1, round(words / 230))
+    intro = G.get("intro", [])
+    lead = ('<p class="lead">%s</p>' % md_inline(intro[0], rel)) if intro else ""
+    more_intro = "".join('<p class="lead-2">%s</p>' % md_inline(p, rel) for p in intro[1:])
+    byline = '<p class="byline">By %s \u00b7 %d min read \u00b7 %d official sources cited</p>' % (esc(BRAND), mins, len(G.get("sources", [])))
+    tk = takeaways(["%d %s products for %d exam%s, from %s to %s." % (len(ps), s, len(ex), "" if len(ex) == 1 else "s", money(price_range(ps)[0]), money(price_range(ps)[1])),
+                    ("%s accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply." % s) if s in NCOMM else "",
+                    "Books ship from our fulfillment center, %s; online courses arrive by email." % FUL["name"]])
+    cards = "".join('<a class="exam" href="%s/"><span class="k">%d PRODUCTS \u00b7 FROM %s</span><h3>%s %s</h3><p>%s</p><span class="more">See %s packages \u2192</span></a>'
+                    % (k, len(items_for(s, k)), money(price_range(items_for(s, k))[0]), esc(s), esc(EXAMS[k]["name"]), esc(trim_desc(EXAM_COPY[k]["intro"], 110)), esc(EXAMS[k]["short"])) for k in ex)
+    secs, toc = [], []
+    for s_ in G.get("sections", []):
+        h = s_.get("h2", "").strip()
+        if not h: continue
+        sid = sec_id(h); toc.append('<li><a href="#%s">%s</a></li>' % (sid, esc(h)))
+        html_ = "".join("<p>%s</p>" % md_inline(p, rel) for p in s_.get("paragraphs", []))
+        if s_.get("list"):
+            tag = "ol" if s_.get("ordered") else "ul"
+            html_ += "<%s>%s</%s>" % (tag, "".join("<li>%s</li>" % md_inline(x, rel) for x in s_["list"]), tag)
+        secs.append('<section aria-labelledby="%s"><h2 id="%s">%s</h2>%s</section>' % (sid, sid, esc(h), html_))
+    faq_pairs = [(plain_md(q), plain_md(a)) for q, a in G.get("faq", [])]
+    faq_block = ('<section class="faq-sec" aria-labelledby="faq-h"><h2 id="faq-h">%s</h2>%s</section>' % (esc("%s NASCLA exam and license FAQ" % s), faq_html(faq_pairs))) if faq_pairs else ""
+    srcs = G.get("sources", [])
+    src_block = ('<section class="sources" aria-labelledby="src-h"><h2 id="src-h">Sources</h2><p>Facts on this page come from these official sources, checked %s. Rules and fees change, so confirm with the board before you apply.</p><ol>%s</ol></section>'
+                 % (datetime.date.fromisoformat(TODAY).strftime("%B %-d, %Y"), "".join('<li><a href="%s" rel="noopener" target="_blank">%s</a></li>' % (esc(x["url"]), esc(x["title"])) for x in srcs))) if srcs else ""
+    pk_rows = ""
+    for k in ex:
+        pk = sorted([p for p in items_for(s, k) if p["package"]], key=lambda p: (p["rank"], float(p["price"])))
+        if not pk: pk = sorted(items_for(s, k), key=lambda p: float(p["price"]))[:4]
+        pk_rows += ('<div class="group-h"><h3 style="font-size:22px;margin:0">%s %s packages</h3><p><a href="%s/">All %d products \u2192</a></p></div><div class="grid">%s</div>'
+                    % (esc(s), esc(EXAMS[k]["name"]), k, len(items_for(s, k)), "".join(card(p, rel) for p in pk[:3])))
+    side_pk = "".join('<li><a href="%s/">%s</a> <small>from %s</small></li>' % (k, esc(EXAMS[k]["name"]), money(price_range(items_for(s, k))[0])) for k in ex)
+    near = [x for x in STATES if x != s][:0]
+    body = ('<section class="phead"><div class="wrap" style="max-width:980px">%s<h1>%s</h1>%s%s%s</div></section>'
+            % (crumbs_html([("Home", ""), (nm, slug(s) + "/")], rel), esc(G.get("h1") or "%s NASCLA Exam Prep" % s), byline, lead, more_intro))
+    body += '<section class="sec-tight" style="padding-top:0"><div class="wrap">%s%s</div></section>' % (quick_answers(qa), tk)
+    body += '<section class="sec-tight"><div class="wrap"><h2 style="font-size:28px">Choose your %s exam</h2><div class="exams">%s</div></div></section>' % (esc(s), cards)
+    body += ('<section class="sec-tight"><div class="wrap"><div class="layout"><div class="main-col"><article class="prose guide">%s</article>%s%s</div>'
+             '<aside class="side-col"><div class="side-card toc"><h3>On this page</h3><ol>%s</ol></div><div class="side-card"><h3>%s exam prep</h3><ul>%s</ul></div></aside></div></div></section>'
+             % ("".join(secs), faq_block, src_block, "".join(toc), esc(s), side_pk))
+    body += '<section class="sec sec-alt" id="packages"><div class="wrap"><span class="eyebrow">Shop %s</span><h2>%s NASCLA exam prep packages</h2><p class="lead-s">Every package is built for the open-book format. Buy now opens secure checkout at %s.</p>%s</div></section>' % (esc(s), esc(s), esc(FUL["name"]), pk_rows)
+    body += final_cta("%s licensing" % s, "Ready to study for your %s exam?" % s, "Pick your exam above, or call %s and we will help you choose." % CFG["phone"], "#packages", "See %s packages" % s)
+    art = clean({"@context": "https://schema.org", "@type": "Article", "headline": (G.get("h1") or G.get("title"))[:110], "description": G.get("meta_description"), "url": absurl(slug(s) + "/"),
+                 "datePublished": LAUNCH, "dateModified": TODAY, "inLanguage": "en-US", "wordCount": words, "keywords": ", ".join(G.get("keywords", []) + G.get("package_keywords", [])),
+                 "author": {"@type": "Organization", "name": BRAND, "url": SITE}, "publisher": PUBLISHER, "about": [{"@type": "Place", "name": s}, {"@type": "Thing", "name": "NASCLA contractor licensing exams"}],
+                 "citation": [x["url"] for x in srcs], "image": ps[-1]["image"], "mainEntityOfPage": absurl(slug(s) + "/")})
+    title = G.get("title") if G.get("title") and len(G["title"]) <= 60 else "%s NASCLA Exam Prep" % s
+    desc = G.get("meta_description") or "NASCLA exam prep for %s." % s
+    if words < 1600: print("WARNING: %s guide has only %d words" % (s, words))
+    GUIDE_STATS.append((s, words, len(srcs)))
+    return body, title, desc, [art, faq_ld(qa + faq_pairs)]
+GUIDE_STATS = []
+
 # ---------- state hubs: /<state>/ ----------
 for s in STATES + [None]:
     rel = "../"; ex = [k for k in EXAM_ORDER if items_for(s, k)]; ps = [p for p in CATALOG if p["state"] == s]
@@ -430,6 +505,11 @@ for s in STATES + [None]:
     else:
         qa = [("What are the nationwide NASCLA editions?", "Prep materials that are not tied to one state: the NASCLA commercial and electrical book packages, highlighted and tabbed sets, rentals and online courses, the Basic edition business and law guide, and the multi-state application bundle.")]
     body = body.replace('<section class="sec-tight"><div class="wrap"><div class="exams">', '<section class="sec-tight" style="padding-top:0"><div class="wrap">%s</div></section><section class="sec-tight"><div class="wrap"><div class="exams">' % quick_answers(qa), 1)
+    G = load_guide(slug(s)) if s else None
+    if G:
+        gbody, gtitle, gdesc, glds = guide_page(s, G, ex, ps, rel, qa)
+        write([slug(s)], gbody, gtitle, gdesc, ps[-1]["image"], [crumbs_ld([("Home", ""), (nm, slug(s) + "/")])] + glds, cta=("#packages", "See packages"), route={"state": slug(s)}, priority="0.9")
+        continue
     write([slug(s)], body, ("%s NASCLA Exam Prep" % nm) if s else "Nationwide NASCLA Exam Prep Editions", "NASCLA exam prep for %s: %s. %d products from %s." % (nm, ", ".join(EXAMS[k]["short"] for k in ex), len(ps), money(price_range(ps)[0])),
           ps[-1]["image"], [crumbs_ld([("Home", ""), (nm, slug(s) + "/")]), faq_ld(qa)], cta=("#main", "Pick my exam"), route={"state": slug(s)}, priority="0.8")
 
@@ -715,4 +795,5 @@ open(os.path.join(ROOT, "agents.md"), "w", encoding="utf-8").write("\n".join(age
 if SITE:
     open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join("  <url><loc>%s</loc><lastmod>%s</lastmod><changefreq>weekly</changefreq><priority>%s</priority></url>\n" % (esc(u), TODAY, pr) for u, pr in URLS) + "</urlset>\n")
 elif os.path.exists(os.path.join(ROOT, "sitemap.xml")): os.remove(os.path.join(ROOT, "sitemap.xml"))
+if GUIDE_STATS: print("State guides: %d (words min %d, max %d)" % (len(GUIDE_STATS), min(w for _, w, _ in GUIDE_STATS), max(w for _, w, _ in GUIDE_STATS)))
 print("Built %d pages (%d listings, %d products, %d FAQ pages, %d posts), robots.txt, llms.txt, agents.md%s" % (len(GENERATED) + 1, len(LISTINGS), len(CATALOG), len(STATE_FAQS) + 1, len(POSTS), (", sitemap.xml with %d URLs" % len(URLS)) if SITE else ""))

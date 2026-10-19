@@ -1,13 +1,13 @@
 ---
 title: NASCLA Residential Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/national/residential-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: The from Pass Your NASCLA Exam Prep provides the complete set of official references required for the NASCLA Residential Electrical Contractor exam. This.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Residential Electrical Contractor](https://passyournasclaexam.com/national/residential-electrical-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Residential Electrical](https://passyournasclaexam.com/national/residential-electrical-contractor/)
 

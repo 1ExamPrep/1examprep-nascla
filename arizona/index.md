@@ -1,13 +1,13 @@
 ---
 title: Arizona NASCLA Exam Prep
 url: https://passyournasclaexam.com/arizona/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for Arizona: Commercial GC, Master Electrical, Residential Electrical, Business & Law. 24 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Arizona
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona NASCLA Exam Prep
 

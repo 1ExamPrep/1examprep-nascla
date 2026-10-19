@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam Prep Blog
 url: https://passyournasclaexam.com/blog/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Study plans, licensing steps and exam strategy for NASCLA commercial, electrical and business and law exams.
 ---
 
 [Home](https://passyournasclaexam.com/) Blog
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 # The NASCLA Exam Prep Blog
 

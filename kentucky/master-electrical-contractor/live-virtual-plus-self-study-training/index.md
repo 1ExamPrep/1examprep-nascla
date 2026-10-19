@@ -1,13 +1,13 @@
 ---
 title: Kentucky Master Electrical Live + Self-Study Training
 url: https://passyournasclaexam.com/kentucky/master-electrical-contractor/live-virtual-plus-self-study-training/
-updated: 2026-10-19
+updated: 2026-10-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a flexible training program that combines live virtual instruction with.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical Contractor](https://passyournasclaexam.com/kentucky/master-electrical-contractor/) Live Virtual + Self-Study Training
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical](https://passyournasclaexam.com/kentucky/master-electrical-contractor/)
 

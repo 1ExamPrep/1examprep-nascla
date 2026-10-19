@@ -192,7 +192,7 @@ def build(nodes):
 def main(path):
     nodes = json.load(open(path, encoding="utf-8"))
     cat, full, skipped = build(nodes)
-    for t in skipped: print("skipped (no exam matched):", t)
+    for t in skipped: print(t if t.startswith("duplicate") else "skipped (no exam matched): " + t)
     exams = {k: {"name": v[0], "short": v[1], "order": v[2]} for k, v in EXAMS.items()}
     js = ("/* Auto-generated from the 1 Exam Prep Shopify store (all products with NASCLA in the title), pulled %s. %d products. Regenerate with tools/build_catalog.py rather than hand-editing. */\nwindow.CATALOG=%s;\nwindow.CATALOG_STATES=%s;\nwindow.CATALOG_EXAMS=%s;\n"
           % (datetime.date.today().isoformat(), len(cat), json.dumps(cat, separators=(",", ":")), json.dumps(sorted({p["state"] for p in cat if p["state"]})), json.dumps(exams, separators=(",", ":"))))

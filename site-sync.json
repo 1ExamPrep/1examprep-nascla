@@ -1,0 +1,8 @@
+{
+  "_help": "Read by the site dashboard's Shopify sync. 'raw' means the dashboard commits the untouched Shopify product data to rawPath and this repo's tools/build_catalog.py turns it into shared/catalog.js (the dashboard never writes the catalog itself). The query decides which products are pulled; it overrides the Collection ID box in the dashboard.",
+  "catalog": "raw",
+  "query": "title:*NASCLA*",
+  "rawPath": "data/shopify/raw-products.json",
+  "workflow": "build.yml",
+  "minProducts": 100
+}

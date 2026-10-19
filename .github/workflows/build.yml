@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
     paths:
+      - "data/shopify/raw-products.json"
       - "shared/catalog.js"
       - "store/products-full.json"
       - "shared/site.css"
@@ -34,6 +35,8 @@ jobs:
       - name: Build pages
         run: |
           pip install -q pillow
+          # the site dashboard commits raw Shopify data here (see site-sync.json); turn it into the catalog with this site's rules
+          if [ -f data/shopify/raw-products.json ]; then python3 tools/build_catalog.py data/shopify/raw-products.json; fi
           python3 build.py
       - name: Commit generated pages
         run: |

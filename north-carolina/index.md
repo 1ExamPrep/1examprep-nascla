@@ -1,23 +1,21 @@
 ---
-title: North Carolina NASCLA Exam Prep
+title: North Carolina NASCLA Exam: License and Prep Guide
 url: https://passyournasclaexam.com/north-carolina/
 updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
-description: NASCLA exam prep for North Carolina: Commercial GC, Master Electrical, Residential Electrical, Business & Law. 27 products from $19.95.
+description: How the North Carolina NASCLA exam works for general and electrical contractor licenses, the extra state exams, financial rules, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) North Carolina
 Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
-# North Carolina NASCLA Exam Prep
+# North Carolina NASCLA Exam: Licensing Rules and Prep
 
-NASCLA exam prep for North Carolina: commercial general building contractor, master electrical contractor, residential electrical contractor, business and law. Pick your exam to see the books, tabbed sets, rentals and online courses.
+By Pass Your NASCLA Exam Prep · 11 min read · 10 official sources cited
 
-## Key takeaways
+North Carolina takes the NASCLA exam on two fronts. The North Carolina Licensing Board for General Contractors accepts the NASCLA commercial exam for its building license, and the State Board of Examiners of Electrical Contractors accepts two NASCLA electrical exams. Either way, passing NASCLA covers the trade test only. You still owe each board a state-focused exam, proof of experience or finances, and an application.
 
-- 27 products for 4 exams, from $19.95 to $4,799.00.
-- North Carolina accepts the NASCLA commercial building exam in place of its state trade exam; the board's own rules still apply.
-- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+This page breaks down how the North Carolina NASCLA exam fits each board's process, what the license limits mean for the jobs you can bid, the published fees, and which of our prep packages matches each exam. Each rule cites an official source listed at the bottom. Boards change fees and forms, so confirm current figures with the right board before you apply.
 
 ## Quick answers
 
@@ -33,27 +31,352 @@ Commercial General Building Contractor (8 products from $199.99); Master Electri
 
 Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can schedule, and then you apply to the North Carolina board with your passing record.
 
+## Key takeaways
+
+- 27 North Carolina products for 4 exams, from $19.95 to $4,799.00.
+- North Carolina accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
+## Choose your North Carolina exam
+
 [8 PRODUCTS · FROM $199.99
 
-### Commercial General Building Contractor
+### North Carolina Commercial General Building Contractor
 
 Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
 See Commercial GC packages →](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [7 PRODUCTS · FROM $295.00
 
-### Master Electrical Contractor
+### North Carolina Master Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.
 See Master Electrical packages →](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [6 PRODUCTS · FROM $295.00
 
-### Residential Electrical Contractor
+### North Carolina Residential Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA residential electrical exam.
 See Residential Electrical packages →](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [6 PRODUCTS · FROM $19.95
 
-### Business and Law
+### North Carolina Business and Law
 
 The state edition of NASCLA's business and law guide, on its own, with tabs, or highlighted and tabbed.
 See Business & Law packages →](https://passyournasclaexam.com/north-carolina/business-and-law/)
+
+## Does North Carolina accept the NASCLA exam?
+
+Yes. NASCLA's [participating agency list](https://www.nascla.org/page/ParticipatingAgencies) names the North Carolina Licensing Board for General Contractors (NCLBGC) for the Commercial Building Construction and Residential Building Contractor classifications. Our packages are built for the commercial exam and the Building classification. If you want to use NASCLA for a residential-only license, confirm it with the board first.
+
+For electrical work, the State Board of Examiners of Electrical Contractors (NCBEEC) has taken part in NASCLA's electrical program since early 2023. Its [NASCLA page](https://www.ncbeec.org/nascla/) matches each exam to a license. The Electrical Contractor/Master Electrician exam qualifies you to apply for Limited, Intermediate, Unlimited or Special Restricted (SP) licenses. The Residential Electrical Contractor exam qualifies you for the SP-SFD single-family dwelling license. NASCLA's [electrical list](https://www.nascla.org/page/ParticipatingAgencies_Electrical) does not show North Carolina accepting the Journeyman Electrician exam.
+
+Neither board treats NASCLA as a full license. The electrical board adds a short North Carolina laws and rules test, and general contractor candidates should plan for a North Carolina-specific exam on top of NASCLA. Experience, character, financial and application requirements all still apply.
+
+## Who issues contractor licenses in North Carolina
+
+North Carolina splits the work between separate boards. The [NCLBGC](https://nclbgc.org/) licenses general contractors under Chapter 87 of the General Statutes. Under [G.S. 87-1](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_87/GS_87-1.html), you need a general contractor license when a covered project costs $40,000 or more. There are exceptions, such as owners building on their own land for their own use and farmers building on their farmland.
+
+The [NCBEEC](https://www.ncbeec.org/licensing/) licenses electrical contracting firms. Each licensed firm lists at least one qualified individual who must be regularly on duty at each place of business to supervise the electrical work. According to the board's [FAQ](https://www.ncbeec.org/faq/), one qualified individual cannot sit on two license certificates at once, except where the same person holds licenses in different classifications.
+
+Plumbing, heating and fire sprinkler contractors fall under a different board, and NASCLA's commercial exam does not cover those trades. If your company does both building and electrical work, you will deal with both boards and hold two licenses.
+
+## North Carolina general contractor license types and limits
+
+General contractor licenses come in classifications and in dollar limits. Under [G.S. 87-10](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_87/GS_87-10.html), the classifications are Building, Residential, Highway, Public Utilities and Specialty. Building covers commercial, industrial, institutional, public and private buildings of every type, plus residential construction. NASCLA's commercial exam targets Building.
+
+Each license also carries a limitation that caps the value of any single project you can take on:
+
+- Limited: projects up to $750,000 each.
+- Intermediate: projects up to $1,500,000 each.
+- Unlimited: no cap on a single project.
+- Electrical Limited (NCBEEC): one project up to $60,000, with installations rated 600 volts or less, according to the board's licensing page.
+- Electrical Intermediate (NCBEEC): one project up to $150,000.
+- Electrical Unlimited (NCBEEC): no project value limit.
+- Electrical SP-SFD: Special Restricted single-family residential dwelling work.
+
+## How to get a North Carolina general contractor license with NASCLA
+
+Here is the general order for the Building classification. The electrical path follows a similar pattern with its own forms, covered further down.
+
+1. Pick your classification (Building) and the limitation you can support financially: Limited, Intermediate or Unlimited.
+2. Choose the qualifier, the person whose exam result backs the license.
+3. Apply for the NASCLA commercial exam at [ned.nascla.org](https://nascla.org/apply-nascla-exams), get approved, and schedule with PSI.
+4. Pass the NASCLA exam and pay to send your transcript to the NCLBGC.
+5. File the license application with the NCLBGC, including qualifier, business and financial information.
+6. Pass the North Carolina-specific exam the board requires of NASCLA candidates. Confirm the exam name and references with the board when you apply.
+7. Show financial responsibility for your limitation through statements or a surety bond.
+8. Complete any criminal background check the board requests, then wait for board approval before you bid covered work.
+
+## The NASCLA exams North Carolina accepts
+
+The NASCLA Commercial General Building Contractor exam has 115 scored questions in 330 minutes. It is open book and computer based, and you need 70 percent to pass (81 correct answers out of the 115 scored questions), which the [candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/1458) states as 81 correct. Unscored pretest items are added on top. Procurement and Contracting Requirements is the largest section at 31 questions, followed by General Requirements at 25 and Site Construction at 15. The bulletin lists a $130 exam fee paid to PSI.
+
+The [electrical bulletin](https://test-takers.psiexams.com/api/content/bulletin/6677) covers the electrical exams. The Electrical Contractor exam has 100 scored questions, 270 minutes and a passing score of 75. The Residential Electrical Contractor exam has 100 scored questions, 270 minutes and a passing score of 70. Each adds 10 unscored items, and either the 2020 or 2023 NEC is allowed.
+
+NASCLA's [application page](https://nascla.org/apply-nascla-exams) lists a $65 application fee. Approval usually takes up to seven business days and lasts one year, and you get up to three attempts in that year. Each transcript to a state agency costs $45 and stays valid for two years. The electrical board says NASCLA candidates must have transcripts sent as part of the application.
+
+You may highlight, underline and permanently tab your books. Sticky notes and loose papers are not allowed.
+
+## The North Carolina business and law exams
+
+General contractors: the NCLBGC's PSI [candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/451) lists a Business and Law exam of 40 questions in 90 minutes, with 70 percent to pass. Licensing is the biggest topic at 21 questions, followed by liens and bonds at 8, One Call at 5, and erosion and sedimentation control and subcontractor pay at 3 each. Allowed references include NASCLA's Contractor's Guide to Business, Law and Project Management, North Carolina General Contractors Edition, 10th Edition, the North Carolina Excavation Safety Guidelines, and the state sedimentation control code and statute. PSI charges $79 per attempt, and the board's eligibility letter is good for 120 days and one exam.
+
+The board's rules on which state exam a NASCLA candidate must take are not published in a form we could confirm online, so ask the NCLBGC directly when you file. Most candidates prepare with the 10th Edition NC General guide either way.
+
+Electrical contractors: under [21 NCAC 18B .0213](https://www.ncbeec.org/title-21-ncac-18b/), NASCLA candidates also take the North Carolina Laws, Rules and Business Practices test. You take it remotely, may use information from the board's website, and need at least 18 of 25 correct. NASCLA's store lists a [North Carolina Electrical 14th Edition](https://store.nascla.org/products/north-carolina-electrical-14th-edition) guide and notes that only the 14th edition is accepted for the board's testing from June 16, 2026.
+
+## Experience and financial requirements
+
+General contractors prove finances rather than years of experience. Under [21 NCAC 12 .0204](https://regulations.justia.com/states/north-carolina/title-21/chapter-12/subchapter-a/section-0200/section-12a-0204), a Limited applicant needs working capital of at least $17,000 or net worth of at least $80,000. Intermediate needs $75,000 in working capital and Unlimited needs $150,000, each shown in an agreed-upon procedures report or an audited statement. A surety bond can take the place of that showing: $175,000 for Limited, $500,000 for Intermediate and $1,000,000 for Unlimited. [G.S. 87-10](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_87/GS_87-10.html) also requires applicants to be at least 18 and of good moral character.
+
+Electrical contractors prove hours. [G.S. 87-43.3](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_87/GS_87-43.3.html) sets 3,000 hours for Limited (2,000 hands-on), 5,750 for Intermediate (5,000 hands-on) and 9,000 for Unlimited (8,000 hands-on). The board's rules set SP-SFD at 3,000 hours with at least 2,000 of primary experience. Applicants must be 18 or older and submit good character statements from at least two people. Intermediate and Unlimited applicants also provide a bonding ability statement or a line of credit letter from a bank.
+
+## North Carolina contractor license costs and fees
+
+These are published figures at the time of writing. Check each board before paying, since fees change.
+
+- NASCLA application: $65. NASCLA transcript to each agency: $45.
+- NASCLA commercial exam paid to PSI: $130, per the current bulletin.
+- NCLBGC exams through PSI: $79 per attempt. State law caps the board's exam fee at $100.
+- NCBEEC application and exam fee: $125.
+- NCBEEC annual license fee: $100 Limited, $150 Intermediate, $200 Unlimited, $100 Special Restricted.
+- NCBEEC late renewal fee: $25.
+
+## Reciprocity and working in other states
+
+The electrical board has written reciprocal agreements with Alabama, Florida, Georgia, Mississippi, Ohio, South Carolina, Tennessee, Texas, Virginia and West Virginia, according to its [reciprocity page](https://www.ncbeec.org/reciprocity/). Each state has its own eligibility rules and packet, so read the state-specific page before you apply.
+
+For general contractors, NASCLA acceptance works like a portable trade exam. Once you pass, your score sits in NASCLA's database and you can send transcripts to any participating agency on the [NASCLA list](https://www.nascla.org/page/ParticipatingAgencies). Many of those states also have their own business and law exam, just as North Carolina does.
+
+## North Carolina contractor exam prep: which package fits you
+
+Every package is built around open-book speed: knowing which book holds the answer and getting there fast. Orders are fulfilled by 1 Exam Prep, and prices are our current listed prices.
+
+Commercial General Building Contractor. See the [North Carolina commercial exam page](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/). If you own the books, the [Online Exam Prep Course](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/online-exam-prep-course/) (from $395) gives you structure, and the [Exam Pre-Printed Tabs](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/exam-pre-printed-tabs/) (from $199.99) save hours of tabbing. For the library, pick a [Complete Book Set](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/complete-book-set/) (from $2,199) or the [Complete Book Set - Book Package](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/complete-book-set-2/) (from $2,244). The [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/highlighted-and-tabbed-book-package/) (from $3,144) gives you the nascla highlighted and tabbed books North Carolina candidates want, ready on day one. The [Books & Courses Rental Package](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/books-and-courses-rental-package/) (from $3,734) and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/ultimate-exam-prep-rental-package/) (from $4,159) are our rental options. [The 1 Package: All-Inclusive](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/the-1-package-all-inclusive/) (from $4,799) adds the North Carolina state references, application service, LLC or corporation setup, EIN filing and compliance guidance.
+
+Business and Law. The [North Carolina business and law page](https://passyournasclaexam.com/north-carolina/business-and-law/) carries the NC Contractors Guide 10th Edition, with tabs or without: [Business & Law Guide (10th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/) from $124.99, [Business & Law Guide Tabs (10th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-tabs-10th-ed/) from $19.95, [Business & Law Guide + Tabs (10th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-plus-tabs-10th-ed/) from $134.99, and [Business & Law Guide Highlighted & Tabbed (10th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-highlighted-and-tabbed-10th-ed/) from $219.99.
+
+Master Electrical Contractor. The [master electrical page](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) offers the [Online Exam Prep Course](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/online-exam-prep-course/) (from $295), [Live Virtual + Self-Study Training](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/live-virtual-plus-self-study-training/) (from $595), the [Exam Book Package](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/exam-book-package/) (from $1,195), the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/highlighted-and-tabbed-book-package/) (from $1,695), the [Books & Courses Rental Package](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/books-and-courses-rental-package/) (from $2,090), the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/ultimate-exam-prep-rental-package/) (from $2,515) and [The 1 Package: All-Inclusive](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/the-1-package-all-inclusive/) (from $3,155).
+
+Residential Electrical Contractor (SP-SFD). The [residential electrical page](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) lists the [Online Exam Prep Course](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/online-exam-prep-course/) (from $295), [Exam Book Package](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/exam-book-package/) (from $1,695), [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/highlighted-and-tabbed-book-package/) (from $2,245), [Books & Courses Rental Package](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/books-and-courses-rental-package/) (from $2,595), [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/ultimate-exam-prep-rental-package/) (from $3,020) and [The 1 Package: All-Inclusive](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/the-1-package-all-inclusive/) (from $3,660).
+
+How to choose: the North Carolina NASCLA online course suits people who learn best with a plan, while highlighted and tabbed books suit people who want to skip the setup. A North Carolina NASCLA book rental package keeps up-front cost lower for the full library. Allow up to 15 business days for book and rental orders, and get your books before you book a test date.
+
+## After you pass: activation, renewal and continuing education
+
+Do not bid covered work until the board issues your license. For general contractors that means any covered project at or above $40,000. For electrical firms it means any electrical contracting at all.
+
+Electrical licenses renew every year. The [NCBEEC continuing education page](https://www.ncbeec.org/continuing-education/) describes an annual license period running July 1 to June 30. Qualified individuals on Limited, Intermediate, Unlimited and SP-SFD licenses need 8 hours of continuing education a year, and at least half must be classroom hours. Most other Special Restricted licenses need 4 hours.
+
+For general contractor renewals and any continuing education rules, check the NCLBGC's online licensing portal and laws and rules book. We could not confirm current figures from the board's site, so we have left them out rather than guess.
+
+## North Carolina NASCLA exam and license FAQ
+
+### Does North Carolina accept the NASCLA exam for a general contractor license?
+
+Yes. NASCLA lists the NCLBGC as accepting its commercial exam for the Building classification and also lists Residential Building Contractor. You still apply to the board, meet its financial standards and pass the state-specific exam it requires.
+
+### Do I still need the North Carolina Business and Law exam if I pass NASCLA?
+
+Plan on a North Carolina-specific exam either way. Electrical candidates must pass a 25-question remote Laws, Rules and Business Practices test with at least 18 correct. General contractor candidates should confirm with the NCLBGC which state exam applies when they file.
+
+### What project size requires a North Carolina general contractor license?
+
+Any covered project costing $40,000 or more. The license limitation then caps single jobs at $750,000 for Limited and $1,500,000 for Intermediate, with no cap for Unlimited.
+
+### How much working capital do I need for a North Carolina Unlimited license?
+
+At least $150,000 in working capital, shown in an audited statement or agreed-upon procedures report. A $1,000,000 surety bond can substitute for the working capital showing.
+
+### Which NASCLA electrical exams does North Carolina accept?
+
+The electrical board accepts the Electrical Contractor/Master Electrician exam for SP, Limited, Intermediate and Unlimited licenses, and the Residential Electrical Contractor exam for SP-SFD. You must have NASCLA send your transcript to the board.
+
+### How many hours of experience do I need for an NC Unlimited electrical license?
+
+9,000 hours, with at least 8,000 hands-on installation hours under the NEC. Limited needs 3,000 and Intermediate needs 5,750.
+
+### Which Contractors Guide edition does North Carolina use?
+
+The general contractor Business and Law exam lists the North Carolina General Contractors Edition, 10th Edition. For electrical, NASCLA's store says only the North Carolina Electrical 14th Edition is accepted from June 16, 2026.
+
+### How long is NASCLA exam approval good for?
+
+One year from approval, with up to three attempts in that window. After that you reapply as a re-applicant using the same NASCLA candidate ID.
+
+### Does North Carolina require continuing education for electrical contractors?
+
+Yes. Qualified individuals on Limited, Intermediate, Unlimited and SP-SFD licenses need 8 hours every annual license period, and at least half of those hours must be in a classroom.
+
+## Sources
+
+Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+
+1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
+2. [NASCLA: Participating Agencies (Electrical Exams)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)
+3. [NASCLA: Apply for NASCLA Exams](https://nascla.org/apply-nascla-exams)
+4. [NASCLA/PSI: Commercial General Building Contractor Candidate Bulletin](https://test-takers.psiexams.com/api/content/bulletin/1458)
+5. [PSI: NC Licensing Board for General Contractors Candidate Information Bulletin](https://test-takers.psiexams.com/api/content/bulletin/451)
+6. [NC General Assembly: G.S. 87-10 Board of Examiners; Qualifications](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_87/GS_87-10.html)
+7. [NC Administrative Code: 21 NCAC 12 .0204 Financial Responsibility](https://regulations.justia.com/states/north-carolina/title-21/chapter-12/subchapter-a/section-0200/section-12a-0204)
+8. [NCBEEC: NASCLA Qualified Licensing Information](https://www.ncbeec.org/nascla/)
+9. [NCBEEC: Title 21 NCAC 18B Rules](https://www.ncbeec.org/title-21-ncac-18b/)
+10. [NC General Assembly: G.S. 87-43.3 Electrical License Classifications](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_87/GS_87-43.3.html)
+
+### On this page
+
+1. Does North Carolina accept the NASCLA exam?
+2. Who issues contractor licenses in North Carolina
+3. North Carolina general contractor license types and limits
+4. How to get a North Carolina general contractor license with NASCLA
+5. The NASCLA exams North Carolina accepts
+6. The North Carolina business and law exams
+7. Experience and financial requirements
+8. North Carolina contractor license costs and fees
+9. Reciprocity and working in other states
+10. North Carolina contractor exam prep: which package fits you
+11. After you pass: activation, renewal and continuing education
+
+### North Carolina exam prep
+
+- [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) from $199.99
+- [Master Electrical Contractor](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) from $295.00
+- [Residential Electrical Contractor](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) from $295.00
+- [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) from $19.95
+
+Shop North Carolina
+
+## North Carolina NASCLA exam prep packages
+
+Every package is built for the open-book format. Buy now opens secure checkout at 1 Exam Prep.
+
+### North Carolina Commercial General Building Contractor packages
+
+[All 8 products →](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
+
+North Carolina · Commercial GC
+
+### [Online Exam Prep Course](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/online-exam-prep-course/)
+
+Prepare for the North Carolina NASCLA Commercial General Building Contractor exam with an online exam prep course designed to help you organize a broad…
+
+$395.00 (was $440.00) Save 10% options to $695.00
+[Buy now](https://1examprep.com/cart/45333789311033:1) · [Details](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/online-exam-prep-course/)
+
+North Carolina · Commercial GC
+
+### [Complete Book Set](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/complete-book-set/)
+
+The provides all state-approved trade references required for the NASCLA-accredited commercial general building contractor licensing exam in North Carolina. The set includes codes and…
+
+$2,199.00 (was $2,305.00) Save 5%
+[Buy now](https://1examprep.com/cart/32605357261:1) · [Details](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/complete-book-set/)
+
+North Carolina · Commercial GC
+
+### [Complete Book Set](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/complete-book-set-2/)
+
+Prepare for the North Carolina NASCLA Commercial General Building Contractor exam with a complete reference book package designed to support organized, open-book exam preparation.…
+
+$2,244.00 (was $2,344.00) Save 4% options to $3,144.00
+[Buy now](https://1examprep.com/cart/46240400212025:1) · [Details](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/complete-book-set-2/)
+
+### North Carolina Master Electrical Contractor packages
+
+[All 7 products →](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
+
+North Carolina · Master Electrical
+
+### [Online Exam Prep Course](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/online-exam-prep-course/)
+
+Prepare for the North Carolina NASCLA Master Electrical Contractor licensing pathway with online exam prep focused on the NASCLA Accredited Trade Examination for Electrical…
+
+$295.00 (was $395.00) Save 25%
+[Buy now](https://1examprep.com/cart/46439924138041:1) · [Details](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/online-exam-prep-course/)
+
+North Carolina · Master Electrical
+
+### [Live Virtual + Self-Study Training](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/live-virtual-plus-self-study-training/)
+
+Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a flexible training program that combines live virtual instruction with structured self-study preparation.…
+
+$595.00 (was $795.00) Save 25%
+[Buy now](https://1examprep.com/cart/46440622063673:1) · [Details](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/live-virtual-plus-self-study-training/)
+
+North Carolina · Master Electrical
+
+### [Exam Book Package](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/exam-book-package/)
+
+Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a comprehensive reference-book package built around the electrical code, electrical theory, workplace safety,…
+
+$1,195.00 (was $1,295.00) Save 8%
+[Buy now](https://1examprep.com/cart/46440175042617:1) · [Details](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/exam-book-package/)
+
+### North Carolina Residential Electrical Contractor packages
+
+[All 6 products →](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
+
+North Carolina · Residential Electrical
+
+### [Online Exam Prep Course](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/online-exam-prep-course/)
+
+Prepare for the North Carolina NASCLA Residential Electrical Contractor examination with structured online exam preparation focused on residential electrical code, electrical theory, workplace safety,…
+
+$295.00 (was $395.00) Save 25%
+[Buy now](https://1examprep.com/cart/46445161775161:1) · [Details](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/online-exam-prep-course/)
+
+North Carolina · Residential Electrical
+
+### [Exam Book Package](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/exam-book-package/)
+
+Prepare for the North Carolina NASCLA Residential Electrical Contractor examination with a complete reference-book package covering residential electrical code, electrical theory, construction safety, workplace…
+
+$1,695.00 (was $1,795.00) Save 6%
+[Buy now](https://1examprep.com/cart/46447850061881:1) · [Details](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/exam-book-package/)
+
+North Carolina · Residential Electrical
+
+### [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/highlighted-and-tabbed-book-package/)
+
+Prepare for the North Carolina NASCLA Residential Electrical Contractor examination with an organized highlighted and tabbed reference-book package covering residential electrical code, electrical theory,…
+
+$2,245.00 (was $2,445.00) Save 8%
+[Buy now](https://1examprep.com/cart/46447893217337:1) · [Details](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/highlighted-and-tabbed-book-package/)
+
+### North Carolina Business and Law packages
+
+[All 6 products →](https://passyournasclaexam.com/north-carolina/business-and-law/)
+
+North Carolina · Business & Law
+
+### [Business & Law Guide Tabs (10th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-tabs-10th-ed/)
+
+North Carolina NASCLA Contractor's Guide to Business, Law and Project Management NC General, 10th Edition; Pre-Printed Tabs The North Carolina NASCLA Contractor's Guide to…
+
+$19.95 (was $22.00) Save 9%
+[Buy now](https://1examprep.com/cart/31382919774265:1) · [Details](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-tabs-10th-ed/)
+
+North Carolina · Business & Law
+
+### [Business & Law Guide (13th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-13th-ed/)
+
+The North Carolina NASCLA Contractors Guide to Business, Law and Project Management, Electrical 13th Edition is an official reference manual used for the North…
+
+$124.99 (was $148.35) Save 16%
+[Buy now](https://1examprep.com/cart/19332443668537:1) · [Details](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-13th-ed/)
+
+North Carolina · Business & Law
+
+### [Business & Law Guide (10th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/)
+
+North Carolina NASCLA Contractor's Guide to Business, Law and Project Management NC General, 10th Edition The North Carolina NASCLA Contractor's Guide to Business, Law…
+
+$124.99 (was $138.25) Save 10%
+[Buy now](https://1examprep.com/cart/31381861138489:1) · [Details](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/)
+
+North Carolina licensing
+
+## Ready to study for your North Carolina exam?
+
+Pick your exam above, or call (877) 775-9400 and we will help you choose.
+See North Carolina packages
 
 ---
 

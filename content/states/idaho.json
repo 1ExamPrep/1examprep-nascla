@@ -1,352 +1,354 @@
 {
-  "state": "Idaho",
-  "slug": "idaho",
-  "title": "Idaho NASCLA Electrical Exam: Journeyman and Master Guide",
-  "meta_description": "How the Idaho NASCLA electrical exam works for journeyman and master electricians: PSI testing, hours, fees, contractor rules, and the prep packages that fit.",
-  "h1": "Idaho NASCLA Electrical Exam: How to Get Your Journeyman or Master License",
-  "keywords": [
-    "idaho nascla electrical exam",
-    "idaho journeyman electrician license",
-    "idaho master electrician license",
-    "idaho electrical contractor license",
-    "idaho electrician exam prep"
+ "state": "Idaho",
+ "slug": "idaho",
+ "title": "Idaho NASCLA Electrical Exam: Journeyman and Master Guide",
+ "meta_description": "How the Idaho NASCLA electrical exam works for journeyman and master electricians: PSI testing, hours, fees, contractor rules, and the prep packages that fit.",
+ "h1": "Idaho NASCLA Electrical Exam: How to Get Your Journeyman or Master License",
+ "keywords": [
+  "idaho nascla electrical exam",
+  "idaho journeyman electrician license",
+  "idaho master electrician license",
+  "idaho electrical contractor license",
+  "idaho electrician exam prep"
+ ],
+ "package_keywords": [
+  "idaho nascla highlighted and tabbed books",
+  "idaho journeyman electrician online course",
+  "idaho master electrician exam book package",
+  "idaho nascla electrical rental package",
+  "idaho master electrician live virtual training"
+ ],
+ "intro": [
+  "Idaho uses NASCLA's accredited electrical exams as its trade test for journeyman and master electricians. If you want either license, you will sit for a NASCLA exam through PSI, then apply to the Idaho Division of Occupational and Professional Licenses (DOPL). That makes Idaho one of the clearest NASCLA electrical states in the country: there is no separate state trade exam to pick from.",
+  "This page walks you through who issues the license, the hours you need, what the exam looks like, what it costs, how the contractor license fits in, and how to prepare. We are Pass Your NASCLA Exam Prep, and we sell books, tabbed book packages, rentals and courses built for the Idaho journeyman and master exams. Orders are fulfilled by 1 Exam Prep. Rules and fees change, so treat the figures below as the published numbers at the time of writing and confirm anything important with DOPL."
+ ],
+ "sections": [
+  {
+   "h2": "Does Idaho Accept the NASCLA Electrical Exam?",
+   "paragraphs": [
+    "Yes. NASCLA lists the [Idaho Electrical Board](https://www.nascla.org/electrical-exams-participating-state-agencies/idaho-electrical-board-division-occupational-and) as a participating agency for two of its electrical exams: Electrical Contractor/Master Electrician and Journeyman Electrician. Idaho goes further than accepting them. In June 2024, DOPL [announced](https://admws.idaho.gov/pipermail/dopl-communication/2024-June/000030.html) that it had partnered with NASCLA and PSI for its electrical exams, and that journeyman and master applicants must now pass the applicable NASCLA exam before they apply.",
+    "In practice, the NASCLA exam is the Idaho exam for these two licenses. You test first, and your passing score becomes part of your DOPL application. If you tested outside Idaho, the current journeyman and master applications ask you to attach a copy of your scores.",
+    "Passing does not hand you a license. DOPL still checks your hours, your apprenticeship or work verification, and the rest of your file. NASCLA's third electrical exam, Residential Electrical Contractor, is not on Idaho's list, and NASCLA's commercial general building exam is a separate program that Idaho does not appear on. Our Idaho products cover the journeyman and master electrical exams."
+   ]
+  },
+  {
+   "h2": "Who Issues Electrical Licenses in Idaho",
+   "paragraphs": [
+    "Electrical licensing in Idaho runs through the [Idaho Electrical Board](https://dopl.idaho.gov/ele/), which sits inside DOPL in Boise. The Board handles licenses and registrations for apprentices, journeymen, masters, contractors, limited installers, limited contractors and limited trainees. DOPL also sells electrical permits and schedules inspections, and its rules adopt the 2023 National Electrical Code as the Idaho Electrical Code.",
+    "You apply, renew and look up licenses through DOPL's online portal at edopl.idaho.gov. DOPL lists offices in Boise, Coeur d'Alene and Blackfoot, and its general line is (208) 334-3233. The governing rules are IDAPA 24.39.10, the [Rules of the Electrical Board](https://adminrules.idaho.gov/rules/current/24/243910.pdf), which set out the hour requirements, contractor supervision rules and specialty categories described below.",
+    "One more thing to know: DOPL has said the Board is moving to biennial licensure on October 30, 2026, and that the change may affect fees and renewal cycles. Check the Board News page before you budget for renewal."
+   ]
+  },
+  {
+   "h2": "Idaho Journeyman Electrician License and Master Electrician License Types",
+   "paragraphs": [
+    "Idaho separates individual licenses (the person doing or supervising the work) from the contractor license (the business). Here is how the main credentials line up with the exams."
+   ],
+   "list": [
+    "Journeyman Electrician: individual license. Exam is the NASCLA Journeyman Electrician exam through PSI.",
+    "Master Electrician: individual license for someone who has held a journeyman license for at least four years, or who qualifies by reciprocity. Exam is the NASCLA Electrical Contractor/Master Electrician exam through PSI. Idaho's rules say a master does not also need to hold a journeyman license.",
+    "Electrical Contractor: business license. It must be tied to a supervising electrician who holds a qualifying individual license. The contractor application includes its own exam step and an insurance requirement.",
+    "Limited Contractor, Limited Installer and Limited Trainee: specialty categories such as signs, elevators, limited energy, irrigation, well pumps, HVAC packaged units, outside wireman and solar PV. A limited installer needs 4,000 hours in the same category. These are outside the NASCLA journeyman and master exams.",
+    "Apprentice Registration: you must hold and keep it active while you earn journeyman hours."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "How to Get an Idaho Journeyman Electrician License or Master License, Step by Step",
+   "paragraphs": [
+    "The order matters in Idaho. You pass the NASCLA exam first, then submit the DOPL application with your score. Here is the path most candidates follow."
+   ],
+   "list": [
+    "Register as an electrical apprentice with DOPL and keep the registration active while you work.",
+    "Earn your journeyman hours: either a Board-approved four-year apprenticeship plus 8,000 hours of supervised installation work, or 16,000 hours of supervised electrical installation work verified on Work Verification Forms.",
+    "Register with PSI for the NASCLA Journeyman Electrician exam, then schedule and pay once your registration is accepted. If you finished the four-year program, you may test before all 8,000 hours are complete.",
+    "Pass the exam. Your score is reported to DOPL.",
+    "Submit the journeyman application with the processing fee, your passing score and your Work Verification Forms or apprenticeship certificate.",
+    "After at least four years as a licensed journeyman, register for the NASCLA Electrical Contractor/Master Electrician exam, pass it, and file the master application.",
+    "If you want to run a business, file the separate Electrical Contractor application, name your supervising electrician, pass the contractor exam step, and provide proof of insurance."
+   ],
+   "ordered": true
+  },
+  {
+   "h2": "The Idaho NASCLA Electrical Exam: Format, References and Scheduling",
+   "paragraphs": [
+    "Both Idaho electrical exams are open book and are given by PSI. According to the [NASCLA electrical candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/11743) that lists Idaho's test sites, each exam has 100 scored questions plus 10 unscored pretest questions. You get 270 minutes for the Master Electrician exam and 300 minutes for the Journeyman exam. The minimum passing score is 75 for master and 70 for journeyman. NASCLA says that since August 1, 2025 its electrical exams are based on the 2020 and 2023 NEC.",
+    "The bulletin lists the published exam fee as $75. It also states you may retake the exam if you fail, and that fees are valid for 90 days from payment. Idaho sites include Boise, Idaho Falls, Lewiston, Moscow and Twin Falls, with a PSI center in Spokane Valley, Washington nearby. You can schedule online or by phone at (855) 340-3713.",
+    "You must bring your own references. Both exams use the NEC (2020 or 2023), OSHA 29 CFR 1926 and 1910, NFPA 70E (2024), Ugly's Electrical References (2023) and Understanding Electrical Theory for NEC Applications. The journeyman exam adds NFPA 72 (2022). The master exam adds the PMBOK Guide, ANSI/ASHRAE/IES 90.1-2022 and the NASCLA Contractors Guide to Business, Law and Project Management, Basic 14th Edition. A plan set is provided at the site.",
+    "You can highlight, underline and add permanent tabs. Handwritten notes, loose papers and sticky notes are not allowed, so prepare your books well before test day."
+   ]
+  },
+  {
+   "h2": "The Business and Law Side of Idaho Electrical Licensing",
+   "paragraphs": [
+    "Idaho does not use a state edition of the NASCLA Contractors Guide. For the master exam, the reference is the Basic 14th Edition, and it supports the project management and business questions on that test.",
+    "The contractor license has its own exam step. The [Electrical Contractor application](https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf) says you will receive exam information once your application is approved, and that you must pass within one year of the application date. DOPL's [exam page](https://dopl.idaho.gov/ele/ele-program-exams/) also tells candidates to bring a printed, hole-punched copy of the DOPL Contractors' Business and Law Reference Manual in a three-ring binder when their exam calls for it. Read the PSI bulletin for your specific exam so you know exactly which materials apply to you."
+   ]
+  },
+  {
+   "h2": "Experience, Insurance and Contractor Requirements in Idaho",
+   "paragraphs": [
+    "Journeyman: Idaho's rules give two routes. One is 8,000 hours of apprentice work plus a four-year instruction sequence approved by the Idaho Division of Career-Technical Education. The other is 16,000 hours of electrical experience. Appliance repair, motor winding and communications work do not count. No more than 2,000 hours earned as a limited electrical installer or trainee can be applied. A provisional journeyman license is available to someone with 16,000 hours who has not yet passed the exam.",
+    "Master: the experience pathway requires at least four years holding a journeyman license. Out-of-state masters can apply by reciprocity with a License Verification Form showing licensure by exam, four years as a journeyman and an active master license.",
+    "Contractor: an individual applicant needs either 2,000 hours of work while holding an Idaho journeyman license or an active Idaho master license. A business must name a supervisory designee and employ at least one active Idaho journeyman or master. The supervising electrician must be available during working hours, and the contractor's scope of work is limited to the scope of its licensed employee. If that relationship ends, you must tell DOPL in writing within 10 business days and stop buying permits until a new supervisor is in place.",
+    "Insurance: after passing, a contractor must show $300,000 in liability insurance and workers' compensation unless exempt. We did not find a bond requirement on the electrical contractor application."
+   ]
+  },
+  {
+   "h2": "Idaho Electrical License Costs and Fees",
+   "paragraphs": [
+    "These are the published figures from the [Idaho Electrical Board](https://dopl.idaho.gov/ele/) and the current application forms. They may change with the move to biennial licensure, so confirm before you pay."
+   ],
+   "list": [
+    "NASCLA exam through PSI: $75 per the candidate bulletin.",
+    "Application fee: $15.",
+    "Journeyman license: $55 initial, $45 renewal, 3-year term. The application lists a $70 processing fee.",
+    "Master license: $65 initial, $45 renewal, 3-year term. The application lists an $80 processing fee.",
+    "Electrical Contractor: $125 license, $100 renewal, 1-year term, plus a $15 processing fee.",
+    "Apprentice registration: $15, 1-year term.",
+    "Paying by card through Access Idaho adds 2.5 percent."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "Reciprocity and Using Your NASCLA Score in Other States",
+   "paragraphs": [
+    "Idaho's journeyman and master applications both include a reciprocity route for people already licensed elsewhere. You need a License Verification Form from your current state; a copy of your license is not accepted.",
+    "Your NASCLA result can also travel. Passing scores go into NASCLA's National Examination Database at ned.nascla.org, where you can send a transcript to another participating agency. NASCLA's [electrical agency list](https://www.nascla.org/page/ParticipatingAgencies_Electrical) shows conditions vary. Utah wants a 12-month license from the state where you tested, New Mexico wants a letter of good standing showing one year of licensure, and Kentucky wants scores within three years. Always confirm with the receiving agency before you count on a transfer."
+   ]
+  },
+  {
+   "h2": "Idaho Electrician Exam Prep: Which Package Fits You",
+   "paragraphs": [
+    "Every product below is built around the references PSI lists for your exam. Start on the [Idaho journeyman page](https://passyournasclaexam.com/idaho/journeyman-electrician/) or the [Idaho master electrical contractor page](https://passyournasclaexam.com/idaho/master-electrical-contractor/) to compare.",
+    "For the journeyman exam: the [Online Exam Prep Course](https://passyournasclaexam.com/idaho/journeyman-electrician/online-exam-prep-course/) (from $295) suits you if you already own your books. The [Exam Book Package](https://passyournasclaexam.com/idaho/journeyman-electrician/exam-book-package/) (from $795) gives you the reference set, and the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/idaho/journeyman-electrician/highlighted-and-tabbed-book-package/) (from $1,145) gives you Idaho NASCLA highlighted and tabbed books ready for the test room. If you would rather not buy, the [Books & Courses Rental Package](https://passyournasclaexam.com/idaho/journeyman-electrician/books-and-courses-rental-package/) (from $1,370) and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/idaho/journeyman-electrician/ultimate-exam-prep-rental-package/) (from $1,795) are our Idaho NASCLA electrical rental package options. The Ultimate is $1,245 plus a $550 refundable deposit and includes seven highlighted and tabbed rental books, a year of course access and application service. Allow up to 15 business days for Ultimate orders.",
+    "For the master exam: the [Online Exam Prep Course](https://passyournasclaexam.com/idaho/master-electrical-contractor/online-exam-prep-course/) (from $295) and [Live Virtual + Self-Study Training](https://passyournasclaexam.com/idaho/master-electrical-contractor/live-virtual-plus-self-study-training/) (from $595) cover the material, with instructor-led sessions in the second. The Idaho master electrician [Exam Book Package](https://passyournasclaexam.com/idaho/master-electrical-contractor/exam-book-package/) (from $1,290) and [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/idaho/master-electrical-contractor/highlighted-and-tabbed-book-package/) (from $1,890) cover the nine-book reference list. The [Books & Courses Rental Package](https://passyournasclaexam.com/idaho/master-electrical-contractor/books-and-courses-rental-package/) (from $2,480), [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/idaho/master-electrical-contractor/ultimate-exam-prep-rental-package/) (from $2,905) and [The 1 Package: All-Inclusive](https://passyournasclaexam.com/idaho/master-electrical-contractor/the-1-package-all-inclusive/) (from $3,905) add more support, with The 1 Package also covering licensing and business setup.",
+    "However you study, practice timed lookups in the NEC index and tables. On an open-book test, speed finding the right page matters as much as knowing the answer."
+   ]
+  },
+  {
+   "h2": "After You Pass: Applying and Keeping Your Idaho License",
+   "paragraphs": [
+    "Once PSI reports your passing score, file your application with DOPL through edopl.idaho.gov, by email, by mail or in person. Applications expire one year after the application date, and you have one year from that date to pass any required exam.",
+    "Journeyman and master licenses currently run three years and contractor licenses one year, subject to the biennial change DOPL has announced for October 30, 2026. Idaho has continuing education rules for journeymen and masters; check the hours and course approval rules with DOPL before your renewal date. If you change supervising electricians or let insurance lapse, your contractor license is affected, so keep those records current."
+   ]
+  }
+ ],
+ "faq": [
+  [
+   "Does Idaho use the NASCLA exam for electricians?",
+   "Yes. Since June 2024, DOPL has required journeyman and master applicants to pass the applicable NASCLA exam through PSI before applying. NASCLA lists Idaho as accepting its Journeyman and Electrical Contractor/Master Electrician exams."
   ],
-  "package_keywords": [
-    "idaho nascla highlighted and tabbed books",
-    "idaho journeyman electrician online course",
-    "idaho master electrician exam book package",
-    "idaho nascla electrical rental package",
-    "idaho master electrician live virtual training"
+  [
+   "How many hours do I need for an Idaho journeyman electrician license?",
+   "You need either a Board-approved four-year apprenticeship plus 8,000 hours of supervised installation work, or 16,000 hours of supervised electrical experience. Appliance repair, motor winding and communications work do not count."
   ],
-  "intro": [
-    "Idaho uses NASCLA's accredited electrical exams as its trade test for journeyman and master electricians. If you want either license, you will sit for a NASCLA exam through PSI, then apply to the Idaho Division of Occupational and Professional Licenses (DOPL). That makes Idaho one of the clearest NASCLA electrical states in the country: there is no separate state trade exam to pick from.",
-    "This page walks you through who issues the license, the hours you need, what the exam looks like, what it costs, how the contractor license fits in, and how to prepare. We are Pass Your NASCLA Exam Prep, and we sell books, tabbed book packages, rentals and courses built for the Idaho journeyman and master exams. Orders are fulfilled by 1 Exam Prep. Rules and fees change, so treat the figures below as the published numbers at the time of writing and confirm anything important with DOPL."
+  [
+   "Can I take the journeyman exam before I finish my 8,000 hours?",
+   "Yes, if you have completed the four-year instruction program. DOPL will not issue the license until you document all 8,000 hours."
   ],
-  "sections": [
-    {
-      "h2": "Does Idaho Accept the NASCLA Electrical Exam?",
-      "paragraphs": [
-        "Yes. NASCLA lists the [Idaho Electrical Board](https://www.nascla.org/electrical-exams-participating-state-agencies/idaho-electrical-board-division-occupational-and) as a participating agency for two of its electrical exams: Electrical Contractor/Master Electrician and Journeyman Electrician. Idaho goes further than accepting them. In June 2024, DOPL [announced](https://admws.idaho.gov/pipermail/dopl-communication/2024-June/000030.html) that it had partnered with NASCLA and PSI for its electrical exams, and that journeyman and master applicants must now pass the applicable NASCLA exam before they apply.",
-        "In practice, the NASCLA exam is the Idaho exam for these two licenses. You test first, and your passing score becomes part of your DOPL application. If you tested outside Idaho, the current journeyman and master applications ask you to attach a copy of your scores.",
-        "Passing does not hand you a license. DOPL still checks your hours, your apprenticeship or work verification, and the rest of your file. NASCLA's third electrical exam, Residential Electrical Contractor, is not on Idaho's list, and NASCLA's commercial general building exam is a separate program that Idaho does not appear on. Our Idaho products cover the journeyman and master electrical exams."
-      ]
-    },
-    {
-      "h2": "Who Issues Electrical Licenses in Idaho",
-      "paragraphs": [
-        "Electrical licensing in Idaho runs through the [Idaho Electrical Board](https://dopl.idaho.gov/ele/), which sits inside DOPL in Boise. The Board handles licenses and registrations for apprentices, journeymen, masters, contractors, limited installers, limited contractors and limited trainees. DOPL also sells electrical permits and schedules inspections, and its rules adopt the 2023 National Electrical Code as the Idaho Electrical Code.",
-        "You apply, renew and look up licenses through DOPL's online portal at edopl.idaho.gov. DOPL lists offices in Boise, Coeur d'Alene and Blackfoot, and its general line is (208) 334-3233. The governing rules are IDAPA 24.39.10, the [Rules of the Electrical Board](https://adminrules.idaho.gov/rules/current/24/243910.pdf), which set out the hour requirements, contractor supervision rules and specialty categories described below.",
-        "One more thing to know: DOPL has said the Board is moving to biennial licensure on October 30, 2026, and that the change may affect fees and renewal cycles. Check the Board News page before you budget for renewal."
-      ]
-    },
-    {
-      "h2": "Idaho Journeyman Electrician License and Master Electrician License Types",
-      "paragraphs": [
-        "Idaho separates individual licenses (the person doing or supervising the work) from the contractor license (the business). Here is how the main credentials line up with the exams."
-      ],
-      "list": [
-        "Journeyman Electrician: individual license. Exam is the NASCLA Journeyman Electrician exam through PSI.",
-        "Master Electrician: individual license for someone who has held a journeyman license for at least four years, or who qualifies by reciprocity. Exam is the NASCLA Electrical Contractor/Master Electrician exam through PSI. Idaho's rules say a master does not also need to hold a journeyman license.",
-        "Electrical Contractor: business license. It must be tied to a supervising electrician who holds a qualifying individual license. The contractor application includes its own exam step and an insurance requirement.",
-        "Limited Contractor, Limited Installer and Limited Trainee: specialty categories such as signs, elevators, limited energy, irrigation, well pumps, HVAC packaged units, outside wireman and solar PV. A limited installer needs 4,000 hours in the same category. These are outside the NASCLA journeyman and master exams.",
-        "Apprentice Registration: you must hold and keep it active while you earn journeyman hours."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "How to Get an Idaho Journeyman Electrician License or Master License, Step by Step",
-      "paragraphs": [
-        "The order matters in Idaho. You pass the NASCLA exam first, then submit the DOPL application with your score. Here is the path most candidates follow."
-      ],
-      "list": [
-        "Register as an electrical apprentice with DOPL and keep the registration active while you work.",
-        "Earn your journeyman hours: either a Board-approved four-year apprenticeship plus 8,000 hours of supervised installation work, or 16,000 hours of supervised electrical installation work verified on Work Verification Forms.",
-        "Register with PSI for the NASCLA Journeyman Electrician exam, then schedule and pay once your registration is accepted. If you finished the four-year program, you may test before all 8,000 hours are complete.",
-        "Pass the exam. Your score is reported to DOPL.",
-        "Submit the journeyman application with the processing fee, your passing score and your Work Verification Forms or apprenticeship certificate.",
-        "After at least four years as a licensed journeyman, register for the NASCLA Electrical Contractor/Master Electrician exam, pass it, and file the master application.",
-        "If you want to run a business, file the separate Electrical Contractor application, name your supervising electrician, pass the contractor exam step, and provide proof of insurance."
-      ],
-      "ordered": true
-    },
-    {
-      "h2": "The Idaho NASCLA Electrical Exam: Format, References and Scheduling",
-      "paragraphs": [
-        "Both Idaho electrical exams are open book and are given by PSI. According to the [NASCLA electrical candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/11743) that lists Idaho's test sites, each exam has 100 scored questions plus 10 unscored pretest questions. You get 270 minutes for the Master Electrician exam and 300 minutes for the Journeyman exam. The minimum passing score is 75 for master and 70 for journeyman. NASCLA says that since August 1, 2025 its electrical exams are based on the 2020 and 2023 NEC.",
-        "The bulletin lists the published exam fee as $75. It also states you may retake the exam if you fail, and that fees are valid for 90 days from payment. Idaho sites include Boise, Idaho Falls, Lewiston, Moscow and Twin Falls, with a PSI center in Spokane Valley, Washington nearby. You can schedule online or by phone at (855) 340-3713.",
-        "You must bring your own references. Both exams use the NEC (2020 or 2023), OSHA 29 CFR 1926 and 1910, NFPA 70E (2024), Ugly's Electrical References (2023) and Understanding Electrical Theory for NEC Applications. The journeyman exam adds NFPA 72 (2022). The master exam adds the PMBOK Guide, ANSI/ASHRAE/IES 90.1-2022 and the NASCLA Contractors Guide to Business, Law and Project Management, Basic 14th Edition. A plan set is provided at the site.",
-        "You can highlight, underline and add permanent tabs. Handwritten notes, loose papers and sticky notes are not allowed, so prepare your books well before test day."
-      ]
-    },
-    {
-      "h2": "The Business and Law Side of Idaho Electrical Licensing",
-      "paragraphs": [
-        "Idaho does not use a state edition of the NASCLA Contractors Guide. For the master exam, the reference is the Basic 14th Edition, and it supports the project management and business questions on that test.",
-        "The contractor license has its own exam step. The [Electrical Contractor application](https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf) says you will receive exam information once your application is approved, and that you must pass within one year of the application date. DOPL's [exam page](https://dopl.idaho.gov/ele/ele-program-exams/) also tells candidates to bring a printed, hole-punched copy of the DOPL Contractors' Business and Law Reference Manual in a three-ring binder when their exam calls for it. Read the PSI bulletin for your specific exam so you know exactly which materials apply to you."
-      ]
-    },
-    {
-      "h2": "Experience, Insurance and Contractor Requirements in Idaho",
-      "paragraphs": [
-        "Journeyman: Idaho's rules give two routes. One is 8,000 hours of apprentice work plus a four-year instruction sequence approved by the Idaho Division of Career-Technical Education. The other is 16,000 hours of electrical experience. Appliance repair, motor winding and communications work do not count. No more than 2,000 hours earned as a limited electrical installer or trainee can be applied. A provisional journeyman license is available to someone with 16,000 hours who has not yet passed the exam.",
-        "Master: the experience pathway requires at least four years holding a journeyman license. Out-of-state masters can apply by reciprocity with a License Verification Form showing licensure by exam, four years as a journeyman and an active master license.",
-        "Contractor: an individual applicant needs either 2,000 hours of work while holding an Idaho journeyman license or an active Idaho master license. A business must name a supervisory designee and employ at least one active Idaho journeyman or master. The supervising electrician must be available during working hours, and the contractor's scope of work is limited to the scope of its licensed employee. If that relationship ends, you must tell DOPL in writing within 10 business days and stop buying permits until a new supervisor is in place.",
-        "Insurance: after passing, a contractor must show $300,000 in liability insurance and workers' compensation unless exempt. We did not find a bond requirement on the electrical contractor application."
-      ]
-    },
-    {
-      "h2": "Idaho Electrical License Costs and Fees",
-      "paragraphs": [
-        "These are the published figures from the [Idaho Electrical Board](https://dopl.idaho.gov/ele/) and the current application forms. They may change with the move to biennial licensure, so confirm before you pay."
-      ],
-      "list": [
-        "NASCLA exam through PSI: $75 per the candidate bulletin.",
-        "Application fee: $15.",
-        "Journeyman license: $55 initial, $45 renewal, 3-year term. The application lists a $70 processing fee.",
-        "Master license: $65 initial, $45 renewal, 3-year term. The application lists an $80 processing fee.",
-        "Electrical Contractor: $125 license, $100 renewal, 1-year term, plus a $15 processing fee.",
-        "Apprentice registration: $15, 1-year term.",
-        "Paying by card through Access Idaho adds 2.5 percent."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "Reciprocity and Using Your NASCLA Score in Other States",
-      "paragraphs": [
-        "Idaho's journeyman and master applications both include a reciprocity route for people already licensed elsewhere. You need a License Verification Form from your current state; a copy of your license is not accepted.",
-        "Your NASCLA result can also travel. Passing scores go into NASCLA's National Examination Database at ned.nascla.org, where you can send a transcript to another participating agency. NASCLA's [electrical agency list](https://www.nascla.org/page/ParticipatingAgencies_Electrical) shows conditions vary. Utah wants a 12-month license from the state where you tested, New Mexico wants a letter of good standing showing one year of licensure, and Kentucky wants scores within three years. Always confirm with the receiving agency before you count on a transfer."
-      ]
-    },
-    {
-      "h2": "Idaho Electrician Exam Prep: Which Package Fits You",
-      "paragraphs": [
-        "Every product below is built around the references PSI lists for your exam. Start on the [Idaho journeyman page](https://passyournasclaexam.com/idaho/journeyman-electrician/) or the [Idaho master electrical contractor page](https://passyournasclaexam.com/idaho/master-electrical-contractor/) to compare.",
-        "For the journeyman exam: the [Online Exam Prep Course](https://passyournasclaexam.com/idaho/journeyman-electrician/online-exam-prep-course/) (from $295) suits you if you already own your books. The [Exam Book Package](https://passyournasclaexam.com/idaho/journeyman-electrician/exam-book-package/) (from $795) gives you the reference set, and the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/idaho/journeyman-electrician/highlighted-and-tabbed-book-package/) (from $1,145) gives you Idaho NASCLA highlighted and tabbed books ready for the test room. If you would rather not buy, the [Books & Courses Rental Package](https://passyournasclaexam.com/idaho/journeyman-electrician/books-and-courses-rental-package/) (from $1,370) and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/idaho/journeyman-electrician/ultimate-exam-prep-rental-package/) (from $1,795) are our Idaho NASCLA electrical rental package options. The Ultimate is $1,245 plus a $550 refundable deposit and includes seven highlighted and tabbed rental books, a year of course access and application service. Allow up to 15 business days for Ultimate orders.",
-        "For the master exam: the [Online Exam Prep Course](https://passyournasclaexam.com/idaho/master-electrical-contractor/online-exam-prep-course/) (from $295) and [Live Virtual + Self-Study Training](https://passyournasclaexam.com/idaho/master-electrical-contractor/live-virtual-plus-self-study-training/) (from $595) cover the material, with instructor-led sessions in the second. The Idaho master electrician [Exam Book Package](https://passyournasclaexam.com/idaho/master-electrical-contractor/exam-book-package/) (from $1,290) and [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/idaho/master-electrical-contractor/highlighted-and-tabbed-book-package/) (from $1,890) cover the nine-book reference list. The [Books & Courses Rental Package](https://passyournasclaexam.com/idaho/master-electrical-contractor/books-and-courses-rental-package/) (from $2,480), [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/idaho/master-electrical-contractor/ultimate-exam-prep-rental-package/) (from $2,905) and [The 1 Package: All-Inclusive](https://passyournasclaexam.com/idaho/master-electrical-contractor/the-1-package-all-inclusive/) (from $3,905) add more support, with The 1 Package also covering licensing and business setup.",
-        "However you study, practice timed lookups in the NEC index and tables. On an open-book test, speed finding the right page matters as much as knowing the answer."
-      ]
-    },
-    {
-      "h2": "After You Pass: Applying and Keeping Your Idaho License",
-      "paragraphs": [
-        "Once PSI reports your passing score, file your application with DOPL through edopl.idaho.gov, by email, by mail or in person. Applications expire one year after the application date, and you have one year from that date to pass any required exam.",
-        "Journeyman and master licenses currently run three years and contractor licenses one year, subject to the biennial change DOPL has announced for October 30, 2026. Idaho has continuing education rules for journeymen and masters; check the hours and course approval rules with DOPL before your renewal date. If you change supervising electricians or let insurance lapse, your contractor license is affected, so keep those records current."
-      ]
-    }
+  [
+   "How long do I need to be a journeyman before getting an Idaho master license?",
+   "The experience pathway requires at least four years holding a journeyman license. Out-of-state masters can apply through reciprocity with a License Verification Form."
   ],
-  "faq": [
-    [
-      "Does Idaho use the NASCLA exam for electricians?",
-      "Yes. Since June 2024, DOPL has required journeyman and master applicants to pass the applicable NASCLA exam through PSI before applying. NASCLA lists Idaho as accepting its Journeyman and Electrical Contractor/Master Electrician exams."
-    ],
-    [
-      "How many hours do I need for an Idaho journeyman electrician license?",
-      "You need either a Board-approved four-year apprenticeship plus 8,000 hours of supervised installation work, or 16,000 hours of supervised electrical experience. Appliance repair, motor winding and communications work do not count."
-    ],
-    [
-      "Can I take the journeyman exam before I finish my 8,000 hours?",
-      "Yes, if you have completed the four-year instruction program. DOPL will not issue the license until you document all 8,000 hours."
-    ],
-    [
-      "How long do I need to be a journeyman before getting an Idaho master license?",
-      "The experience pathway requires at least four years holding a journeyman license. Out-of-state masters can apply through reciprocity with a License Verification Form."
-    ],
-    [
-      "How much does the Idaho NASCLA electrical exam cost?",
-      "The published PSI exam fee is $75. DOPL processing and license fees are separate, and they may change with the move to biennial licensure, so confirm with DOPL."
-    ],
-    [
-      "What score do I need to pass?",
-      "The PSI bulletin lists a minimum passing score of 70 for the journeyman exam and 75 for the master exam. Each exam has 100 scored questions plus 10 unscored pretest items."
-    ],
-    [
-      "Is the Idaho electrical exam open book?",
-      "Yes. You bring your own approved references, which may be highlighted, underlined and permanently tabbed. Handwritten notes and sticky notes are not allowed."
-    ],
-    [
-      "Is a master electrician license the same as an electrical contractor license in Idaho?",
-      "No. The master license is for you as an individual, while the contractor license is for the business. A contractor must have a qualifying supervising electrician, pass its own exam step and carry $300,000 in liability insurance."
-    ],
-    [
-      "Can I use an Idaho NASCLA score in another state?",
-      "Often, yes. Passing scores are stored in NASCLA's National Examination Database, and you can send a transcript to other participating agencies, but each one sets its own conditions."
-    ]
+  [
+   "How much does the Idaho NASCLA electrical exam cost?",
+   "The published PSI exam fee is $75. DOPL processing and license fees are separate, and they may change with the move to biennial licensure, so confirm with DOPL."
   ],
-  "sources": [
-    {
-      "title": "NASCLA: Idaho Electrical Board participating agency page",
-      "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/idaho-electrical-board-division-occupational-and"
-    },
-    {
-      "title": "NASCLA: Electrical exam participating agencies",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
-    },
-    {
-      "title": "NASCLA: Accredited Electrical Examination Program",
-      "url": "https://www.nascla.org/page/ElectricalExams"
-    },
-    {
-      "title": "PSI: NASCLA Electrical Contractor/Master and Journeyman candidate bulletin",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
-    },
-    {
-      "title": "Idaho DOPL: Electrical Board",
-      "url": "https://dopl.idaho.gov/ele/"
-    },
-    {
-      "title": "Idaho DOPL: Electrical licensing",
-      "url": "https://dopl.idaho.gov/ele/ele-licensing/"
-    },
-    {
-      "title": "Idaho DOPL: Electrical program information and exams",
-      "url": "https://dopl.idaho.gov/ele/ele-program-exams/"
-    },
-    {
-      "title": "Idaho DOPL: Electrical Journeyman and Master applications",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Journeyman-Application_06.18.24.pdf"
-    },
-    {
-      "title": "Idaho DOPL: Electrical Contractor application",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
-    },
-    {
-      "title": "Idaho Administrative Rules: IDAPA 24.39.10 Rules of the Electrical Board",
-      "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
-    }
+  [
+   "What score do I need to pass?",
+   "The PSI bulletin lists a minimum passing score of 70 for the journeyman exam and 75 for the master exam. Each exam has 100 scored questions plus 10 unscored pretest items."
   ],
-  "facts": [
-    {
-      "claim": "NASCLA lists Idaho as accepting the Electrical Contractor/Master Electrician and Journeyman Electrician exams",
-      "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/idaho-electrical-board-division-occupational-and"
-    },
-    {
-      "claim": "June 2024: DOPL partnered with NASCLA and PSI; applicants must pass the NASCLA exam before applying",
-      "url": "https://admws.idaho.gov/pipermail/dopl-communication/2024-June/000030.html"
-    },
-    {
-      "claim": "Out-of-state test takers attach a copy of their scores",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Master-Application_06.18.24.pdf"
-    },
-    {
-      "claim": "Idaho rules adopt the 2023 NEC",
-      "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
-    },
-    {
-      "claim": "Board moving to biennial licensure October 30, 2026",
-      "url": "https://dopl.idaho.gov/ele/"
-    },
-    {
-      "claim": "DOPL phone (208) 334-3233; offices in Boise, Coeur d'Alene, Blackfoot",
-      "url": "https://dopl.idaho.gov/ele/"
-    },
-    {
-      "claim": "Master electrician does not need to also hold a journeyman license",
-      "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
-    },
-    {
-      "claim": "Limited installer requires 4,000 hours in the same limited category",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/01/ELE-2023-Pending-Rule.pdf"
-    },
-    {
-      "claim": "Journeyman: four-year approved apprenticeship plus 8,000 hours, or 16,000 hours",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Journeyman-Application_06.18.24.pdf"
-    },
-    {
-      "claim": "Can test after four-year program; license not issued until 8,000 hours documented",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Journeyman-Application_06.18.24.pdf"
-    },
-    {
-      "claim": "Appliance repair, motor winding, communications experience excluded; max 2,000 hours as limited installer or trainee",
-      "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
-    },
-    {
-      "claim": "Provisional journeyman license for 16,000 hours without exam",
-      "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
-    },
-    {
-      "claim": "Master: journeyman license held at least 4 years; reciprocity with License Verification Form",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Master-Application_06.18.24.pdf"
-    },
-    {
-      "claim": "Each exam: 100 scored plus 10 pretest questions; 270 minutes master, 300 minutes journeyman; passing 75 master, 70 journeyman",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
-    },
-    {
-      "claim": "Exams based on 2020/2023 NEC from August 1, 2025",
-      "url": "https://www.nascla.org/page/ElectricalExams"
-    },
-    {
-      "claim": "PSI exam fee $75; retakes allowed; fees valid 90 days; PSI phone (855) 340-3713",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
-    },
-    {
-      "claim": "Idaho test sites Boise, Idaho Falls, Lewiston, Moscow, Twin Falls; Spokane Valley WA",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
-    },
-    {
-      "claim": "Reference lists and editions for master and journeyman exams, including NASCLA Contractors Guide Basic 14th Edition",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
-    },
-    {
-      "claim": "Highlighting, underlining and permanent tabs allowed; no handwritten notes, loose papers or sticky notes",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
-    },
-    {
-      "claim": "Contractor exam info sent after approval; pass within one year of application date",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
-    },
-    {
-      "claim": "Bring printed DOPL Contractors' Business and Law Reference Manual in a three-ring binder",
-      "url": "https://dopl.idaho.gov/ele/ele-program-exams/"
-    },
-    {
-      "claim": "Contractor: 2,000 hours as Idaho journeyman or active master; entity employs at least one journeyman or master",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
-    },
-    {
-      "claim": "Contractor scope equals scope of licensed employee; supervisor available during working hours; notify within 10 business days",
-      "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
-    },
-    {
-      "claim": "Contractor insurance $300,000 liability plus workers' compensation unless exempt",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
-    },
-    {
-      "claim": "Fees: application $15; journeyman $55/$45 3 yrs; master $65/$45 3 yrs; contractor $125/$100 1 yr; apprentice $15",
-      "url": "https://dopl.idaho.gov/ele/"
-    },
-    {
-      "claim": "Processing fees $70 journeyman, $80 master, $15 contractor; card payments add 2.5 percent",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Journeyman-Application_06.18.24.pdf"
-    },
-    {
-      "claim": "Utah requires 12-month license, New Mexico good standing letter one year, Kentucky scores within three years",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
-    },
-    {
-      "claim": "Passing scores stored in NASCLA National Examination Database; transcripts sent to agencies",
-      "url": "https://www.nascla.org/page/ElectricalExams"
-    },
-    {
-      "claim": "Contractor applications expire one year after application date",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
-    },
-    {
-      "claim": "Idaho has continuing education rules for journeymen and masters (hours to confirm with DOPL)",
-      "url": "https://dopl.idaho.gov/wp-content/uploads/2024/01/ELE-2023-Pending-Rule.pdf"
-    },
-    {
-      "claim": "Journeyman products: Online $295, Book $795, H&T $1,145, Rental $1,370, Ultimate $1,795",
-      "url": "https://passyournasclaexam.com/idaho/journeyman-electrician/"
-    },
-    {
-      "claim": "Ultimate journeyman: $1,245 plus $550 deposit; seven H&T rental books; 1 year course; application service; 15 business days",
-      "url": "https://passyournasclaexam.com/idaho/journeyman-electrician/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "Master products: Online $295, Live Virtual $595, Book $1,290, H&T $1,890, Rental $2,480, Ultimate $2,905, The 1 Package $3,905",
-      "url": "https://passyournasclaexam.com/idaho/master-electrical-contractor/"
-    }
+  [
+   "Is the Idaho electrical exam open book?",
+   "Yes. You bring your own approved references, which may be highlighted, underlined and permanently tabbed. Handwritten notes and sticky notes are not allowed."
   ],
-  "word_count": 2431
+  [
+   "Is a master electrician license the same as an electrical contractor license in Idaho?",
+   "No. The master license is for you as an individual, while the contractor license is for the business. A contractor must have a qualifying supervising electrician, pass its own exam step and carry $300,000 in liability insurance."
+  ],
+  [
+   "Can I use an Idaho NASCLA score in another state?",
+   "Often, yes. Passing scores are stored in NASCLA's National Examination Database, and you can send a transcript to other participating agencies, but each one sets its own conditions."
+  ]
+ ],
+ "sources": [
+  {
+   "title": "NASCLA: Idaho Electrical Board participating agency page",
+   "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/idaho-electrical-board-division-occupational-and"
+  },
+  {
+   "title": "NASCLA: Electrical exam participating agencies",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
+  },
+  {
+   "title": "NASCLA: Accredited Electrical Examination Program",
+   "url": "https://www.nascla.org/page/ElectricalExams"
+  },
+  {
+   "title": "PSI: NASCLA Electrical Contractor/Master and Journeyman candidate bulletin",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
+  },
+  {
+   "title": "Idaho DOPL: Electrical Board",
+   "url": "https://dopl.idaho.gov/ele/"
+  },
+  {
+   "title": "Idaho DOPL: Electrical licensing",
+   "url": "https://dopl.idaho.gov/ele/ele-licensing/"
+  },
+  {
+   "title": "Idaho DOPL: Electrical program information and exams",
+   "url": "https://dopl.idaho.gov/ele/ele-program-exams/"
+  },
+  {
+   "title": "Idaho DOPL: Electrical Journeyman and Master applications",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Journeyman-Application_06.18.24.pdf"
+  },
+  {
+   "title": "Idaho DOPL: Electrical Contractor application",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
+  },
+  {
+   "title": "Idaho Administrative Rules: IDAPA 24.39.10 Rules of the Electrical Board",
+   "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "NASCLA lists Idaho as accepting the Electrical Contractor/Master Electrician and Journeyman Electrician exams",
+   "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/idaho-electrical-board-division-occupational-and"
+  },
+  {
+   "claim": "June 2024: DOPL partnered with NASCLA and PSI; applicants must pass the NASCLA exam before applying",
+   "url": "https://admws.idaho.gov/pipermail/dopl-communication/2024-June/000030.html"
+  },
+  {
+   "claim": "Out-of-state test takers attach a copy of their scores",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Master-Application_06.18.24.pdf"
+  },
+  {
+   "claim": "Idaho rules adopt the 2023 NEC",
+   "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
+  },
+  {
+   "claim": "Board moving to biennial licensure October 30, 2026",
+   "url": "https://dopl.idaho.gov/ele/"
+  },
+  {
+   "claim": "DOPL phone (208) 334-3233; offices in Boise, Coeur d'Alene, Blackfoot",
+   "url": "https://dopl.idaho.gov/ele/"
+  },
+  {
+   "claim": "Master electrician does not need to also hold a journeyman license",
+   "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
+  },
+  {
+   "claim": "Limited installer requires 4,000 hours in the same limited category",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/01/ELE-2023-Pending-Rule.pdf"
+  },
+  {
+   "claim": "Journeyman: four-year approved apprenticeship plus 8,000 hours, or 16,000 hours",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Journeyman-Application_06.18.24.pdf"
+  },
+  {
+   "claim": "Can test after four-year program; license not issued until 8,000 hours documented",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Journeyman-Application_06.18.24.pdf"
+  },
+  {
+   "claim": "Appliance repair, motor winding, communications experience excluded; max 2,000 hours as limited installer or trainee",
+   "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
+  },
+  {
+   "claim": "Provisional journeyman license for 16,000 hours without exam",
+   "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
+  },
+  {
+   "claim": "Master: journeyman license held at least 4 years; reciprocity with License Verification Form",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Master-Application_06.18.24.pdf"
+  },
+  {
+   "claim": "Each exam: 100 scored plus 10 pretest questions; 270 minutes master, 300 minutes journeyman; passing 75 master, 70 journeyman",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
+  },
+  {
+   "claim": "Exams based on 2020/2023 NEC from August 1, 2025",
+   "url": "https://www.nascla.org/page/ElectricalExams"
+  },
+  {
+   "claim": "PSI exam fee $75; retakes allowed; fees valid 90 days; PSI phone (855) 340-3713",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
+  },
+  {
+   "claim": "Idaho test sites Boise, Idaho Falls, Lewiston, Moscow, Twin Falls; Spokane Valley WA",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
+  },
+  {
+   "claim": "Reference lists and editions for master and journeyman exams, including NASCLA Contractors Guide Basic 14th Edition",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
+  },
+  {
+   "claim": "Highlighting, underlining and permanent tabs allowed; no handwritten notes, loose papers or sticky notes",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/11743"
+  },
+  {
+   "claim": "Contractor exam info sent after approval; pass within one year of application date",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
+  },
+  {
+   "claim": "Bring printed DOPL Contractors' Business and Law Reference Manual in a three-ring binder",
+   "url": "https://dopl.idaho.gov/ele/ele-program-exams/"
+  },
+  {
+   "claim": "Contractor: 2,000 hours as Idaho journeyman or active master; entity employs at least one journeyman or master",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
+  },
+  {
+   "claim": "Contractor scope equals scope of licensed employee; supervisor available during working hours; notify within 10 business days",
+   "url": "https://adminrules.idaho.gov/rules/current/24/243910.pdf"
+  },
+  {
+   "claim": "Contractor insurance $300,000 liability plus workers' compensation unless exempt",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
+  },
+  {
+   "claim": "Fees: application $15; journeyman $55/$45 3 yrs; master $65/$45 3 yrs; contractor $125/$100 1 yr; apprentice $15",
+   "url": "https://dopl.idaho.gov/ele/"
+  },
+  {
+   "claim": "Processing fees $70 journeyman, $80 master, $15 contractor; card payments add 2.5 percent",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/06/Electrical-Journeyman-Application_06.18.24.pdf"
+  },
+  {
+   "claim": "Utah requires 12-month license, New Mexico good standing letter one year, Kentucky scores within three years",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
+  },
+  {
+   "claim": "Passing scores stored in NASCLA National Examination Database; transcripts sent to agencies",
+   "url": "https://www.nascla.org/page/ElectricalExams"
+  },
+  {
+   "claim": "Contractor applications expire one year after application date",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/07/Electrical-Contractor-Application.pdf"
+  },
+  {
+   "claim": "Idaho has continuing education rules for journeymen and masters (hours to confirm with DOPL)",
+   "url": "https://dopl.idaho.gov/wp-content/uploads/2024/01/ELE-2023-Pending-Rule.pdf"
+  },
+  {
+   "claim": "Journeyman products: Online $295, Book $795, H&T $1,145, Rental $1,370, Ultimate $1,795",
+   "url": "https://passyournasclaexam.com/idaho/journeyman-electrician/"
+  },
+  {
+   "claim": "Ultimate journeyman: $1,245 plus $550 deposit; seven H&T rental books; 1 year course; application service; 15 business days",
+   "url": "https://passyournasclaexam.com/idaho/journeyman-electrician/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "Master products: Online $295, Live Virtual $595, Book $1,290, H&T $1,890, Rental $2,480, Ultimate $2,905, The 1 Package $3,905",
+   "url": "https://passyournasclaexam.com/idaho/master-electrical-contractor/"
+  }
+ ],
+ "word_count": 2431,
+ "status": "published",
+ "checked": "2026-10-19"
 }

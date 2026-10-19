@@ -1,478 +1,480 @@
 {
-  "state": "Virginia",
-  "slug": "virginia",
-  "title": "Virginia NASCLA Exam: Contractor and Electrician Guide",
-  "meta_description": "How the Virginia NASCLA exam fits Class A, B and C contractor licensing and electrician licenses, plus business exam details, fees and prep packages.",
-  "h1": "Virginia NASCLA Exam: Contractor and Electrician Licensing",
-  "keywords": [
-    "virginia nascla exam",
-    "virginia contractor license",
-    "virginia class a contractor license",
-    "virginia master electrician exam",
-    "virginia journeyman electrician exam",
-    "virginia contractor exam prep"
+ "state": "Virginia",
+ "slug": "virginia",
+ "title": "Virginia NASCLA Exam: Contractor and Electrician Guide",
+ "meta_description": "How the Virginia NASCLA exam fits Class A, B and C contractor licensing and electrician licenses, plus business exam details, fees and prep packages.",
+ "h1": "Virginia NASCLA Exam: Contractor and Electrician Licensing",
+ "keywords": [
+  "virginia nascla exam",
+  "virginia contractor license",
+  "virginia class a contractor license",
+  "virginia master electrician exam",
+  "virginia journeyman electrician exam",
+  "virginia contractor exam prep"
+ ],
+ "package_keywords": [
+  "virginia nascla highlighted and tabbed books",
+  "virginia nascla online course",
+  "virginia nascla book rental",
+  "virginia business and law book 11th edition",
+  "virginia master electrician exam book package"
+ ],
+ "intro": [
+  "Virginia is one of the states where the NASCLA exam carries the most weight. The Board for Contractors accepts the NASCLA Accredited Examination for Commercial General Building Contractors for its Commercial Building Contractor (CBC) classification, and it also participates in NASCLA's electrical program for both master and journeyman electricians.",
+  "Virginia licensing has more moving parts than most states. Every contractor license combines a class (A, B or C) with one or more classifications or specialties, and each part has its own rules. You may need pre-license education, a business exam for a designated employee, a qualified individual with the right experience, and financial documentation, all on top of the trade exam.",
+  "This page lays out how the Virginia NASCLA exam fits into that system, what each requirement involves, and which study materials match each exam. Pass Your NASCLA Exam Prep sells the books, tabs, courses and rentals for every exam listed here, and orders are fulfilled by 1 Exam Prep. Rules and fees change, so confirm the current details with the Board before you apply."
+ ],
+ "sections": [
+  {
+   "h2": "Does Virginia accept the NASCLA exam?",
+   "paragraphs": [
+    "Yes, for three exams. NASCLA's participating agency list shows the Virginia Board for Contractors accepting the commercial exam as of January 1, 2016, as comparable to the Commercial Building classification. Separately, NASCLA's electrical program list shows Virginia accepting the Electrical Contractor/Master Electrician exam and the Journeyman Electrician exam as of June 2019.",
+    "For contractors, the NASCLA commercial exam takes the place of the trade exam for the CBC classification. The Board's current license application says the NASCLA exam is equivalent, but you must still show compatible experience. In other words, a passing score does not excuse your qualified individual from the experience requirement for your license class.",
+    "Passing NASCLA also does not replace Virginia's business requirements. Class A and Class B firms still need a designated employee who passes the Virginia business exam, and every new firm still needs the 8-hour pre-license course. Those are covered further down.",
+    "Check the [NASCLA commercial list](https://www.nascla.org/page/ParticipatingAgencies) and the [NASCLA electrical list](https://www.nascla.org/page/ParticipatingAgencies_Electrical) for the current entries before you register."
+   ]
+  },
+  {
+   "h2": "Who issues Virginia contractor and electrician licenses",
+   "paragraphs": [
+    "The Virginia Board for Contractors, part of the Department of Professional and Occupational Regulation (DPOR), licenses firms that build, remove, repair or improve structures on property owned by others. It also regulates individual tradesmen, including journeyman and master electricians, through its Tradesmen Program.",
+    "That split matters. A contractor license belongs to the business. A tradesman license belongs to a person. If you want to run an electrical contracting company, you will typically deal with both: an individual master electrician license and a firm license with the Electrical specialty.",
+    "DPOR uses PSI as its exam vendor for contractor and tradesman exams. You will find forms, regulations and fee details on the Board's [contractor page](https://www.dpor.virginia.gov/Boards/Contractors) and the [Tradesmen Program page](https://www.dpor.virginia.gov/Boards/Tradesmen). The Board's licensing line is (804) 367-8511.",
+    "Before you file anything, look up any existing license you or your business partners hold with DPOR's license lookup. The application asks about current and past contractor licenses in Virginia and elsewhere, including any disciplinary history, so it helps to have those details ready. Questions about pre-license education go to the Board's education line at (804) 367-2224."
+   ]
+  },
+  {
+   "h2": "Virginia contractor license classes and which exam each needs",
+   "paragraphs": [
+    "Your license class sets how large a job you can take. Under the Code of Virginia, Class C covers single contracts over $1,000 and under $30,000, with under $250,000 in total over 12 months. Class B covers single contracts of $30,000 to under $150,000, or $250,000 to under $1,000,000 in 12 months. Class A covers single contracts of $150,000 or more, or $1,000,000 or more in 12 months.",
+    "Your classification sets the type of work. For commercial buildings, that is CBC. The license application lists CBC among the designations that require pre-approval and an exam, and that exam is where NASCLA comes in. Electrical contracting falls under the Electrical specialty, where the qualified individual must hold a Virginia master electrician license.",
+    "The business exam depends on class. Class A and B firms need a designated employee who passes PSI's contractor business exam. Class C firms do not take that exam, but a member of responsible management must still complete the pre-license course. In short:"
+   ],
+   "list": [
+    "CBC trade exam: the NASCLA commercial exam.",
+    "Individual master or journeyman electrician license: the NASCLA electrical exam for that level.",
+    "Class A or B designated employee: the PSI business exam portions for your class."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "How to get a Virginia contractor license with NASCLA, step by step",
+   "paragraphs": [
+    "This order works for a Class A or B firm seeking the CBC classification. Class C applicants skip the designated employee exam and the financial statement."
+   ],
+   "list": [
+    "Pick your class based on the size of the contracts you plan to sign.",
+    "Form the business and identify its responsible management.",
+    "Have a member of responsible management, or the designated employee for Class A or B, complete the 8-hour Board-approved pre-license course.",
+    "Choose a qualified individual for CBC with enough experience for your class.",
+    "Apply for the NASCLA commercial exam at ned.nascla.org, complete pre-approval, and pass it.",
+    "Send your NASCLA transcript to the Board through the National Examination Database.",
+    "Have your designated employee pass the PSI business exam portions for your class.",
+    "Prepare financial documentation for Class A or B: a financial statement, CPA review or audit, or the Board's surety bond form.",
+    "Submit the license application with the fee, experience verification and certificates.",
+    "Wait for your license before contracting."
+   ],
+   "ordered": true
+  },
+  {
+   "h2": "The NASCLA commercial and electrical exams",
+   "paragraphs": [
+    "The NASCLA Accredited Examination for Commercial General Building Contractors has 115 scored questions, a 330-minute limit, and a 70 percent passing score. It may include extra unscored pretest items. You bring your own approved references because the test center does not provide them.",
+    "The commercial reference list is broad: project and jobsite management, ACI 318-19, reinforcing bar placement, precast, post-tensioning, steel deck and joists, wood trusses, masonry, excavation, roofing, ICC A117.1 accessibility, the International Building Code, and OSHA's 29 CFR Part 1926. You apply through NASCLA at ned.nascla.org with pre-approval, and your score is stored in NASCLA's National Examination Database so you can send a transcript to the Board. NASCLA's [commercial exam page](https://nascla.org/nascla-commercial-exam) covers the transcript process.",
+    "The NASCLA electrical exams are also open book. The master or contractor exam draws on the 2023 National Electrical Code, electrical theory, NFPA 70E, OSHA rules, energy standards and project management. The journeyman exam centers on the NEC, theory, wiring methods, troubleshooting and safety. Check NASCLA's current candidate bulletin for each electrical exam's question count, time limit and fees before you book."
+   ]
+  },
+  {
+   "h2": "The Virginia business and law exam for designated employees",
+   "paragraphs": [
+    "Class A and B firms must name a designated employee: a full-time employee or member of responsible management, at least 18, who passes the Board's business exam for the firm. PSI gives the exam, and its candidate bulletin dated June 2024 sets out the portions listed below.",
+    "All portions are open book. The bulletin lists the NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition, as the reference for the general and advanced portions, and pairs it with the 2021 Virginia Uniform Statewide Building Code for the Virginia portion. Permanent tabs and highlighting are allowed, but loose notes are not.",
+    "Published PSI fees are $40 for one portion, $72 for two and $85 for three. They are non-refundable and valid for one year from payment. Scores also last one year, so plan to pass every required portion inside that window. A Class A candidate who passes the Virginia and General portions but not Advanced may apply for Class B while working toward A. See the [PSI candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/475) for current rules."
+   ],
+   "list": [
+    "Virginia portion (rules and regulations): 24 items, 48 minutes, 18 correct to pass. Class A and B.",
+    "General portion: 50 items, 100 minutes, 35 correct to pass. Class A and B.",
+    "Advanced portion: 24 items, 60 minutes, 17 correct to pass. Class A only."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "Experience, financial and education requirements",
+   "paragraphs": [
+    "The qualified individual is the person whose background supports each classification or specialty on your license. Under the Board's regulations and current application, the qualified individual needs at least 1 year of experience for Class C, 3 years for Class B and 5 years for Class A, in the classification they qualify. They must be at least 18 and a full-time employee or member of responsible management.",
+    "Class B firms must show a net worth or equity of $15,000 or more. Class A firms must show $45,000. Either class can document this with a completed financial statement and supporting records, a CPA-reviewed statement, or a CPA audit, or can use a $50,000 surety bond on the Board's form instead. Class C has no net worth requirement.",
+    "Every new firm, regardless of class, needs the 8-hour Board-approved pre-license course. For Class A and B, the designated employee or a member of responsible management can take it. For Class C, a member of responsible management must take it. The course does not replace the business exam.",
+    "The application also asks about past-due debts, judgments, bond defaults, bankruptcies, prior licenses and certain criminal convictions. Answer fully, because missing information delays review."
+   ]
+  },
+  {
+   "h2": "Virginia contractor license costs",
+   "paragraphs": [
+    "These are the published figures from the Board's license application form dated August 2026. Confirm them on the [current application](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf) before you pay, since fees are not refundable.",
+    "The CBC-only rates are lower because firms holding only the CBC or CIC classification do not pay the Recovery Fund fee, according to the Board's fee notes. Exam fees go to PSI, not to DPOR, and NASCLA sets its own exam fee separately. Remember to budget for the pre-license course, your study materials, and the cost of a CPA review or surety bond if your class needs one."
+   ],
+   "list": [
+    "Class A initial license: $439.50, or $414.50 for CBC or CIC only.",
+    "Class B initial license: $419.50, or $394.50 for CBC or CIC only.",
+    "Class C initial license: $274.50, or $249.50 for CBC or CIC only.",
+    "PSI business exam: $40, $72 or $85 for one, two or three portions.",
+    "PSI qualified individual specialty exam: $85.",
+    "Tradesman exams at PSI: $100 for journeyman and $125 for master.",
+    "DPOR technology fee: $7.25 per year on certain fees starting July 1, 2026."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "Virginia electrician license requirements and NASCLA",
+   "paragraphs": [
+    "To sit for the journeyman exam, the Board's tradesman regulations require one of these combinations: a related engineering bachelor's degree plus 1 year of practical experience, a two-year tradesman program plus 2 years, 240 hours of vocational training plus 4 years, 160 hours plus 5 years, 80 hours plus 6 years, 40 hours plus 7 years, or 8 years of experience with no formal training.",
+    "For a master license, the same regulations accept 1 year as a licensed journeyman in the trade, or 9 years of practical experience, among other routes. Pre-approval from the Board is required before you test, and PSI schedules the exam.",
+    "Because Virginia accepts the NASCLA Journeyman Electrician exam and the Electrical Contractor/Master Electrician exam, you can use a NASCLA score for the exam piece. You still need the Board's approval of your education and experience. Electricians must complete 3 hours of Board-approved continuing education on the current NEC before each renewal. The Board's pages describe the renewal cycle differently in different places, so confirm your license term with the [Tradesmen Program](https://www.dpor.virginia.gov/Boards/Tradesmen)."
+   ]
+  },
+  {
+   "h2": "Virginia NASCLA exam prep: which package fits you",
+   "paragraphs": [
+    "All prices are our listed starting prices, and orders are fulfilled by 1 Exam Prep. The CBC exam is the biggest library you will face in Virginia, with 24 technical references plus the business guide. If you already have current editions, tabs may be all you need. If you are starting from nothing, a Virginia NASCLA book rental gives you every book without buying the set outright. If you want lessons and practice questions, add the Virginia NASCLA online course. For the commercial exam, choose by how much help you want with the reference library:"
+   ],
+   "list": [
+    "[Exam Pre-Printed Tabs](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/exam-pre-printed-tabs/), from $199.99, if you own the books.",
+    "[Virginia NASCLA Online Exam Prep Course](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/online-exam-prep-course/), from $395.",
+    "[Complete Book Set](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set/), from $2,199, or the [Complete Book Set with the Virginia business guide](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set-2/), from $2,244.",
+    "[Highlighted & Tabbed Book Package](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/highlighted-and-tabbed-book-package/), from $3,094, our Virginia NASCLA highlighted and tabbed books ready for open-book testing.",
+    "[Books & Courses Rental Package](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/books-and-courses-rental-package/), from $3,684, or the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/ultimate-exam-prep-rental-package/), from $4,109.",
+    "[The 1 Package: All-Inclusive](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/the-1-package-all-inclusive/), from $4,674, with licensing and business setup support."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "Electrical and business exam packages",
+   "paragraphs": [
+    "For the Virginia master electrician exam, start with the [Online Exam Prep Course](https://passyournasclaexam.com/virginia/master-electrical-contractor/online-exam-prep-course/) from $295, or the [Live Virtual + Self-Study Training](https://passyournasclaexam.com/virginia/master-electrical-contractor/live-virtual-plus-self-study-training/) from $595. Books come as the [Exam Book Package](https://passyournasclaexam.com/virginia/master-electrical-contractor/exam-book-package/) from $1,340 or the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/virginia/master-electrical-contractor/highlighted-and-tabbed-book-package/) from $1,990. Rentals are the [Books & Courses Rental Package](https://passyournasclaexam.com/virginia/master-electrical-contractor/books-and-courses-rental-package/) from $2,580 and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/virginia/master-electrical-contractor/ultimate-exam-prep-rental-package/) from $3,005, which includes a refundable $850 deposit. [The 1 Package: All-Inclusive](https://passyournasclaexam.com/virginia/master-electrical-contractor/the-1-package-all-inclusive/) starts at $3,600.",
+    "For the Virginia journeyman electrician exam, choose the [Online Exam Prep Course](https://passyournasclaexam.com/virginia/journeyman-electrician/online-exam-prep-course/) from $295, the [Exam Book Package](https://passyournasclaexam.com/virginia/journeyman-electrician/exam-book-package/) from $795, the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/virginia/journeyman-electrician/highlighted-and-tabbed-book-package/) from $1,145, the [Books & Courses Rental Package](https://passyournasclaexam.com/virginia/journeyman-electrician/books-and-courses-rental-package/) from $1,370, or the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/virginia/journeyman-electrician/ultimate-exam-prep-rental-package/) from $1,795, which includes a refundable $550 deposit.",
+    "For the designated employee exam, PSI's current bulletin lists the Virginia 11th Edition guide. Get the [Business & Law Guide (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/) from $124.99, the [Guide + Tabs (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-plus-tabs-11th-ed/) from $134.99, or the [Highlighted & Tabbed (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/) from $219.99. If you already own the book, [11th Ed. tabs](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-11th-ed/) are $19.95, and [10th Ed. tabs](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-10th-ed/) are also $19.95 for the older edition. Check that your edition matches the current bulletin."
+   ]
+  },
+  {
+   "h2": "How to study and what happens after you pass",
+   "paragraphs": [
+    "On an open-book exam, speed of lookup decides most scores. Sort your books by subject, then drill with practice questions: name the topic, pick the book, find the page with tabs or the index, and time yourself. When you miss one, work out whether you chose the wrong book or did not know the content. Electrical candidates should spend most of their lookup practice in the NEC index, Article 100 and the tables.",
+    "After your exams are done, file the license application with your pre-license certificate, experience verification, NASCLA transcript and financial documents. Applications that are not completed within 12 months of receipt must be filed again, according to the Board's regulations.",
+    "Firms renew through DPOR's online services or by mail. The Board accepts renewal fees no earlier than 60 days before expiration and allows a 30-day grace period after it. Past that, a reinstatement fee applies. Contact the Board if your license has been expired more than 30 days."
+   ]
+  }
+ ],
+ "faq": [
+  [
+   "Does Virginia accept the NASCLA commercial exam?",
+   "Yes. NASCLA lists Virginia as accepting the commercial exam as comparable to the Commercial Building Contractor classification since January 1, 2016. The Board's application notes you must still show compatible experience."
   ],
-  "package_keywords": [
-    "virginia nascla highlighted and tabbed books",
-    "virginia nascla online course",
-    "virginia nascla book rental",
-    "virginia business and law book 11th edition",
-    "virginia master electrician exam book package"
+  [
+   "Do I still need the Virginia business exam if I pass NASCLA?",
+   "If you are applying for Class A or B, yes. Your designated employee must pass the PSI business exam portions for your class, and the firm must complete the 8-hour pre-license course. NASCLA covers only the trade exam."
   ],
-  "intro": [
-    "Virginia is one of the states where the NASCLA exam carries the most weight. The Board for Contractors accepts the NASCLA Accredited Examination for Commercial General Building Contractors for its Commercial Building Contractor (CBC) classification, and it also participates in NASCLA's electrical program for both master and journeyman electricians.",
-    "Virginia licensing has more moving parts than most states. Every contractor license combines a class (A, B or C) with one or more classifications or specialties, and each part has its own rules. You may need pre-license education, a business exam for a designated employee, a qualified individual with the right experience, and financial documentation, all on top of the trade exam.",
-    "This page lays out how the Virginia NASCLA exam fits into that system, what each requirement involves, and which study materials match each exam. Pass Your NASCLA Exam Prep sells the books, tabs, courses and rentals for every exam listed here, and orders are fulfilled by 1 Exam Prep. Rules and fees change, so confirm the current details with the Board before you apply."
+  [
+   "What are the Class A, B and C limits in Virginia?",
+   "Class C covers single contracts under $30,000 and under $250,000 a year. Class B covers $30,000 to under $150,000 per contract or $250,000 to under $1,000,000 a year. Class A covers anything at or above those upper limits."
   ],
-  "sections": [
-    {
-      "h2": "Does Virginia accept the NASCLA exam?",
-      "paragraphs": [
-        "Yes, for three exams. NASCLA's participating agency list shows the Virginia Board for Contractors accepting the commercial exam as of January 1, 2016, as comparable to the Commercial Building classification. Separately, NASCLA's electrical program list shows Virginia accepting the Electrical Contractor/Master Electrician exam and the Journeyman Electrician exam as of June 2019.",
-        "For contractors, the NASCLA commercial exam takes the place of the trade exam for the CBC classification. The Board's current license application says the NASCLA exam is equivalent, but you must still show compatible experience. In other words, a passing score does not excuse your qualified individual from the experience requirement for your license class.",
-        "Passing NASCLA also does not replace Virginia's business requirements. Class A and Class B firms still need a designated employee who passes the Virginia business exam, and every new firm still needs the 8-hour pre-license course. Those are covered further down.",
-        "Check the [NASCLA commercial list](https://www.nascla.org/page/ParticipatingAgencies) and the [NASCLA electrical list](https://www.nascla.org/page/ParticipatingAgencies_Electrical) for the current entries before you register."
-      ]
-    },
-    {
-      "h2": "Who issues Virginia contractor and electrician licenses",
-      "paragraphs": [
-        "The Virginia Board for Contractors, part of the Department of Professional and Occupational Regulation (DPOR), licenses firms that build, remove, repair or improve structures on property owned by others. It also regulates individual tradesmen, including journeyman and master electricians, through its Tradesmen Program.",
-        "That split matters. A contractor license belongs to the business. A tradesman license belongs to a person. If you want to run an electrical contracting company, you will typically deal with both: an individual master electrician license and a firm license with the Electrical specialty.",
-        "DPOR uses PSI as its exam vendor for contractor and tradesman exams. You will find forms, regulations and fee details on the Board's [contractor page](https://www.dpor.virginia.gov/Boards/Contractors) and the [Tradesmen Program page](https://www.dpor.virginia.gov/Boards/Tradesmen). The Board's licensing line is (804) 367-8511.",
-        "Before you file anything, look up any existing license you or your business partners hold with DPOR's license lookup. The application asks about current and past contractor licenses in Virginia and elsewhere, including any disciplinary history, so it helps to have those details ready. Questions about pre-license education go to the Board's education line at (804) 367-2224."
-      ]
-    },
-    {
-      "h2": "Virginia contractor license classes and which exam each needs",
-      "paragraphs": [
-        "Your license class sets how large a job you can take. Under the Code of Virginia, Class C covers single contracts over $1,000 and under $30,000, with under $250,000 in total over 12 months. Class B covers single contracts of $30,000 to under $150,000, or $250,000 to under $1,000,000 in 12 months. Class A covers single contracts of $150,000 or more, or $1,000,000 or more in 12 months.",
-        "Your classification sets the type of work. For commercial buildings, that is CBC. The license application lists CBC among the designations that require pre-approval and an exam, and that exam is where NASCLA comes in. Electrical contracting falls under the Electrical specialty, where the qualified individual must hold a Virginia master electrician license.",
-        "The business exam depends on class. Class A and B firms need a designated employee who passes PSI's contractor business exam. Class C firms do not take that exam, but a member of responsible management must still complete the pre-license course. In short:"
-      ],
-      "list": [
-        "CBC trade exam: the NASCLA commercial exam.",
-        "Individual master or journeyman electrician license: the NASCLA electrical exam for that level.",
-        "Class A or B designated employee: the PSI business exam portions for your class."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "How to get a Virginia contractor license with NASCLA, step by step",
-      "paragraphs": [
-        "This order works for a Class A or B firm seeking the CBC classification. Class C applicants skip the designated employee exam and the financial statement."
-      ],
-      "list": [
-        "Pick your class based on the size of the contracts you plan to sign.",
-        "Form the business and identify its responsible management.",
-        "Have a member of responsible management, or the designated employee for Class A or B, complete the 8-hour Board-approved pre-license course.",
-        "Choose a qualified individual for CBC with enough experience for your class.",
-        "Apply for the NASCLA commercial exam at ned.nascla.org, complete pre-approval, and pass it.",
-        "Send your NASCLA transcript to the Board through the National Examination Database.",
-        "Have your designated employee pass the PSI business exam portions for your class.",
-        "Prepare financial documentation for Class A or B: a financial statement, CPA review or audit, or the Board's surety bond form.",
-        "Submit the license application with the fee, experience verification and certificates.",
-        "Wait for your license before contracting."
-      ],
-      "ordered": true
-    },
-    {
-      "h2": "The NASCLA commercial and electrical exams",
-      "paragraphs": [
-        "The NASCLA Accredited Examination for Commercial General Building Contractors has 115 scored questions, a 330-minute limit, and a 70 percent passing score. It may include extra unscored pretest items. You bring your own approved references because the test center does not provide them.",
-        "The commercial reference list is broad: project and jobsite management, ACI 318-19, reinforcing bar placement, precast, post-tensioning, steel deck and joists, wood trusses, masonry, excavation, roofing, ICC A117.1 accessibility, the International Building Code, and OSHA's 29 CFR Part 1926. You apply through NASCLA at ned.nascla.org with pre-approval, and your score is stored in NASCLA's National Examination Database so you can send a transcript to the Board. NASCLA's [commercial exam page](https://nascla.org/nascla-commercial-exam) covers the transcript process.",
-        "The NASCLA electrical exams are also open book. The master or contractor exam draws on the 2023 National Electrical Code, electrical theory, NFPA 70E, OSHA rules, energy standards and project management. The journeyman exam centers on the NEC, theory, wiring methods, troubleshooting and safety. Check NASCLA's current candidate bulletin for each electrical exam's question count, time limit and fees before you book."
-      ]
-    },
-    {
-      "h2": "The Virginia business and law exam for designated employees",
-      "paragraphs": [
-        "Class A and B firms must name a designated employee: a full-time employee or member of responsible management, at least 18, who passes the Board's business exam for the firm. PSI gives the exam, and its candidate bulletin dated June 2024 sets out the portions listed below.",
-        "All portions are open book. The bulletin lists the NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition, as the reference for the general and advanced portions, and pairs it with the 2021 Virginia Uniform Statewide Building Code for the Virginia portion. Permanent tabs and highlighting are allowed, but loose notes are not.",
-        "Published PSI fees are $40 for one portion, $72 for two and $85 for three. They are non-refundable and valid for one year from payment. Scores also last one year, so plan to pass every required portion inside that window. A Class A candidate who passes the Virginia and General portions but not Advanced may apply for Class B while working toward A. See the [PSI candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/475) for current rules."
-      ],
-      "list": [
-        "Virginia portion (rules and regulations): 24 items, 48 minutes, 18 correct to pass. Class A and B.",
-        "General portion: 50 items, 100 minutes, 35 correct to pass. Class A and B.",
-        "Advanced portion: 24 items, 60 minutes, 17 correct to pass. Class A only."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "Experience, financial and education requirements",
-      "paragraphs": [
-        "The qualified individual is the person whose background supports each classification or specialty on your license. Under the Board's regulations and current application, the qualified individual needs at least 1 year of experience for Class C, 3 years for Class B and 5 years for Class A, in the classification they qualify. They must be at least 18 and a full-time employee or member of responsible management.",
-        "Class B firms must show a net worth or equity of $15,000 or more. Class A firms must show $45,000. Either class can document this with a completed financial statement and supporting records, a CPA-reviewed statement, or a CPA audit, or can use a $50,000 surety bond on the Board's form instead. Class C has no net worth requirement.",
-        "Every new firm, regardless of class, needs the 8-hour Board-approved pre-license course. For Class A and B, the designated employee or a member of responsible management can take it. For Class C, a member of responsible management must take it. The course does not replace the business exam.",
-        "The application also asks about past-due debts, judgments, bond defaults, bankruptcies, prior licenses and certain criminal convictions. Answer fully, because missing information delays review."
-      ]
-    },
-    {
-      "h2": "Virginia contractor license costs",
-      "paragraphs": [
-        "These are the published figures from the Board's license application form dated August 2026. Confirm them on the [current application](https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf) before you pay, since fees are not refundable.",
-        "The CBC-only rates are lower because firms holding only the CBC or CIC classification do not pay the Recovery Fund fee, according to the Board's fee notes. Exam fees go to PSI, not to DPOR, and NASCLA sets its own exam fee separately. Remember to budget for the pre-license course, your study materials, and the cost of a CPA review or surety bond if your class needs one."
-      ],
-      "list": [
-        "Class A initial license: $439.50, or $414.50 for CBC or CIC only.",
-        "Class B initial license: $419.50, or $394.50 for CBC or CIC only.",
-        "Class C initial license: $274.50, or $249.50 for CBC or CIC only.",
-        "PSI business exam: $40, $72 or $85 for one, two or three portions.",
-        "PSI qualified individual specialty exam: $85.",
-        "Tradesman exams at PSI: $100 for journeyman and $125 for master.",
-        "DPOR technology fee: $7.25 per year on certain fees starting July 1, 2026."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "Virginia electrician license requirements and NASCLA",
-      "paragraphs": [
-        "To sit for the journeyman exam, the Board's tradesman regulations require one of these combinations: a related engineering bachelor's degree plus 1 year of practical experience, a two-year tradesman program plus 2 years, 240 hours of vocational training plus 4 years, 160 hours plus 5 years, 80 hours plus 6 years, 40 hours plus 7 years, or 8 years of experience with no formal training.",
-        "For a master license, the same regulations accept 1 year as a licensed journeyman in the trade, or 9 years of practical experience, among other routes. Pre-approval from the Board is required before you test, and PSI schedules the exam.",
-        "Because Virginia accepts the NASCLA Journeyman Electrician exam and the Electrical Contractor/Master Electrician exam, you can use a NASCLA score for the exam piece. You still need the Board's approval of your education and experience. Electricians must complete 3 hours of Board-approved continuing education on the current NEC before each renewal. The Board's pages describe the renewal cycle differently in different places, so confirm your license term with the [Tradesmen Program](https://www.dpor.virginia.gov/Boards/Tradesmen)."
-      ]
-    },
-    {
-      "h2": "Virginia NASCLA exam prep: which package fits you",
-      "paragraphs": [
-        "All prices are our listed starting prices, and orders are fulfilled by 1 Exam Prep. The CBC exam is the biggest library you will face in Virginia, with 24 technical references plus the business guide. If you already have current editions, tabs may be all you need. If you are starting from nothing, a Virginia NASCLA book rental gives you every book without buying the set outright. If you want lessons and practice questions, add the Virginia NASCLA online course. For the commercial exam, choose by how much help you want with the reference library:"
-      ],
-      "list": [
-        "[Exam Pre-Printed Tabs](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/exam-pre-printed-tabs/), from $199.99, if you own the books.",
-        "[Virginia NASCLA Online Exam Prep Course](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/online-exam-prep-course/), from $395.",
-        "[Complete Book Set](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set/), from $2,199, or the [Complete Book Set with the Virginia business guide](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set-2/), from $2,244.",
-        "[Highlighted & Tabbed Book Package](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/highlighted-and-tabbed-book-package/), from $3,094, our Virginia NASCLA highlighted and tabbed books ready for open-book testing.",
-        "[Books & Courses Rental Package](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/books-and-courses-rental-package/), from $3,684, or the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/ultimate-exam-prep-rental-package/), from $4,109.",
-        "[The 1 Package: All-Inclusive](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/the-1-package-all-inclusive/), from $4,674, with licensing and business setup support."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "Electrical and business exam packages",
-      "paragraphs": [
-        "For the Virginia master electrician exam, start with the [Online Exam Prep Course](https://passyournasclaexam.com/virginia/master-electrical-contractor/online-exam-prep-course/) from $295, or the [Live Virtual + Self-Study Training](https://passyournasclaexam.com/virginia/master-electrical-contractor/live-virtual-plus-self-study-training/) from $595. Books come as the [Exam Book Package](https://passyournasclaexam.com/virginia/master-electrical-contractor/exam-book-package/) from $1,340 or the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/virginia/master-electrical-contractor/highlighted-and-tabbed-book-package/) from $1,990. Rentals are the [Books & Courses Rental Package](https://passyournasclaexam.com/virginia/master-electrical-contractor/books-and-courses-rental-package/) from $2,580 and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/virginia/master-electrical-contractor/ultimate-exam-prep-rental-package/) from $3,005, which includes a refundable $850 deposit. [The 1 Package: All-Inclusive](https://passyournasclaexam.com/virginia/master-electrical-contractor/the-1-package-all-inclusive/) starts at $3,600.",
-        "For the Virginia journeyman electrician exam, choose the [Online Exam Prep Course](https://passyournasclaexam.com/virginia/journeyman-electrician/online-exam-prep-course/) from $295, the [Exam Book Package](https://passyournasclaexam.com/virginia/journeyman-electrician/exam-book-package/) from $795, the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/virginia/journeyman-electrician/highlighted-and-tabbed-book-package/) from $1,145, the [Books & Courses Rental Package](https://passyournasclaexam.com/virginia/journeyman-electrician/books-and-courses-rental-package/) from $1,370, or the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/virginia/journeyman-electrician/ultimate-exam-prep-rental-package/) from $1,795, which includes a refundable $550 deposit.",
-        "For the designated employee exam, PSI's current bulletin lists the Virginia 11th Edition guide. Get the [Business & Law Guide (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/) from $124.99, the [Guide + Tabs (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-plus-tabs-11th-ed/) from $134.99, or the [Highlighted & Tabbed (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/) from $219.99. If you already own the book, [11th Ed. tabs](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-11th-ed/) are $19.95, and [10th Ed. tabs](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-10th-ed/) are also $19.95 for the older edition. Check that your edition matches the current bulletin."
-      ]
-    },
-    {
-      "h2": "How to study and what happens after you pass",
-      "paragraphs": [
-        "On an open-book exam, speed of lookup decides most scores. Sort your books by subject, then drill with practice questions: name the topic, pick the book, find the page with tabs or the index, and time yourself. When you miss one, work out whether you chose the wrong book or did not know the content. Electrical candidates should spend most of their lookup practice in the NEC index, Article 100 and the tables.",
-        "After your exams are done, file the license application with your pre-license certificate, experience verification, NASCLA transcript and financial documents. Applications that are not completed within 12 months of receipt must be filed again, according to the Board's regulations.",
-        "Firms renew through DPOR's online services or by mail. The Board accepts renewal fees no earlier than 60 days before expiration and allows a 30-day grace period after it. Past that, a reinstatement fee applies. Contact the Board if your license has been expired more than 30 days."
-      ]
-    }
+  [
+   "How much experience does a Virginia qualified individual need?",
+   "At least 1 year for Class C, 3 years for Class B and 5 years for Class A, in the classification they qualify. The Board asks for an experience verification form."
   ],
-  "faq": [
-    [
-      "Does Virginia accept the NASCLA commercial exam?",
-      "Yes. NASCLA lists Virginia as accepting the commercial exam as comparable to the Commercial Building Contractor classification since January 1, 2016. The Board's application notes you must still show compatible experience."
-    ],
-    [
-      "Do I still need the Virginia business exam if I pass NASCLA?",
-      "If you are applying for Class A or B, yes. Your designated employee must pass the PSI business exam portions for your class, and the firm must complete the 8-hour pre-license course. NASCLA covers only the trade exam."
-    ],
-    [
-      "What are the Class A, B and C limits in Virginia?",
-      "Class C covers single contracts under $30,000 and under $250,000 a year. Class B covers $30,000 to under $150,000 per contract or $250,000 to under $1,000,000 a year. Class A covers anything at or above those upper limits."
-    ],
-    [
-      "How much experience does a Virginia qualified individual need?",
-      "At least 1 year for Class C, 3 years for Class B and 5 years for Class A, in the classification they qualify. The Board asks for an experience verification form."
-    ],
-    [
-      "What is the net worth requirement for a Virginia contractor license?",
-      "Class A needs $45,000 and Class B needs $15,000 in net worth or equity. Either can use a $50,000 surety bond on the Board's form instead. Class C has no net worth requirement."
-    ],
-    [
-      "Which book do I need for the Virginia designated employee exam?",
-      "PSI's June 2024 bulletin lists the NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition, plus the 2021 Virginia Uniform Statewide Building Code for the Virginia portion."
-    ],
-    [
-      "Does Virginia accept NASCLA electrical exams?",
-      "Yes. NASCLA lists Virginia as accepting both the Electrical Contractor/Master Electrician exam and the Journeyman Electrician exam since June 2019. You still need Board approval of your education and experience."
-    ],
-    [
-      "How much continuing education do Virginia electricians need?",
-      "Journeyman and master electricians must complete 3 hours of Board-approved continuing education on the current NEC before each renewal. One course covers you if you hold both licenses."
-    ],
-    [
-      "Is the NASCLA exam open book?",
-      "Yes. You bring your own approved references, which the test center does not provide. Permanent tabs and highlighting help you find answers within the time limit."
-    ]
+  [
+   "What is the net worth requirement for a Virginia contractor license?",
+   "Class A needs $45,000 and Class B needs $15,000 in net worth or equity. Either can use a $50,000 surety bond on the Board's form instead. Class C has no net worth requirement."
   ],
-  "sources": [
-    {
-      "title": "NASCLA: Participating Agencies (Commercial Exam)",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies"
-    },
-    {
-      "title": "NASCLA: Participating Agencies (Electrical Program)",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
-    },
-    {
-      "title": "NASCLA: NASCLA Commercial Exam",
-      "url": "https://nascla.org/nascla-commercial-exam"
-    },
-    {
-      "title": "Virginia DPOR: Board for Contractors",
-      "url": "https://www.dpor.virginia.gov/Boards/Contractors"
-    },
-    {
-      "title": "Virginia DPOR: Tradesmen Program",
-      "url": "https://www.dpor.virginia.gov/Boards/Tradesmen"
-    },
-    {
-      "title": "Virginia DPOR: Contractor License Application (A501-27LIC)",
-      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf"
-    },
-    {
-      "title": "Code of Virginia: Section 54.1-1100 Definitions",
-      "url": "https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/"
-    },
-    {
-      "title": "Virginia Administrative Code: 18VAC50-22-60 Class A Requirements",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section60/"
-    },
-    {
-      "title": "Virginia Administrative Code: 18VAC50-30-39 Tradesman Examination Approval",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter30/section39/"
-    },
-    {
-      "title": "PSI: Virginia Contractor Designated Employee Candidate Information Bulletin",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/475"
-    }
+  [
+   "Which book do I need for the Virginia designated employee exam?",
+   "PSI's June 2024 bulletin lists the NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition, plus the 2021 Virginia Uniform Statewide Building Code for the Virginia portion."
   ],
-  "facts": [
-    {
-      "claim": "Virginia accepts NASCLA commercial exam as of January 1, 2016, comparable to Commercial Building classification",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies"
-    },
-    {
-      "claim": "Virginia accepts NASCLA Electrical Contractor/Master Electrician and Journeyman Electrician exams as of June 2019",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
-    },
-    {
-      "claim": "NASCLA exam is equivalent but compatible experience must still be provided",
-      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf"
-    },
-    {
-      "claim": "CBC requires pre-approval and an exam; QI submits experience verification",
-      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf"
-    },
-    {
-      "claim": "Board regulates contractors and tradesmen; PSI administers exams; licensing line (804) 367-8511",
-      "url": "https://www.dpor.virginia.gov/Boards/Contractors"
-    },
-    {
-      "claim": "Class C over $1,000 to under $30,000 single, under $250,000 in 12 months; Class B $30,000 to under $150,000 or $250,000 to under $1,000,000; Class A $150,000+ or $1,000,000+",
-      "url": "https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/"
-    },
-    {
-      "claim": "Designated employee: full-time employee or responsible management, at least 18, passed Board exam",
-      "url": "https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/"
-    },
-    {
-      "claim": "Electrical specialty qualified individual must hold Virginia Master Electrician license",
-      "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "8-hour pre-license course required for all new licenses; Class A/B by designated employee or responsible management, Class C by responsible management",
-      "url": "https://www.dpor.virginia.gov/Boards/Contractors"
-    },
-    {
-      "claim": "QI experience: Class A 5 years",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section60/"
-    },
-    {
-      "claim": "QI experience: Class B 3 years; net worth $15,000; $50,000 surety bond alternative",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section50/"
-    },
-    {
-      "claim": "QI experience: Class C 1 year; financial and criminal disclosures",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section40/"
-    },
-    {
-      "claim": "Class A net worth $45,000 or $50,000 surety bond; financial statement, CPA review or audit",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section60/"
-    },
-    {
-      "claim": "Business exam portions: Virginia 24 items/48 min/18 to pass; General 50/100/35; Advanced 24/60/17 (Class A only); bulletin dated 6/5/2024",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/475"
-    },
-    {
-      "claim": "References: Virginia 11th Edition NASCLA guide and 2021 Virginia USBC; open book",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/475"
-    },
-    {
-      "claim": "PSI fees $40/$72/$85, non-refundable, valid one year",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/475"
-    },
-    {
-      "claim": "Scores valid one year; Class A candidate passing Virginia and General may apply for Class B",
-      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf"
-    },
-    {
-      "claim": "Permanent tabs and highlighting allowed in references; loose material not allowed",
-      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf"
-    },
-    {
-      "claim": "Application fees: Class A $439.50, B $419.50, C $274.50; CBC/CIC only $414.50, $394.50, $249.50 (form v18, 08/01/2026)",
-      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf"
-    },
-    {
-      "claim": "QI specialty exam $85",
-      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_SpecialtyQI.pdf"
-    },
-    {
-      "claim": "No Recovery Fund fee for CBC/CIC-only applications",
-      "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27CHLIC_pdf.pdf"
-    },
-    {
-      "claim": "Board education line (804) 367-2224",
-      "url": "https://www.dpor.virginia.gov/Boards/Contractors"
-    },
-    {
-      "claim": "Application asks about current and past licenses and disciplinary actions",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section40/"
-    },
-    {
-      "claim": "Tradesman exam fees: journeyman $100, master $125; pre-approval required",
-      "url": "https://www.dpor.virginia.gov/Boards/Tradesmen"
-    },
-    {
-      "claim": "$7.25 annual technology fee from July 1, 2026",
-      "url": "https://www.dpor.virginia.gov/Boards/Contractors"
-    },
-    {
-      "claim": "Journeyman eligibility combinations: bachelor's + 1 yr; associate + 2 yrs; 240 hrs + 4; 160 + 5; 80 + 6; 40 + 7; 8 yrs experience",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter30/section39/"
-    },
-    {
-      "claim": "Master: 1 year as licensed journeyman or 9 years practical experience, among other routes",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter30/section39/"
-    },
-    {
-      "claim": "Electricians need 3 hours CE on current NEC; one course covers both licenses",
-      "url": "https://www.dpor.virginia.gov/Boards/Tradesmen"
-    },
-    {
-      "claim": "Applications not completed within 12 months must be refiled",
-      "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section35/"
-    },
-    {
-      "claim": "Renewal fees accepted no earlier than 60 days before expiration; 30-day grace period; reinstatement fee after",
-      "url": "https://www.dpor.virginia.gov/Boards/Contractors"
-    },
-    {
-      "claim": "Virginia 11th Edition guide sold by NASCLA; PSI listed as testing provider",
-      "url": "https://store.nascla.org/products/virginia"
-    },
-    {
-      "claim": "NASCLA commercial exam: 115 scored questions, 330 minutes, open book, 70 percent; apply at ned.nascla.org; transcripts via NED",
-      "url": "https://nascla.org/nascla-commercial-exam"
-    },
-    {
-      "claim": "CGB Exam Pre-Printed Tabs from $199.99",
-      "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/exam-pre-printed-tabs/"
-    },
-    {
-      "claim": "CGB Online Exam Prep Course from $395",
-      "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/online-exam-prep-course/"
-    },
-    {
-      "claim": "CGB Complete Book Set from $2,199",
-      "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set/"
-    },
-    {
-      "claim": "CGB Complete Book Set with Virginia guide from $2,244",
-      "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set-2/"
-    },
-    {
-      "claim": "CGB Highlighted & Tabbed Book Package from $3,094",
-      "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/highlighted-and-tabbed-book-package/"
-    },
-    {
-      "claim": "CGB Books & Courses Rental Package from $3,684",
-      "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/books-and-courses-rental-package/"
-    },
-    {
-      "claim": "CGB Ultimate Exam Prep Rental Package from $4,109",
-      "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "CGB The 1 Package: All-Inclusive from $4,674",
-      "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/the-1-package-all-inclusive/"
-    },
-    {
-      "claim": "Master Online Exam Prep Course from $295",
-      "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/online-exam-prep-course/"
-    },
-    {
-      "claim": "Master Live Virtual + Self-Study Training from $595",
-      "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/live-virtual-plus-self-study-training/"
-    },
-    {
-      "claim": "Master Exam Book Package from $1,340",
-      "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/exam-book-package/"
-    },
-    {
-      "claim": "Master Highlighted & Tabbed Book Package from $1,990",
-      "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/highlighted-and-tabbed-book-package/"
-    },
-    {
-      "claim": "Master Books & Courses Rental Package from $2,580",
-      "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/books-and-courses-rental-package/"
-    },
-    {
-      "claim": "Master Ultimate Exam Prep Rental Package from $3,005 including refundable $850 deposit",
-      "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "Master The 1 Package: All-Inclusive from $3,600",
-      "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/the-1-package-all-inclusive/"
-    },
-    {
-      "claim": "Journeyman Online Exam Prep Course from $295",
-      "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/online-exam-prep-course/"
-    },
-    {
-      "claim": "Journeyman Exam Book Package from $795",
-      "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/exam-book-package/"
-    },
-    {
-      "claim": "Journeyman Highlighted & Tabbed Book Package from $1,145",
-      "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/highlighted-and-tabbed-book-package/"
-    },
-    {
-      "claim": "Journeyman Books & Courses Rental Package from $1,370",
-      "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/books-and-courses-rental-package/"
-    },
-    {
-      "claim": "Journeyman Ultimate Exam Prep Rental Package from $1,795 including refundable $550 deposit",
-      "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "Business & Law Guide (11th Ed.) from $124.99",
-      "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/"
-    },
-    {
-      "claim": "Business & Law Guide + Tabs (11th Ed.) from $134.99",
-      "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-plus-tabs-11th-ed/"
-    },
-    {
-      "claim": "Business & Law Guide Highlighted & Tabbed (11th Ed.) from $219.99",
-      "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/"
-    },
-    {
-      "claim": "Business & Law Guide Tabs (11th Ed.) $19.95",
-      "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-11th-ed/"
-    },
-    {
-      "claim": "Business & Law Guide Tabs (10th Ed.) $19.95",
-      "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-10th-ed/"
-    }
+  [
+   "Does Virginia accept NASCLA electrical exams?",
+   "Yes. NASCLA lists Virginia as accepting both the Electrical Contractor/Master Electrician exam and the Journeyman Electrician exam since June 2019. You still need Board approval of your education and experience."
   ],
-  "word_count": 2640
+  [
+   "How much continuing education do Virginia electricians need?",
+   "Journeyman and master electricians must complete 3 hours of Board-approved continuing education on the current NEC before each renewal. One course covers you if you hold both licenses."
+  ],
+  [
+   "Is the NASCLA exam open book?",
+   "Yes. You bring your own approved references, which the test center does not provide. Permanent tabs and highlighting help you find answers within the time limit."
+  ]
+ ],
+ "sources": [
+  {
+   "title": "NASCLA: Participating Agencies (Commercial Exam)",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies"
+  },
+  {
+   "title": "NASCLA: Participating Agencies (Electrical Program)",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
+  },
+  {
+   "title": "NASCLA: NASCLA Commercial Exam",
+   "url": "https://nascla.org/nascla-commercial-exam"
+  },
+  {
+   "title": "Virginia DPOR: Board for Contractors",
+   "url": "https://www.dpor.virginia.gov/Boards/Contractors"
+  },
+  {
+   "title": "Virginia DPOR: Tradesmen Program",
+   "url": "https://www.dpor.virginia.gov/Boards/Tradesmen"
+  },
+  {
+   "title": "Virginia DPOR: Contractor License Application (A501-27LIC)",
+   "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf"
+  },
+  {
+   "title": "Code of Virginia: Section 54.1-1100 Definitions",
+   "url": "https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/"
+  },
+  {
+   "title": "Virginia Administrative Code: 18VAC50-22-60 Class A Requirements",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section60/"
+  },
+  {
+   "title": "Virginia Administrative Code: 18VAC50-30-39 Tradesman Examination Approval",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter30/section39/"
+  },
+  {
+   "title": "PSI: Virginia Contractor Designated Employee Candidate Information Bulletin",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/475"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Virginia accepts NASCLA commercial exam as of January 1, 2016, comparable to Commercial Building classification",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies"
+  },
+  {
+   "claim": "Virginia accepts NASCLA Electrical Contractor/Master Electrician and Journeyman Electrician exams as of June 2019",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
+  },
+  {
+   "claim": "NASCLA exam is equivalent but compatible experience must still be provided",
+   "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf"
+  },
+  {
+   "claim": "CBC requires pre-approval and an exam; QI submits experience verification",
+   "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf"
+  },
+  {
+   "claim": "Board regulates contractors and tradesmen; PSI administers exams; licensing line (804) 367-8511",
+   "url": "https://www.dpor.virginia.gov/Boards/Contractors"
+  },
+  {
+   "claim": "Class C over $1,000 to under $30,000 single, under $250,000 in 12 months; Class B $30,000 to under $150,000 or $250,000 to under $1,000,000; Class A $150,000+ or $1,000,000+",
+   "url": "https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/"
+  },
+  {
+   "claim": "Designated employee: full-time employee or responsible management, at least 18, passed Board exam",
+   "url": "https://law.lis.virginia.gov/vacode/title54.1/chapter11/section54.1-1100/"
+  },
+  {
+   "claim": "Electrical specialty qualified individual must hold Virginia Master Electrician license",
+   "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "8-hour pre-license course required for all new licenses; Class A/B by designated employee or responsible management, Class C by responsible management",
+   "url": "https://www.dpor.virginia.gov/Boards/Contractors"
+  },
+  {
+   "claim": "QI experience: Class A 5 years",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section60/"
+  },
+  {
+   "claim": "QI experience: Class B 3 years; net worth $15,000; $50,000 surety bond alternative",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section50/"
+  },
+  {
+   "claim": "QI experience: Class C 1 year; financial and criminal disclosures",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section40/"
+  },
+  {
+   "claim": "Class A net worth $45,000 or $50,000 surety bond; financial statement, CPA review or audit",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section60/"
+  },
+  {
+   "claim": "Business exam portions: Virginia 24 items/48 min/18 to pass; General 50/100/35; Advanced 24/60/17 (Class A only); bulletin dated 6/5/2024",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/475"
+  },
+  {
+   "claim": "References: Virginia 11th Edition NASCLA guide and 2021 Virginia USBC; open book",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/475"
+  },
+  {
+   "claim": "PSI fees $40/$72/$85, non-refundable, valid one year",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/475"
+  },
+  {
+   "claim": "Scores valid one year; Class A candidate passing Virginia and General may apply for Class B",
+   "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf"
+  },
+  {
+   "claim": "Permanent tabs and highlighting allowed in references; loose material not allowed",
+   "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_BusDE.pdf"
+  },
+  {
+   "claim": "Application fees: Class A $439.50, B $419.50, C $274.50; CBC/CIC only $414.50, $394.50, $249.50 (form v18, 08/01/2026)",
+   "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27LIC.pdf"
+  },
+  {
+   "claim": "QI specialty exam $85",
+   "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/CIB_PSI_Contr_SpecialtyQI.pdf"
+  },
+  {
+   "claim": "No Recovery Fund fee for CBC/CIC-only applications",
+   "url": "https://www.dpor.virginia.gov/sites/default/files/boards/Contractors/A501-27CHLIC_pdf.pdf"
+  },
+  {
+   "claim": "Board education line (804) 367-2224",
+   "url": "https://www.dpor.virginia.gov/Boards/Contractors"
+  },
+  {
+   "claim": "Application asks about current and past licenses and disciplinary actions",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section40/"
+  },
+  {
+   "claim": "Tradesman exam fees: journeyman $100, master $125; pre-approval required",
+   "url": "https://www.dpor.virginia.gov/Boards/Tradesmen"
+  },
+  {
+   "claim": "$7.25 annual technology fee from July 1, 2026",
+   "url": "https://www.dpor.virginia.gov/Boards/Contractors"
+  },
+  {
+   "claim": "Journeyman eligibility combinations: bachelor's + 1 yr; associate + 2 yrs; 240 hrs + 4; 160 + 5; 80 + 6; 40 + 7; 8 yrs experience",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter30/section39/"
+  },
+  {
+   "claim": "Master: 1 year as licensed journeyman or 9 years practical experience, among other routes",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter30/section39/"
+  },
+  {
+   "claim": "Electricians need 3 hours CE on current NEC; one course covers both licenses",
+   "url": "https://www.dpor.virginia.gov/Boards/Tradesmen"
+  },
+  {
+   "claim": "Applications not completed within 12 months must be refiled",
+   "url": "https://law.lis.virginia.gov/admincode/title18/agency50/chapter22/section35/"
+  },
+  {
+   "claim": "Renewal fees accepted no earlier than 60 days before expiration; 30-day grace period; reinstatement fee after",
+   "url": "https://www.dpor.virginia.gov/Boards/Contractors"
+  },
+  {
+   "claim": "Virginia 11th Edition guide sold by NASCLA; PSI listed as testing provider",
+   "url": "https://store.nascla.org/products/virginia"
+  },
+  {
+   "claim": "NASCLA commercial exam: 115 scored questions, 330 minutes, open book, 70 percent; apply at ned.nascla.org; transcripts via NED",
+   "url": "https://nascla.org/nascla-commercial-exam"
+  },
+  {
+   "claim": "CGB Exam Pre-Printed Tabs from $199.99",
+   "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/exam-pre-printed-tabs/"
+  },
+  {
+   "claim": "CGB Online Exam Prep Course from $395",
+   "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/online-exam-prep-course/"
+  },
+  {
+   "claim": "CGB Complete Book Set from $2,199",
+   "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set/"
+  },
+  {
+   "claim": "CGB Complete Book Set with Virginia guide from $2,244",
+   "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set-2/"
+  },
+  {
+   "claim": "CGB Highlighted & Tabbed Book Package from $3,094",
+   "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/highlighted-and-tabbed-book-package/"
+  },
+  {
+   "claim": "CGB Books & Courses Rental Package from $3,684",
+   "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/books-and-courses-rental-package/"
+  },
+  {
+   "claim": "CGB Ultimate Exam Prep Rental Package from $4,109",
+   "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "CGB The 1 Package: All-Inclusive from $4,674",
+   "url": "https://passyournasclaexam.com/virginia/commercial-general-building-contractor/the-1-package-all-inclusive/"
+  },
+  {
+   "claim": "Master Online Exam Prep Course from $295",
+   "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/online-exam-prep-course/"
+  },
+  {
+   "claim": "Master Live Virtual + Self-Study Training from $595",
+   "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/live-virtual-plus-self-study-training/"
+  },
+  {
+   "claim": "Master Exam Book Package from $1,340",
+   "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/exam-book-package/"
+  },
+  {
+   "claim": "Master Highlighted & Tabbed Book Package from $1,990",
+   "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/highlighted-and-tabbed-book-package/"
+  },
+  {
+   "claim": "Master Books & Courses Rental Package from $2,580",
+   "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/books-and-courses-rental-package/"
+  },
+  {
+   "claim": "Master Ultimate Exam Prep Rental Package from $3,005 including refundable $850 deposit",
+   "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "Master The 1 Package: All-Inclusive from $3,600",
+   "url": "https://passyournasclaexam.com/virginia/master-electrical-contractor/the-1-package-all-inclusive/"
+  },
+  {
+   "claim": "Journeyman Online Exam Prep Course from $295",
+   "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/online-exam-prep-course/"
+  },
+  {
+   "claim": "Journeyman Exam Book Package from $795",
+   "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/exam-book-package/"
+  },
+  {
+   "claim": "Journeyman Highlighted & Tabbed Book Package from $1,145",
+   "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/highlighted-and-tabbed-book-package/"
+  },
+  {
+   "claim": "Journeyman Books & Courses Rental Package from $1,370",
+   "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/books-and-courses-rental-package/"
+  },
+  {
+   "claim": "Journeyman Ultimate Exam Prep Rental Package from $1,795 including refundable $550 deposit",
+   "url": "https://passyournasclaexam.com/virginia/journeyman-electrician/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "Business & Law Guide (11th Ed.) from $124.99",
+   "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/"
+  },
+  {
+   "claim": "Business & Law Guide + Tabs (11th Ed.) from $134.99",
+   "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-plus-tabs-11th-ed/"
+  },
+  {
+   "claim": "Business & Law Guide Highlighted & Tabbed (11th Ed.) from $219.99",
+   "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/"
+  },
+  {
+   "claim": "Business & Law Guide Tabs (11th Ed.) $19.95",
+   "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-11th-ed/"
+  },
+  {
+   "claim": "Business & Law Guide Tabs (10th Ed.) $19.95",
+   "url": "https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-10th-ed/"
+  }
+ ],
+ "word_count": 2640,
+ "status": "published",
+ "checked": "2026-10-19"
 }

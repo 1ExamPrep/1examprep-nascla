@@ -90,7 +90,7 @@
    "h2": "The Utah Business and Law exam",
    "paragraphs": [
     "Separate from NASCLA, most new Utah general contractor applicants must pass the Utah Business and Law exam. The NASCLA commercial exam does not cover this requirement. The Division's exam information page names ProV as its contractor exam administrator and says you do not need pre-approval to sit for it.",
-    "You can test in person at one of ProV's 21 testing centers or online through Examroom AI. You get three attempts spaced 30 days apart, and each retake after that must wait 180 days. Pay the exam fee directly to ProV, and do not submit your license application until you have passed. ProV's examination handbook holds the details on references and ID rules.",
+    "The Division lists ProV as its exam administrator, with in-person testing centers and an online option for its contractor exams. Its exam page also describes a retake schedule with waiting periods between attempts. Check ProV's Business and Law handbook for the current testing options, retake rules, references and ID requirements before you book, pay the exam fee directly to ProV, and do not submit your license application until you have passed.",
     "The study reference is the NASCLA Contractors Guide to Business, Law and Project Management, Utah 4th Edition. NASCLA's store lists it alongside the Utah licensing agency and Prov as the testing provider. The book is organized around business planning and startup, day-to-day operations such as estimating, contracts, scheduling and safety, and administrative topics such as financial management, tax basics and lien laws.",
     "The Division's page lists exceptions to the Business and Law exam. One is holding an active license in good standing in another state, district or territory for at least one year in a similar scope. Another applies to people who were qualifiers on a Utah contractor license before May 9, 2017. If either fits you, confirm with the Division before skipping the exam. Details are on the [DOPL exam information page](https://commerce.utah.gov/dopl/contracting/exam-information/)."
    ],
@@ -167,7 +167,7 @@
   ],
   [
    "Who gives the Utah Business and Law exam?",
-   "The Division names ProV as its contractor exam administrator. You can test at a ProV center or online through Examroom AI, and no pre-approval is needed."
+   "The Division names ProV as its contractor exam administrator, with testing centers and an online option. ProV's Business and Law handbook has the current scheduling details."
   ],
   [
    "Which book do I need for the Utah Business and Law exam?",
@@ -175,7 +175,7 @@
   ],
   [
    "How many times can I retake the Utah Business and Law exam?",
-   "The Division allows three attempts spaced 30 days apart. After that, each retake must be at least 180 days after the last one."
+   "The Division's exam page describes a limited number of attempts with waiting periods between retakes. Confirm the current retake rules for the Business and Law exam in ProV's handbook before you schedule."
   ],
   [
    "Does Utah have contractor license reciprocity?",
@@ -270,14 +270,6 @@
    "url": "https://commerce.utah.gov/dopl/contracting/exam-information/"
   },
   {
-   "claim": "Business and Law exam offered at 21 ProV centers or online through Examroom AI",
-   "url": "https://commerce.utah.gov/dopl/contracting/exam-information/"
-  },
-  {
-   "claim": "Three attempts 30 days apart, later retakes 180 days apart",
-   "url": "https://commerce.utah.gov/dopl/contracting/exam-information/"
-  },
-  {
    "claim": "Utah business reference: NASCLA Contractors Guide to Business, Law and Project Management, Utah 4th Edition; Prov listed as testing provider",
    "url": "https://store.nascla.org/products/utah-4th-edition"
   },
@@ -358,5 +350,7 @@
    "url": "https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/"
   }
  ],
- "word_count": 2660
+ "word_count": 2660,
+ "status": "published",
+ "checked": "2026-10-19"
 }

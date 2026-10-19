@@ -1,387 +1,389 @@
 {
-  "state": "Kentucky",
-  "slug": "kentucky",
-  "title": "Kentucky NASCLA Exam: Electrician License Guide",
-  "meta_description": "How the Kentucky NASCLA exam works for master electrician and journeyman licenses: hours, fees, insurance, the HBC application and prep packages.",
-  "h1": "Kentucky NASCLA Exam Guide for Master and Journeyman Electricians",
-  "keywords": [
-    "kentucky nascla exam",
-    "kentucky master electrician license",
-    "kentucky electrical contractor license",
-    "kentucky journeyman electrician exam",
-    "kentucky electrician license requirements"
+ "state": "Kentucky",
+ "slug": "kentucky",
+ "title": "Kentucky NASCLA Exam: Electrician License Guide",
+ "meta_description": "How the Kentucky NASCLA exam works for master electrician and journeyman licenses: hours, fees, insurance, the HBC application and prep packages.",
+ "h1": "Kentucky NASCLA Exam Guide for Master and Journeyman Electricians",
+ "keywords": [
+  "kentucky nascla exam",
+  "kentucky master electrician license",
+  "kentucky electrical contractor license",
+  "kentucky journeyman electrician exam",
+  "kentucky electrician license requirements"
+ ],
+ "package_keywords": [
+  "kentucky nascla master electrician online course",
+  "nascla highlighted and tabbed books kentucky",
+  "kentucky journeyman electrician exam book package",
+  "kentucky nascla electrical book rental package"
+ ],
+ "intro": [
+  "Kentucky now lets electricians use NASCLA's accredited electrical exams to meet the state exam requirement. If you are working toward a Kentucky master electrician or journeyman (electrician) license, the Kentucky NASCLA exam gives you a nationally recognized test you can take at a PSI center, then send to the state through NASCLA's transcript system.",
+  "This guide walks through what Kentucky accepts, who issues the license, how many hours of experience you need, what the exams look like, what the published fees are, and how to pick study materials that match the exam you are taking. Where a rule could change or we could not confirm a detail, we tell you to check with the Department of Housing, Buildings and Construction before you rely on it."
+ ],
+ "sections": [
+  {
+   "h2": "Does Kentucky accept the NASCLA exam?",
+   "paragraphs": [
+    "Yes, for electrical licenses. NASCLA lists the Kentucky Department of Housing, Buildings and Construction (HBC) as a participating agency in its [Accredited Electrical Examination Program](https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and), as of February 2025. Kentucky accepts two NASCLA electrical exams: the Electrical Contractor/Master Electrician exam and the Journeyman Electrician exam.",
+    "The Electrical Contractor/Master Electrician exam is the one to take if you are applying for a Kentucky master electrician license. The Journeyman Electrician exam lines up with Kentucky's individual electrician license, which is the state's name for a journeyman level credential.",
+    "NASCLA's listing adds one condition you should plan around: Kentucky only accepts exam scores that are within three years. If you passed a NASCLA electrical exam a while ago, check the date on your transcript before you apply.",
+    "Kentucky does not appear on NASCLA's list of agencies that accept the Commercial General Building Contractor exam, so this page focuses on the electrical exams. Passing a NASCLA exam covers the exam piece only. You still need to show the required experience, file the HBC application, pay the state fees and, for a contracting business, meet the insurance rules."
+   ]
+  },
+  {
+   "h2": "Who issues electrical licenses in Kentucky",
+   "paragraphs": [
+    "Electrical licensing in Kentucky runs through the [Department of Housing, Buildings and Construction](https://dhbc.ky.gov/), located at 500 Mero Street in Frankfort. HBC handles applications, renewals, continuing education and code adoption for the electrical trade.",
+    "The licensing rules come from two places. The statute, [KRS 227A.060](https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092), sets the qualifications for each license type, including experience hours and insurance. The administrative regulation, [815 KAR 35:060](https://apps.legislature.ky.gov/law/kar/titles/815/035/060/), covers the application forms, fees, exam passing standards, license term and renewal.",
+    "Kentucky treats the electrical contractor, the master electrician and the electrician as three separate licenses. A master electrician or electrician license belongs to you as a person. An electrical contractor license belongs to the business that contracts for electrical work, and that business must be tied to a licensed master electrician.",
+    "Kentucky also sets the electrical code you will be tested and inspected against. HBC announced that mandatory statewide enforcement of the [2023 National Electrical Code](https://dhbc.ky.gov/Documents/2023%20NEC%20Update%20Announcement.pdf) would begin January 1, 2025, with a few residential provisions phased in later. That is a good reason to study from the 2023 NEC."
+   ]
+  },
+  {
+   "h2": "Kentucky electrician license types and which exam each needs",
+   "paragraphs": [
+    "Here is how the three Kentucky electrical licenses map to exams. Use it to decide which NASCLA exam, if any, you should register for."
+   ],
+   "list": [
+    "Master electrician: requires a passing score on a master electrician exam. Kentucky accepts the NASCLA Electrical Contractor/Master Electrician exam for this license.",
+    "Electrician (journeyman level): requires a passing score on the electrician exam. Kentucky accepts the NASCLA Journeyman Electrician exam for this license.",
+    "Electrical contractor: the business must hold or employ a Kentucky licensed master electrician, and HBC's application checklist calls for a passing result on a business and law exam. The NASCLA electrical exams do not replace that business exam.",
+    "Provisional electrician: a one year, nonrenewable license under KRS 227A.060 for applicants with long verified field experience who still need to pass the electrician exam."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "How to get a Kentucky master electrician license, step by step",
+   "paragraphs": [
+    "The order below works for most master electrician applicants using the NASCLA route. Journeyman applicants follow the same path with the Journeyman Electrician exam and the 8,000 hour standard."
+   ],
+   "list": [
+    "Confirm your experience. Count your verifiable hours in the electrical trade since age 16 and line up the proof HBC accepts, such as employer letters, tax records or apprenticeship records.",
+    "Apply to NASCLA for pre-approval at ned.nascla.org. NASCLA's candidate bulletin says applications are processed within 7 business days.",
+    "Schedule with PSI once NASCLA approves you. PSI sends registration instructions and collects the exam fee.",
+    "Pass the NASCLA Electrical Contractor/Master Electrician exam within your one year eligibility window.",
+    "Send your transcript to Kentucky through the NASCLA National Examination Database so HBC can see your passing result.",
+    "Submit the HBC master electrician application with the fee, a recent passport style color photo, a copy of your driver's license or birth certificate, and your experience documentation.",
+    "Wait for HBC approval. Your license is issued by Kentucky, not by NASCLA.",
+    "If you will run an electrical contracting business, file the separate electrical contractor application with proof of insurance and the business and law exam result."
+   ],
+   "ordered": true
+  },
+  {
+   "h2": "The Kentucky NASCLA exam: format, references and retakes",
+   "paragraphs": [
+    "Both NASCLA electrical exams are open book and delivered by PSI. According to NASCLA's [candidate information bulletin](https://test-takers.psiexams.com/api/content/bulletin/6677), the Electrical Contractor/Master Electrician exam has 100 scored questions, a 270 minute time limit and a minimum passing score of 75. The Journeyman Electrician exam has 100 scored questions, 300 minutes and a minimum passing score of 70. Each exam also includes 10 unscored pretest questions that do not count toward your result.",
+    "The bulletin allows the 2020 or 2023 National Electrical Code (or the matching NEC Handbook) along with the other listed references. Since Kentucky now enforces the 2023 NEC, that is the edition we recommend you study and bring.",
+    "The master exam content outline weights NEC topics heavily. General code requirements and wiring and protection carry 17 questions each, wiring methods and materials carries 16, and equipment for general use carries 13. Electrical theory, safety, project design and management, special occupancies and communication systems make up the rest. Expect to move between the NEC, OSHA Part 1926, NFPA 70E and a theory text during the test.",
+    "Retakes are built into the eligibility period. Once NASCLA approves you, you have one year to test and may sit up to three times in that year. If you do not pass in three attempts, you can reapply after the year ends. NASCLA's [exam FAQ](https://nascla.org/nascla-accredited-examinations-faq) lists a $65 application fee and a $45 fee for each transcript sent to an agency; these are published figures, so confirm them when you apply."
+   ]
+  },
+  {
+   "h2": "The Kentucky business and law exam",
+   "paragraphs": [
+    "Kentucky does not ask master electricians or electricians to pass a separate business and law test. The business exam applies to the electrical contractor license. HBC's [new application checklist](https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf) tells contractor applicants to pass the Business and Law exam and submit a copy of the passing result with the application.",
+    "Under 815 KAR 35:060, when the applicant is a business entity, it must designate an owner, officer, director or full time employee to take the exam on its behalf. The regulation sets the passing standard for state exams at 70 percent and says a passing score is good for three years.",
+    "NASCLA does not publish a Kentucky edition of its Contractor's Guide to Business, Law and Project Management, and the NASCLA electrical exams do not satisfy this state business exam. Ask HBC or the exam provider for the current business and law reference list before you buy books. The basic NASCLA Contractor's Guide (14th edition) is part of the NASCLA electrical reference list and is included in our master electrician rental package, so you will already be working with business and project management material as you prepare for the trade exam."
+   ]
+  },
+  {
+   "h2": "Kentucky electrician license requirements: experience and insurance",
+   "paragraphs": [
+    "Experience is the biggest hurdle for most applicants, so start documenting it early. KRS 227A.060 sets these standards."
+   ],
+   "list": [
+    "Master electrician: 16,000 hours of verifiable electrical trade experience since age 16. An approved training course or two years teaching electrical technology can count for 4,000 hours, and an associate degree or diploma in electrical technology can count for 6,000 hours.",
+    "Electrician: 8,000 hours of verifiable electrical trade experience since age 16. One approved substitute, such as a training course, an associate degree, two years of teaching, or two years of a four year apprenticeship, can count for 4,000 hours.",
+    "Military experience: supervised military occupational specialty experience can count, supported by a DD-214 or a signed statement from a commanding officer.",
+    "Electrical contractor insurance: proof of workers' compensation and unemployment insurance compliance and a general liability policy of at least $1,000,000. HBC must be the certificate holder, and a sole proprietor with no employees can file a notarized workers' compensation waiver instead.",
+    "Insurers: HBC's checklist says every insurance company must be listed with the Kentucky Department of Insurance."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "Kentucky electrical license fees",
+   "paragraphs": [
+    "These are the published application fees in [815 KAR 35:060](https://apps.legislature.ky.gov/law/kar/titles/815/035/060/) as of the version effective May 6, 2025. Licenses are biennial, so each fee covers a two year license. Fees change, so confirm current amounts with HBC before you pay."
+   ],
+   "list": [
+    "Electrical contractor: $400 application fee, $400 renewal.",
+    "Master electrician: $200 application fee, $200 renewal.",
+    "Electrician: $100 application fee, $100 renewal.",
+    "Late renewal: $50. Application, renewal and late fees are nonrefundable.",
+    "NASCLA side: a $65 application fee and $45 per transcript, per NASCLA's FAQ, plus the PSI exam fee, which PSI collects when you schedule."
+   ],
+   "ordered": false
+  },
+  {
+   "h2": "Reciprocity and working in other states",
+   "paragraphs": [
+    "Kentucky's regulation includes a reciprocity path for applicants licensed in a state that has an agreement with Kentucky. You file the general application plus a copy of your out of state license and a letter of good standing from that licensing agency. Contractor applicants also need proof of insurance.",
+    "Louisiana's contractor board lists Kentucky HBC as a reciprocal partner for the Electrical classification on its [reciprocity page](https://lslbc.louisiana.gov/?p=6332). Ask HBC which other states currently have agreements, since those lists change.",
+    "The NASCLA route is often the simpler way to work across state lines. Your passing NASCLA result lives in the National Examination Database, and you can send a transcript to each participating agency that accepts the same exam. Each state still licenses you separately and applies its own experience, insurance and score age rules, so check each agency's listing on NASCLA's site."
+   ]
+  },
+  {
+   "h2": "How to prepare for the Kentucky NASCLA exam, and which package fits",
+   "paragraphs": [
+    "Because both exams are open book, your score depends on how fast you can find answers as much as what you already know. The NEC is the center of your study, but plan time for theory calculations and the two safety references. Practice timed lookups: read a question, name the topic, pick the book, find the article or table, and confirm the answer. Everything below ships from 1 Exam Prep, which fulfills our orders.",
+    "For the [Kentucky Master Electrical Contractor exam](https://passyournasclaexam.com/kentucky/master-electrical-contractor/): the [Online Exam Prep Course](https://passyournasclaexam.com/kentucky/master-electrical-contractor/online-exam-prep-course/) starts from $295 and suits licensed electricians who already own the references. The [Live Virtual + Self-Study Training](https://passyournasclaexam.com/kentucky/master-electrical-contractor/live-virtual-plus-self-study-training/) from $595 adds instructor sessions. The [Exam Book Package](https://passyournasclaexam.com/kentucky/master-electrical-contractor/exam-book-package/) from $1195 gives you the reference set to own. If you want our Kentucky NASCLA electrical book rental package, the [Books & Courses Rental Package](https://passyournasclaexam.com/kentucky/master-electrical-contractor/books-and-courses-rental-package/) from $2480 pairs highlighted and tabbed rental books with course access, and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/kentucky/master-electrical-contractor/ultimate-exam-prep-rental-package/) from $2905 adds Application Service and 1 year of course access. [The 1 Package: All-Inclusive](https://passyournasclaexam.com/kentucky/master-electrical-contractor/the-1-package-all-inclusive/) from $3305 also covers licensing and business setup help.",
+    "For the [Kentucky Journeyman Electrician exam](https://passyournasclaexam.com/kentucky/journeyman-electrician/): start with the [Online Exam Prep Course](https://passyournasclaexam.com/kentucky/journeyman-electrician/online-exam-prep-course/) from $295 or the [Exam Book Package](https://passyournasclaexam.com/kentucky/journeyman-electrician/exam-book-package/) from $795. If you want NASCLA highlighted and tabbed books in Kentucky without doing the marking yourself, the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/kentucky/journeyman-electrician/highlighted-and-tabbed-book-package/) is from $1145. The [Books & Courses Rental Package](https://passyournasclaexam.com/kentucky/journeyman-electrician/books-and-courses-rental-package/) from $1370 includes seven highlighted and tabbed rental books and 6 months of course access.",
+    "As a rule of thumb, pick the online course if you have the books, a book package if you study well alone, and a rental package if you want ready to test references and a course in one order. Before test day, compare your books against the current NASCLA reference list and PSI's rules on tabs and markings."
+   ]
+  },
+  {
+   "h2": "After you pass: application, renewal and continuing education",
+   "paragraphs": [
+    "Once your NASCLA transcript is released to Kentucky, file your HBC application with the rest of your documents. Under 815 KAR 35:060, an application stays pending for up to one year and then becomes void, so send everything together.",
+    "Kentucky electrical licenses are valid for two years. Individuals renew by the last day of their birth month in the second year, and business entities renew by the last day of the month the license was issued. Keep your insurance current if you hold a contractor license, since HBC requires proof of coverage.",
+    "Continuing education is required to renew. The HBC continuing education regulation, [815 KAR 2:010](https://dhbc.ky.gov/Documents/KHBC-010.pdf), sets a minimum of 6 hours completed in the 12 months before renewal, counts no more than 2 hours of safety practices toward that minimum, and lets you carry extra hours forward. Electrician and master electrician courses cover codes, safety or trade subjects, while electrical contractor courses cover business or job safety. Confirm how the hour requirement applies to the two year license cycle with HBC before you renew."
+   ]
+  }
+ ],
+ "faq": [
+  [
+   "Does Kentucky accept the NASCLA exam for master electricians?",
+   "Yes. NASCLA lists Kentucky HBC as accepting the Electrical Contractor/Master Electrician exam as of February 2025. You still need 16,000 hours of qualifying experience and an approved HBC application to get the license."
   ],
-  "package_keywords": [
-    "kentucky nascla master electrician online course",
-    "nascla highlighted and tabbed books kentucky",
-    "kentucky journeyman electrician exam book package",
-    "kentucky nascla electrical book rental package"
+  [
+   "Does Kentucky accept the NASCLA Journeyman Electrician exam?",
+   "Yes. Kentucky accepts the NASCLA Journeyman Electrician exam for its electrician license, which requires 8,000 hours of verifiable experience. The score must be within three years when you apply."
   ],
-  "intro": [
-    "Kentucky now lets electricians use NASCLA's accredited electrical exams to meet the state exam requirement. If you are working toward a Kentucky master electrician or journeyman (electrician) license, the Kentucky NASCLA exam gives you a nationally recognized test you can take at a PSI center, then send to the state through NASCLA's transcript system.",
-    "This guide walks through what Kentucky accepts, who issues the license, how many hours of experience you need, what the exams look like, what the published fees are, and how to pick study materials that match the exam you are taking. Where a rule could change or we could not confirm a detail, we tell you to check with the Department of Housing, Buildings and Construction before you rely on it."
+  [
+   "How long is my NASCLA score good for in Kentucky?",
+   "NASCLA's listing for Kentucky says exam scores must be within three years to be accepted. NASCLA itself keeps your result on file, but Kentucky applies the three year limit."
   ],
-  "sections": [
-    {
-      "h2": "Does Kentucky accept the NASCLA exam?",
-      "paragraphs": [
-        "Yes, for electrical licenses. NASCLA lists the Kentucky Department of Housing, Buildings and Construction (HBC) as a participating agency in its [Accredited Electrical Examination Program](https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and), as of February 2025. Kentucky accepts two NASCLA electrical exams: the Electrical Contractor/Master Electrician exam and the Journeyman Electrician exam.",
-        "The Electrical Contractor/Master Electrician exam is the one to take if you are applying for a Kentucky master electrician license. The Journeyman Electrician exam lines up with Kentucky's individual electrician license, which is the state's name for a journeyman level credential.",
-        "NASCLA's listing adds one condition you should plan around: Kentucky only accepts exam scores that are within three years. If you passed a NASCLA electrical exam a while ago, check the date on your transcript before you apply.",
-        "Kentucky does not appear on NASCLA's list of agencies that accept the Commercial General Building Contractor exam, so this page focuses on the electrical exams. Passing a NASCLA exam covers the exam piece only. You still need to show the required experience, file the HBC application, pay the state fees and, for a contracting business, meet the insurance rules."
-      ]
-    },
-    {
-      "h2": "Who issues electrical licenses in Kentucky",
-      "paragraphs": [
-        "Electrical licensing in Kentucky runs through the [Department of Housing, Buildings and Construction](https://dhbc.ky.gov/), located at 500 Mero Street in Frankfort. HBC handles applications, renewals, continuing education and code adoption for the electrical trade.",
-        "The licensing rules come from two places. The statute, [KRS 227A.060](https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092), sets the qualifications for each license type, including experience hours and insurance. The administrative regulation, [815 KAR 35:060](https://apps.legislature.ky.gov/law/kar/titles/815/035/060/), covers the application forms, fees, exam passing standards, license term and renewal.",
-        "Kentucky treats the electrical contractor, the master electrician and the electrician as three separate licenses. A master electrician or electrician license belongs to you as a person. An electrical contractor license belongs to the business that contracts for electrical work, and that business must be tied to a licensed master electrician.",
-        "Kentucky also sets the electrical code you will be tested and inspected against. HBC announced that mandatory statewide enforcement of the [2023 National Electrical Code](https://dhbc.ky.gov/Documents/2023%20NEC%20Update%20Announcement.pdf) would begin January 1, 2025, with a few residential provisions phased in later. That is a good reason to study from the 2023 NEC."
-      ]
-    },
-    {
-      "h2": "Kentucky electrician license types and which exam each needs",
-      "paragraphs": [
-        "Here is how the three Kentucky electrical licenses map to exams. Use it to decide which NASCLA exam, if any, you should register for."
-      ],
-      "list": [
-        "Master electrician: requires a passing score on a master electrician exam. Kentucky accepts the NASCLA Electrical Contractor/Master Electrician exam for this license.",
-        "Electrician (journeyman level): requires a passing score on the electrician exam. Kentucky accepts the NASCLA Journeyman Electrician exam for this license.",
-        "Electrical contractor: the business must hold or employ a Kentucky licensed master electrician, and HBC's application checklist calls for a passing result on a business and law exam. The NASCLA electrical exams do not replace that business exam.",
-        "Provisional electrician: a one year, nonrenewable license under KRS 227A.060 for applicants with long verified field experience who still need to pass the electrician exam."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "How to get a Kentucky master electrician license, step by step",
-      "paragraphs": [
-        "The order below works for most master electrician applicants using the NASCLA route. Journeyman applicants follow the same path with the Journeyman Electrician exam and the 8,000 hour standard."
-      ],
-      "list": [
-        "Confirm your experience. Count your verifiable hours in the electrical trade since age 16 and line up the proof HBC accepts, such as employer letters, tax records or apprenticeship records.",
-        "Apply to NASCLA for pre-approval at ned.nascla.org. NASCLA's candidate bulletin says applications are processed within 7 business days.",
-        "Schedule with PSI once NASCLA approves you. PSI sends registration instructions and collects the exam fee.",
-        "Pass the NASCLA Electrical Contractor/Master Electrician exam within your one year eligibility window.",
-        "Send your transcript to Kentucky through the NASCLA National Examination Database so HBC can see your passing result.",
-        "Submit the HBC master electrician application with the fee, a recent passport style color photo, a copy of your driver's license or birth certificate, and your experience documentation.",
-        "Wait for HBC approval. Your license is issued by Kentucky, not by NASCLA.",
-        "If you will run an electrical contracting business, file the separate electrical contractor application with proof of insurance and the business and law exam result."
-      ],
-      "ordered": true
-    },
-    {
-      "h2": "The Kentucky NASCLA exam: format, references and retakes",
-      "paragraphs": [
-        "Both NASCLA electrical exams are open book and delivered by PSI. According to NASCLA's [candidate information bulletin](https://test-takers.psiexams.com/api/content/bulletin/6677), the Electrical Contractor/Master Electrician exam has 100 scored questions, a 270 minute time limit and a minimum passing score of 75. The Journeyman Electrician exam has 100 scored questions, 300 minutes and a minimum passing score of 70. Each exam also includes 10 unscored pretest questions that do not count toward your result.",
-        "The bulletin allows the 2020 or 2023 National Electrical Code (or the matching NEC Handbook) along with the other listed references. Since Kentucky now enforces the 2023 NEC, that is the edition we recommend you study and bring.",
-        "The master exam content outline weights NEC topics heavily. General code requirements and wiring and protection carry 17 questions each, wiring methods and materials carries 16, and equipment for general use carries 13. Electrical theory, safety, project design and management, special occupancies and communication systems make up the rest. Expect to move between the NEC, OSHA Part 1926, NFPA 70E and a theory text during the test.",
-        "Retakes are built into the eligibility period. Once NASCLA approves you, you have one year to test and may sit up to three times in that year. If you do not pass in three attempts, you can reapply after the year ends. NASCLA's [exam FAQ](https://nascla.org/nascla-accredited-examinations-faq) lists a $65 application fee and a $45 fee for each transcript sent to an agency; these are published figures, so confirm them when you apply."
-      ]
-    },
-    {
-      "h2": "The Kentucky business and law exam",
-      "paragraphs": [
-        "Kentucky does not ask master electricians or electricians to pass a separate business and law test. The business exam applies to the electrical contractor license. HBC's [new application checklist](https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf) tells contractor applicants to pass the Business and Law exam and submit a copy of the passing result with the application.",
-        "Under 815 KAR 35:060, when the applicant is a business entity, it must designate an owner, officer, director or full time employee to take the exam on its behalf. The regulation sets the passing standard for state exams at 70 percent and says a passing score is good for three years.",
-        "NASCLA does not publish a Kentucky edition of its Contractor's Guide to Business, Law and Project Management, and the NASCLA electrical exams do not satisfy this state business exam. Ask HBC or the exam provider for the current business and law reference list before you buy books. The basic NASCLA Contractor's Guide (14th edition) is part of the NASCLA electrical reference list and is included in our master electrician rental package, so you will already be working with business and project management material as you prepare for the trade exam."
-      ]
-    },
-    {
-      "h2": "Kentucky electrician license requirements: experience and insurance",
-      "paragraphs": [
-        "Experience is the biggest hurdle for most applicants, so start documenting it early. KRS 227A.060 sets these standards."
-      ],
-      "list": [
-        "Master electrician: 16,000 hours of verifiable electrical trade experience since age 16. An approved training course or two years teaching electrical technology can count for 4,000 hours, and an associate degree or diploma in electrical technology can count for 6,000 hours.",
-        "Electrician: 8,000 hours of verifiable electrical trade experience since age 16. One approved substitute, such as a training course, an associate degree, two years of teaching, or two years of a four year apprenticeship, can count for 4,000 hours.",
-        "Military experience: supervised military occupational specialty experience can count, supported by a DD-214 or a signed statement from a commanding officer.",
-        "Electrical contractor insurance: proof of workers' compensation and unemployment insurance compliance and a general liability policy of at least $1,000,000. HBC must be the certificate holder, and a sole proprietor with no employees can file a notarized workers' compensation waiver instead.",
-        "Insurers: HBC's checklist says every insurance company must be listed with the Kentucky Department of Insurance."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "Kentucky electrical license fees",
-      "paragraphs": [
-        "These are the published application fees in [815 KAR 35:060](https://apps.legislature.ky.gov/law/kar/titles/815/035/060/) as of the version effective May 6, 2025. Licenses are biennial, so each fee covers a two year license. Fees change, so confirm current amounts with HBC before you pay."
-      ],
-      "list": [
-        "Electrical contractor: $400 application fee, $400 renewal.",
-        "Master electrician: $200 application fee, $200 renewal.",
-        "Electrician: $100 application fee, $100 renewal.",
-        "Late renewal: $50. Application, renewal and late fees are nonrefundable.",
-        "NASCLA side: a $65 application fee and $45 per transcript, per NASCLA's FAQ, plus the PSI exam fee, which PSI collects when you schedule."
-      ],
-      "ordered": false
-    },
-    {
-      "h2": "Reciprocity and working in other states",
-      "paragraphs": [
-        "Kentucky's regulation includes a reciprocity path for applicants licensed in a state that has an agreement with Kentucky. You file the general application plus a copy of your out of state license and a letter of good standing from that licensing agency. Contractor applicants also need proof of insurance.",
-        "Louisiana's contractor board lists Kentucky HBC as a reciprocal partner for the Electrical classification on its [reciprocity page](https://lslbc.louisiana.gov/?p=6332). Ask HBC which other states currently have agreements, since those lists change.",
-        "The NASCLA route is often the simpler way to work across state lines. Your passing NASCLA result lives in the National Examination Database, and you can send a transcript to each participating agency that accepts the same exam. Each state still licenses you separately and applies its own experience, insurance and score age rules, so check each agency's listing on NASCLA's site."
-      ]
-    },
-    {
-      "h2": "How to prepare for the Kentucky NASCLA exam, and which package fits",
-      "paragraphs": [
-        "Because both exams are open book, your score depends on how fast you can find answers as much as what you already know. The NEC is the center of your study, but plan time for theory calculations and the two safety references. Practice timed lookups: read a question, name the topic, pick the book, find the article or table, and confirm the answer. Everything below ships from 1 Exam Prep, which fulfills our orders.",
-        "For the [Kentucky Master Electrical Contractor exam](https://passyournasclaexam.com/kentucky/master-electrical-contractor/): the [Online Exam Prep Course](https://passyournasclaexam.com/kentucky/master-electrical-contractor/online-exam-prep-course/) starts from $295 and suits licensed electricians who already own the references. The [Live Virtual + Self-Study Training](https://passyournasclaexam.com/kentucky/master-electrical-contractor/live-virtual-plus-self-study-training/) from $595 adds instructor sessions. The [Exam Book Package](https://passyournasclaexam.com/kentucky/master-electrical-contractor/exam-book-package/) from $1195 gives you the reference set to own. If you want our Kentucky NASCLA electrical book rental package, the [Books & Courses Rental Package](https://passyournasclaexam.com/kentucky/master-electrical-contractor/books-and-courses-rental-package/) from $2480 pairs highlighted and tabbed rental books with course access, and the [Ultimate Exam Prep Rental Package](https://passyournasclaexam.com/kentucky/master-electrical-contractor/ultimate-exam-prep-rental-package/) from $2905 adds Application Service and 1 year of course access. [The 1 Package: All-Inclusive](https://passyournasclaexam.com/kentucky/master-electrical-contractor/the-1-package-all-inclusive/) from $3305 also covers licensing and business setup help.",
-        "For the [Kentucky Journeyman Electrician exam](https://passyournasclaexam.com/kentucky/journeyman-electrician/): start with the [Online Exam Prep Course](https://passyournasclaexam.com/kentucky/journeyman-electrician/online-exam-prep-course/) from $295 or the [Exam Book Package](https://passyournasclaexam.com/kentucky/journeyman-electrician/exam-book-package/) from $795. If you want NASCLA highlighted and tabbed books in Kentucky without doing the marking yourself, the [Highlighted & Tabbed Book Package](https://passyournasclaexam.com/kentucky/journeyman-electrician/highlighted-and-tabbed-book-package/) is from $1145. The [Books & Courses Rental Package](https://passyournasclaexam.com/kentucky/journeyman-electrician/books-and-courses-rental-package/) from $1370 includes seven highlighted and tabbed rental books and 6 months of course access.",
-        "As a rule of thumb, pick the online course if you have the books, a book package if you study well alone, and a rental package if you want ready to test references and a course in one order. Before test day, compare your books against the current NASCLA reference list and PSI's rules on tabs and markings."
-      ]
-    },
-    {
-      "h2": "After you pass: application, renewal and continuing education",
-      "paragraphs": [
-        "Once your NASCLA transcript is released to Kentucky, file your HBC application with the rest of your documents. Under 815 KAR 35:060, an application stays pending for up to one year and then becomes void, so send everything together.",
-        "Kentucky electrical licenses are valid for two years. Individuals renew by the last day of their birth month in the second year, and business entities renew by the last day of the month the license was issued. Keep your insurance current if you hold a contractor license, since HBC requires proof of coverage.",
-        "Continuing education is required to renew. The HBC continuing education regulation, [815 KAR 2:010](https://dhbc.ky.gov/Documents/KHBC-010.pdf), sets a minimum of 6 hours completed in the 12 months before renewal, counts no more than 2 hours of safety practices toward that minimum, and lets you carry extra hours forward. Electrician and master electrician courses cover codes, safety or trade subjects, while electrical contractor courses cover business or job safety. Confirm how the hour requirement applies to the two year license cycle with HBC before you renew."
-      ]
-    }
+  [
+   "Is the NASCLA electrical exam open book?",
+   "Yes. Both the Electrical Contractor/Master Electrician and Journeyman Electrician exams are open book, with references limited to NASCLA's published list and PSI's testing rules."
   ],
-  "faq": [
-    [
-      "Does Kentucky accept the NASCLA exam for master electricians?",
-      "Yes. NASCLA lists Kentucky HBC as accepting the Electrical Contractor/Master Electrician exam as of February 2025. You still need 16,000 hours of qualifying experience and an approved HBC application to get the license."
-    ],
-    [
-      "Does Kentucky accept the NASCLA Journeyman Electrician exam?",
-      "Yes. Kentucky accepts the NASCLA Journeyman Electrician exam for its electrician license, which requires 8,000 hours of verifiable experience. The score must be within three years when you apply."
-    ],
-    [
-      "How long is my NASCLA score good for in Kentucky?",
-      "NASCLA's listing for Kentucky says exam scores must be within three years to be accepted. NASCLA itself keeps your result on file, but Kentucky applies the three year limit."
-    ],
-    [
-      "Is the NASCLA electrical exam open book?",
-      "Yes. Both the Electrical Contractor/Master Electrician and Journeyman Electrician exams are open book, with references limited to NASCLA's published list and PSI's testing rules."
-    ],
-    [
-      "What score do I need to pass the NASCLA master electrician exam?",
-      "NASCLA's candidate bulletin lists a minimum passing score of 75 on 100 scored questions, with 270 minutes to finish. The journeyman exam requires 70 on 100 scored questions in 300 minutes."
-    ],
-    [
-      "Do I need a business and law exam for a Kentucky electrical contractor license?",
-      "Yes. HBC's application checklist asks contractor applicants for a passing business and law exam result. A master electrician or electrician license does not have this requirement."
-    ],
-    [
-      "How much does a Kentucky master electrician license cost?",
-      "The published application fee in 815 KAR 35:060 is $200 for a two year license, and renewal is also $200. NASCLA and PSI charge their own exam related fees, so check current amounts with each."
-    ],
-    [
-      "Can a company get a Kentucky electrical contractor license without a master electrician?",
-      "No. The business must hold a Kentucky master electrician license itself or employ a Kentucky licensed master electrician, and it must also carry at least $1,000,000 in general liability coverage."
-    ],
-    [
-      "Which NEC edition should I study for Kentucky?",
-      "Kentucky began mandatory enforcement of the 2023 NEC on January 1, 2025. NASCLA allows the 2020 or 2023 NEC on its electrical exams, so the 2023 edition covers both your exam and your Kentucky work."
-    ]
+  [
+   "What score do I need to pass the NASCLA master electrician exam?",
+   "NASCLA's candidate bulletin lists a minimum passing score of 75 on 100 scored questions, with 270 minutes to finish. The journeyman exam requires 70 on 100 scored questions in 300 minutes."
   ],
-  "sources": [
-    {
-      "title": "NASCLA: Kentucky Department of Housing, Buildings and Construction (electrical exam participating agency)",
-      "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and"
-    },
-    {
-      "title": "NASCLA: Participating Agencies, Electrical",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
-    },
-    {
-      "title": "PSI: NASCLA Accredited Electrical Examinations Candidate Information Bulletin",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "title": "NASCLA: Accredited Examinations FAQ",
-      "url": "https://nascla.org/nascla-accredited-examinations-faq"
-    },
-    {
-      "title": "Kentucky HBC: Electrical New Application Checklists",
-      "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
-    },
-    {
-      "title": "Kentucky Legislature: KRS 227A.060 Qualifications for licensure",
-      "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
-    },
-    {
-      "title": "Kentucky Legislature: 815 KAR 35:060 Licensing requirements for electrical contractors, master electricians and electricians",
-      "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
-    },
-    {
-      "title": "Kentucky HBC: 815 KAR 2:010 Continuing education requirements",
-      "url": "https://dhbc.ky.gov/Documents/KHBC-010.pdf"
-    },
-    {
-      "title": "Kentucky HBC: 2023 NEC Update Announcement",
-      "url": "https://dhbc.ky.gov/Documents/2023%20NEC%20Update%20Announcement.pdf"
-    },
-    {
-      "title": "Louisiana State Licensing Board for Contractors: Reciprocity Agreements",
-      "url": "https://lslbc.louisiana.gov/?p=6332"
-    }
+  [
+   "Do I need a business and law exam for a Kentucky electrical contractor license?",
+   "Yes. HBC's application checklist asks contractor applicants for a passing business and law exam result. A master electrician or electrician license does not have this requirement."
   ],
-  "facts": [
-    {
-      "claim": "Kentucky HBC accepts the NASCLA Electrical Contractor/Master Electrician and Journeyman Electrician exams, as of February 2025",
-      "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and"
-    },
-    {
-      "claim": "Kentucky accepts NASCLA exam scores only if within three years",
-      "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and"
-    },
-    {
-      "claim": "HBC address is 500 Mero Street, Frankfort",
-      "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and"
-    },
-    {
-      "claim": "Kentucky is not listed on NASCLA's commercial exam participating agencies list",
-      "url": "https://www.nascla.org/page/ParticipatingAgencies"
-    },
-    {
-      "claim": "Mandatory enforcement of the 2023 NEC began January 1, 2025, with some residential provisions phased in later",
-      "url": "https://dhbc.ky.gov/Documents/2023%20NEC%20Update%20Announcement.pdf"
-    },
-    {
-      "claim": "Electrical Contractor/Master exam: 100 scored questions, 270 minutes, minimum passing score 75",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "claim": "Journeyman exam: 100 scored questions, 300 minutes, minimum passing score 70",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "claim": "Each NASCLA electrical exam includes 10 unscored experimental questions",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "claim": "2020 or 2023 NEC (or NEC Handbook) allowed as reference",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "claim": "Apply at ned.nascla.org with pre-approval; NASCLA processes applications within 7 business days; schedule with PSI",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "claim": "One year eligibility, up to three attempts; reapply after the year if not passed",
-      "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
-    },
-    {
-      "claim": "Master exam content: general code requirements 17, wiring and protection 17, wiring methods and materials 16, equipment for general use 13 questions",
-      "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/online-exam-prep-course/"
-    },
-    {
-      "claim": "NASCLA application fee $65; transcript fee $45 per agency",
-      "url": "https://nascla.org/nascla-accredited-examinations-faq"
-    },
-    {
-      "claim": "Electrical contractor applicants must pass the Business and Law exam and submit results",
-      "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
-    },
-    {
-      "claim": "Contractor must hold or employ a Kentucky licensed master electrician",
-      "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
-    },
-    {
-      "claim": "Insurers must be listed by the Kentucky Department of Insurance; HBC is certificate holder; notarized workers' comp waiver for sole proprietor with no employees",
-      "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
-    },
-    {
-      "claim": "Applicants submit passport style color photo and copy of driver's license or birth certificate",
-      "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
-    },
-    {
-      "claim": "Master electrician: 16,000 hours since age 16; training course or two years teaching substitutes 4,000 hours; associate degree substitutes 6,000 hours",
-      "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
-    },
-    {
-      "claim": "Electrician: 8,000 hours since age 16; one substitute counts for 4,000 hours",
-      "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
-    },
-    {
-      "claim": "Military occupational specialty experience counts with DD-214 or commanding officer statement",
-      "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
-    },
-    {
-      "claim": "Electrical contractor: workers' comp and unemployment insurance compliance and general liability of at least $1,000,000",
-      "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
-    },
-    {
-      "claim": "Provisional electrician license is one year and nonrenewable",
-      "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
-    },
-    {
-      "claim": "Fees: contractor $400, master $200, electrician $100 application and renewal; late renewal $50; nonrefundable; version effective May 6, 2025",
-      "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
-    },
-    {
-      "claim": "Licenses valid two years; renew by last day of birth month in second year; entities by last day of issue month",
-      "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
-    },
-    {
-      "claim": "State exam passing standard 70 percent; passing score valid three years; business entity designates owner, officer, director or full time employee",
-      "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
-    },
-    {
-      "claim": "Applications pending up to one year, then void",
-      "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
-    },
-    {
-      "claim": "Reciprocity requires copy of out of state license and letter of good standing; contractors also need proof of insurance",
-      "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
-    },
-    {
-      "claim": "CE: minimum 6 hours in 12 months before renewal; no more than 2 hours of safety; carry forward allowed; contractor courses on business or job safety",
-      "url": "https://dhbc.ky.gov/Documents/KHBC-010.pdf"
-    },
-    {
-      "claim": "Louisiana LSLBC lists Kentucky HBC as reciprocal for Electrical",
-      "url": "https://lslbc.louisiana.gov/?p=6332"
-    },
-    {
-      "claim": "Master Electrical Contractor Online Exam Prep Course from $295",
-      "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/online-exam-prep-course/"
-    },
-    {
-      "claim": "Master Electrical Contractor Live Virtual + Self-Study Training from $595",
-      "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/live-virtual-plus-self-study-training/"
-    },
-    {
-      "claim": "Master Electrical Contractor Exam Book Package from $1195",
-      "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/exam-book-package/"
-    },
-    {
-      "claim": "Master Electrical Contractor Books & Courses Rental Package from $2480",
-      "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/books-and-courses-rental-package/"
-    },
-    {
-      "claim": "Master Electrical Contractor Ultimate Exam Prep Rental Package from $2905, includes Application Service and 1 year of course access",
-      "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "Master Electrical Contractor rental set includes NASCLA Contractor's Guide Basic 14th edition",
-      "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/ultimate-exam-prep-rental-package/"
-    },
-    {
-      "claim": "The 1 Package: All-Inclusive (Master Electrical Contractor) from $3305",
-      "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/the-1-package-all-inclusive/"
-    },
-    {
-      "claim": "Journeyman Online Exam Prep Course from $295",
-      "url": "https://passyournasclaexam.com/kentucky/journeyman-electrician/online-exam-prep-course/"
-    },
-    {
-      "claim": "Journeyman Exam Book Package from $795",
-      "url": "https://passyournasclaexam.com/kentucky/journeyman-electrician/exam-book-package/"
-    },
-    {
-      "claim": "Journeyman Highlighted & Tabbed Book Package from $1145",
-      "url": "https://passyournasclaexam.com/kentucky/journeyman-electrician/highlighted-and-tabbed-book-package/"
-    },
-    {
-      "claim": "Journeyman Books & Courses Rental Package from $1370 with seven highlighted and tabbed rental books and 6 months of course access",
-      "url": "https://passyournasclaexam.com/kentucky/journeyman-electrician/books-and-courses-rental-package/"
-    }
+  [
+   "How much does a Kentucky master electrician license cost?",
+   "The published application fee in 815 KAR 35:060 is $200 for a two year license, and renewal is also $200. NASCLA and PSI charge their own exam related fees, so check current amounts with each."
   ],
-  "word_count": 2402
+  [
+   "Can a company get a Kentucky electrical contractor license without a master electrician?",
+   "No. The business must hold a Kentucky master electrician license itself or employ a Kentucky licensed master electrician, and it must also carry at least $1,000,000 in general liability coverage."
+  ],
+  [
+   "Which NEC edition should I study for Kentucky?",
+   "Kentucky began mandatory enforcement of the 2023 NEC on January 1, 2025. NASCLA allows the 2020 or 2023 NEC on its electrical exams, so the 2023 edition covers both your exam and your Kentucky work."
+  ]
+ ],
+ "sources": [
+  {
+   "title": "NASCLA: Kentucky Department of Housing, Buildings and Construction (electrical exam participating agency)",
+   "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and"
+  },
+  {
+   "title": "NASCLA: Participating Agencies, Electrical",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies_Electrical"
+  },
+  {
+   "title": "PSI: NASCLA Accredited Electrical Examinations Candidate Information Bulletin",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "title": "NASCLA: Accredited Examinations FAQ",
+   "url": "https://nascla.org/nascla-accredited-examinations-faq"
+  },
+  {
+   "title": "Kentucky HBC: Electrical New Application Checklists",
+   "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
+  },
+  {
+   "title": "Kentucky Legislature: KRS 227A.060 Qualifications for licensure",
+   "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
+  },
+  {
+   "title": "Kentucky Legislature: 815 KAR 35:060 Licensing requirements for electrical contractors, master electricians and electricians",
+   "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
+  },
+  {
+   "title": "Kentucky HBC: 815 KAR 2:010 Continuing education requirements",
+   "url": "https://dhbc.ky.gov/Documents/KHBC-010.pdf"
+  },
+  {
+   "title": "Kentucky HBC: 2023 NEC Update Announcement",
+   "url": "https://dhbc.ky.gov/Documents/2023%20NEC%20Update%20Announcement.pdf"
+  },
+  {
+   "title": "Louisiana State Licensing Board for Contractors: Reciprocity Agreements",
+   "url": "https://lslbc.louisiana.gov/?p=6332"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Kentucky HBC accepts the NASCLA Electrical Contractor/Master Electrician and Journeyman Electrician exams, as of February 2025",
+   "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and"
+  },
+  {
+   "claim": "Kentucky accepts NASCLA exam scores only if within three years",
+   "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and"
+  },
+  {
+   "claim": "HBC address is 500 Mero Street, Frankfort",
+   "url": "https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and"
+  },
+  {
+   "claim": "Kentucky is not listed on NASCLA's commercial exam participating agencies list",
+   "url": "https://www.nascla.org/page/ParticipatingAgencies"
+  },
+  {
+   "claim": "Mandatory enforcement of the 2023 NEC began January 1, 2025, with some residential provisions phased in later",
+   "url": "https://dhbc.ky.gov/Documents/2023%20NEC%20Update%20Announcement.pdf"
+  },
+  {
+   "claim": "Electrical Contractor/Master exam: 100 scored questions, 270 minutes, minimum passing score 75",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "claim": "Journeyman exam: 100 scored questions, 300 minutes, minimum passing score 70",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "claim": "Each NASCLA electrical exam includes 10 unscored experimental questions",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "claim": "2020 or 2023 NEC (or NEC Handbook) allowed as reference",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "claim": "Apply at ned.nascla.org with pre-approval; NASCLA processes applications within 7 business days; schedule with PSI",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "claim": "One year eligibility, up to three attempts; reapply after the year if not passed",
+   "url": "https://test-takers.psiexams.com/api/content/bulletin/6677"
+  },
+  {
+   "claim": "Master exam content: general code requirements 17, wiring and protection 17, wiring methods and materials 16, equipment for general use 13 questions",
+   "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/online-exam-prep-course/"
+  },
+  {
+   "claim": "NASCLA application fee $65; transcript fee $45 per agency",
+   "url": "https://nascla.org/nascla-accredited-examinations-faq"
+  },
+  {
+   "claim": "Electrical contractor applicants must pass the Business and Law exam and submit results",
+   "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
+  },
+  {
+   "claim": "Contractor must hold or employ a Kentucky licensed master electrician",
+   "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
+  },
+  {
+   "claim": "Insurers must be listed by the Kentucky Department of Insurance; HBC is certificate holder; notarized workers' comp waiver for sole proprietor with no employees",
+   "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
+  },
+  {
+   "claim": "Applicants submit passport style color photo and copy of driver's license or birth certificate",
+   "url": "https://dhbc.ky.gov/Documents/Electrical%20New%20Application%20Checklists.pdf"
+  },
+  {
+   "claim": "Master electrician: 16,000 hours since age 16; training course or two years teaching substitutes 4,000 hours; associate degree substitutes 6,000 hours",
+   "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
+  },
+  {
+   "claim": "Electrician: 8,000 hours since age 16; one substitute counts for 4,000 hours",
+   "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
+  },
+  {
+   "claim": "Military occupational specialty experience counts with DD-214 or commanding officer statement",
+   "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
+  },
+  {
+   "claim": "Electrical contractor: workers' comp and unemployment insurance compliance and general liability of at least $1,000,000",
+   "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
+  },
+  {
+   "claim": "Provisional electrician license is one year and nonrenewable",
+   "url": "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=55092"
+  },
+  {
+   "claim": "Fees: contractor $400, master $200, electrician $100 application and renewal; late renewal $50; nonrefundable; version effective May 6, 2025",
+   "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
+  },
+  {
+   "claim": "Licenses valid two years; renew by last day of birth month in second year; entities by last day of issue month",
+   "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
+  },
+  {
+   "claim": "State exam passing standard 70 percent; passing score valid three years; business entity designates owner, officer, director or full time employee",
+   "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
+  },
+  {
+   "claim": "Applications pending up to one year, then void",
+   "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
+  },
+  {
+   "claim": "Reciprocity requires copy of out of state license and letter of good standing; contractors also need proof of insurance",
+   "url": "https://apps.legislature.ky.gov/law/kar/titles/815/035/060/"
+  },
+  {
+   "claim": "CE: minimum 6 hours in 12 months before renewal; no more than 2 hours of safety; carry forward allowed; contractor courses on business or job safety",
+   "url": "https://dhbc.ky.gov/Documents/KHBC-010.pdf"
+  },
+  {
+   "claim": "Louisiana LSLBC lists Kentucky HBC as reciprocal for Electrical",
+   "url": "https://lslbc.louisiana.gov/?p=6332"
+  },
+  {
+   "claim": "Master Electrical Contractor Online Exam Prep Course from $295",
+   "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/online-exam-prep-course/"
+  },
+  {
+   "claim": "Master Electrical Contractor Live Virtual + Self-Study Training from $595",
+   "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/live-virtual-plus-self-study-training/"
+  },
+  {
+   "claim": "Master Electrical Contractor Exam Book Package from $1195",
+   "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/exam-book-package/"
+  },
+  {
+   "claim": "Master Electrical Contractor Books & Courses Rental Package from $2480",
+   "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/books-and-courses-rental-package/"
+  },
+  {
+   "claim": "Master Electrical Contractor Ultimate Exam Prep Rental Package from $2905, includes Application Service and 1 year of course access",
+   "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "Master Electrical Contractor rental set includes NASCLA Contractor's Guide Basic 14th edition",
+   "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/ultimate-exam-prep-rental-package/"
+  },
+  {
+   "claim": "The 1 Package: All-Inclusive (Master Electrical Contractor) from $3305",
+   "url": "https://passyournasclaexam.com/kentucky/master-electrical-contractor/the-1-package-all-inclusive/"
+  },
+  {
+   "claim": "Journeyman Online Exam Prep Course from $295",
+   "url": "https://passyournasclaexam.com/kentucky/journeyman-electrician/online-exam-prep-course/"
+  },
+  {
+   "claim": "Journeyman Exam Book Package from $795",
+   "url": "https://passyournasclaexam.com/kentucky/journeyman-electrician/exam-book-package/"
+  },
+  {
+   "claim": "Journeyman Highlighted & Tabbed Book Package from $1145",
+   "url": "https://passyournasclaexam.com/kentucky/journeyman-electrician/highlighted-and-tabbed-book-package/"
+  },
+  {
+   "claim": "Journeyman Books & Courses Rental Package from $1370 with seven highlighted and tabbed rental books and 6 months of course access",
+   "url": "https://passyournasclaexam.com/kentucky/journeyman-electrician/books-and-courses-rental-package/"
+  }
+ ],
+ "word_count": 2402,
+ "status": "published",
+ "checked": "2026-10-19"
 }

@@ -1,13 +1,13 @@
 ---
 title: Arkansas Business & Law Guide Highlighted & Tabbed (8th Ed.)
 url: https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-highlighted-and-tabbed-8th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Arkansas NASCLA Contractors Guide to Business, Law and Project Management, Arkansas 8th Edition; Highlighted & Tabbed The Arkansas NASCLA Contractors Guide.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) · [Business and Law](https://passyournasclaexam.com/arkansas/business-and-law/) Business & Law Guide Highlighted & Tabbed (8th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Arkansas](https://passyournasclaexam.com/arkansas/) · [Business & Law](https://passyournasclaexam.com/arkansas/business-and-law/)
 

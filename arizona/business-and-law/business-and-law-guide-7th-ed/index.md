@@ -1,13 +1,13 @@
 ---
 title: Arizona Business & Law Guide (7th Ed.)
 url: https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-7th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The is an official reference manual authorized by the Arizona Registrar of Contractors and published by the National Association of State Contractors.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Business and Law](https://passyournasclaexam.com/arizona/business-and-law/) Business & Law Guide (7th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Business & Law](https://passyournasclaexam.com/arizona/business-and-law/)
 

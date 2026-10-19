@@ -1,13 +1,13 @@
 ---
 title: Louisiana Business & Law Guide + Tabs (12th Ed.)
 url: https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Louisiana contractor business and law requirements with the from 1 Exam Prep. This study package combines the Louisiana-specific NASCLA reference.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) Business & Law Guide + Tabs (12th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business & Law](https://passyournasclaexam.com/louisiana/business-and-law/)
 

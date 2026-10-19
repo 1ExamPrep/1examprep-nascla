@@ -1,13 +1,13 @@
 ---
 title: Hawaii Business & Law Guide Highlighted & Tabbed (1st Ed.)
 url: https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-highlighted-and-tabbed-1st-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Hawaii Contractor Business and Law Examination with the from 1 Exam Prep. This professionally prepared reference book combines essential.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Hawaii](https://passyournasclaexam.com/hawaii/) · [Business and Law](https://passyournasclaexam.com/hawaii/business-and-law/) Business & Law Guide Highlighted & Tabbed (1st Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Hawaii](https://passyournasclaexam.com/hawaii/) · [Business & Law](https://passyournasclaexam.com/hawaii/business-and-law/)
 

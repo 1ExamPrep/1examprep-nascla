@@ -1,13 +1,13 @@
 ---
 title: Alabama Commercial GC Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/alabama/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama Business and Law examination and the NASCLA Accredited Examination for Commercial General Building Contractors with a complete.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Commercial General Building Contractor](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Commercial GC](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/)
 

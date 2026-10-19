@@ -1,13 +1,13 @@
 ---
 title: Alabama Business & Law Guide + Tabs (3rd Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Alabama NASCLA Business and Project Management for Contractors, General Contractors, 3rd Edition; Tabs Bundle [Book + Tabs] The Alabama NASCLA Business and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Business & Law Guide + Tabs (3rd Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 

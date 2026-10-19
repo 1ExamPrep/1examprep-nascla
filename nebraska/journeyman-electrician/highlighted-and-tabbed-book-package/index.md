@@ -1,13 +1,13 @@
 ---
 title: Nebraska Journeyman Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/nebraska/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Nebraska NASCLA Journeyman Electrician examination with a professionally organized reference library designed for open-book study and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Journeyman Electrician](https://passyournasclaexam.com/nebraska/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Journeyman](https://passyournasclaexam.com/nebraska/journeyman-electrician/)
 

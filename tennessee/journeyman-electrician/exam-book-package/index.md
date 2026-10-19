@@ -1,13 +1,13 @@
 ---
 title: Tennessee Exam Book Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/tennessee/journeyman-electrician/exam-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Tennessee NASCLA Journeyman Electrician examination with a focused collection of electrical code, safety, theory, fire alarm, and field.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Journeyman Electrician](https://passyournasclaexam.com/tennessee/journeyman-electrician/) Exam Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Journeyman](https://passyournasclaexam.com/tennessee/journeyman-electrician/)
 

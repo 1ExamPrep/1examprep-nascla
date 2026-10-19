@@ -1,13 +1,13 @@
 ---
 title: Louisiana Master Electrical Live + Self-Study Training
 url: https://passyournasclaexam.com/louisiana/master-electrical-contractor/live-virtual-plus-self-study-training/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a flexible training program that combines live virtual instruction with.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Master Electrical Contractor](https://passyournasclaexam.com/louisiana/master-electrical-contractor/) Live Virtual + Self-Study Training
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Master Electrical](https://passyournasclaexam.com/louisiana/master-electrical-contractor/)
 

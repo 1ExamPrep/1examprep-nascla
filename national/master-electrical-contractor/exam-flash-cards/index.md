@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam Flash Cards | NASCLA Master Electrical
 url: https://passyournasclaexam.com/national/master-electrical-contractor/exam-flash-cards/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Master Electrical Contractor examination with a focused study tool designed for repeated electrical review and efficient exam.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical Contractor](https://passyournasclaexam.com/national/master-electrical-contractor/) Exam Flash Cards
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical](https://passyournasclaexam.com/national/master-electrical-contractor/)
 

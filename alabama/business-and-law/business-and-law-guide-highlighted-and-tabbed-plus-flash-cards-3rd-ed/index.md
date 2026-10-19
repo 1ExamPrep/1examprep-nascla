@@ -1,13 +1,13 @@
 ---
 title: Alabama B&L Guide H&T + Flash Cards (3rd Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-3rd-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama General Contractor Business and Law Examination with the from 1 Exam Prep. This comprehensive study package combines the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 

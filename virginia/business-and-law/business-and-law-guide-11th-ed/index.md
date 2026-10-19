@@ -1,13 +1,13 @@
 ---
 title: Virginia Business & Law Guide (11th Ed.)
 url: https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The is an officially recognized reference by the Virginia Board for Contractors (DPOR) for candidates preparing for the NASCLA Accredited Trade Examination.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Business and Law](https://passyournasclaexam.com/virginia/business-and-law/) Business & Law Guide (11th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Business & Law](https://passyournasclaexam.com/virginia/business-and-law/)
 

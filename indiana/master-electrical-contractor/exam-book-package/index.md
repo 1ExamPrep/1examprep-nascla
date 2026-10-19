@@ -1,13 +1,13 @@
 ---
 title: Indiana Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/indiana/master-electrical-contractor/exam-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a comprehensive reference-book package built around electrical code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) · [Master Electrical Contractor](https://passyournasclaexam.com/indiana/master-electrical-contractor/) Exam Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Indiana](https://passyournasclaexam.com/indiana/) · [Master Electrical](https://passyournasclaexam.com/indiana/master-electrical-contractor/)
 

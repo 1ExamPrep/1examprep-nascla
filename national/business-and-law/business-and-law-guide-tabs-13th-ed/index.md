@@ -1,13 +1,13 @@
 ---
 title: NASCLA Business & Law Guide Tabs (13th Ed.)
 url: https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-tabs-13th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The Basic NASCLA Contractors Guide to Business, Law and Project Management, Basic 13th Edition is a reference manual recognized by the National Association.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Business and Law](https://passyournasclaexam.com/national/business-and-law/) Business & Law Guide Tabs (13th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Business & Law](https://passyournasclaexam.com/national/business-and-law/)
 

@@ -1,13 +1,13 @@
 ---
 title: Georgia NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/georgia/business-and-law/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: 38 answers about the Georgia business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Georgia Business & Law
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Georgia Business and Law exam: frequently asked questions
 

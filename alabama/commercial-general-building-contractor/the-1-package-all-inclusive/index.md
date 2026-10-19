@@ -1,13 +1,13 @@
 ---
 title: Alabama The 1 Package: All-Inclusive | NASCLA Commercial GC
 url: https://passyournasclaexam.com/alabama/commercial-general-building-contractor/the-1-package-all-inclusive/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Alabama commercial general contractor licensing journey with from 1 Exam Prep. This comprehensive solution combines NASCLA Commercial.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Commercial General Building Contractor](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/) The 1 Package: All-Inclusive
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Commercial GC](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/)
 

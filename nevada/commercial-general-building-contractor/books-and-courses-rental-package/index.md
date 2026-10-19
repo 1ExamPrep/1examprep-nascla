@@ -1,13 +1,13 @@
 ---
 title: Nevada Books & Courses Rental Package | NASCLA Commercial GC
 url: https://passyournasclaexam.com/nevada/commercial-general-building-contractor/books-and-courses-rental-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: NEVADA NASCLA COMMERCIAL GENERAL BUILDING CONTRACTOR EXAM (BOOK RENTAL) The , provided by Pass Your NASCLA Exam Prep, aligns with the National Association of.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nevada](https://passyournasclaexam.com/nevada/) · [Commercial General Building Contractor](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/) Books & Courses Rental Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Nevada](https://passyournasclaexam.com/nevada/) · [Commercial GC](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/)
 

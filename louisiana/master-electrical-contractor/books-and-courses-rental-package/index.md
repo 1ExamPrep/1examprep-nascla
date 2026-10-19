@@ -1,13 +1,13 @@
 ---
 title: Louisiana Master Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/louisiana/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a comprehensive rental package that combines highlighted and tabbed.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Master Electrical Contractor](https://passyournasclaexam.com/louisiana/master-electrical-contractor/) Books & Courses Rental Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Master Electrical](https://passyournasclaexam.com/louisiana/master-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: Tennessee NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/tennessee/master-electrical-contractor/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Tennessee master electrical contractor exam prep: 6 products from $395.00 to $3,375.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) Master Electrical Contractor
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Tennessee Master Electrical Contractor Exam Prep
 

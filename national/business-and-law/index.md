@@ -1,13 +1,13 @@
 ---
 title: NASCLA Business and Law Exam Prep, Nationwide
 url: https://passyournasclaexam.com/national/business-and-law/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Nationwide business and law exam prep: 8 products from $19.95 to $399.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) Business and Law
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide Business and Law Exam Prep
 

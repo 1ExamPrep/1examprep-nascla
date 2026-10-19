@@ -1,13 +1,13 @@
 ---
 title: Maryland Business & Law Guide (7th Ed.)
 url: https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-7th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The Maryland NASCLA Contractors Guide to Business, Law and Project Management, 7th Edition, approved by the Maryland Home Improvement Commission (MHIC).
 ---
 
 [Home](https://passyournasclaexam.com/) · [Maryland](https://passyournasclaexam.com/maryland/) · [Business and Law](https://passyournasclaexam.com/maryland/business-and-law/) Business & Law Guide (7th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Maryland](https://passyournasclaexam.com/maryland/) · [Business & Law](https://passyournasclaexam.com/maryland/business-and-law/)
 

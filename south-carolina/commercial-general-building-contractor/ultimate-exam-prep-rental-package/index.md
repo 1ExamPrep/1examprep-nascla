@@ -1,13 +1,13 @@
 ---
 title: South Carolina Commercial GC Ultimate Rental Package
 url: https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the South Carolina NASCLA Commercial General Building Contractor exam with a comprehensive Ultimate Exam Prep Rental Package that combines an.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial GC](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/)
 

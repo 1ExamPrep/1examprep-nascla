@@ -1,13 +1,13 @@
 ---
 title: NASCLA Online Exam Prep Course | NASCLA Journeyman
 url: https://passyournasclaexam.com/national/journeyman-electrician/online-exam-prep-course/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Journeyman Electricians with an online exam prep course built around organized study, electrical trade.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Journeyman Electrician](https://passyournasclaexam.com/national/journeyman-electrician/) Online Exam Prep Course
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Journeyman](https://passyournasclaexam.com/national/journeyman-electrician/)
 

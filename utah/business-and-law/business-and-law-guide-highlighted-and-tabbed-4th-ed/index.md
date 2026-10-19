@@ -1,13 +1,13 @@
 ---
 title: Utah Business & Law Guide Highlighted & Tabbed (4th Ed.)
 url: https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: UTAH-NASCLA Contractors Guide to Business, Law and Project Management, Utah 4th Edition The book titled “UTAH-NASCLA Contractors Guide to Business, Law and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Utah](https://passyournasclaexam.com/utah/) · [Business and Law](https://passyournasclaexam.com/utah/business-and-law/) Business & Law Guide Highlighted & Tabbed (4th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Utah](https://passyournasclaexam.com/utah/) · [Business & Law](https://passyournasclaexam.com/utah/business-and-law/)
 

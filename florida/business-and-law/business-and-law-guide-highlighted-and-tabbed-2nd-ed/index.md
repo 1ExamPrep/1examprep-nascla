@@ -1,13 +1,13 @@
 ---
 title: Florida Business & Law Guide Highlighted & Tabbed (2nd Ed.)
 url: https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Florida NASCLA Contractors Guide to Business, Law, and Project Management, Florida Counties, 2nd Edition — Highlighted & Tabbed The *Florida NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Business and Law](https://passyournasclaexam.com/florida/business-and-law/) Business & Law Guide Highlighted & Tabbed (2nd Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Business & Law](https://passyournasclaexam.com/florida/business-and-law/)
 

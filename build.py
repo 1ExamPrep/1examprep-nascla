@@ -414,8 +414,12 @@ def load_guide(sl):
     if os.environ.get("NO_GUIDES"): return None  # NO_GUIDES=1 python3 build.py builds the plain state pages
     f = os.path.join(GUIDE_DIR, sl + ".json")
     if not os.path.exists(f): return None
-    try: return json.load(open(f, encoding="utf-8"))
+    try: G = json.load(open(f, encoding="utf-8"))
     except Exception as e: print("guide skipped (bad JSON):", f, e); return None
+    # a guide goes live only once it has been fact-checked and marked "status": "published";
+    # GUIDES_PREVIEW=1 python3 build.py renders drafts too, for checking locally
+    if G.get("status") != "published" and not os.environ.get("GUIDES_PREVIEW"): return None
+    return G
 def md_inline(text, rel):
     """plain text with [label](url) links -> safe HTML; links to this site become relative"""
     out, pos = [], 0

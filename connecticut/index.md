@@ -1,13 +1,13 @@
 ---
 title: Connecticut Business and Law Exam: Contractor License Guide
 url: https://passyournasclaexam.com/connecticut/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: How to get a Connecticut contractor license: who needs the PSI Business and Law exam, the NASCLA 6th Edition guide, fees, experience and how to prepare.
 ---
 
 [Home](https://passyournasclaexam.com/) Connecticut
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Connecticut Business and Law Exam and Contractor License Guide
 
@@ -188,7 +188,7 @@ PSI says each passed portion is valid for two years from the pass date, and cont
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Connecticut DCP: About Careers in the Trades](https://portal.ct.gov/dcp/occupational-and-professional-division/occupational--profess/about-careers-in-the-trades)
 2. [PSI Services: Connecticut DCP Electrical Trades Candidate Information Bulletin](https://test-takers.psiexams.com/api/content/bulletin/49)

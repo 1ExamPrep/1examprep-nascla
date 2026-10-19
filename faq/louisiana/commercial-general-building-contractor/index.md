@@ -1,13 +1,13 @@
 ---
 title: Louisiana NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: 13 answers about the Louisiana commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Louisiana Commercial GC
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana Commercial General Building Contractor exam: frequently asked questions
 

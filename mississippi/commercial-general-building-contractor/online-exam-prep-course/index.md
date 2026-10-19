@@ -1,13 +1,13 @@
 ---
 title: Mississippi Online Exam Prep Course | NASCLA Commercial GC
 url: https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an online exam prep course designed for Mississippi contractor.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Commercial General Building Contractor](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/) Online Exam Prep Course
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Commercial GC](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/)
 

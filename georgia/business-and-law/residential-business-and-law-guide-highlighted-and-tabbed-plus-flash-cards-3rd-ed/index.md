@@ -1,13 +1,13 @@
 ---
 title: Georgia Res. B&L Guide H&T + Flash Cards (3rd Ed.)
 url: https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-3rd-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Georgia Contractor Business and Law Examination with the from 1 Exam Prep. This comprehensive study package combines a professionally.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 

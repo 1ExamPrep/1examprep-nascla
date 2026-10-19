@@ -1,13 +1,13 @@
 ---
 title: Alabama Residential Business & Law Guide Tabs (4th Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-tabs-4th-ed/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: The , distributed by Pass Your NASCLA Exam Prep, is the official reference manual approved by the Alabama Home Builders Licensure Board (HBLB) and published.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Residential Business & Law Guide Tabs (4th Ed.)
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 

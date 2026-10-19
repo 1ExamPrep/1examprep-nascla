@@ -1,13 +1,13 @@
 ---
 title: Missouri NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/missouri/master-electrical-contractor/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Missouri master electrical contractor exam prep: 6 products from $395.00 to $2,820.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Missouri](https://passyournasclaexam.com/missouri/) Master Electrical Contractor
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Missouri Master Electrical Contractor Exam Prep
 

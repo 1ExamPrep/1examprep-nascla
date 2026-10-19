@@ -1,13 +1,13 @@
 ---
 title: New Mexico Journeyman Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/new-mexico/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the New Mexico NASCLA Journeyman Electrician examination with a professionally organized reference library designed for open-book study and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Journeyman Electrician](https://passyournasclaexam.com/new-mexico/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/)
 

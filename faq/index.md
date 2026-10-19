@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam FAQ: 789 Answers
 url: https://passyournasclaexam.com/faq/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: 789 answers about NASCLA exams: the commercial exam format, which states accept it, licensing, open-book study and ordering, plus state-specific answers.
 ---
 
 [Home](https://passyournasclaexam.com/) FAQ
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # NASCLA exam FAQ
 

@@ -1,13 +1,13 @@
 ---
 title: Hawaii Business and Law Exam: Contractor License Guide
 url: https://passyournasclaexam.com/hawaii/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Pass the Hawaii Business and Law exam for your contractor license: PSI format, closed book rules, Class A, B and C steps, fees and the NASCLA Hawaii guide.
 ---
 
 [Home](https://passyournasclaexam.com/) Hawaii
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Hawaii Business and Law Exam and Contractor License Guide
 
@@ -194,7 +194,7 @@ Not automatically. State law lets the board require a bond of at least $5,000 ba
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Hawaii DCCA: Contractors License Board](https://cca.hawaii.gov/pvl/boards/contractor/)
 2. [Hawaii DCCA: Contractors License Board Examination](https://cca.hawaii.gov/pvl/boards/contractor/application-deadline-examination-dates/)

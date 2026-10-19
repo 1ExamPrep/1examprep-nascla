@@ -1,13 +1,13 @@
 ---
 title: Nevada NASCLA Exam: B License Guide and Exam Prep
 url: https://passyournasclaexam.com/nevada/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: How the Nevada NASCLA exam can waive the B or B-2 trade test, plus the CMS exam, experience, bond and financial rules, and the prep packages that fit you.
 ---
 
 [Home](https://passyournasclaexam.com/) Nevada
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Nevada NASCLA Exam: How to Get Your Nevada General Contractor License
 
@@ -211,7 +211,7 @@ Yes. The Board requires a financial statement at every monetary limit. For $25,0
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating State Agencies](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Commercial General Building Contractors Exam](https://www.nascla.org/nascla-commercial-exam)

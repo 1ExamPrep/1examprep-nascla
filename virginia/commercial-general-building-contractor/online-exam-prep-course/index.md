@@ -1,13 +1,13 @@
 ---
 title: Virginia Online Exam Prep Course | NASCLA Commercial GC
 url: https://passyournasclaexam.com/virginia/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an online exam prep course developed for Virginia contractor.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Commercial General Building Contractor](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/) Online Exam Prep Course
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Commercial GC](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/)
 

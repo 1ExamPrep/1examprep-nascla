@@ -1,13 +1,13 @@
 ---
 title: Georgia NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/georgia/commercial-general-building-contractor/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Georgia commercial general building contractor exam prep: 7 products from $199.99 to $4,694.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) Commercial General Building Contractor
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Georgia Commercial General Building Contractor Exam Prep
 

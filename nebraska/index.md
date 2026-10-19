@@ -1,13 +1,13 @@
 ---
 title: Nebraska NASCLA Electrical Exam: Licensing and Prep Guide
 url: https://passyournasclaexam.com/nebraska/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Nebraska NASCLA electrical exam guide: State Electrical Division rules, the August 1, 2025 date rule, PSI testing, hours, fees and prep packages by exam.
 ---
 
 [Home](https://passyournasclaexam.com/) Nebraska
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Nebraska NASCLA Electrical Exam: Contractor, Journeyman and Residential Licenses
 
@@ -197,7 +197,7 @@ Yes. Nebraska has journeyman reciprocity with 13 states and contractor reciproci
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Nebraska State Electrical Division (Electrical Exams)](https://www.nascla.org/electrical-exams-participating-state-agencies/nebraska-state-electrical-division)
 2. [NASCLA: Participating Agencies, Accredited Electrical Examination Program](https://www.nascla.org/page/ParticipatingAgencies_Electrical)

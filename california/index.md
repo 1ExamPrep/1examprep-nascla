@@ -1,13 +1,13 @@
 ---
 title: California NASCLA Exam: B License Waiver and Prep Guide
 url: https://passyournasclaexam.com/california/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: How the California NASCLA exam can waive the CSLB B General Building trade test for out-of-state contractors licensed 5+ years, plus steps, fees and prep.
 ---
 
 [Home](https://passyournasclaexam.com/) California
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # California NASCLA Exam Guide: Waiving the B General Building Trade Test
 
@@ -182,7 +182,7 @@ Yes. NASCLA says you can test at any PSI site that offers the exam, no matter wh
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Commercial Exam Participating Agencies](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: California Contractors State License Board](https://www.nascla.org/commercial-exam-participating-state-agencies/california-contractors-state-license-board)

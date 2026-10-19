@@ -1,13 +1,13 @@
 ---
 title: Louisiana Commercial GC Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Louisiana contractor business and law requirements and the NASCLA Accredited Examination for Commercial General Building Contractors with a.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial General Building Contractor](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial GC](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/)
 

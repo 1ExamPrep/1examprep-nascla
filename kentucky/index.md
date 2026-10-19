@@ -1,13 +1,13 @@
 ---
 title: Kentucky NASCLA Exam: Electrician License Guide
 url: https://passyournasclaexam.com/kentucky/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: How the Kentucky NASCLA exam works for master electrician and journeyman licenses: hours, fees, insurance, the HBC application and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Kentucky
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Kentucky NASCLA Exam Guide for Master and Journeyman Electricians
 
@@ -196,7 +196,7 @@ Kentucky began mandatory enforcement of the 2023 NEC on January 1, 2025. NASCLA 
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Kentucky Department of Housing, Buildings and Construction (electrical exam participating agency)](https://www.nascla.org/electrical-exams-participating-state-agencies/kentucky-department-housing-buildings-and)
 2. [NASCLA: Participating Agencies, Electrical](https://www.nascla.org/page/ParticipatingAgencies_Electrical)

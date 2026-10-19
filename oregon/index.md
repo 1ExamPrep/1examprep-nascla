@@ -1,13 +1,13 @@
 ---
 title: Oregon NASCLA Exam: CCB License and Exam Prep Guide
 url: https://passyournasclaexam.com/oregon/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Oregon CCB accepts the NASCLA commercial exam in place of 16 hours of pre-license training. See the steps, Oregon law exam, bonds, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Oregon
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Oregon NASCLA Exam: How It Fits Your CCB License, and How to Prepare
 
@@ -201,7 +201,7 @@ Level 2 commercial contractors need 32 hours every two years. Level 1 needs betw
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Oregon Construction Contractors Board: CCB License](https://www.oregon.gov/ccb/Pages/CCB%20License.aspx)
 2. [Oregon Construction Contractors Board: Pre-License Training Providers](https://www.oregon.gov/ccb/Pages/education-prelicenseproviders.aspx)

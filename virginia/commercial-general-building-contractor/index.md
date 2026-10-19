@@ -1,13 +1,13 @@
 ---
 title: Virginia NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/virginia/commercial-general-building-contractor/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Virginia commercial general building contractor exam prep: 8 products from $199.99 to $4,674.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) Commercial General Building Contractor
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia Commercial General Building Contractor Exam Prep
 

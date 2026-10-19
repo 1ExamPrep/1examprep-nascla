@@ -1,13 +1,13 @@
 ---
 title: New Jersey Business and Law Exam: NASCLA NJ Guide Prep
 url: https://passyournasclaexam.com/new-jersey/
-updated: 2026-10-18
+updated: 2026-10-19
 site: Pass Your NASCLA Exam Prep
 description: Pass the New Jersey business and law exam with the NASCLA NJ 2nd Edition guide. Exam format, fees, retakes, license steps, and tabbed book options.
 ---
 
 [Home](https://passyournasclaexam.com/) New Jersey
-Updated October 18, 2026 · prices checked against the 1 Exam Prep store
+Updated October 19, 2026 · prices checked against the 1 Exam Prep store
 
 # New Jersey Business and Law Exam: Your NASCLA NJ Guide and License Roadmap
 
@@ -198,7 +198,7 @@ The bulletins allow permanent tabs, and sticky notes or removable tabs are not a
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 18, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating State Agencies](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA Store: Contractors Guide to Business, Law and Project Management, New Jersey 2nd Edition](https://store.nascla.org/products/new-jersey-1st-edition)

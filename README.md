@@ -58,4 +58,4 @@ data/shopify/            raw Shopify export (2026-10-18)
 The site dashboard's Shopify sync (`server/shopify.js`) is written for the electrician catalog. Do not point
 it at this repo until its catalog rules match `tools/build_catalog.py`, or it will overwrite `shared/catalog.js`
 with the wrong structure. The weekly GitHub sync in `.github/workflows/sync-shopify.yml` uses this repo's rules
-and runs once the `SHOPIFY_STORE_DOMAIN` and `SHOPIFY_ADMIN_TOKEN` secrets are added.
+and runs once the `SHOPIFY_STORE_DOMAIN`, `SHOPIFY_CLIENT_ID` and `SHOPIFY_CLIENT_SECRET` secrets are added (the Dev Dashboard app's credentials; the secret starts with `shpss_`).

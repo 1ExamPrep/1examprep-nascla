@@ -121,11 +121,15 @@ ICON_SEARCH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke
 ICON_CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>'
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">'
 
+PUBLISHER = clean({"@type": "Organization", "name": BRAND, "url": SITE, "logo": {"@type": "ImageObject", "url": CFG.get("logo")}, "telephone": CFG.get("phoneTel"), "email": CFG.get("email"),
+                   "parentOrganization": {"@type": "Organization", "name": FUL["name"], "url": FUL["url"]}})
 def head(path, title, desc, image, rel, noindex=False, lds=()):
     desc = trim_desc(desc); url = absurl(path) if SITE else None
+    md_link = ('<link rel="alternate" type="text/markdown" title="Markdown version for AI assistants" href="%s">' % esc(absurl(path + "index.md"))) if (SITE and not noindex) else ""
     h = ['<meta charset="utf-8">', '<meta name="viewport" content="width=device-width, initial-scale=1">', "<title>%s</title>" % esc(title), '<meta name="description" content="%s">' % esc(desc),
          '<meta name="robots" content="%s">' % ("noindex, follow" if noindex else "index, follow, max-image-preview:large")]
     if url and not noindex: h.append('<link rel="canonical" href="%s">' % esc(url))
+    if md_link: h.append(md_link)
     h += ['<meta property="og:type" content="website">', '<meta property="og:title" content="%s">' % esc(title), '<meta property="og:description" content="%s">' % esc(desc),
           '<meta property="og:site_name" content="%s">' % esc(BRAND), '<meta property="og:locale" content="en_US">']
     if url: h.append('<meta property="og:url" content="%s">' % esc(url))
@@ -144,7 +148,8 @@ def head(path, title, desc, image, rel, noindex=False, lds=()):
     for o in lds: h.append(ld(o))
     if url and not noindex:
         h.append(ld({"@context": "https://schema.org", "@type": "WebPage", "@id": url, "url": url, "name": title, "description": desc, "inLanguage": "en-US", "datePublished": LAUNCH, "dateModified": TODAY,
-                     "isPartOf": {"@type": "WebSite", "url": SITE, "name": BRAND}, "publisher": {"@type": "Organization", "name": BRAND}}))
+                     "isPartOf": {"@type": "WebSite", "url": SITE, "name": BRAND}, "publisher": PUBLISHER, "about": {"@type": "Thing", "name": "NASCLA contractor licensing exams"},
+                     "encoding": {"@type": "MediaObject", "encodingFormat": "text/markdown", "contentUrl": absurl(path + "index.md")}}))
     return "\n".join(h)
 
 def dash_tag():
@@ -173,6 +178,77 @@ def footer(rel):
             % (home, wordmark(), esc(CFG.get("tagline", "")), CFG["phoneTel"], esc(CFG["phone"]), CFG["email"], CFG["email"], exams, pop, home, rel, rel, rel, soc,
                esc(BRAND), YEAR, esc(FUL.get("note") or ""), TODAY, datetime.date.fromisoformat(TODAY).strftime("%B %-d, %Y")))
 
+from html.parser import HTMLParser
+class MD(HTMLParser):
+    """turns a page's main HTML into plain Markdown for AI assistants"""
+    SKIP = {"script", "style", "svg", "button", "form", "img", "input", "label", "noscript"}
+    SKIPCLS = ("stickybar", "skip", "srch", "thumbs", "pc-badge")
+    def __init__(s, base):
+        super().__init__(convert_charrefs=True); s.base = base; s.out = []; s.skip = 0; s.stack = []; s.href = None; s.lists = []
+    def sp(s):
+        if s.out and not s.out[-1].endswith((" ", "\n")): s.out.append(" ")
+    def nl(s, n=2):
+        s.out.append("\n" * n)
+    def handle_starttag(s, tag, attrs):
+        a = dict(attrs); cls = a.get("class") or ""
+        skip = tag in s.SKIP or any(c in cls.split() for c in s.SKIPCLS) or a.get("aria-hidden") == "true"
+        if tag in ("br", "hr", "img", "input", "meta", "link"):
+            if tag == "br" and not s.skip: s.out.append("  \n")
+            return
+        s.stack.append(skip)
+        if skip: s.skip += 1; return
+        if s.skip: return
+        if tag in ("h1", "h2", "h3", "h4"): s.nl(); s.out.append("#" * int(tag[1]) + " ")
+        elif tag == "summary": s.nl(); s.out.append("### ")
+        elif tag in ("p", "details", "section", "article", "aside", "div", "dl", "dt", "dd") and not s.lists: s.nl(1)
+        elif tag in ("ul", "ol"): s.lists.append([tag, 0]); s.nl(1)
+        elif tag == "li":
+            s.out.append("\n" + "  " * (len(s.lists) - 1))
+            if s.lists and s.lists[-1][0] == "ol": s.lists[-1][1] += 1; s.out.append("%d. " % s.lists[-1][1])
+            else: s.out.append("- ")
+        elif tag in ("strong", "b"): s.out.append("**")
+        elif tag in ("em", "i"): s.out.append("*")
+        elif tag == "s": s.sp(); s.out.append("(was ")
+        elif tag in ("span", "small", "time") and s.out and not s.out[-1].endswith((" ", "\n", "[", "(")): s.out.append(" ")
+        elif tag == "a":
+            if s.out and s.out[-1].endswith(")"): s.out.append(" \u00b7 ")
+            h = a.get("href") or ""
+            if h and not h.startswith(("#", "javascript")):
+                from urllib.parse import urljoin
+                s.href = h if h.startswith(("http", "mailto", "tel")) else urljoin(s.base, h)
+                s.out.append("[")
+    def handle_endtag(s, tag):
+        if tag in ("br", "hr", "img", "input", "meta", "link"): return
+        skip = s.stack.pop() if s.stack else False
+        if skip: s.skip -= 1; return
+        if s.skip: return
+        if tag in ("h1", "h2", "h3", "h4", "summary", "p", "dt", "dd"): s.nl(1)
+        elif tag in ("ul", "ol"):
+            if s.lists: s.lists.pop()
+            s.nl(1)
+        elif tag in ("strong", "b"): s.out.append("**")
+        elif tag in ("em", "i"): s.out.append("*")
+        elif tag == "a" and s.href: s.out.append("](%s)" % s.href); s.href = None
+        elif tag == "s": s.out.append(")")
+    def handle_data(s, d):
+        if s.skip: return
+        d = re.sub(r"\s+", " ", d)
+        if d.strip() or (s.out and not s.out[-1].endswith(("\n", " "))): s.out.append(d)
+    def text(s):
+        md = "".join(s.out)
+        md = re.sub(r"\*\*\s*\*\*", "", md); md = re.sub(r"\[\s*\]\([^)]*\)", "", md)
+        md = re.sub(r"[ \t]+\n", "\n", md); md = re.sub(r"\n{3,}", "\n\n", md)
+        return md.strip() + "\n"
+def write_md(parts, path, title, desc, body):
+    if not SITE: return
+    p = MD(absurl(path)); p.feed(body)
+    body_md = p.text()
+    if not re.search(r"^# ", body_md, re.M): body_md = "# %s\n\n%s" % (title, body_md)
+    md = ("---\ntitle: %s\nurl: %s\nupdated: %s\nsite: %s\ndescription: %s\n---\n\n" % (title, absurl(path), TODAY, BRAND, trim_desc(desc, 300).replace("\n", " "))) + body_md
+    md += "\n---\n\nSource: %s  \nPublisher: %s. Orders are fulfilled by %s (%s). Phone %s, email %s.  \nPrices change; the product page and checkout show the current price.\n" % (absurl(path), BRAND, FUL["name"], FUL["url"], CFG["phone"], CFG["email"])
+    d = os.path.join(ROOT, *parts) if parts else ROOT
+    open(os.path.join(d, "index.md"), "w", encoding="utf-8").write(md)
+
 GENERATED, URLS = [], []
 def write(parts, body, title, desc, image=None, lds=(), noindex=False, cta=("#", "Find my exam"), current="", route=None, scripts="", sitemap=True, priority="0.6"):
     rel = "../" * len(parts); path = "/".join(parts) + ("/" if parts else "")
@@ -182,6 +258,7 @@ def write(parts, body, title, desc, image=None, lds=(), noindex=False, cta=("#",
     page = page.replace("{{REL}}", rel).replace("{{HOME}}", rel or "./")
     d = os.path.join(ROOT, *parts) if parts else ROOT; os.makedirs(d, exist_ok=True)
     open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(anchor_ids(page))
+    if not noindex: write_md(parts, path, title, desc, body)
     if parts: GENERATED.append(path.rstrip("/"))
     if SITE and sitemap and not noindex: URLS.append((absurl(path), priority))
 
@@ -189,12 +266,16 @@ def crumbs_html(items, rel):
     out = []
     for i, (n, p) in enumerate(items):
         out.append(('<a href="%s">%s</a>' % ((rel + p) if p else (rel or "./"), esc(n))) if i < len(items) - 1 else '<span aria-current="page">%s</span>' % esc(n))
-    return '<nav class="crumbs" aria-label="Breadcrumb">%s</nav>' % '<span aria-hidden="true">/</span>'.join(out)
+    return ('<nav class="crumbs" aria-label="Breadcrumb">%s</nav><p class="upd">Updated <time datetime="%s">%s</time> \u00b7 prices checked against the %s store</p>'
+            % ('<span aria-hidden="true">/</span>'.join(out), TODAY, datetime.date.fromisoformat(TODAY).strftime("%B %-d, %Y"), esc(FUL["name"])))
 def takeaways(items):
     items = [i for i in items if i][:4]
     return ('<aside class="takeaways" aria-labelledby="key-takeaways"><h2 id="key-takeaways">Key takeaways</h2><ul>%s</ul></aside>' % "".join("<li>%s</li>" % esc(i) for i in items)) if items else ""
 def faq_html(pairs, open_first=True):
     return '<div class="faq">%s</div>' % "".join('<details%s><summary>%s</summary><p>%s</p></details>' % (" open" if open_first and i == 0 else "", esc(q), esc(a)) for i, (q, a) in enumerate(pairs))
+def quick_answers(pairs):
+    """answer-first block: the questions people ask AI assistants, answered in one or two sentences"""
+    return '<section class="qa" aria-labelledby="quick-answers"><h2 id="quick-answers">Quick answers</h2>%s</section>' % "".join('<div class="qa-item"><h3>%s</h3><p>%s</p></div>' % (esc(q), esc(a)) for q, a in pairs)
 def final_cta(kicker, title, text, href, label):
     return '<section class="sec-tight"><div class="wrap"><div class="final"><div><span class="eyebrow">%s</span><h2>%s</h2><p>%s</p></div><a class="btn btn-buy" href="%s">%s</a></div></div></section>' % (esc(kicker), esc(title), esc(text), href, esc(label))
 
@@ -308,6 +389,14 @@ for k in EXAM_ORDER:
     items = "".join('<li><a href="%s%s/%s/">%s</a><span><a href="%s%s/%s/">%d products from %s</a></span></li>' % (rel, slug(s), k, esc(s), rel, slug(s), k, len(items_for(s, k)), money(price_range(items_for(s, k))[0])) for s in sts)
     body = ('<section class="phead"><div class="wrap">%s<span class="eyebrow">%s</span><h1>NASCLA %s Exam Prep</h1><p class="lead">%s</p>%s</div></section>'
             % (crumbs_html([("Home", ""), (E["name"], k + "/")], rel), esc(C["kicker"]), esc(E["name"]), esc(C["intro"]), takeaways(["%d products for this exam across %d state%s%s, from %s to %s." % (len(ps), len(sts), "" if len(sts) == 1 else "s", " plus nationwide editions" if natl else "", money(lo), money(hi))] + C["points"][:3])))
+    if k == "commercial-general-building-contractor":
+        qa = [("Which states accept the NASCLA commercial exam?", "%s and the U.S. Virgin Islands accept the NASCLA Accredited Examination for Commercial General Building Contractors. Each board sets its own rules for using the score." % ", ".join(NCOMM)),
+              ("What is on the NASCLA commercial exam?", "115 scored questions in 330 minutes, open book, with 70 percent needed to pass. It covers commercial building regulations, best practices and terminology, answered from the approved reference books."),
+              ("How should I prepare for the NASCLA commercial exam?", "Get the approved reference books, tab and highlight them, work an online course or study guide, then sit timed practice exams. Prep here runs from %s to %s, from a single online course to The 1 Package with licensing and business setup." % (money(lo), money(hi)))]
+    else:
+        qa = [("Where can I get %s exam prep?" % E["name"].lower(), "We carry %s prep for %s%s." % (E["name"].lower(), ", ".join(sts), " plus nationwide editions" if natl else "")),
+              ("What does %s prep cost?" % E["name"].lower(), "From %s to %s, depending on whether you want a single book or tabs, a book package, a rental, an online course or an all-inclusive package." % (money(lo), money(hi)))]
+    body += '<section class="sec-tight" style="padding-top:0"><div class="wrap">%s</div></section>' % quick_answers(qa)
     body += '<section class="sec-tight"><div class="wrap"><h2 style="font-size:28px">Choose your state</h2><ul class="states">%s</ul></div></section>' % items
     if natl:
         pk = [p for p in natl if p["package"]]; ad = [p for p in natl if not p["package"]]
@@ -315,7 +404,7 @@ for k in EXAM_ORDER:
     body += '<section class="sec-tight"><div class="wrap" style="max-width:860px"><h2 style="font-size:28px">About this exam</h2><ul class="prose">%s</ul></div></section>' % "".join("<li>%s</li>" % esc(x) for x in C["points"])
     title = "NASCLA %s Exam Prep" % E["name"]
     write([k], body, title if len(title) <= 60 else "NASCLA %s Exam Prep" % E["short"], "%s %d products across %d states, from %s." % (trim_desc(C["intro"], 110), len(ps), len(sts), money(lo)),
-          (ps[0]["image"] if ps else None), [crumbs_ld([("Home", ""), (E["name"], k + "/")]), {"@context": "https://schema.org", "@type": "CollectionPage", "name": title, "url": absurl(k + "/"),
+          (ps[0]["image"] if ps else None), [crumbs_ld([("Home", ""), (E["name"], k + "/")]), faq_ld(qa), {"@context": "https://schema.org", "@type": "CollectionPage", "name": title, "url": absurl(k + "/"),
           "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": absurl("%s/%s/" % (slug(s), k)), "name": "%s %s" % (s, E["name"])} for i, s in enumerate(sts)]}}],
           cta=("#main", "Choose my state"), route={"exam": k}, priority="0.9")
 
@@ -333,9 +422,16 @@ for s in STATES + [None]:
                takeaways(["%d products for %d exam%s, from %s to %s." % (len(ps), len(ex), "" if len(ex) == 1 else "s", money(price_range(ps)[0]), money(price_range(ps)[1])), accept,
                           "Books ship from our fulfillment center, %s; online courses arrive by email." % FUL["name"]])))
     body += '<section class="sec-tight"><div class="wrap"><div class="exams">%s</div></div></section>' % cards
-    others = [x for x in STATES if x != s][:0]
+    if s:
+        qa = [("Does %s accept the NASCLA exam?" % s, ("Yes. %s accepts the NASCLA Accredited Examination for Commercial General Building Contractors in place of its state trade exam. You still apply to the %s board and meet its other requirements, which usually include a business and law exam." % (s, s)) if s in NCOMM else
+               "%s is not on NASCLA's list of states that accept the commercial building exam in place of the state trade exam. The prep listed here is for the %s exams named below; check the %s licensing board for which exams it requires." % (s, s, s)),
+              ("Which NASCLA exams can I prepare for in %s?" % s, "%s. Each has its own page with the books, tabbed sets, rentals and online courses for that exam." % "; ".join("%s (%d products from %s)" % (EXAMS[k]["name"], len(items_for(s, k)), money(price_range(items_for(s, k))[0])) for k in ex)),
+              ("How do I register for the NASCLA exam?", "Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can schedule, and then you apply to the %s board with your passing record." % s)]
+    else:
+        qa = [("What are the nationwide NASCLA editions?", "Prep materials that are not tied to one state: the NASCLA commercial and electrical book packages, highlighted and tabbed sets, rentals and online courses, the Basic edition business and law guide, and the multi-state application bundle.")]
+    body = body.replace('<section class="sec-tight"><div class="wrap"><div class="exams">', '<section class="sec-tight" style="padding-top:0"><div class="wrap">%s</div></section><section class="sec-tight"><div class="wrap"><div class="exams">' % quick_answers(qa), 1)
     write([slug(s)], body, ("%s NASCLA Exam Prep" % nm) if s else "Nationwide NASCLA Exam Prep Editions", "NASCLA exam prep for %s: %s. %d products from %s." % (nm, ", ".join(EXAMS[k]["short"] for k in ex), len(ps), money(price_range(ps)[0])),
-          ps[-1]["image"], [crumbs_ld([("Home", ""), (nm, slug(s) + "/")])], cta=("#main", "Pick my exam"), route={"state": slug(s)}, priority="0.8")
+          ps[-1]["image"], [crumbs_ld([("Home", ""), (nm, slug(s) + "/")]), faq_ld(qa)], cta=("#main", "Pick my exam"), route={"state": slug(s)}, priority="0.8")
 
 # ---------- listing pages: /<state>/<exam>/ and product pages ----------
 def related_cols(s, k, rel):
@@ -392,6 +488,13 @@ def product_page(p, sibs):
                     "offers": [{"@type": "Offer", "name": v["title"] if v["title"] != "Default Title" else p["kindName"], "priceCurrency": "USD", "price": v["price"], "availability": "https://schema.org/InStock",
                                 "itemCondition": "https://schema.org/NewCondition", "url": absurl(path), "seller": {"@type": "Organization", "name": BRAND}} for v in p["variants"]]})
     crumbs = [("Home", ""), (nm, slug(p["state"]) + "/"), (E["name"], "%s/%s/" % (slug(p["state"]), p["exam"])), (p["kindName"], path)]
+    extra_lds = []
+    if p["kind"] in ("online-course", "live-training", "practice-questions", "complete-pass-package"):
+        extra_lds.append(clean({"@context": "https://schema.org", "@type": "Course", "name": p["title"], "description": trim_desc(p["desc"], 300), "url": absurl(path),
+                                "provider": {"@type": "Organization", "name": FUL["name"], "sameAs": FUL["url"]}, "educationalCredentialAwarded": None,
+                                "about": "NASCLA %s exam" % E["name"], "teaches": "Preparation for the %s NASCLA %s exam" % (nm if p["state"] else "", E["name"]),
+                                "offers": [{"@type": "Offer", "category": "Paid", "price": v["price"], "priceCurrency": "USD", "url": absurl(path)} for v in p["variants"]],
+                                "hasCourseInstance": [{"@type": "CourseInstance", "courseMode": "Online" if p["kind"] != "live-training" else "Blended", "courseWorkload": None}]}))
     body = ('<section class="phead" style="padding-bottom:12px"><div class="wrap">%s</div></section><section><div class="wrap"><div class="prod">'
             '<div class="gallery"><div class="main"><img src="%s" alt="%s" fetchpriority="high"></div>%s</div>'
             '<div class="buybox"><div class="meta"><a class="chip" href="%s%s/">%s</a><a class="chip" href="%s%s/">%s</a></div><h1>%s</h1>'
@@ -404,7 +507,7 @@ def product_page(p, sibs):
              % (tk, "package" if p["package"] else "product", body_html, faq_html(pairs), ('<div class="side-card"><h3>Other %s %s options</h3>%s</div>' % (esc(nm), esc(E["short"]), related)) if related else "", cols_html(related_cols(p["state"], p["exam"], rel))))
     body += '<div class="stickybar"><span class="pc-now" data-now>%s</span><a class="btn btn-buy" data-buy href="%s" rel="noopener">Buy now</a></div>' % (money(n), buy_url(v0["id"]))
     pjs = json.dumps({"id": p["id"], "variants": p["variants"], "title": p["title"], "state": p["state"], "level": E["name"], "tierName": p["kindName"], "price": p["price"]})
-    write(parts, body, title, desc, imgs[0], [jsonld, crumbs_ld(crumbs), faq_ld(pairs)], cta=(buy_url(v0["id"]), "Buy now"), route={"state": parts[0], "exam": p["exam"]},
+    write(parts, body, title, desc, imgs[0], [jsonld, crumbs_ld(crumbs), faq_ld(pairs)] + extra_lds, cta=(buy_url(v0["id"]), "Buy now"), route={"state": parts[0], "exam": p["exam"]},
           scripts="<script>window.PRODUCT=%s;</script>" % pjs, priority="0.7")
 
 LISTINGS = []
@@ -428,7 +531,18 @@ for s in STATES + [None]:
                 % (crumbs_html([("Home", ""), (nm, slug(s) + "/"), (E["name"], "/".join(parts) + "/")], rel), esc(nm), esc(E["name"] if k != "business-and-law" else "Business and Law"),
                    esc("%s for %s. Choose how much help you want, from a single tabbed guide to the all-inclusive package." % (EXAM_COPY[k]["kicker"], nm) if k != "commercial-general-building-contractor" else "NASCLA Commercial General Building Contractor exam prep for %s. Choose how much help you want, from the online course to The 1 Package with licensing and business setup." % nm),
                    esc(nm), chips))
-        body += '<section class="sec-tight" style="padding-top:8px"><div class="wrap">%s' % tk
+        guide = []
+        for kk, label in (("online-course", "the online course"), ("highlighted-tabbed", "the highlighted and tabbed book package"), ("ultimate", "the Ultimate rental (books plus course)"), ("the-1-package", "The 1 Package (adds licensing and business setup)")):
+            q0 = next((p for p in pk if p["kind"] == kk), None)
+            if q0: guide.append("%s at %s" % (label, money(q0["price"])))
+        exname = E["name"].lower() if k != "business-and-law" else "business and law"
+        qa = [("How much does %s %s exam prep cost?" % (nm, exname), "%s %s prep runs from %s to %s across %d products%s." % (nm, exname, money(lo), money(hi), len(ps), (": " + "; ".join("%s %s" % (p["kindName"], money(p["price"])) for p in ps[:8])) if len(ps) <= 8 else ""))]
+        if guide: qa.append(("Which %s %s package should I choose?" % (nm, exname), "Pick by how much help you want: %s. Every option is built for the open-book exam." % "; ".join(guide)))
+        if k == "commercial-general-building-contractor" and s in NCOMM:
+            qa.append(("Can I use the NASCLA exam for a %s license?" % s, "Yes. %s accepts the NASCLA commercial exam in place of its trade exam; the board's application and business and law requirements still apply." % s))
+        elif k == "business-and-law":
+            qa.append(("Which book is the %s business and law exam based on?" % nm, "Most states write it from NASCLA's Contractor's Guide to Business, Law and Project Management in the state's own edition. The editions we carry for %s are listed below; confirm the edition in your candidate bulletin." % nm))
+        body += '<section class="sec-tight" style="padding-top:8px"><div class="wrap">%s%s' % (quick_answers(qa), tk)
         if pk: body += '<div class="group-h"><h2>Packages</h2><p>%d options, smallest to most complete</p></div><div class="grid" id="rail">%s</div>' % (len(pk), "".join(card(p, rel) for p in pk))
         if ad: body += '<div class="group-h"><h2>%s</h2><p>%d item%s</p></div><div class="rows">%s</div>' % ("Books, tabs and flash cards" if pk else "Books and tabs", len(ad), "" if len(ad) == 1 else "s", "".join(row(p, rel) for p in ad))
         body += "</div></section>"
@@ -437,7 +551,7 @@ for s in STATES + [None]:
                      % (esc(nm), esc(E["short"]), faq_html(faqs[:6]), rel, slug(s), k, len(faqs), esc(nm), esc(E["short"]), cols_html(related_cols(s, k, rel))))
         else:
             body += '<section class="sec-tight"><div class="wrap"><div class="layout"><div class="main-col"><h2 style="font-size:28px">Questions</h2>%s</div><aside class="side-col">%s</aside></div></div></section>' % (faq_html(PRODUCT_FAQ), cols_html(related_cols(s, k, rel)))
-        lpairs = (faqs[:6] or PRODUCT_FAQ)
+        lpairs = qa + (faqs[:6] or PRODUCT_FAQ)
         write(parts, body, title, "%s %s exam prep: %d products from %s to %s. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout." % (nm, E["name"].lower(), len(ps), money(lo), money(hi)),
               ps[-1]["image"], [crumbs_ld([("Home", ""), (nm, slug(s) + "/"), (E["name"], "/".join(parts) + "/")]),
               {"@context": "https://schema.org", "@type": "CollectionPage", "name": title, "url": absurl("/".join(parts) + "/"), "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": absurl(ppath(p)), "name": p["title"]} for i, p in enumerate(ps)]}},
@@ -574,10 +688,12 @@ kinds_desc = "Package types, smallest to most complete: Online Exam Prep Course,
 llm = ["# %s" % BRAND, "", "> NASCLA exam prep: the NASCLA Accredited Examination for Commercial General Building Contractors (accepted in 16 states and the U.S. Virgin Islands), NASCLA accredited electrical exams (master electrical contractor, journeyman electrician, residential electrical contractor) and state business and law exams. %d products across %d states plus nationwide editions. Buy buttons go straight to secure checkout; orders are fulfilled by %s. Phone %s, email %s." % (len(CATALOG), len(STATES), FUL["name"], CFG["phone"], CFG["email"]), "",
        "## How the site is organised", "", "- `/<exam>/` lists the states that carry an exam. Exam slugs: %s." % ", ".join(EXAM_ORDER), "- `/<state>/` lists a state's exams (multi-word states use a dash, e.g. `/north-carolina/`; `/national/` holds nationwide editions).",
        "- `/<state>/<exam>/` lists that state's products for the exam.", "- `/<state>/<exam>/<product>/` is a full product page with price, options, description, FAQ and a Buy now button.", "- " + kinds_desc, "", "## Exams", ""]
-llm += ["- [NASCLA %s exam prep](%s)" % (EXAMS[k]["name"], absurl(k + "/")) for k in EXAM_ORDER]
-llm += ["", "## State and exam pages", ""] + ["- [%s %s](%s)" % (sname(s), EXAMS[k]["name"], absurl("%s/%s/" % (slug(s), k))) for s, k in LISTINGS]
+llm += ["- [NASCLA %s exam prep](%s): %s" % (EXAMS[k]["name"], absurl(k + "/index.md"), trim_desc(EXAM_COPY[k]["intro"], 140)) for k in EXAM_ORDER]
+llm += ["", "## State pages", ""] + ["- [%s NASCLA exam prep](%s)" % (sname(s), absurl(slug(s) + "/index.md")) for s in STATES + [None]]
+llm += ["", "## State and exam pages", ""] + ["- [%s %s](%s): %d products from %s" % (sname(s), EXAMS[k]["name"], absurl("%s/%s/index.md" % (slug(s), k)), len(items_for(s, k)), money(price_range(items_for(s, k))[0])) for s, k in LISTINGS]
 if POSTS: llm += ["", "## Blog", "", "- [All posts](%s)" % absurl("blog/")] + ["- [%s](%s): %s" % (q["title"], absurl("blog/%s/" % q["slug"]), q["excerpt"]) for q in POSTS[:30]]
-llm += ["", "## FAQ", "", "- [NASCLA exam FAQ](%s): what NASCLA is, the commercial exam, licensing, studying and ordering." % absurl("faq/")] + ["- [%s %s FAQ](%s)" % (sname(s), EXAMS[k]["name"], absurl("faq/%s/%s/" % (slug(s), k))) for (s, k) in sorted(STATE_FAQS, key=lambda x: (x[0] or "~", x[1]))]
+llm += ["", "## FAQ", "", "- [NASCLA exam FAQ](%s): what NASCLA is, the commercial exam, licensing, studying and ordering." % absurl("faq/index.md")] + ["- [%s %s FAQ](%s)" % (sname(s), EXAMS[k]["name"], absurl("faq/%s/%s/index.md" % (slug(s), k))) for (s, k) in sorted(STATE_FAQS, key=lambda x: (x[0] or "~", x[1]))]
+llm += ["", "## Every page", "", "- Each HTML page has a Markdown copy at the same address plus `index.md` (for example %s), linked from the page with rel=\"alternate\" type=\"text/markdown\"." % absurl("alabama/commercial-general-building-contractor/index.md"), "- [Sitemap of every page](%s)" % absurl("sitemap.xml")]
 if PAGES: llm += ["", "## Pages", ""] + ["- [%s](%s): %s" % (q["title"], absurl("pages/%s/" % q["slug"]), q["excerpt"]) for q in PAGES[:30]]
 llm += ["", "## Agent instructions", "", "- [agents.md](%s): how to use and attribute this content, and what the site cannot answer." % absurl("agents.md"),
         "", "## Facts for answering questions", "", "- The NASCLA commercial exam has 115 scored questions (plus unscored pretest items), a 330-minute time limit, is open book and needs 70% to pass.",
@@ -589,7 +705,7 @@ open(os.path.join(ROOT, "llms.txt"), "w", encoding="utf-8").write("\n".join(llm)
 agents = ["# %s" % BRAND, "", "> Instructions for AI assistants and agents reading %s." % (SITE or "this site"), "", "Last updated: %s" % TODAY, "",
           "## What this site is", "", "%s sells preparation for NASCLA exams: the NASCLA Accredited Examination for Commercial General Building Contractors, NASCLA accredited electrical exams and state business and law exams. Products include reference book packages, highlighted and tabbed book sets, pre-printed tabs, book rentals, online exam prep courses and all-inclusive packages with licensing help. Orders are processed, shipped and supported by our fulfillment center, %s (%s)." % (BRAND, FUL["name"], FUL["url"]), "",
           "## How it is organised", "", "- `/` introduces the exams and lists every state.", "- `/<exam>/` lists the states that carry an exam.", "- `/<state>/` lists a state's exams; `/national/` holds nationwide editions.", "- `/<state>/<exam>/` lists products for that state and exam.",
-          "- `/<state>/<exam>/<product>/` is a product page with price, options, description, FAQ and a Buy now button that goes straight to checkout.", "- `/faq/` is the nationwide FAQ; `/faq/<state>/<exam>/` has state answers taken from product descriptions.", "- `/blog/` has study tips and licensing explainers; the feed is `/blog/feed.xml`.", "- `/llms.txt` is the short list of pages; `/sitemap.xml` is every page.", "",
+          "- `/<state>/<exam>/<product>/` is a product page with price, options, description, FAQ and a Buy now button that goes straight to checkout.", "- `/faq/` is the nationwide FAQ; `/faq/<state>/<exam>/` has state answers taken from product descriptions.", "- `/blog/` has study tips and licensing explainers; the feed is `/blog/feed.xml`.", "- `/llms.txt` is the short list of pages; `/sitemap.xml` is every page.", "- Every page has a plain Markdown copy at its address plus `index.md`, linked with rel=\"alternate\" type=\"text/markdown\". Prefer it over parsing the HTML.", "",
           "## Using this content", "", "- Quote what is useful and attribute it to %s, with a link to the page you took it from." % BRAND, "- Link to the canonical URL rather than a cached copy.", "- Prices change. Every product page carries a schema.org Product with the current price; read the page rather than relying on an earlier copy. The price at checkout is the one that applies.",
           "- Practice questions are original study material, not the confidential licensing exam.", "- Nothing here decides a person's eligibility. NASCLA approves candidates to test and each state board issues licenses; point readers there for their own case.", "",
           "## What this site cannot answer", "", "- Anything about a specific customer, order or account.", "- Exact exam dates, fees or current application rules. Those belong to NASCLA, the state board and the testing vendor.", "- Anything not written on a page.", "",

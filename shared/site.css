@@ -71,7 +71,7 @@ p{margin:0 0 1em}
 /* page header (listing, product, faq) */
 .phead{padding:40px 0 28px}
 .crumbs{display:flex;flex-wrap:wrap;gap:6px;font-size:14px;color:var(--dim);margin-bottom:18px}
-.crumbs a{color:var(--muted);text-decoration:none}.crumbs a:hover{color:var(--text)}
+.crumbs{margin-bottom:6px}.upd{font-size:13px;color:var(--dim);margin:0 0 18px}.crumbs a{color:var(--muted);text-decoration:none}.crumbs a:hover{color:var(--text)}
 .phead h1{font-size:clamp(28px,4.4vw,46px);font-weight:700;letter-spacing:-.02em}
 .phead .lead{color:var(--muted);font-size:18px;max-width:760px}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
@@ -249,3 +249,7 @@ p{margin:0 0 1em}
 .search-page .srch-form{max-width:640px;margin:20px 0}
 
 .thumbs img{width:100%;height:100%;object-fit:contain}
+.qa{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:22px 24px;margin:0 0 16px}
+.qa>h2{font-size:15px!important;font-family:var(--body);font-weight:700;color:var(--accent-hi);letter-spacing:0;margin-bottom:6px}
+.qa-item{padding:12px 0;border-top:1px solid var(--line2)}.qa-item:first-of-type{border-top:0}
+.qa-item h3{font-size:17px;margin:0 0 4px}.qa-item p{margin:0;color:var(--muted);font-size:16px}

@@ -2,7 +2,7 @@
 
 > Instructions for AI assistants and agents reading https://passyournasclaexam.com/.
 
-Last updated: 2026-10-19
+Last updated: 2026-10-18
 
 ## What this site is
 
@@ -18,6 +18,7 @@ Pass Your NASCLA Exam Prep sells preparation for NASCLA exams: the NASCLA Accred
 - `/faq/` is the nationwide FAQ; `/faq/<state>/<exam>/` has state answers taken from product descriptions.
 - `/blog/` has study tips and licensing explainers; the feed is `/blog/feed.xml`.
 - `/llms.txt` is the short list of pages; `/sitemap.xml` is every page.
+- Every page has a plain Markdown copy at its address plus `index.md`, linked with rel="alternate" type="text/markdown". Prefer it over parsing the HTML.
 
 ## Using this content
 

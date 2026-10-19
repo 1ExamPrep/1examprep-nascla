@@ -119,7 +119,7 @@ ICON_CLOCK = '<svg width="28" height="28" viewBox="0 0 28 28" aria-hidden="true"
 ICON_PHONE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>'
 ICON_SEARCH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>'
 ICON_CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>'
-FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">'
+FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">'
 
 def head(path, title, desc, image, rel, noindex=False, lds=()):
     desc = trim_desc(desc); url = absurl(path) if SITE else None
@@ -151,7 +151,7 @@ def dash_tag():
     """dashboard tracker, placed in <body> as the dashboard's Settings > Tracker snippet shows"""
     if not (CFG.get("dashboardUrl") and CFG.get("siteKey")): return ""
     return '<script>window.__dashCustom=true;</script><script src="%s/t.js" data-site="%s" defer></script>' % (esc(CFG["dashboardUrl"].rstrip("/")), esc(CFG["siteKey"]))
-def wordmark(): return "%s%s<span>%s</span>%s" % (ICON_CLOCK, esc(WM[0]), esc(WM[1]), esc(WM[2])) if len(WM) == 3 else ICON_CLOCK + esc(BRAND)
+def wordmark(): return '%s<span class="wm">%s<span>%s</span>%s</span>' % (ICON_CLOCK, esc(WM[0]), esc(WM[1]), esc(WM[2])) if len(WM) == 3 else ICON_CLOCK + esc(BRAND)
 def header(rel, cta_href, cta_label="Find my exam", current=""):
     home = rel or "./"
     links = [("Exams", home + "#exams", "exams"), ("States", home + "#states", "states"), ("FAQ", rel + "faq/", "faq"), ("Blog", rel + "blog/", "blog")]

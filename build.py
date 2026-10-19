@@ -140,7 +140,6 @@ def head(path, title, desc, image, rel, noindex=False, lds=()):
     if CFG.get("gtagId"): h.append('<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","%s");</script>' % (CFG["gtagId"], CFG["gtagId"]))
     if CFG.get("gtmId"): h.append("<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','%s');</script>" % CFG["gtmId"])
     if CFG.get("metaPixelId"): h.append("<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','%s');fbq('track','PageView');</script>" % CFG["metaPixelId"])
-    if CFG.get("dashboardUrl") and CFG.get("siteKey"): h.append('<script>window.__dashCustom=true;</script><script src="%s/t.js" data-site="%s" defer></script>' % (esc(CFG["dashboardUrl"].rstrip("/")), esc(CFG["siteKey"])))
     h.append('<script>window.SITE=%s;</script>' % json.dumps({"brand": BRAND, "storeUrl": CFG["storeUrl"], "fulfillment": FUL["name"]}))
     for o in lds: h.append(ld(o))
     if url and not noindex:
@@ -148,6 +147,10 @@ def head(path, title, desc, image, rel, noindex=False, lds=()):
                      "isPartOf": {"@type": "WebSite", "url": SITE, "name": BRAND}, "publisher": {"@type": "Organization", "name": BRAND}}))
     return "\n".join(h)
 
+def dash_tag():
+    """dashboard tracker, placed in <body> as the dashboard's Settings > Tracker snippet shows"""
+    if not (CFG.get("dashboardUrl") and CFG.get("siteKey")): return ""
+    return '<script>window.__dashCustom=true;</script><script src="%s/t.js" data-site="%s" defer></script>' % (esc(CFG["dashboardUrl"].rstrip("/")), esc(CFG["siteKey"]))
 def wordmark(): return "%s%s<span>%s</span>%s" % (ICON_CLOCK, esc(WM[0]), esc(WM[1]), esc(WM[2])) if len(WM) == 3 else ICON_CLOCK + esc(BRAND)
 def header(rel, cta_href, cta_label="Find my exam", current=""):
     home = rel or "./"
@@ -174,8 +177,8 @@ GENERATED, URLS = [], []
 def write(parts, body, title, desc, image=None, lds=(), noindex=False, cta=("#", "Find my exam"), current="", route=None, scripts="", sitemap=True, priority="0.6"):
     rel = "../" * len(parts); path = "/".join(parts) + ("/" if parts else "")
     cta_href = cta[0] if cta[0].startswith(("http", "#")) else rel + cta[0]
-    page = ("<!doctype html>\n<html lang=\"en\">\n<head>\n%s\n</head>\n<body>\n%s\n<main id=\"main\">\n%s\n</main>\n%s\n<script>window.ROUTE=%s;</script>%s<script src=\"%sshared/site.js\" defer></script><script src=\"%sshared/track.js\" defer></script>\n</body>\n</html>\n"
-            % (head(path, title, desc, image, rel, noindex, lds), header(rel, cta_href, cta[1], current), body, footer(rel), json.dumps(dict(route or {}, depth=len(parts))), scripts, rel, rel))
+    page = ("<!doctype html>\n<html lang=\"en\">\n<head>\n%s\n</head>\n<body>\n%s\n<main id=\"main\">\n%s\n</main>\n%s\n<script>window.ROUTE=%s;</script>%s<script src=\"%sshared/site.js\" defer></script><script src=\"%sshared/track.js\" defer></script>%s\n</body>\n</html>\n"
+            % (head(path, title, desc, image, rel, noindex, lds), header(rel, cta_href, cta[1], current), body, footer(rel), json.dumps(dict(route or {}, depth=len(parts))), scripts, rel, rel, dash_tag()))
     page = page.replace("{{REL}}", rel).replace("{{HOME}}", rel or "./")
     d = os.path.join(ROOT, *parts) if parts else ROOT; os.makedirs(d, exist_ok=True)
     open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(anchor_ids(page))

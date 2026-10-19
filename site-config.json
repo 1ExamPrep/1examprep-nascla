@@ -34,7 +34,7 @@
   "googleOAuthClientId": "",
   "repo": "1ExamPrep/1examprep-nascla",
   "dashboardUrl": "https://site-dashboard-c32v.onrender.com",
-  "siteKey": "",
+  "siteKey": "sk_f75adf18fa4e3554a0b36279",
   "_siteKey_help": "The site's tracker key from the dashboard (Settings > Tracker). Page views and Buy now clicks reach the dashboard once this is set.",
   "launched": "2026-10-18"
 }

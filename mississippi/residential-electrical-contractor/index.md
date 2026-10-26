@@ -1,19 +1,19 @@
 ---
 title: Mississippi NASCLA Residential Electrical Exam Prep
 url: https://passyournasclaexam.com/mississippi/residential-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Mississippi residential electrical contractor exam prep: 6 products from $295.00 to $4,510.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) Residential Electrical Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Mississippi Residential Electrical Contractor Exam Prep
 
 NASCLA accredited residential electrical exam for Mississippi. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 7](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) · [Business & Law 4](https://passyournasclaexam.com/mississippi/business-and-law/)
+[Commercial GC 7](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) · [Business & Law 5](https://passyournasclaexam.com/mississippi/business-and-law/)
 
 ## Quick answers
 

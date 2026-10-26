@@ -1,13 +1,13 @@
 ---
 title: Alabama Books & Courses Rental Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/alabama/journeyman-electrician/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama NASCLA Journeyman Electrician examination with an organized combination of online exam preparation and a complete highlighted and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Journeyman Electrician](https://passyournasclaexam.com/alabama/journeyman-electrician/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Journeyman](https://passyournasclaexam.com/alabama/journeyman-electrician/)
 

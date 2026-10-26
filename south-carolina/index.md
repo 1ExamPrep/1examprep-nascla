@@ -1,13 +1,13 @@
 ---
 title: South Carolina NASCLA Exam: License and Prep Guide
 url: https://passyournasclaexam.com/south-carolina/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the NASCLA exam fits South Carolina contractor and electrician licensing: CLB and RBC rules, Business and Law exam, groups, fees and exam prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) South Carolina
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # South Carolina NASCLA Exam and Contractor License Guide
 
@@ -25,7 +25,7 @@ Yes. South Carolina accepts the NASCLA Accredited Examination for Commercial Gen
 
 ### Which NASCLA exams can I prepare for in South Carolina?
 
-Commercial General Building Contractor (7 products from $199.99); Master Electrical Contractor (1 products from $1,995.00); Residential Electrical Contractor (5 products from $295.00); Business and Law (9 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (7 products from $199.99); Master Electrical Contractor (1 products from $1,995.00); Residential Electrical Contractor (5 products from $295.00); Business and Law (14 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 22 South Carolina products for 4 exams, from $19.95 to $4,964.00.
+- 27 South Carolina products for 4 exams, from $19.95 to $4,964.00.
 - South Carolina accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -54,7 +54,7 @@ See Master Electrical packages →](https://passyournasclaexam.com/south-carolin
 ### South Carolina Residential Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA residential electrical exam.
-See Residential Electrical packages →](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/) · [9 PRODUCTS · FROM $19.95
+See Residential Electrical packages →](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/) · [14 PRODUCTS · FROM $19.95
 
 ### South Carolina Business and Law
 
@@ -211,7 +211,7 @@ For the commercial exam, PSI names the South Carolina Commercial Contractors 9th
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Participating Agencies (Electrical Exams)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)
@@ -328,16 +328,7 @@ $2,245.00 (was $2,445.00) Save 8%
 
 ### South Carolina Business and Law packages
 
-[All 9 products →](https://passyournasclaexam.com/south-carolina/business-and-law/)
-
-South Carolina · Business & Law
-
-### [Residential Business & Law Guide Tabs (8th Ed.)](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-tabs-8th-ed/)
-
-SOUTH CAROLINA-NASCLA Contractors Guide to Business, Law and Project Management, South Carolina Residential Contractors, 8th Edition; Pre-printed Tabs This textbook, published by NASCLA (National…
-
-$19.95 (was $22.00) Save 9%
-[Buy now](https://1examprep.com/cart/40544516365:1) · [Details](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-tabs-8th-ed/)
+[All 14 products →](https://passyournasclaexam.com/south-carolina/business-and-law/)
 
 South Carolina · Business & Law
 
@@ -350,11 +341,20 @@ $19.95 (was $22.00) Save 9%
 
 South Carolina · Business & Law
 
+### [Residential Business & Law Guide Tabs (8th Ed.)](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-tabs-8th-ed/)
+
+SOUTH CAROLINA-NASCLA Contractors Guide to Business, Law and Project Management, South Carolina Residential Contractors, 8th Edition; Pre-printed Tabs This textbook, published by NASCLA (National…
+
+$24.95 (was $35.00) Save 29%
+[Buy now](https://1examprep.com/cart/40544516365:1) · [Details](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-tabs-8th-ed/)
+
+South Carolina · Business & Law
+
 ### [Business & Law Guide Tabs (9th Ed.)](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-tabs-9th-ed/)
 
 The South Carolina NASCLA Contractors Guide to Business, Law and Project Management, 9th Edition , published by the National Association of State Contractors Licensing…
 
-$19.95 (was $25.00) Save 20%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/41669768675385:1) · [Details](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-tabs-9th-ed/)
 
 South Carolina licensing

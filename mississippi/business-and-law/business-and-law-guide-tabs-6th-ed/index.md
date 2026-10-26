@@ -1,19 +1,19 @@
 ---
 title: Mississippi Business & Law Guide Tabs (6th Ed.)
 url: https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-tabs-6th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Mississippi NASCLA Contractors Guide to Business, Law and Project Management, Mississippi 6th Edition – Pre-Printed Tabs The *Mississippi NASCLA Contractors.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Business and Law](https://passyournasclaexam.com/mississippi/business-and-law/) Business & Law Guide Tabs (6th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Business & Law](https://passyournasclaexam.com/mississippi/business-and-law/)
 
 # Mississippi NASCLA Contractors Guide to Business, Law and Project Management, Mississippi 6th Edition, Pre-Printed Tabs
 
-$19.95 (was $22.00) Save 9%[Buy now](https://1examprep.com/cart/2698587144218:1)
+$24.95 (was $35.00) Save 29%[Buy now](https://1examprep.com/cart/2698587144218:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,7 @@ $19.95 (was $22.00) Save 9%[Buy now](https://1examprep.com/cart/2698587144218:1)
 
 ## Key takeaways
 
-- Mississippi Business and Law, Business & Law Guide Tabs (6th Ed.): $19.95, down from $22.00.
+- Mississippi Business and Law, Business & Law Guide Tabs (6th Ed.): $24.95, down from $35.00.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -54,7 +54,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Mississippi Business & Law options
-[Business & Law Guide (6th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-6th-ed/) · [Business & Law Guide + Tabs (6th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-plus-tabs-6th-ed/) · [Business & Law Guide Highlighted & Tabbed (6th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed/)
+[Business & Law Guide (6th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-6th-ed/) · [Business & Law Guide + Tabs (6th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-plus-tabs-6th-ed/) · [Business & Law Guide Highlighted & Tabbed (6th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (6th Ed.) Business & Law**$309.99**](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-6th-ed/)
 
 ### Other Mississippi exams
 
@@ -73,6 +73,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Hawaii](https://passyournasclaexam.com/hawaii/business-and-law/)
 - [Louisiana](https://passyournasclaexam.com/louisiana/business-and-law/)
 - [All states for this exam](https://passyournasclaexam.com/business-and-law/)
+
+### Questions
+
+- [Mississippi Business & Law FAQ (9 answers)](https://passyournasclaexam.com/faq/mississippi/business-and-law/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

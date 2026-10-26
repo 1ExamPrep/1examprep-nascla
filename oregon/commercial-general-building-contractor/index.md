@@ -1,19 +1,19 @@
 ---
 title: Oregon NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/oregon/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Oregon commercial general building contractor exam prep: 6 products from $395.00 to $4,624.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oregon](https://passyournasclaexam.com/oregon/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Oregon Commercial General Building Contractor Exam Prep
 
 NASCLA Commercial General Building Contractor exam prep for Oregon. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 6](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) · [Business & Law 4](https://passyournasclaexam.com/oregon/business-and-law/)
+[Commercial GC 6](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) · [Business & Law 5](https://passyournasclaexam.com/oregon/business-and-law/)
 
 ## Quick answers
 

@@ -1,19 +1,19 @@
 ---
 title: Virginia NASCLA Journeyman Electrician Exam Prep
 url: https://passyournasclaexam.com/virginia/journeyman-electrician/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Virginia journeyman electrician exam prep: 5 products from $295.00 to $1,795.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) Journeyman Electrician
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia Journeyman Electrician Exam Prep
 
 NASCLA accredited journeyman exam for Virginia. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 8](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/virginia/master-electrical-contractor/) · [Journeyman 5](https://passyournasclaexam.com/virginia/journeyman-electrician/) · [Business & Law 5](https://passyournasclaexam.com/virginia/business-and-law/)
+[Commercial GC 8](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/virginia/master-electrical-contractor/) · [Journeyman 5](https://passyournasclaexam.com/virginia/journeyman-electrician/) · [Business & Law 6](https://passyournasclaexam.com/virginia/business-and-law/)
 
 ## Quick answers
 

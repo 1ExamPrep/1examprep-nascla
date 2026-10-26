@@ -1,13 +1,13 @@
 ---
 title: New Jersey Business and Law Exam: NASCLA NJ Guide Prep
 url: https://passyournasclaexam.com/new-jersey/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Pass the New Jersey business and law exam with the NASCLA NJ 2nd Edition guide. Exam format, fees, retakes, license steps, and tabbed book options.
 ---
 
 [Home](https://passyournasclaexam.com/) New Jersey
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # New Jersey Business and Law Exam: Your NASCLA NJ Guide and License Roadmap
 
@@ -25,7 +25,7 @@ New Jersey is not on NASCLA's list for the commercial building exam. The prep he
 
 ### Which NASCLA exams can I prepare for in New Jersey?
 
-Business and Law (4 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Business and Law (7 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I schedule my New Jersey exam?
 
@@ -33,12 +33,12 @@ Through the New Jersey licensing board and its testing vendor, not through NASCL
 
 ## Key takeaways
 
-- 4 New Jersey products for 1 exam, from $19.95 to $219.99.
+- 7 New Jersey products for 1 exam, from $19.95 to $309.99.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
 ## Choose your New Jersey exam
 
-[4 PRODUCTS · FROM $19.95
+[7 PRODUCTS · FROM $19.95
 
 ### New Jersey Business and Law
 
@@ -198,7 +198,7 @@ The bulletins allow permanent tabs, and sticky notes or removable tabs are not a
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating State Agencies](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA Store: Contractors Guide to Business, Law and Project Management, New Jersey 2nd Edition](https://store.nascla.org/products/new-jersey-1st-edition)
@@ -238,7 +238,7 @@ Every package is built for the open-book format. Buy now opens secure checkout a
 
 ### New Jersey Business and Law packages
 
-[All 4 products →](https://passyournasclaexam.com/new-jersey/business-and-law/)
+[All 7 products →](https://passyournasclaexam.com/new-jersey/business-and-law/)
 
 New Jersey · Business & Law
 
@@ -253,10 +253,10 @@ New Jersey · Business & Law
 
 ### [Business & Law Guide (2nd Ed.)](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-2nd-ed/)
 
-The New Jersey NASCLA Contractors Guide to Business, Law and Project Management, 2nd Edition , published under the authority of the New Jersey Division…
+Prepare for your New Jersey contractor licensing examination with the . This essential reference book helps licensing candidates understand the business, legal, financial, and…
 
-$124.99 (was $138.25) Save 10%
-[Buy now](https://1examprep.com/cart/3248881958938:1) · [Details](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-2nd-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50945285980217:1) · [Details](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-2nd-ed/)
 
 New Jersey · Business & Law
 

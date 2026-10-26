@@ -1,19 +1,19 @@
 ---
 title: Florida B&L Guide H&T + Flash Cards (2nd Ed.)
 url: https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Florida county contractor Business and Law Examination with the from 1 Exam Prep. This comprehensive study package combines a professionally.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Business and Law](https://passyournasclaexam.com/florida/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Business & Law](https://passyournasclaexam.com/florida/business-and-law/)
 
 # Florida Counties NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, 2nd Edition + Flash Cards Bundle
 
-$264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/50819530555449:1)
+$309.99 (was $375.00) Save 17%Choose an option[Buy now](https://1examprep.com/cart/50930415173689:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,8 @@ $264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/5081953055544
 
 ## Key takeaways
 
-- Florida Business and Law, Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.): $264.99, down from $314.99.
+- Florida Business and Law, Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.): $309.99, down from $375.00.
+- 2 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -336,7 +337,7 @@ No. Reference materials must comply with the examination rules, and the testing 
 No. Flash cards are supplemental study materials and are not approved examination-room references.
 
 ### Other Florida Business & Law options
-[Business & Law Guide Tabs Business & Law**$19.95**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-tabs/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/)
+[Business & Law Guide Tabs Business & Law**$19.95**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-tabs/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed-2/)
 
 ### Other Florida exams
 
@@ -357,7 +358,7 @@ No. Flash cards are supplemental study materials and are not approved examinatio
 
 ### Questions
 
-- [Florida Business & Law FAQ (11 answers)](https://passyournasclaexam.com/faq/florida/business-and-law/)
+- [Florida Business & Law FAQ (17 answers)](https://passyournasclaexam.com/faq/florida/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: Alabama Res. B&L Guide H&T + Flash Cards (4th Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-4th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama Home Builder Business and Law Examination with the from 1 Exam Prep. This comprehensive study bundle combines a professionally.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (4th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 
 # Alabama Residential Contractors Highlighted & Tabbed NASCLA Contractor's Guide to Business, and Project Management, 4th Edition + Flash Cards Bundle
 
-$264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/50818137882681:1)
+$309.99 (was $375.00) Save 17%Choose an option[Buy now](https://1examprep.com/cart/50930322112569:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,8 @@ $264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/5081813788268
 
 ## Key takeaways
 
-- Alabama Business and Law, Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (4th Ed.): $264.99, down from $314.99.
+- Alabama Business and Law, Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (4th Ed.): $309.99, down from $375.00.
+- 2 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -358,7 +359,7 @@ The Alabama Home Builders Licensure Board administers residential home builder l
 Prov, Inc. provides examination services for the Alabama Home Builders Licensure Board.
 
 ### Other Alabama Business & Law options
-[Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-tabs-3rd-ed/) · [Residential Business & Law Guide Tabs (4th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-tabs-4th-ed/) · [Residential Business & Law Guide (4th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/) · [Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/) · [Business & Law Guide + Tabs (3rd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/) · [Residential Business & Law Guide + Tabs (4th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed/)
+[Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-tabs-3rd-ed/) · [Residential Business & Law Guide Tabs (4th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-tabs-4th-ed/) · [Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/) · [Residential Business & Law Guide (4th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/) · [Business & Law Guide + Tabs (3rd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/) · [Residential Business & Law Guide + Tabs (4th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed/)
 
 ### Other Alabama exams
 
@@ -380,7 +381,7 @@ Prov, Inc. provides examination services for the Alabama Home Builders Licensure
 
 ### Questions
 
-- [Alabama Business & Law FAQ (17 answers)](https://passyournasclaexam.com/faq/alabama/business-and-law/)
+- [Alabama Business & Law FAQ (30 answers)](https://passyournasclaexam.com/faq/alabama/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

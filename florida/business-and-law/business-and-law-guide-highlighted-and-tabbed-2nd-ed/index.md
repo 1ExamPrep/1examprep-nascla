@@ -1,13 +1,13 @@
 ---
 title: Florida Business & Law Guide Highlighted & Tabbed (2nd Ed.)
 url: https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Florida NASCLA Contractors Guide to Business, Law, and Project Management, Florida Counties, 2nd Edition — Highlighted & Tabbed The *Florida NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Business and Law](https://passyournasclaexam.com/florida/business-and-law/) Business & Law Guide Highlighted & Tabbed (2nd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Business & Law](https://passyournasclaexam.com/florida/business-and-law/)
 
@@ -58,7 +58,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Florida Business & Law options
-[Business & Law Guide Tabs Business & Law**$19.95**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-tabs/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/)
+[Business & Law Guide Tabs Business & Law**$19.95**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-tabs/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed-2/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.) Business & Law**$309.99**](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/)
 
 ### Other Florida exams
 
@@ -79,7 +79,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 
 ### Questions
 
-- [Florida Business & Law FAQ (11 answers)](https://passyournasclaexam.com/faq/florida/business-and-law/)
+- [Florida Business & Law FAQ (17 answers)](https://passyournasclaexam.com/faq/florida/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

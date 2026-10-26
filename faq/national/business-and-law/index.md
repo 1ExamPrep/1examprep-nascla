@@ -1,19 +1,19 @@
 ---
 title: Nationwide NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/national/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: 3 answers about the Nationwide business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
+description: 6 answers about the Nationwide business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Nationwide Business & Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide Business and Law exam: frequently asked questions
 
-3 answers about the Nationwide business and law exam and license, compiled from our product descriptions for this exam.
+6 answers about the Nationwide business and law exam and license, compiled from our product descriptions for this exam.
 
-The exam 3
+The exam 6
 
 ## The exam
 
@@ -28,6 +28,18 @@ A highlighted and tabbed book helps candidates study important material and loca
 ### Does every state use the same NASCLA Business Basic Edition exam?
 
 No. Contractor licensing requirements vary by state, license classification, and testing provider. Some programs use the Basic NASCLA guide, while others may require state-specific NASCLA business and law references or additional materials.
+
+### Is the NASCLA Basic 14th Edition an approved examination reference?
+
+Yes. The publication is identified for several NASCLA Accredited Examinations and contractor or trade licensing examination programs, including commercial general building and electrical contractor examinations.
+
+### Are highlighted and tabbed books permitted during the examination?
+
+The NASCLA Accredited Commercial General Building Contractor examination permits highlighted, underlined, and indexed references when they comply with the testing provider's requirements. Tabs must be securely attached and meet the applicable examination rules.
+
+### What subjects does the NASCLA Basic 14th Edition cover?
+
+The guide covers business planning, licensing, insurance, estimating, contracts, project management, scheduling, workplace safety, financial administration, taxation fundamentals, and lien laws.
 
 ### Ready to study?
 
@@ -54,7 +66,7 @@ No. Contractor licensing requirements vary by state, license classification, and
 
 ### Questions
 
-- [Nationwide Business & Law FAQ (3 answers)](https://passyournasclaexam.com/faq/national/business-and-law/)
+- [Nationwide Business & Law FAQ (6 answers)](https://passyournasclaexam.com/faq/national/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

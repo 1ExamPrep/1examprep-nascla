@@ -1,25 +1,25 @@
 ---
 title: Oregon NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/oregon/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: Oregon business and law exam prep: 4 products from $19.95 to $219.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Oregon business and law exam prep: 5 products from $24.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oregon](https://passyournasclaexam.com/oregon/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Oregon Business and Law Exam Prep
 
 Contractor's Guide to Business, Law and Project Management for Oregon. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 6](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) · [Business & Law 4](https://passyournasclaexam.com/oregon/business-and-law/)
+[Commercial GC 6](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) · [Business & Law 5](https://passyournasclaexam.com/oregon/business-and-law/)
 
 ## Quick answers
 
 ### How much does Oregon business and law exam prep cost?
 
-Oregon business and law prep runs from $19.95 to $219.99 across 4 products: Business & Law Guide Tabs (2nd Ed.) $19.95; Business & Law Guide (2nd Ed.) $124.99; Business & Law Guide + Tabs (2nd Ed.) $134.99; Business & Law Guide Highlighted & Tabbed (2nd Ed.) $219.99.
+Oregon business and law prep runs from $24.95 to $309.99 across 5 products: Business & Law Guide Tabs (2nd Ed.) $24.95; Business & Law Guide (2nd Ed.) $124.99; Business & Law Guide + Tabs (2nd Ed.) $149.99; Business & Law Guide Highlighted & Tabbed (2nd Ed.) $264.99; Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.) $309.99.
 
 ### Which book is the Oregon business and law exam based on?
 
@@ -27,38 +27,50 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 ## Key takeaways
 
-- 4 Oregon business and law products, from $19.95 to $219.99.
+- 5 Oregon business and law products, from $24.95 to $309.99.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
 ## Books and tabs
 
-4 items
+5 items
 
-[Business & Law Guide Tabs (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-tabs-2nd-ed/) Oregon · Business & Law $19.95[Buy now](https://1examprep.com/cart/31751987757113:1)
+[Business & Law Guide Tabs (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-tabs-2nd-ed/) Oregon · Business & Law $24.95[Buy now](https://1examprep.com/cart/31751987757113:1)
 
-[Business & Law Guide (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-2nd-ed/) Oregon · Business & Law $124.99[Buy now](https://1examprep.com/cart/31751980449849:1)
+[Business & Law Guide (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-2nd-ed/) Oregon · Business & Law $124.99[Buy now](https://1examprep.com/cart/50946125824057:1)
 
-[Business & Law Guide + Tabs (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) Oregon · Business & Law $134.99[Buy now](https://1examprep.com/cart/45892350771257:1)
+[Business & Law Guide + Tabs (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) Oregon · Business & Law $149.99[Buy now](https://1examprep.com/cart/50946133655609:1)
 
-[Business & Law Guide Highlighted & Tabbed (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) Oregon · Business & Law $219.99[Buy now](https://1examprep.com/cart/45892350705721:1)
+[Business & Law Guide Highlighted & Tabbed (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) Oregon · Business & Law $264.99[Buy now](https://1examprep.com/cart/50946134409273:1)
 
-## Questions
+[Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/) Oregon · Business & Law $309.99[Buy now](https://1examprep.com/cart/50946134933561:1)
 
-### Is the NASCLA exam open book?
+## Oregon Business & Law questions
 
-Yes. You bring the approved reference books, so knowing where things are in the books matters as much as knowing the material.
+### What is the Oregon NASCLA Contractor's Guide, 2nd Edition?
 
-### Are these the actual exam questions?
+It is the Oregon-specific NASCLA Contractors Guide to Business, Law and Project Management used as the reference manual for the Oregon Construction Contractors Board licensing examination.
 
-No. Real exam questions are confidential. Practice questions are original material written to the same subjects and format, with explanations.
+### Is the Oregon NASCLA 2nd Edition an approved examination reference?
 
-### When will I get it?
+Yes. The Oregon Construction Contractors Board identifies the NASCLA Oregon Construction Contractors 2nd Edition as the authorized reference for its contractor examination.
 
-Online courses are delivered by email after purchase. Books ship from our fulfillment center, 1 Exam Prep; shipping options are shown at checkout.
+### How many questions are on the Oregon contractor examination?
 
-### Does buying make me eligible to test?
+The examination has 80 scored multiple-choice questions.
 
-No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
+### How long is the Oregon contractor examination?
+
+Candidates have three hours to complete the scored examination questions.
+
+### What score is required to pass the Oregon contractor examination?
+
+The passing score is 70%, which means answering at least 56 of the 80 questions correctly.
+
+### Is pre-license education required in Oregon?
+
+Yes. The standard Oregon CCB licensing pathway requires 16 hours of approved pre-license education and successful completion of the contractor examination. Certain qualification pathways have different training provisions.
+
+[All 22 answers for Oregon Business & Law](https://passyournasclaexam.com/faq/oregon/business-and-law/)
 
 ### Other Oregon exams
 
@@ -75,6 +87,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Hawaii](https://passyournasclaexam.com/hawaii/business-and-law/)
 - [Louisiana](https://passyournasclaexam.com/louisiana/business-and-law/)
 - [All states for this exam](https://passyournasclaexam.com/business-and-law/)
+
+### Questions
+
+- [Oregon Business & Law FAQ (22 answers)](https://passyournasclaexam.com/faq/oregon/business-and-law/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

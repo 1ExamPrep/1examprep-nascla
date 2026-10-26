@@ -1,13 +1,13 @@
 ---
 title: Arizona NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/arizona/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Arizona commercial general building contractor exam prep: 6 products from $395.00 to $4,669.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona Commercial General Building Contractor Exam Prep
 

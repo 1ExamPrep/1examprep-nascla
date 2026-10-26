@@ -1,13 +1,13 @@
 ---
 title: New Mexico Master Electrical The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/new-mexico/master-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the New Mexico electrical contractor licensing process with an all-inclusive package that combines NASCLA Master Electrical Contractor exam.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical Contractor](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/)
 
@@ -253,6 +253,7 @@ Contractor Compliance Guidance provides assistance understanding requirements an
 - [New Mexico Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
 - [New Mexico Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/)
 - [New Mexico Residential Electrical](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
+- [New Mexico Business & Law](https://passyournasclaexam.com/new-mexico/business-and-law/)
 
 ### Master Electrical in other states
 

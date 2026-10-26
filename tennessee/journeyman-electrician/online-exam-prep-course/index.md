@@ -1,13 +1,13 @@
 ---
 title: Tennessee Online Exam Prep Course | NASCLA Journeyman
 url: https://passyournasclaexam.com/tennessee/journeyman-electrician/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Journeyman Electrician examination with an online exam prep program focused on electrical knowledge, National Electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Journeyman Electrician](https://passyournasclaexam.com/tennessee/journeyman-electrician/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Journeyman](https://passyournasclaexam.com/tennessee/journeyman-electrician/)
 

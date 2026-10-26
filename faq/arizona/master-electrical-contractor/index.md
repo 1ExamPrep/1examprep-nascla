@@ -1,13 +1,13 @@
 ---
 title: Arizona NASCLA Master Electrical FAQ
 url: https://passyournasclaexam.com/faq/arizona/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: 21 answers about the Arizona master electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Arizona Master Electrical
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona Master Electrical Contractor exam: frequently asked questions
 

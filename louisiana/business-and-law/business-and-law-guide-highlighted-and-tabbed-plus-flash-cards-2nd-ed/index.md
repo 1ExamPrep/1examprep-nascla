@@ -1,19 +1,19 @@
 ---
 title: Louisiana B&L Guide H&T + Flash Cards (2nd Ed.)
 url: https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Louisiana Master Plumber or Master Natural Gas Fitter licensing examination with the Louisiana NASCLA Highlighted & Tabbed Contractor's.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business & Law](https://passyournasclaexam.com/louisiana/business-and-law/)
 
 # Louisiana Master Plumber & Natural Gas NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, 2nd Edition + Flash Cards Bundle
 
-$264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/50820366499897:1)
+$309.99 (was $375.00) Save 17%Choose an option[Buy now](https://1examprep.com/cart/50935144906809:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,8 @@ $264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/5082036649989
 
 ## Key takeaways
 
-- Louisiana Business and Law, Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.): $264.99, down from $314.99.
+- Louisiana Business and Law, Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.): $309.99, down from $375.00.
+- 2 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -294,7 +295,7 @@ Yes. This bundle includes the Louisiana Master Plumbers and Master Natural Gas F
 No. The bundle provides examination preparation materials. Licensing depends on satisfying the State Plumbing Board of Louisiana's requirements, completing the applicable examinations, and receiving the necessary approvals. Organize your preparation with a highlighted and tabbed NASCLA reference and supplemental flash cards. The Louisiana Master Plumber & Natural Gas NASCLA Contractor's Guide to Business, Law and Project Management, 2nd Edition + Flash Cards Bundle helps candidates review essential business concepts, develop practical reference-navigation habits, and build a stronger foundation for their Louisiana licensing examinations. All products and company names are trademarks or registered trademarks and/or copyrights of their respective holders. Use of them does not imply any affiliation with or endorsement by the respective holders.
 
 ### Other Louisiana Business & Law options
-[Business & Law Guide Tabs (12th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-tabs-12th-ed/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide (12th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/) · [Business & Law Guide + Tabs (12th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide Highlighted & Tabbed (12th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/)
+[Business & Law Guide Tabs (12th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-tabs-12th-ed/) · [Business & Law Guide (12th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide + Tabs (12th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide Highlighted & Tabbed (12th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/)
 
 ### Other Louisiana exams
 
@@ -315,7 +316,7 @@ No. The bundle provides examination preparation materials. Licensing depends on 
 
 ### Questions
 
-- [Louisiana Business & Law FAQ (27 answers)](https://passyournasclaexam.com/faq/louisiana/business-and-law/)
+- [Louisiana Business & Law FAQ (29 answers)](https://passyournasclaexam.com/faq/louisiana/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

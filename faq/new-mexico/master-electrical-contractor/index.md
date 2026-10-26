@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Master Electrical FAQ
 url: https://passyournasclaexam.com/faq/new-mexico/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: 39 answers about the New Mexico master electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) New Mexico Master Electrical
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico Master Electrical Contractor exam: frequently asked questions
 
@@ -186,6 +186,7 @@ The NASCLA Accredited Electrical Examination Program is accepted by participatin
 - [New Mexico Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
 - [New Mexico Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/)
 - [New Mexico Residential Electrical](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
+- [New Mexico Business & Law](https://passyournasclaexam.com/new-mexico/business-and-law/)
 
 ### Master Electrical in other states
 

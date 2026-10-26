@@ -1,13 +1,13 @@
 ---
 title: Washington DC Journeyman Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/washington-dc/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Washington DC NASCLA Journeyman Electrician examination with a complete highlighted and tabbed reference-book package designed for organized.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Washington DC](https://passyournasclaexam.com/washington-dc/) · [Journeyman Electrician](https://passyournasclaexam.com/washington-dc/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Washington DC](https://passyournasclaexam.com/washington-dc/) · [Journeyman](https://passyournasclaexam.com/washington-dc/journeyman-electrician/)
 

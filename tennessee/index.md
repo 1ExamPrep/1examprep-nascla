@@ -1,13 +1,13 @@
 ---
 title: Tennessee NASCLA Exam: Contractor License Prep Guide
 url: https://passyournasclaexam.com/tennessee/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the NASCLA exam fits Tennessee contractor licensing: BC-B and CE classifications, Business and Law exam, monetary limits, fees and exam prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Tennessee
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Tennessee NASCLA Exam and Contractor License Guide
 
@@ -25,7 +25,7 @@ Yes. Tennessee accepts the NASCLA Accredited Examination for Commercial General 
 
 ### Which NASCLA exams can I prepare for in Tennessee?
 
-Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (6 products from $395.00); Journeyman Electrician (5 products from $295.00); Business and Law (3 products from $124.99). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (6 products from $395.00); Journeyman Electrician (5 products from $295.00); Business and Law (4 products from $124.99). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 22 Tennessee products for 4 exams, from $124.99 to $4,529.00.
+- 23 Tennessee products for 4 exams, from $124.99 to $4,529.00.
 - Tennessee accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -54,7 +54,7 @@ See Master Electrical packages →](https://passyournasclaexam.com/tennessee/mas
 ### Tennessee Journeyman Electrician
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA journeyman exam.
-See Journeyman packages →](https://passyournasclaexam.com/tennessee/journeyman-electrician/) · [3 PRODUCTS · FROM $124.99
+See Journeyman packages →](https://passyournasclaexam.com/tennessee/journeyman-electrician/) · [4 PRODUCTS · FROM $124.99
 
 ### Tennessee Business and Law
 
@@ -211,7 +211,7 @@ PSI's Tennessee rules allowed highlighting, underlining and permanent tabs, but 
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Participating Agencies (Electrical Exams)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)
@@ -344,34 +344,34 @@ $1,145.00 (was $1,345.00) Save 15%
 
 ### Tennessee Business and Law packages
 
-[All 3 products →](https://passyournasclaexam.com/tennessee/business-and-law/)
+[All 4 products →](https://passyournasclaexam.com/tennessee/business-and-law/)
 
 Tennessee · Business & Law
 
 ### [Business & Law Guide (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-4th-ed/)
 
-The , published under the authority of the Tennessee Board for Licensing Contractors, is an essential reference for candidates preparing for the Tennessee General…
+Prepare for your Tennessee contractor licensing examination with the . This comprehensive reference manual covers the business, legal, and project management responsibilities associated with…
 
-$124.99 (was $138.25) Save 10%
-[Buy now](https://1examprep.com/cart/32227349005:1) · [Details](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-4th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50946172878905:1) · [Details](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-4th-ed/)
 
 Tennessee · Business & Law
 
 ### [Business & Law Guide + Tabs (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
 
-The Tennessee NASCLA Contractors Guide to Business, Law and Project Management, 4th Edition – Tabs Bundle, published by the NASCLA, serves as the official…
+Prepare for your Tennessee contractor licensing examination with the . This essential contractor examination preparation package combines the NASCLA Tennessee 4th Edition reference manual…
 
-$134.99 (was $148.35) Save 9% options to $174.99
-[Buy now](https://1examprep.com/cart/45892357521465:1) · [Details](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
+$149.99 (was $199.99) Save 25% options to $309.99
+[Buy now](https://1examprep.com/cart/50946175336505:1) · [Details](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
 
 Tennessee · Business & Law
 
 ### [Business & Law Guide Highlighted & Tabbed (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/)
 
-Tennessee-NASCLA Contractors Guide to Business, Law and Project Management, Tennessee 4th Edition — Highlighted & Tabbed The *Tennessee-NASCLA Contractors Guide to Business, Law and…
+Prepare for your Tennessee contractor licensing examination with the . This professionally prepared reference book combines essential contractor business and law information with highlighted…
 
-$219.99 (was $244.50) Save 10% options to $259.99
-[Buy now](https://1examprep.com/cart/45892357259321:1) · [Details](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/)
+$264.99 (was $325.00) Save 18% options to $459.99
+[Buy now](https://1examprep.com/cart/50946179924025:1) · [Details](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/)
 
 Tennessee licensing
 

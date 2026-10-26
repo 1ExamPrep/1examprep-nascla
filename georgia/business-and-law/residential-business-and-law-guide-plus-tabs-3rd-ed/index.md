@@ -1,19 +1,19 @@
 ---
 title: Georgia Residential Business & Law Guide + Tabs (3rd Ed.)
 url: https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: Get your Georgia Business & Law exam reference and exam-day navigation tools in one bundle. This Tabs Bundle includes the Georgia-NASCLA Contractors Guide to.
+description: Prepare for the Georgia Residential and General Contractor Business and Law Examination with the from 1 Exam Prep. This convenient package combines the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Residential Business & Law Guide + Tabs (3rd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 
-# Georgia NASCLA Contractors Guide to Business, Law and Project Management, Georgia State Licensing Board for Residential and General Contractors 3rd Edition - Tabs Bundle (Book+Tabs)
+# Georgia Residential & General Contractors NASCLA Contractor's Guide to Business, Law and Project Management, 3rd Edition + Tabs Bundle
 
-$134.99 (was $148.35) Save 9%Choose an option[Buy now](https://1examprep.com/cart/45892347101241:1)
+$149.99 (was $199.99) Save 25%Choose an option[Buy now](https://1examprep.com/cart/50930630688825:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,72 +21,290 @@ $134.99 (was $148.35) Save 9%Choose an option[Buy now](https://1examprep.com/car
 
 ## Key takeaways
 
-- Georgia Business and Law, Residential Business & Law Guide + Tabs (3rd Ed.): $134.99, down from $148.35.
-- 2 options to choose from at checkout; the price updates when you pick one.
+- Georgia Business and Law, Residential Business & Law Guide + Tabs (3rd Ed.): $149.99, down from $199.99.
+- 3 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
 ## About this product
 
-Get your Georgia Business & Law exam reference and exam-day navigation tools in one bundle. This Tabs Bundle includes the **Georgia-NASCLA Contractors Guide to Business, Law and Project Management (3rd Edition)** plus **pre-printed, permanent tab stickers** designed to help you find key sections faster during your open-book PSI exam.
+Prepare for the Georgia Residential and General Contractor Business and Law Examination with the **Georgia Residential & General Contractors NASCLA Contractor's Guide to Business, Law and Project Management, 3rd Edition + Tabs Bundle** from 1 Exam Prep. This convenient package combines the Georgia NASCLA reference book with matching permanent adhesive tabs, helping you organize your study materials and navigate important business and law topics.
 
-If you’re serious about saving time on test day, your best advantage is knowing exactly where information lives in the approved reference. With the book and permanent tabs together, you can build a clean, organized layout that supports faster lookups—without relying on temporary tabs that must be removed before the exam begins.
+Published by the **National Association of State Contractor Licensing Agencies (NASCLA)**, this Georgia-specific publication addresses the business, legal, financial, and project management responsibilities involved in operating a construction company.
+
+Contractors must understand more than construction methods. Business operations also involve estimating, contracts, licensing, employee responsibilities, project scheduling, insurance, financial management, and construction lien laws.
+
+The Georgia NASCLA Contractor's Guide, 3rd Edition, brings these subjects together in an organized reference used for the Georgia Business and Law Examination administered by PSI Services.
+
+This bundle includes matching preprinted reference tabs designed for the publication. Each tab identifies a chapter and provides convenient access to important sections during study.
+
+Because the Georgia Business and Law Examination is open book, becoming familiar with the authorized reference is an important part of preparation. The included tabs support chapter navigation and help candidates develop efficient reference lookup habits.
+
+Whether you are pursuing a Georgia Residential Basic Contractor, Residential Light Commercial Contractor, General Contractor, or General Contractor Limited Tier license, this NASCLA book and tabs bundle provides a practical foundation for organized examination study.
 
 ## What You Get
 
-- **Reference Book:** Georgia-NASCLA Contractors Guide to Business, Law and Project Management, Georgia State Licensing Board for Residential and General Contractors, **3rd Edition** (ISBN: **978-1-934234-84-6**).
-- **Pre-Printed Tabs:** A pre-printed sheet of tab stickers designed for quick reference navigation (permanent tabs are allowed; temporary tabs are not).
+- **Georgia NASCLA Contractor's Guide, 3rd Edition:** One physical reference book covering contractor business, law, and project management.
+- **Matching Permanent Reference Tabs:** One preprinted sheet of adhesive tabs designed for the Georgia Residential and General Contractors 3rd Edition.
+- **Chapter Identification:** Tabs display chapter titles and page-count information to support convenient navigation.
+- **Book and Tabs Bundle:** Both the NASCLA publication and its corresponding reference tabs are included.
+
+The reference tabs are supplied separately for installation. They are **not pre-installed**, and this product does not include professional highlighting, flash cards, online courses, or digital practice examinations.
+
+**Important Tab Notice:** Please note that the Testing Facility Proctor is the deciding factor on whether or not tabs will be accepted and allowed into the exam. If the tabs do not adhere properly, they will not be accepted.
+
+Install the tabs at least one day before your examination to help ensure the adhesive is securely attached to the pages.
 
 ## Exam Details
 
-- **Exam name:** Georgia Business & Law Exam
-- **Testing provider:** PSI
-- **Number of questions:** 50
-- **Time limit:** 120 minutes
-- **Minimum passing score:** 70% (35 correct)
-- **Exam fee:** $60
-- **Content areas (with item counts):** Licensing Requirements (5); Estimating and Bidding (7); Business Organization and Financial Management (7); Tax Laws (5); Labor Laws (5); Project Management and Lien Law (6); Contracts (6); Risk Management (4); Environmental and Safety (5)
+The **Georgia Business and Law Examination** evaluates knowledge of contractor licensing, construction business administration, financial management, contracts, and professional responsibilities.
+
+The examination is administered by **PSI Services** for the **Georgia State Licensing Board for Residential and General Contractors**.
+
+- **Examination:** Georgia Business and Law Examination
+- **State:** Georgia
+- **Licensing Authority:** Georgia State Licensing Board for Residential and General Contractors
+- **Testing Provider:** PSI Services
+- **Question Format:** Multiple choice
+- **Number of Questions:** 50
+- **Time Allowed:** 120 minutes
+- **Passing Score:** 70% (35 correct answers)
+- **Exam Format:** Open book
+- **Authorized Reference:** NASCLA Contractor's Guide to Business, Law and Project Management, Georgia State Licensing Board for Residential and General Contractors, 3rd Edition
+- **Publisher:** National Association of State Contractor Licensing Agencies
+- **ISBN-13:** 9781934234846
+
+The Georgia Business and Law Examination covers nine principal subject areas:
+
+- Licensing Requirements — 5 questions
+- Estimating and Bidding — 7 questions
+- Business Organization and Financial Management — 7 questions
+- Tax Laws — 5 questions
+- Labor Laws — 5 questions
+- Project Management and Lien Law — 6 questions
+- Contracts — 6 questions
+- Risk Management — 4 questions
+- Environmental and Safety — 5 questions
+
+Estimating and Bidding and Business Organization and Financial Management are the largest examination categories, with seven questions each. Project Management and Lien Law and Contracts are also important areas of preparation.
+
+With 120 minutes available for 50 questions, candidates have approximately 2.4 minutes per question. Understanding the material and practicing reference navigation can help candidates manage their examination time.
 
 ## Open Book Test
 
-The Georgia Business & Law exam is an **OPEN BOOK** exam. PSI allows the approved reference in the examination center, and candidates may use a silent, nonprinting, nonprogrammable calculator.
+The **Georgia Business and Law Examination is an open book test** administered by PSI Services.
 
-**Reference rules you must follow:** PSI states reference material may be highlighted, underlined, and/or indexed, but it must be otherwise unmarked (not written in) and may not contain additional papers (loose or attached).
+The Georgia NASCLA Contractor's Guide to Business, Law and Project Management, 3rd Edition, is an authorized reference for this examination.
 
-**Tabs rule (important):** PSI states references may be tabbed/indexed with **permanent tabs only**. Temporary tabs (such as Post-It notes) are not allowed and must be removed from the reference before the exam begins. Because test-center staff can inspect your materials, apply tabs securely and make sure every tab is firmly attached well before your exam day.
+PSI permits approved reference materials to be highlighted, underlined, and indexed. Permanent reference tabs are permitted, while temporary tabs, removable notes, and additional loose papers are not allowed.
+
+The matching tabs included in this bundle are designed to help candidates organize their reference book and identify chapters conveniently.
+
+Open-book examinations require more than locating a page. Candidates must understand the subject being tested, identify the relevant material, and apply the appropriate business or legal principle.
+
+For example, a question about construction payment rights may involve lien laws. Another question may involve estimating, business organization, tax responsibilities, or contract administration.
+
+Regular practice with the tabbed NASCLA guide helps develop familiarity with chapter locations and important business terminology.
+
+**Tab Acceptance:** The testing facility proctor makes the final decision regarding acceptance of tabs. Tabs must adhere securely and comply with the applicable examination rules.
 
 ## Licensing Steps
 
-1. **Apply with the Board:** Submit the appropriate application to the Georgia State Licensing Board for Residential and General Contractors (Professional Licensing Board Division).
-2. **Get exam approval:** PSI states eligibility to test is determined by the Board.
-3. **Schedule with PSI:** After approval, you schedule your Business & Law exam with PSI at an authorized testing center.
-4. **Stay within the eligibility window:** PSI states you are eligible to take the examination(s) for **1 year** from the date of your exam approval letter, and you must pass both the Business & Law and any required trade exam within that 1-year period.
-5. **Understand attempts and retakes:** PSI notes that on your first exam approval you are given **2 attempts** to pass both the Business & Law and trade examinations within the 1-year eligibility period. If you fail either exam twice, PSI states you must wait at least **1 year** after taking the last exam before taking it a third or subsequent time (per O.C.G.A. § 43-41-6(g)).
+Georgia residential and general contractor licensing is administered through the Georgia State Licensing Board for Residential and General Contractors.
+
+The licensing process depends on the contractor classification and whether the applicant is applying as an individual or qualifying agent.
+
+1. **Identify Your Contractor Classification:** Determine whether your intended work falls under Residential Basic, Residential Light Commercial, General Contractor, or General Contractor Limited Tier licensing.
+2. **Review Licensing Requirements:** Understand the experience, financial, and documentation requirements for your classification.
+3. **Prepare Your Application:** Organize the business and applicant information required by the Georgia licensing board.
+4. **Submit Your Application:** Complete the applicable licensing application procedures.
+5. **Obtain Examination Approval:** Follow the eligibility and approval process established by the Board.
+6. **Prepare for Business and Law:** Study the Georgia NASCLA Contractor's Guide, 3rd Edition.
+7. **Install Your Reference Tabs:** Apply the matching tabs and practice locating important chapters.
+8. **Prepare for Trade Testing:** Review the technical subjects associated with your contractor classification.
+9. **Complete Required Examinations:** Take the applicable Business and Law and trade examinations.
+10. **Complete the Licensing Process:** Meet the remaining requirements established by the Georgia State Licensing Board.
+
+Studying contractor business and law principles complements technical construction preparation by addressing the administrative responsibilities involved in operating a company.
 
 ## State Requirements
 
-Georgia contractor licensing is regulated by the Georgia State Licensing Board for Residential and General Contractors. Requirements and documentation can vary by license type and applicant role (for example, individual vs. qualifying agent). Follow the Board’s application instructions and checklist for your exact license classification to ensure you submit the correct forms and supporting documents.
+The **Georgia State Licensing Board for Residential and General Contractors** regulates residential and general contractor licensing in Georgia.
+
+The Board administers licensing classifications that include:
+
+- Residential Basic Contractor
+- Residential Light Commercial Contractor
+- General Contractor
+- General Contractor Limited Tier
+
+Applicants must meet the qualifications associated with their intended contractor classification, including applicable examination requirements.
+
+The Georgia Business and Law Examination addresses professional responsibilities that construction contractors encounter when managing a business.
+
+Important areas include:
+
+- Business organization and licensing requirements.
+- Construction estimating and bidding.
+- Contract preparation and administration.
+- Project management and construction lien laws.
+- Employee responsibilities and labor laws.
+- Tax obligations and financial management.
+- Insurance and risk management.
+- Environmental responsibilities and construction safety.
+
+The Georgia NASCLA reference provides structured information about these responsibilities, supporting examination preparation and ongoing construction business knowledge.
 
 ## Reference Books
 
-- **Georgia-NASCLA Contractors Guide to Business, Law and Project Management, Georgia State Licensing Board for Residential and General Contractors (3rd Edition)**
-This is the reference PSI lists as allowed in the examination center for the Georgia Business & Law exam.
+- **NASCLA Contractor's Guide to Business, Law and Project Management, Georgia State Licensing Board for Residential and General Contractors, 3rd Edition**
+Included physical reference book covering business planning, business organization, licensing, insurance, estimating, contracts, scheduling, project management, construction safety, employee and subcontractor relationships, financial management, taxes, and lien laws. This Georgia-specific publication is an authorized reference for the Georgia Business and Law Examination administered by PSI Services.
+
+**ISBN-13:** 978-1-934234-84-6.
+
+The bundle also includes a separate sheet of matching permanent reference tabs. The tabs provide chapter identification and support convenient navigation during study.
 
 ## Test Information and Study Materials
 
-- **Use tabs to practice navigation—not just organization:** During timed practice, drill “find-and-confirm” lookups so you can locate the correct section quickly and move on.
-- **Build a clean tab system:** Permanent tabs are allowed, but clutter slows you down. Keep tabs consistent, readable, and securely attached.
-- **Study by PSI’s outline:** The Business & Law exam pulls from nine subject areas. Plan your review so every area gets attention—especially contracts, lien/project management, risk management, and financial/tax fundamentals.
-- **Timed pacing matters:** Train yourself to complete 50 questions in 120 minutes while leaving time for review of flagged questions.
+### Business Organization
+
+Business organization involves establishing and managing a construction company. Contractors must understand the importance of selecting a business structure, organizing responsibilities, and maintaining professional operations.
+
+Studying these concepts helps candidates recognize how company organization affects business management and administrative decisions.
+
+### Licensing Requirements
+
+Contractor licensing establishes qualifications for performing regulated construction work. Applicants must understand their classification and the importance of complying with applicable licensing requirements.
+
+The Georgia NASCLA guide provides material supporting review of contractor licensing responsibilities and business administration.
+
+### Estimating and Bidding
+
+Estimating and Bidding is one of the largest categories on the Georgia Business and Law Examination.
+
+Estimating requires evaluating labor, materials, equipment, subcontractor expenses, and other project costs.
+
+Bidding involves applying that information to construction proposals. Understanding estimating principles supports organized project pricing and business decisions.
+
+### Contracts
+
+Construction contracts establish responsibilities between contractors, customers, and other project participants.
+
+Contract management involves reviewing agreements, documenting obligations, communicating expectations, and managing project administration.
+
+Understanding contract principles helps contractors recognize important business responsibilities.
+
+### Project Management
+
+Project management combines planning, scheduling, budgeting, supervision, and communication.
+
+These responsibilities help contractors coordinate construction activities and manage available resources.
+
+Review the principles involved in organizing projects, monitoring progress, and coordinating construction participants.
+
+### Construction Lien Laws
+
+Construction liens involve certain payment and property rights. Understanding lien concepts helps contractors recognize the importance of construction agreements, payment administration, and accurate records.
+
+Project Management and Lien Law accounts for six questions on the Georgia Business and Law Examination.
+
+### Tax Laws
+
+Tax Laws account for five examination questions.
+
+Understanding business tax concepts and maintaining organized financial records are important responsibilities for construction companies.
+
+Study the tax fundamentals addressed in the NASCLA reference and their relationship to financial administration.
+
+### Labor Laws
+
+Labor Laws also account for five examination questions.
+
+Review responsibilities involving employees, payroll practices, employment administration, and workplace relationships.
+
+These subjects are important for contractors who supervise workers and manage construction operations.
+
+### Financial Management
+
+Financial management helps contractors monitor business income, expenses, project costs, and available resources.
+
+Understanding accounting and cash flow concepts supports informed decisions and organized company operations.
+
+### Risk Management
+
+Construction businesses encounter financial, operational, and contractual risks. Risk management involves recognizing potential exposures and understanding insurance and business protection concepts.
+
+### Environmental and Safety Responsibilities
+
+Construction safety involves identifying workplace hazards and understanding employer responsibilities.
+
+Environmental considerations may involve materials, waste, and construction site conditions. Understanding these subjects supports responsible project management.
+
+### Part 1: Business Planning and Startup
+
+The first major section of the NASCLA guide introduces business planning, choosing a business structure, contractor licensing, insurance, management, and marketing.
+
+These subjects help explain how construction companies are established and how business owners organize their responsibilities.
+
+### Part 2: Construction Business Operations
+
+The second major section addresses construction estimating, contract management, scheduling, project management, safety, environmental responsibilities, and relationships with employees, subcontractors, and customers.
+
+These topics connect business principles with everyday construction project operations.
+
+### Part 3: Business Administration
+
+The third major section focuses on financial management, tax fundamentals, and construction lien laws.
+
+Understanding these areas helps contractors recognize the importance of financial organization, accurate documentation, and responsible business administration.
+
+### How the Included Reference Tabs Help
+
+The matching NASCLA reference tabs identify chapters within the Georgia Contractor's Guide, 3rd Edition.
+
+They allow readers to locate sections conveniently instead of repeatedly searching through the table of contents.
+
+Regular practice with the tabbed reference can help candidates become familiar with the book's organization and improve their preparation for an open-book examination.
+
+### Installing Your Reference Tabs
+
+- Match each preprinted tab to its corresponding chapter.
+- Position each tab carefully on the appropriate page.
+- Apply the adhesive securely to the book.
+- Install the tabs at least one day before the examination.
+- Practice navigating the publication using the completed tab system.
+
+The testing facility proctor determines final tab acceptance. Tabs that do not adhere properly will not be accepted.
+
+### Recommended Study Strategy
+
+- **First Review:** Study licensing requirements, business organization, and financial management.
+- **Second Review:** Concentrate on estimating, bidding, and construction contracts.
+- **Third Review:** Review project management, lien laws, and risk management.
+- **Fourth Review:** Study tax laws, labor laws, environmental responsibilities, and safety.
+- **Reference Navigation:** Practice locating important information using the matching chapter tabs.
+
+Combining consistent reading with reference navigation practice helps candidates develop familiarity with the material and prepare for the Georgia Business and Law Examination.
 
 ## How Pass Your NASCLA Exam Prep Helps You Reach Your Goal
 
-Pass Your NASCLA Exam Prep supports your Georgia Business & Law preparation with organized, exam-focused guidance—so you can study with structure and build confidence in both the content and the open-book process.
+Pass Your NASCLA Exam Prep supports Georgia contractor licensing candidates through organized study guidance, trade-focused review, practice-oriented preparation, and effective reference navigation.
 
-- **Outline-aligned study structure:** Focus your time on the same categories PSI tests, helping you study efficiently.
-- **Practice-oriented preparation:** Reinforce key concepts and question styles through review that builds test-day readiness.
-- **Reference navigation habits:** When your exam allows an approved book, knowing where to look is a major advantage. We emphasize practical navigation and time-management strategies.
-- **Confidence-building plan:** A clear approach helps reduce overwhelm, keeps your study consistent, and supports smarter scheduling decisions.
+The **Georgia Residential & General Contractors NASCLA Guide, 3rd Edition + Tabs Bundle** brings together an authorized examination reference and matching chapter tabs to support focused preparation.
+
+The book provides important contractor business and law information, while the included tabs help organize chapters and make reference navigation more convenient.
+
+Benefits of this bundle include:
+
+- **Authorized Georgia Examination Reference:** Study from the NASCLA publication designated for the Georgia Business and Law Examination.
+- **Matching Reference Tabs:** Organize the book and locate important chapters more efficiently.
+- **Licensing Knowledge:** Review contractor classifications and professional business responsibilities.
+- **Estimating and Contract Preparation:** Study project pricing, bidding, and contract administration.
+- **Financial Management:** Review accounting, taxes, financial responsibilities, and lien laws.
+- **Project Management:** Strengthen understanding of scheduling, safety, and construction coordination.
+- **Open-Book Preparation:** Practice locating relevant information within the authorized reference.
+
+This bundle provides a convenient way to organize Georgia contractor Business and Law study materials while building knowledge relevant to construction company operations.
 
 ## Frequently asked questions
 
@@ -106,36 +324,56 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
-### Is this the correct book for the Georgia Business & Law exam?
+### What is included in the Georgia NASCLA 3rd Edition + Tabs Bundle?
 
-Yes. PSI lists the Georgia-NASCLA Contractors Guide to Business, Law and Project Management, Georgia State Licensing Board for Residential and General Contractors (3rd Edition) as the reference allowed in the examination center for the Georgia Business & Law exam.
+The bundle includes the physical Georgia NASCLA Contractor's Guide to Business, Law and Project Management, 3rd Edition, and a matching sheet of permanent adhesive reference tabs.
 
-### Is the Georgia Business & Law exam open book?
+### Is this the correct reference for the Georgia Business and Law Examination?
 
-Yes. PSI states the Georgia Business & Law exam is OPEN BOOK .
+Yes. The Georgia NASCLA Contractor's Guide, 3rd Edition, is an authorized reference for the examination administered by PSI Services.
 
-### Are the tabs allowed in the exam room?
+### Is the Georgia Business and Law Examination open book?
 
-PSI states references may be tabbed/indexed with permanent tabs only . Temporary tabs (such as Post-It notes) are not allowed and must be removed before the exam begins. This bundle includes pre-printed tabs intended to support compliant organization and faster navigation.
+Yes. The Georgia Business and Law Examination is an open-book examination.
 
-### Can I write notes in the book?
+### How many questions are on the examination?
 
-No. PSI states references may be highlighted, underlined, and/or indexed, but they must be otherwise unmarked (not written in) and may not contain additional papers (loose or attached).
+The examination contains 50 multiple-choice questions .
 
-### How many questions are on the Business & Law exam, and how long do I have?
+### How much time is allowed?
 
-PSI lists 50 questions with 120 minutes allowed for the Georgia Business & Law exam.
+Candidates have 120 minutes to complete the examination.
 
-### What score do I need to pass?
+### What is the passing score?
 
-PSI lists a minimum passing score of 70% (35 correct).
+The minimum passing score is 70%, or 35 correct answers .
 
-### How long is my exam approval valid in Georgia?
+### Are the reference tabs already installed?
 
-PSI states you are eligible to take the examination(s) for 1 year from the date of your exam approval letter, and you must pass both the Business & Law and any required trade exam within that eligibility period.
+No. The bundle includes a separate sheet of matching preprinted tabs for installation in the reference book.
+
+### Are permanent reference tabs permitted during testing?
+
+PSI permits compliant permanent reference tabs, but the testing facility proctor makes the final decision about acceptance. Tabs must adhere securely.
+
+### When should I install the tabs?
+
+Install the tabs at least one day before your examination to help ensure the adhesive is securely attached.
+
+### What is the ISBN of the book?
+
+The ISBN-13 is 9781934234846 .
+
+### Who publishes the Georgia NASCLA guide?
+
+The National Association of State Contractor Licensing Agencies publishes the reference.
+
+### Which agency oversees Georgia contractor licensing?
+
+The Georgia State Licensing Board for Residential and General Contractors oversees the applicable residential and general contractor licensing programs.
 
 ### Other Georgia Business & Law options
-[Online Exam Prep Course Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/) · [Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide Tabs (5th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Residential Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/)
+[Online Exam Prep Course Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/) · [Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide Tabs (5th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/) · [Residential Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/)
 
 ### Other Georgia exams
 
@@ -155,7 +393,7 @@ PSI states you are eligible to take the examination(s) for 1 year from the date 
 
 ### Questions
 
-- [Georgia Business & Law FAQ (38 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
+- [Georgia Business & Law FAQ (35 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

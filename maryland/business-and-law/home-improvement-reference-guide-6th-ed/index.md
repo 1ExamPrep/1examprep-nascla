@@ -1,13 +1,13 @@
 ---
 title: Maryland Home Improvement Reference Guide (6th Ed.)
 url: https://passyournasclaexam.com/maryland/business-and-law/home-improvement-reference-guide-6th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The Maryland NASCLA Home Improvement Salesperson Reference Guide, 6th Edition, published under the Maryland Home Improvement Commission (MHIC) and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Maryland](https://passyournasclaexam.com/maryland/) · [Business and Law](https://passyournasclaexam.com/maryland/business-and-law/) Home Improvement Reference Guide (6th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Maryland](https://passyournasclaexam.com/maryland/) · [Business & Law](https://passyournasclaexam.com/maryland/business-and-law/)
 
@@ -59,7 +59,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Maryland Business & Law options
-[Business & Law Guide Tabs (7th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-tabs-7th-ed/) · [Home Improvement Reference Guide Tabs (6th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/maryland/business-and-law/home-improvement-reference-guide-tabs-6th-ed/) · [Business & Law Guide (7th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-7th-ed/) · [Business & Law Guide + Tabs (7th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-plus-tabs-7th-ed/) · [Business & Law Guide + Tabs (7th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-plus-tabs-7th-ed-2/) · [Business & Law Guide Highlighted & Tabbed (7th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-highlighted-and-tabbed-7th-ed/)
+[Business & Law Guide Tabs (7th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-tabs-7th-ed/) · [Home Improvement Reference Guide Tabs (6th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/maryland/business-and-law/home-improvement-reference-guide-tabs-6th-ed/) · [Business & Law Guide (7th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-7th-ed/) · [Business & Law Guide + Tabs (7th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-plus-tabs-7th-ed/) · [Business & Law Guide Highlighted & Tabbed (7th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-highlighted-and-tabbed-7th-ed/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (7th Ed.) Business & Law**$309.99**](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-7th-ed/)
 
 ### Business & Law in other states
 
@@ -75,7 +75,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 
 ### Questions
 
-- [Maryland Business & Law FAQ (2 answers)](https://passyournasclaexam.com/faq/maryland/business-and-law/)
+- [Maryland Business & Law FAQ (15 answers)](https://passyournasclaexam.com/faq/maryland/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

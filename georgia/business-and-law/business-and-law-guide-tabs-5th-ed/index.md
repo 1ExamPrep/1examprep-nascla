@@ -1,19 +1,19 @@
 ---
 title: Georgia Business & Law Guide Tabs (5th Ed.)
 url: https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Get your Georgia business, law, and project management reference organized for faster lookups. This package pairs the NASCLA Contractors Guide to Business.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Business & Law Guide Tabs (5th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 
 # Georgia NASCLA Contractors Guide to Business, Law and Project Management, GA Construction Industry Licensing Board 5th Edition; Pre-Printed Tabs
 
-$19.95 (was $22.00) Save 9%[Buy now](https://1examprep.com/cart/2768448684058:1)
+$24.95 (was $35.00) Save 29%[Buy now](https://1examprep.com/cart/2768448684058:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,7 @@ $19.95 (was $22.00) Save 9%[Buy now](https://1examprep.com/cart/2768448684058:1)
 
 ## Key takeaways
 
-- Georgia Business and Law, Business & Law Guide Tabs (5th Ed.): $19.95, down from $22.00.
+- Georgia Business and Law, Business & Law Guide Tabs (5th Ed.): $24.95, down from $35.00.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -125,7 +125,7 @@ No. Georgia reference lists warn candidates not to bring in photocopied material
 The ISBN for the Georgia Construction Industry Licensing Board 5th Edition is 978-1-934234-44-0 .
 
 ### Other Georgia Business & Law options
-[Online Exam Prep Course Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/) · [Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Residential Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/) · [Residential Business & Law Guide + Tabs (3rd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed/)
+[Online Exam Prep Course Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/) · [Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Residential Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Residential Business & Law Guide + Tabs (3rd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/)
 
 ### Other Georgia exams
 
@@ -145,7 +145,7 @@ The ISBN for the Georgia Construction Industry Licensing Board 5th Edition is 97
 
 ### Questions
 
-- [Georgia Business & Law FAQ (38 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
+- [Georgia Business & Law FAQ (35 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: Arkansas NASCLA Exam: Commercial License and Prep Guide
 url: https://passyournasclaexam.com/arkansas/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the Arkansas NASCLA exam fits the commercial contractor license: ACLB rules, the $84 Business and Law test, net worth, bond, steps and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Arkansas
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Arkansas NASCLA Exam and Commercial Contractor License Guide
 
@@ -25,7 +25,7 @@ Yes. Arkansas accepts the NASCLA Accredited Examination for Commercial General B
 
 ### Which NASCLA exams can I prepare for in Arkansas?
 
-Commercial General Building Contractor (6 products from $395.00); Business and Law (5 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (6 products from $395.00); Business and Law (5 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 11 Arkansas products for 2 exams, from $19.95 to $4,669.00.
+- 11 Arkansas products for 2 exams, from $24.95 to $4,669.00.
 - Arkansas accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -44,7 +44,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 ### Arkansas Commercial General Building Contractor
 
 Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
-See Commercial GC packages →](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/) · [5 PRODUCTS · FROM $19.95
+See Commercial GC packages →](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/) · [5 PRODUCTS · FROM $24.95
 
 ### Arkansas Business and Law
 
@@ -192,7 +192,7 @@ Yes. Both PSI exams allow highlighting and permanent tabs applied before test da
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Commercial Exam Participating Agencies](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Apply for NASCLA Exams](https://www.nascla.org/apply-nascla-exams)
@@ -221,7 +221,7 @@ Facts on this page come from these official sources, checked October 19, 2026. R
 ### Arkansas exam prep
 
 - [Commercial General Building Contractor](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/) from $395.00
-- [Business and Law](https://passyournasclaexam.com/arkansas/business-and-law/) from $19.95
+- [Business and Law](https://passyournasclaexam.com/arkansas/business-and-law/) from $24.95
 
 Shop Arkansas
 
@@ -270,7 +270,7 @@ Arkansas · Business & Law
 
 The Arkansas NASCLA Contractors Guide to Business, Law and Project Management, Arkansas 7th Edition, published under the National Association of State Contractors Licensing Agencies…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/7107014524985:1) · [Details](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-7th-ed/)
 
 Arkansas · Business & Law
@@ -279,7 +279,7 @@ Arkansas · Business & Law
 
 The Arkansas NASCLA Contractors Guide to Business, Law and Project Management, Arkansas 8th Edition is an essential reference published under the authority of the…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/40431549644857:1) · [Details](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-8th-ed/)
 
 Arkansas · Business & Law

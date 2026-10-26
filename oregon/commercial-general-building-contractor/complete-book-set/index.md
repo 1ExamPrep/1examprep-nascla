@@ -1,13 +1,13 @@
 ---
 title: Oregon Complete Book Set | NASCLA Commercial GC
 url: https://passyournasclaexam.com/oregon/commercial-general-building-contractor/complete-book-set/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors and the Oregon contractor licensing process with a complete.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oregon](https://passyournasclaexam.com/oregon/) · [Commercial General Building Contractor](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) Complete Book Set
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Oregon](https://passyournasclaexam.com/oregon/) · [Commercial GC](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/)
 

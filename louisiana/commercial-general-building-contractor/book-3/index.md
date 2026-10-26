@@ -1,19 +1,19 @@
 ---
 title: Louisiana Book | NASCLA Commercial GC (Option 3)
 url: https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/book-3/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The Louisiana General Contractors, 12th Edition is an official reference. Distributed through Pass Your NASCLA Exam Prep, this guide provides essential.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial General Building Contractor](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/) Book
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial GC](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/)
 
 # Louisiana - NASCLA Louisiana General Contractors, 12th Edition Highlighted & Tabbed
 
-$219.99 (was $249.99) Save 12%Choose an option[Buy now](https://1examprep.com/cart/45892347854905:1)
+$264.99 (was $325.00) Save 18%Choose an option[Buy now](https://1examprep.com/cart/45892347854905:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,7 @@ $219.99 (was $249.99) Save 12%Choose an option[Buy now](https://1examprep.com/ca
 
 ## Key takeaways
 
-- Louisiana Commercial General Building Contractor, Book: $219.99, down from $249.99.
+- Louisiana Commercial General Building Contractor, Book: $264.99, down from $325.00.
 - 2 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.

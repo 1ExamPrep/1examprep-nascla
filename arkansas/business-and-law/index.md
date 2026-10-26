@@ -1,13 +1,13 @@
 ---
 title: Arkansas NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/arkansas/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: Arkansas business and law exam prep: 5 products from $19.95 to $219.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Arkansas business and law exam prep: 5 products from $24.95 to $264.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Arkansas Business and Law Exam Prep
 
@@ -19,7 +19,7 @@ Contractor's Guide to Business, Law and Project Management for Arkansas. Choose 
 
 ### How much does Arkansas business and law exam prep cost?
 
-Arkansas business and law prep runs from $19.95 to $219.99 across 5 products: Business & Law Guide Tabs (7th Ed.) $19.95; Business & Law Guide Tabs (8th Ed.) $19.95; Business & Law Guide (8th Ed.) $124.99; Business & Law Guide + Tabs (8th Ed.) $134.99; Business & Law Guide Highlighted & Tabbed (8th Ed.) $219.99.
+Arkansas business and law prep runs from $24.95 to $264.99 across 5 products: Business & Law Guide Tabs (7th Ed.) $24.95; Business & Law Guide Tabs (8th Ed.) $24.95; Business & Law Guide (8th Ed.) $124.99; Business & Law Guide + Tabs (8th Ed.) $149.99; Business & Law Guide Highlighted & Tabbed (8th Ed.) $264.99.
 
 ### Which book is the Arkansas business and law exam based on?
 
@@ -27,22 +27,22 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 ## Key takeaways
 
-- 5 Arkansas business and law products, from $19.95 to $219.99.
+- 5 Arkansas business and law products, from $24.95 to $264.99.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
 ## Books and tabs
 
 5 items
 
-[Business & Law Guide Tabs (7th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-7th-ed/) Arkansas · Business & Law $19.95[Buy now](https://1examprep.com/cart/7107014524985:1)
+[Business & Law Guide Tabs (7th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-7th-ed/) Arkansas · Business & Law $24.95[Buy now](https://1examprep.com/cart/7107014524985:1)
 
-[Business & Law Guide Tabs (8th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-8th-ed/) Arkansas · Business & Law $19.95[Buy now](https://1examprep.com/cart/40431549644857:1)
+[Business & Law Guide Tabs (8th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-8th-ed/) Arkansas · Business & Law $24.95[Buy now](https://1examprep.com/cart/40431549644857:1)
 
 [Business & Law Guide (8th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-8th-ed/) Arkansas · Business & Law $124.99[Buy now](https://1examprep.com/cart/7050807214137:1)
 
-[Business & Law Guide + Tabs (8th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-plus-tabs-8th-ed/) Arkansas · Business & Law $134.99[Buy now](https://1examprep.com/cart/45892346544185:1)
+[Business & Law Guide + Tabs (8th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-plus-tabs-8th-ed/) Arkansas · Business & Law $149.99[Buy now](https://1examprep.com/cart/45892346544185:1)
 
-[Business & Law Guide Highlighted & Tabbed (8th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-highlighted-and-tabbed-8th-ed/) Arkansas · Business & Law $219.99[Buy now](https://1examprep.com/cart/45892346708025:1)
+[Business & Law Guide Highlighted & Tabbed (8th Ed.)](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-highlighted-and-tabbed-8th-ed/) Arkansas · Business & Law $264.99[Buy now](https://1examprep.com/cart/45892346708025:1)
 
 ## Questions
 

@@ -1,13 +1,13 @@
 ---
 title: Florida NASCLA Exam: Contractor License Steps and Prep
 url: https://passyournasclaexam.com/florida/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How Florida accepts the NASCLA exam for general, building, residential and electrical licenses, plus Business and Finance, fees, experience and exam prep.
 ---
 
 [Home](https://passyournasclaexam.com/) Florida
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Florida NASCLA Exam: How to Get Your Florida Contractor License
 
@@ -27,7 +27,7 @@ Yes. Florida accepts the NASCLA Accredited Examination for Commercial General Bu
 
 ### Which NASCLA exams can I prepare for in Florida?
 
-Commercial General Building Contractor (6 products from $395.00); Residential Electrical Contractor (6 products from $295.00); Business and Law (6 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (6 products from $395.00); Residential Electrical Contractor (6 products from $295.00); Business and Law (7 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -35,7 +35,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 18 Florida products for 3 exams, from $19.95 to $5,456.00.
+- 19 Florida products for 3 exams, from $19.95 to $5,456.00.
 - Florida accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -51,7 +51,7 @@ See Commercial GC packages →](https://passyournasclaexam.com/florida/commercia
 ### Florida Residential Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA residential electrical exam.
-See Residential Electrical packages →](https://passyournasclaexam.com/florida/residential-electrical-contractor/) · [6 PRODUCTS · FROM $19.95
+See Residential Electrical packages →](https://passyournasclaexam.com/florida/residential-electrical-contractor/) · [7 PRODUCTS · FROM $19.95
 
 ### Florida Business and Law
 
@@ -206,7 +206,7 @@ Licenses renew every two years. CILB licensees need at least 14 hours per cycle 
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Florida Construction Industry Licensing Board (commercial exam)](https://www.nascla.org/commercial-exam-participating-state-agencies/florida-construction-industry-licensing-board)
 2. [NASCLA: Florida Electrical Contractors' Licensing Board (electrical exams)](https://www.nascla.org/electrical-exams-participating-state-agencies/florida-electrical-contractors-licensing-board)
@@ -310,7 +310,7 @@ $2,544.00 (was $2,744.00) Save 7%
 
 ### Florida Business and Law packages
 
-[All 6 products →](https://passyournasclaexam.com/florida/business-and-law/)
+[All 7 products →](https://passyournasclaexam.com/florida/business-and-law/)
 
 Florida · Business & Law
 
@@ -325,10 +325,10 @@ Florida · Business & Law
 
 ### [Business & Law Guide (2nd Ed.)](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-2nd-ed/)
 
-The , published under the authority of the Construction Industry Licensing Board (CILB), is an official reference for contractors seeking licensure in Florida counties.…
+Prepare for Florida county-level contractor business and law examinations with the from 1 Exam Prep. This Florida-specific reference book covers the business, legal, financial,…
 
-$124.99 (was $137.25) Save 9%
-[Buy now](https://1examprep.com/cart/32228182349:1) · [Details](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-2nd-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50930369331257:1) · [Details](https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-2nd-ed/)
 
 Florida · Business & Law
 

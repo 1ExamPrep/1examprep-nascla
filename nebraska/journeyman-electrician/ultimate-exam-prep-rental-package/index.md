@@ -1,13 +1,13 @@
 ---
 title: Nebraska Journeyman Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/nebraska/journeyman-electrician/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Nebraska NASCLA Journeyman Electrician examination with a complete study package that combines online exam preparation, a highlighted and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Journeyman Electrician](https://passyournasclaexam.com/nebraska/journeyman-electrician/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Journeyman](https://passyournasclaexam.com/nebraska/journeyman-electrician/)
 

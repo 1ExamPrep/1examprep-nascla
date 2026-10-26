@@ -1,13 +1,13 @@
 ---
 title: Alabama NASCLA Exam: License Steps and Exam Prep
 url: https://passyournasclaexam.com/alabama/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Alabama NASCLA exam guide: which boards accept it, the Business and Law exam, financial rules, fees, electrical options, and prep packages for each license.
 ---
 
 [Home](https://passyournasclaexam.com/) Alabama
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Alabama NASCLA Exam: How to Get Licensed and How to Prepare
 
@@ -25,7 +25,7 @@ Yes. Alabama accepts the NASCLA Accredited Examination for Commercial General Bu
 
 ### Which NASCLA exams can I prepare for in Alabama?
 
-Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (6 products from $395.00); Journeyman Electrician (7 products from $295.00); Business and Law (12 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (6 products from $395.00); Journeyman Electrician (7 products from $295.00); Business and Law (10 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 33 Alabama products for 4 exams, from $19.95 to $5,310.00.
+- 31 Alabama products for 4 exams, from $19.95 to $5,310.00.
 - Alabama accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -54,7 +54,7 @@ See Master Electrical packages →](https://passyournasclaexam.com/alabama/maste
 ### Alabama Journeyman Electrician
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA journeyman exam.
-See Journeyman packages →](https://passyournasclaexam.com/alabama/journeyman-electrician/) · [12 PRODUCTS · FROM $19.95
+See Journeyman packages →](https://passyournasclaexam.com/alabama/journeyman-electrician/) · [10 PRODUCTS · FROM $19.95
 
 ### Alabama Business and Law
 
@@ -210,7 +210,7 @@ General contractors use the NASCLA Alabama General 3rd Edition guide. Home build
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Commercial Exam Participating Agencies](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Electrical Exam Participating Agencies](https://www.nascla.org/page/ParticipatingAgencies_Electrical)
@@ -345,7 +345,7 @@ $1,495.00 (was $1,695.00) Save 12% options to $1,790.00
 
 ### Alabama Business and Law packages
 
-[All 12 products →](https://passyournasclaexam.com/alabama/business-and-law/)
+[All 10 products →](https://passyournasclaexam.com/alabama/business-and-law/)
 
 Alabama · Business & Law
 
@@ -367,12 +367,12 @@ $19.95 (was $22.00) Save 9%
 
 Alabama · Business & Law
 
-### [Residential Business & Law Guide (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/)
+### [Business & Law Guide (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/)
 
-The is an official reference published for candidates preparing for the Alabama Home Builders Licensure Board (HBLB) examination. Distributed through Pass Your NASCLA Exam…
+Build a stronger foundation for your Alabama general contracting career with the . Published by the National Association of State Contractor Licensing Agencies (NASCLA),…
 
-$124.99 (was $137.25) Save 9%
-[Buy now](https://1examprep.com/cart/32227619149:1) · [Details](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50930166857785:1) · [Details](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/)
 
 Alabama licensing
 

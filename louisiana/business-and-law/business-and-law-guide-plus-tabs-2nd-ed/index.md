@@ -1,19 +1,19 @@
 ---
 title: Louisiana Business & Law Guide + Tabs (2nd Ed.)
 url: https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Louisiana Master Plumber and Master Natural Gas Fitter licensing examinations with the from 1 Exam Prep. This study package combines an.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) Business & Law Guide + Tabs (2nd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business & Law](https://passyournasclaexam.com/louisiana/business-and-law/)
 
 # Louisiana Master Plumber & Natural Gas NASCLA Contractor's Guide to Business, Law and Project Management, 2nd Edition + Tabs Bundle
 
-$149.99 (was $199.99) Save 25%[Buy now](https://1examprep.com/cart/50820221927481:1)
+$149.99 (was $199.99) Save 25%Choose an option[Buy now](https://1examprep.com/cart/50935091593273:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -22,6 +22,7 @@ $149.99 (was $199.99) Save 25%[Buy now](https://1examprep.com/cart/5082022192748
 ## Key takeaways
 
 - Louisiana Business and Law, Business & Law Guide + Tabs (2nd Ed.): $149.99, down from $199.99.
+- 3 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -411,7 +412,7 @@ The National Association of State Contractor Licensing Agencies publishes the gu
 Yes. The publication includes estimating, bidding, contract management, scheduling, and project administration.
 
 ### Other Louisiana Business & Law options
-[Business & Law Guide Tabs (12th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-tabs-12th-ed/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide (12th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/) · [Business & Law Guide + Tabs (12th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/) · [Business & Law Guide Highlighted & Tabbed (12th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/)
+[Business & Law Guide Tabs (12th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-tabs-12th-ed/) · [Business & Law Guide (12th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide + Tabs (12th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/) · [Business & Law Guide Highlighted & Tabbed (12th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/)
 
 ### Other Louisiana exams
 
@@ -432,7 +433,7 @@ Yes. The publication includes estimating, bidding, contract management, scheduli
 
 ### Questions
 
-- [Louisiana Business & Law FAQ (27 answers)](https://passyournasclaexam.com/faq/louisiana/business-and-law/)
+- [Louisiana Business & Law FAQ (29 answers)](https://passyournasclaexam.com/faq/louisiana/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

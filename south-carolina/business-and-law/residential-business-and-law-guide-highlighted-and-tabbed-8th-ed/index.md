@@ -1,19 +1,19 @@
 ---
 title: South Carolina Res. B&L Guide H&T (8th Ed.)
 url: https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-8th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your South Carolina residential builder open-book examination with a professionally highlighted and tabbed copy of the NASCLA Contractors Guide.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business and Law](https://passyournasclaexam.com/south-carolina/business-and-law/) Residential Business & Law Guide Highlighted & Tabbed (8th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business & Law](https://passyournasclaexam.com/south-carolina/business-and-law/)
 
 # South Carolina - NASCLA Contractors Guide to Business, Law and Project Management, South Carolina Residential Builders, 8th edition Highlighted & Tabbed
 
-$219.99 (was $250.00) Save 12%Choose an option[Buy now](https://1examprep.com/cart/45892351131705:1)
+$264.99 (was $325.00) Save 18%Choose an option[Buy now](https://1examprep.com/cart/45892351131705:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,7 @@ $219.99 (was $250.00) Save 12%Choose an option[Buy now](https://1examprep.com/ca
 
 ## Key takeaways
 
-- South Carolina Business and Law, Residential Business & Law Guide Highlighted & Tabbed (8th Ed.): $219.99, down from $250.00.
+- South Carolina Business and Law, Residential Business & Law Guide Highlighted & Tabbed (8th Ed.): $264.99, down from $325.00.
 - 3 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
@@ -225,7 +225,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other South Carolina Business & Law options
-[Residential Business & Law Guide Tabs (8th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-tabs-8th-ed/) · [Business & Law Guide Tabs (8th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-tabs-8th-ed/) · [Business & Law Guide Tabs (9th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-tabs-9th-ed/) · [Residential Business & Law Guide (8th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-8th-ed/) · [Business & Law Guide (9th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-9th-ed/) · [Business & Law Guide + Tabs (9th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-plus-tabs-9th-ed/)
+[Business & Law Guide Tabs (8th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-tabs-8th-ed/) · [Residential Business & Law Guide Tabs (8th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-tabs-8th-ed/) · [Business & Law Guide Tabs (9th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-tabs-9th-ed/) · [Business & Law Guide (9th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-9th-ed/) · [Residential Business & Law Guide (9th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-9th-ed/) · [Residential Business & Law Guide (8th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-8th-ed/)
 
 ### Other South Carolina exams
 
@@ -244,6 +244,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Hawaii](https://passyournasclaexam.com/hawaii/business-and-law/)
 - [Louisiana](https://passyournasclaexam.com/louisiana/business-and-law/)
 - [All states for this exam](https://passyournasclaexam.com/business-and-law/)
+
+### Questions
+
+- [South Carolina Business & Law FAQ (28 answers)](https://passyournasclaexam.com/faq/south-carolina/business-and-law/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

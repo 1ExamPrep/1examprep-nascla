@@ -1,19 +1,19 @@
 ---
 title: Georgia Res. B&L Guide H&T + Flash Cards (3rd Ed.)
 url: https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-3rd-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Georgia Contractor Business and Law Examination with the from 1 Exam Prep. This comprehensive study package combines a professionally.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 
 # Georgia Residential & General Contractors NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, 3rd Edition + Flash Cards Bundle
 
-$264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/50819805544505:1)
+$309.99 (was $375.00) Save 17%Choose an option[Buy now](https://1examprep.com/cart/50930981765177:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,8 @@ $264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/5081980554450
 
 ## Key takeaways
 
-- Georgia Business and Law, Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.): $264.99, down from $314.99.
+- Georgia Business and Law, Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.): $309.99, down from $375.00.
+- 2 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -378,7 +379,7 @@ The ISBN-13 is 9781934234846 .
 The National Association of State Contractor Licensing Agencies publishes the reference book.
 
 ### Other Georgia Business & Law options
-[Online Exam Prep Course Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/) · [Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide Tabs (5th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Residential Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/)
+[Online Exam Prep Course Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/) · [Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide Tabs (5th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/) · [Residential Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Residential Business & Law Guide + Tabs (3rd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed/)
 
 ### Other Georgia exams
 
@@ -398,7 +399,7 @@ The National Association of State Contractor Licensing Agencies publishes the re
 
 ### Questions
 
-- [Georgia Business & Law FAQ (38 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
+- [Georgia Business & Law FAQ (35 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

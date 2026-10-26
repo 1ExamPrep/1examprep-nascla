@@ -1,13 +1,13 @@
 ---
 title: NASCLA Journeyman Electrician Exam Prep
 url: https://passyournasclaexam.com/journeyman-electrician/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prep for NASCLA accredited journeyman electrician exams in the states that use them, with the reference. 50 products across 9 states, from $295.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Journeyman Electrician
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 NASCLA accredited journeyman exam
 
 # NASCLA Journeyman Electrician Exam Prep

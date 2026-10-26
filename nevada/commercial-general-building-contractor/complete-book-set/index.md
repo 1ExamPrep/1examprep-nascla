@@ -1,13 +1,13 @@
 ---
 title: Nevada Complete Book Set | NASCLA Commercial GC
 url: https://passyournasclaexam.com/nevada/commercial-general-building-contractor/complete-book-set/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The Nevada NASCLA Accredited Examination for Commercial General Building Contractors Complete Book Set by Pass Your NASCLA Exam Prep provides the officially.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nevada](https://passyournasclaexam.com/nevada/) · [Commercial General Building Contractor](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/) Complete Book Set
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Nevada](https://passyournasclaexam.com/nevada/) · [Commercial GC](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/)
 

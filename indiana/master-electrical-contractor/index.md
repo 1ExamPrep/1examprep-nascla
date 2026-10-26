@@ -1,13 +1,13 @@
 ---
 title: Indiana NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/indiana/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Indiana master electrical contractor exam prep: 7 products from $295.00 to $3,155.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) Master Electrical Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Indiana Master Electrical Contractor Exam Prep
 

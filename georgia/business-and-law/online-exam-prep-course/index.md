@@ -1,13 +1,13 @@
 ---
 title: Georgia Online Exam Prep Course | NASCLA Business & Law
 url: https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Georgia Business and Law - Online Exam Prep Course If you’re applying for a Georgia Residential or General Contractor license, the Business & Law exam is a.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 
@@ -123,7 +123,7 @@ Some Georgia contractor license classifications require a trade exam in addition
 Focus on understanding the concepts and learning where information is located in your reference. Then add timed practice so you can answer efficiently without spending too long searching during the exam.
 
 ### Other Georgia Business & Law options
-[Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide Tabs (5th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Residential Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/) · [Residential Business & Law Guide + Tabs (3rd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed/)
+[Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide Tabs (5th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/) · [Residential Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Residential Business & Law Guide + Tabs (3rd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/)
 
 ### Other Georgia exams
 
@@ -143,7 +143,7 @@ Focus on understanding the concepts and learning where information is located in
 
 ### Questions
 
-- [Georgia Business & Law FAQ (38 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
+- [Georgia Business & Law FAQ (35 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

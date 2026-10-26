@@ -1,13 +1,13 @@
 ---
 title: Connecticut Business & Law Guide Tabs (6th Ed.)
 url: https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-tabs-6th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The Connecticut NASCLA Contractors Guide to Business, Law and Project Management, CT 5th Edition , published by the NASCLA and aligned with the Connecticut.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Connecticut](https://passyournasclaexam.com/connecticut/) · [Business and Law](https://passyournasclaexam.com/connecticut/business-and-law/) Business & Law Guide Tabs (6th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Connecticut](https://passyournasclaexam.com/connecticut/) · [Business & Law](https://passyournasclaexam.com/connecticut/business-and-law/)
 
@@ -54,7 +54,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Connecticut Business & Law options
-[Business & Law Guide (6th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-6th-ed/) · [Business & Law Guide + Tabs (6th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed/) · [Business & Law Guide + Tabs (6th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed-2/) · [Business & Law Guide Highlighted & Tabbed (6th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (6th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-6th-ed/)
+[Business & Law Guide (6th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-6th-ed/) · [Business & Law Guide + Tabs (6th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed/) · [Business & Law Guide Highlighted & Tabbed (6th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed/) · [Business & Law Guide Highlighted & Tabbed (6th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed-2/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (6th Ed.) Business & Law**$309.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-6th-ed/)
 
 ### Business & Law in other states
 
@@ -70,7 +70,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 
 ### Questions
 
-- [Connecticut Business & Law FAQ (11 answers)](https://passyournasclaexam.com/faq/connecticut/business-and-law/)
+- [Connecticut Business & Law FAQ (23 answers)](https://passyournasclaexam.com/faq/connecticut/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

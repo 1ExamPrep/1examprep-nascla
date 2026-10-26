@@ -1,13 +1,13 @@
 ---
 title: Utah Commercial GC Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/utah/commercial-general-building-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with a complete Utah reference package featuring highlighted and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Utah](https://passyournasclaexam.com/utah/) · [Commercial General Building Contractor](https://passyournasclaexam.com/utah/commercial-general-building-contractor/) Highlighted & Tabbed Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Utah](https://passyournasclaexam.com/utah/) · [Commercial GC](https://passyournasclaexam.com/utah/commercial-general-building-contractor/)
 

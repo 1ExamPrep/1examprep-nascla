@@ -1,13 +1,13 @@
 ---
 title: Tennessee Commercial GC Books & Courses Rental Package
 url: https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Tennessee NASCLA Commercial Building Contractor pathway with a complete books and courses rental package that combines the listed commercial.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Commercial General Building Contractor](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Commercial GC](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/)
 

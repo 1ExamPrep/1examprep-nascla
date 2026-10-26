@@ -1,19 +1,19 @@
 ---
 title: NASCLA Master Electrical Contractor Exam Prep, Nationwide
 url: https://passyournasclaexam.com/national/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Nationwide master electrical contractor exam prep: 7 products from $80.99 to $1,995.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) Master Electrical Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide Master Electrical Contractor Exam Prep
 
 NASCLA accredited electrical contractor exam for Nationwide. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 7](https://passyournasclaexam.com/national/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/national/master-electrical-contractor/) · [Journeyman 4](https://passyournasclaexam.com/national/journeyman-electrician/) · [Residential Electrical 4](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [Business & Law 8](https://passyournasclaexam.com/national/business-and-law/)
+[Commercial GC 7](https://passyournasclaexam.com/national/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/national/master-electrical-contractor/) · [Journeyman 4](https://passyournasclaexam.com/national/journeyman-electrician/) · [Residential Electrical 4](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [Business & Law 9](https://passyournasclaexam.com/national/business-and-law/)
 
 ## Quick answers
 

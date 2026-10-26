@@ -1,13 +1,13 @@
 ---
 title: Tennessee Journeyman Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/tennessee/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Tennessee NASCLA Journeyman Electrician examination with a professionally organized collection of electrical code, safety, theory, fire.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Journeyman Electrician](https://passyournasclaexam.com/tennessee/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Journeyman](https://passyournasclaexam.com/tennessee/journeyman-electrician/)
 

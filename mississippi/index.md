@@ -1,13 +1,13 @@
 ---
 title: Mississippi NASCLA Exam: Contractor License Guide
 url: https://passyournasclaexam.com/mississippi/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the Mississippi NASCLA exam works for building and electrical licenses, the required Law and Business exam, MSBOC fees, steps and the prep that fits you.
 ---
 
 [Home](https://passyournasclaexam.com/) Mississippi
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Mississippi NASCLA Exam: Your Path to a Contractor License
 
@@ -25,7 +25,7 @@ Yes. Mississippi accepts the NASCLA Accredited Examination for Commercial Genera
 
 ### Which NASCLA exams can I prepare for in Mississippi?
 
-Commercial General Building Contractor (7 products from $199.99); Master Electrical Contractor (6 products from $395.00); Residential Electrical Contractor (6 products from $295.00); Business and Law (4 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (7 products from $199.99); Master Electrical Contractor (6 products from $395.00); Residential Electrical Contractor (6 products from $295.00); Business and Law (5 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 23 Mississippi products for 4 exams, from $19.95 to $4,694.00.
+- 24 Mississippi products for 4 exams, from $24.95 to $4,694.00.
 - Mississippi accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -54,7 +54,7 @@ See Master Electrical packages →](https://passyournasclaexam.com/mississippi/m
 ### Mississippi Residential Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA residential electrical exam.
-See Residential Electrical packages →](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) · [4 PRODUCTS · FROM $19.95
+See Residential Electrical packages →](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) · [5 PRODUCTS · FROM $24.95
 
 ### Mississippi Business and Law
 
@@ -207,7 +207,7 @@ Yes. Mississippi allows multiple qualifying parties, so one person can pass the 
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Mississippi State Board of Contractors: Home](https://www.msboc.us/)
 2. [Mississippi State Board of Contractors: Testing](https://www.msboc.us/general-info/testing/)
@@ -239,7 +239,7 @@ Facts on this page come from these official sources, checked October 19, 2026. R
 - [Commercial General Building Contractor](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/) from $199.99
 - [Master Electrical Contractor](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) from $395.00
 - [Residential Electrical Contractor](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) from $295.00
-- [Business and Law](https://passyournasclaexam.com/mississippi/business-and-law/) from $19.95
+- [Business and Law](https://passyournasclaexam.com/mississippi/business-and-law/) from $24.95
 
 Shop Mississippi
 
@@ -342,7 +342,7 @@ $2,465.00 (was $2,665.00) Save 8%
 
 ### Mississippi Business and Law packages
 
-[All 4 products →](https://passyournasclaexam.com/mississippi/business-and-law/)
+[All 5 products →](https://passyournasclaexam.com/mississippi/business-and-law/)
 
 Mississippi · Business & Law
 
@@ -350,26 +350,26 @@ Mississippi · Business & Law
 
 Mississippi NASCLA Contractors Guide to Business, Law and Project Management, Mississippi 6th Edition – Pre-Printed Tabs The *Mississippi NASCLA Contractors Guide to Business, Law…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/2698587144218:1) · [Details](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-tabs-6th-ed/)
 
 Mississippi · Business & Law
 
 ### [Business & Law Guide (6th Ed.)](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-6th-ed/)
 
-The *Mississippi NASCLA Contractors Guide to Business, Law and Project Management, 6th Edition* available from Pass Your NASCLA Exam Prep is the official reference…
+Prepare for the Mississippi contractor licensing examination with the . This essential reference manual provides business, law, financial management, and construction project management information…
 
-$124.99 (was $137.25) Save 9%
-[Buy now](https://1examprep.com/cart/36985642090553:1) · [Details](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-6th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50935418060857:1) · [Details](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-6th-ed/)
 
 Mississippi · Business & Law
 
 ### [Business & Law Guide + Tabs (6th Ed.)](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-plus-tabs-6th-ed/)
 
-Mississippi NASCLA Contractors Guide to Business, Law and Project Management, 6th Edition – Tabs Bundle Pak This Tabs Bundle Pak edition of the “Mississippi…
+Prepare for your Mississippi contractor licensing examination with the . This convenient study package includes the Mississippi-specific NASCLA reference book and matching permanent-adhesive chapter…
 
-$134.99 (was $148.35) Save 9% options to $174.99
-[Buy now](https://1examprep.com/cart/45892348805177:1) · [Details](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-plus-tabs-6th-ed/)
+$149.99 (was $199.99) Save 25% options to $309.99
+[Buy now](https://1examprep.com/cart/50935418191929:1) · [Details](https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-plus-tabs-6th-ed/)
 
 Mississippi licensing
 

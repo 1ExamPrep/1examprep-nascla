@@ -1,13 +1,13 @@
 ---
 title: Oregon NASCLA Exam: CCB License and Exam Prep Guide
 url: https://passyournasclaexam.com/oregon/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Oregon CCB accepts the NASCLA commercial exam in place of 16 hours of pre-license training. See the steps, Oregon law exam, bonds, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Oregon
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Oregon NASCLA Exam: How It Fits Your CCB License, and How to Prepare
 
@@ -25,7 +25,7 @@ Yes. Oregon accepts the NASCLA Accredited Examination for Commercial General Bui
 
 ### Which NASCLA exams can I prepare for in Oregon?
 
-Commercial General Building Contractor (6 products from $395.00); Business and Law (4 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (6 products from $395.00); Business and Law (5 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 10 Oregon products for 2 exams, from $19.95 to $4,624.00.
+- 11 Oregon products for 2 exams, from $24.95 to $4,624.00.
 - Oregon accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -44,7 +44,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 ### Oregon Commercial General Building Contractor
 
 Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
-See Commercial GC packages →](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) · [4 PRODUCTS · FROM $19.95
+See Commercial GC packages →](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) · [5 PRODUCTS · FROM $24.95
 
 ### Oregon Business and Law
 
@@ -201,7 +201,7 @@ Level 2 commercial contractors need 32 hours every two years. Level 1 needs betw
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Oregon Construction Contractors Board: CCB License](https://www.oregon.gov/ccb/Pages/CCB%20License.aspx)
 2. [Oregon Construction Contractors Board: Pre-License Training Providers](https://www.oregon.gov/ccb/Pages/education-prelicenseproviders.aspx)
@@ -228,7 +228,7 @@ Facts on this page come from these official sources, checked October 19, 2026. R
 ### Oregon exam prep
 
 - [Commercial General Building Contractor](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) from $395.00
-- [Business and Law](https://passyournasclaexam.com/oregon/business-and-law/) from $19.95
+- [Business and Law](https://passyournasclaexam.com/oregon/business-and-law/) from $24.95
 
 Shop Oregon
 
@@ -269,7 +269,7 @@ $2,949.00 (was $3,250.00) Save 9% options to $3,414.00
 
 ### Oregon Business and Law packages
 
-[All 4 products →](https://passyournasclaexam.com/oregon/business-and-law/)
+[All 5 products →](https://passyournasclaexam.com/oregon/business-and-law/)
 
 Oregon · Business & Law
 
@@ -277,26 +277,26 @@ Oregon · Business & Law
 
 The Oregon NASCLA Contractors Guide to Business, Law and Project Management, 2nd Edition—published by the National Association of State Contractors Licensing Agencies (NASCLA)—is the…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/31751987757113:1) · [Details](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-tabs-2nd-ed/)
 
 Oregon · Business & Law
 
 ### [Business & Law Guide (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-2nd-ed/)
 
-The Oregon NASCLA Contractors Guide to Business, Law and Project Management, Oregon Construction Contractors 2nd Edition is an official NASCLA publication approved by the…
+Prepare for the Oregon contractor licensing examination with the . This comprehensive reference manual covers the business, legal, and project management knowledge contractors need…
 
-$124.99 (was $138.25) Save 10%
-[Buy now](https://1examprep.com/cart/31751980449849:1) · [Details](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-2nd-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50946125824057:1) · [Details](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-2nd-ed/)
 
 Oregon · Business & Law
 
 ### [Business & Law Guide + Tabs (2nd Ed.)](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/)
 
-Oregon NASCLA Contractors Guide to Business, Law and Project Management, OR Construction Contractors, 2nd Edition – Tabs Bundle Pak The *Oregon NASCLA Contractors Guide…
+Prepare for your Oregon contractor licensing examination with the . This convenient study package combines the official Oregon NASCLA reference manual with matching quick-reference…
 
-$134.99 (was $148.35) Save 9% options to $174.99
-[Buy now](https://1examprep.com/cart/45892350771257:1) · [Details](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/)
+$149.99 (was $199.99) Save 25% options to $309.99
+[Buy now](https://1examprep.com/cart/50946133655609:1) · [Details](https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/)
 
 Oregon licensing
 

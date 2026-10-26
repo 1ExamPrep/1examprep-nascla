@@ -1,13 +1,13 @@
 ---
 title: Nebraska Online Exam Prep Course | NASCLA Journeyman
 url: https://passyournasclaexam.com/nebraska/journeyman-electrician/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Nebraska NASCLA Journeyman Electrician examination with an online exam prep course focused on the electrical theory, National Electrical Code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Journeyman Electrician](https://passyournasclaexam.com/nebraska/journeyman-electrician/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Journeyman](https://passyournasclaexam.com/nebraska/journeyman-electrician/)
 

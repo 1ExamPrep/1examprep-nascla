@@ -1,13 +1,13 @@
 ---
 title: Maryland MHIC Exam: Contractor and Salesperson Guide
 url: https://passyournasclaexam.com/maryland/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Pass the Maryland MHIC exam. Contractor and salesperson exam format, NASCLA reference books, fees, licensing steps and the tabbed study guides that fit you.
 ---
 
 [Home](https://passyournasclaexam.com/) Maryland
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Maryland MHIC Exam: How to Get Your Home Improvement License
 
@@ -25,7 +25,7 @@ Maryland is not on NASCLA's list for the commercial building exam. The prep here
 
 ### Which NASCLA exams can I prepare for in Maryland?
 
-Business and Law (7 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Business and Law (7 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I schedule my Maryland exam?
 
@@ -33,12 +33,12 @@ Through the Maryland licensing board and its testing vendor, not through NASCLA'
 
 ## Key takeaways
 
-- 7 Maryland products for 1 exam, from $19.95 to $219.99.
+- 7 Maryland products for 1 exam, from $24.95 to $309.99.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
 ## Choose your Maryland exam
 
-[7 PRODUCTS · FROM $19.95
+[7 PRODUCTS · FROM $24.95
 
 ### Maryland Business and Law
 
@@ -187,7 +187,7 @@ A Maryland home improvement license runs for two years from the date the origina
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Maryland Department of Labor: Maryland Home Improvement Commission](https://labor.maryland.gov/license/mhic/)
 2. [Maryland Department of Labor: MHIC Examination Information](https://labor.maryland.gov/license/mhic/mhicexam.shtml)
@@ -213,7 +213,7 @@ Facts on this page come from these official sources, checked October 19, 2026. R
 
 ### Maryland exam prep
 
-- [Business and Law](https://passyournasclaexam.com/maryland/business-and-law/) from $19.95
+- [Business and Law](https://passyournasclaexam.com/maryland/business-and-law/) from $24.95
 
 Shop Maryland
 
@@ -231,7 +231,7 @@ Maryland · Business & Law
 
 The Maryland NASCLA Contractors Guide to Business, Law and Project Management, Maryland Home Improvement Commission, 6th Edition by NASCLA and Pass Your NASCLA Exam…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/41175833935929:1) · [Details](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-tabs-7th-ed/)
 
 Maryland · Business & Law
@@ -240,17 +240,17 @@ Maryland · Business & Law
 
 The Maryland NASCLA Home Improvement Salesperson Reference Guide, Maryland Home Improvement Commission 6th Edition; Pre-Printed Tabs from Pass Your NASCLA Exam Prep provides durable,…
 
-$19.95 (was $25.00) Save 20%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/41275516125241:1) · [Details](https://passyournasclaexam.com/maryland/business-and-law/home-improvement-reference-guide-tabs-6th-ed/)
 
 Maryland · Business & Law
 
-### [Home Improvement Reference Guide (6th Ed.)](https://passyournasclaexam.com/maryland/business-and-law/home-improvement-reference-guide-6th-ed/)
+### [Business & Law Guide (7th Ed.)](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-7th-ed/)
 
-The Maryland NASCLA Home Improvement Salesperson Reference Guide, 6th Edition, published under the Maryland Home Improvement Commission (MHIC) and distributed through Pass Your NASCLA…
+Prepare for the Maryland Home Improvement Contractor (MHIC) licensing exam with the NASCLA Contractor's Guide to Business, Law and Project Management, Maryland Home Improvement…
 
-$124.99 (was $137.25) Save 9% options to $174.99
-[Buy now](https://1examprep.com/cart/46467696918585:1) · [Details](https://passyournasclaexam.com/maryland/business-and-law/home-improvement-reference-guide-6th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50935152476217:1) · [Details](https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-7th-ed/)
 
 Maryland licensing
 

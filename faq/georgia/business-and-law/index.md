@@ -1,19 +1,19 @@
 ---
 title: Georgia NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/georgia/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: 38 answers about the Georgia business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
+description: 35 answers about the Georgia business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Georgia Business & Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Georgia Business and Law exam: frequently asked questions
 
-38 answers about the Georgia business and law exam and license, compiled from our product descriptions for this exam.
+35 answers about the Georgia business and law exam and license, compiled from our product descriptions for this exam.
 
-The exam 20Licensing 8More questions 10
+The exam 18Licensing 9More questions 8
 
 ## The exam
 
@@ -53,9 +53,17 @@ The minimum passing score is 70%, or 35 correct answers .
 
 PSI Services administers the examination.
 
+### Which contractor trades is this edition designed for?
+
+The publication is identified for plumbing, conditioned air, low voltage, electrical, and utility contractors.
+
+### Are Georgia Construction Industry Licensing Board examinations open book?
+
+Examination formats vary by trade and classification. Applicable Georgia conditioned air examinations are open book, while plumbing examination reference materials have been subject to different restrictions.
+
 ### Is this the correct reference for the Georgia Business and Law Examination?
 
-Yes. The Georgia NASCLA Contractor's Guide, 3rd Edition, is an authorized reference for the examination administered by PSI Services.
+Yes. The Georgia NASCLA Contractor's Guide, 3rd Edition, is an authorized reference for the Georgia Business and Law Examination administered by PSI Services.
 
 ### How many questions are on the examination?
 
@@ -69,29 +77,13 @@ PSI permits compliant permanent reference tabs, but the testing facility proctor
 
 Permanent reference tabs are permitted under applicable examination rules, but acceptance depends on the examination and testing facility proctor.
 
-### Are Georgia Construction Industry Licensing Board examinations open book?
+### Why choose the highlighted and tabbed Georgia NASCLA edition?
 
-Several applicable examinations permit authorized references, including conditioned air and utility manager examinations. Reference-use rules vary by trade and classification.
+Professional highlighting emphasizes important material, while permanent reference tabs help readers locate chapters and organize their examination preparation. Prepare for applicable Georgia plumbing, conditioned air, low voltage, electrical, and utility contractor examinations with the Georgia NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, Georgia Construction Industry Licensing Board, 5th Edition, from 1 Exam Prep. All products and company names are trademarks™ or registered ® trademarks and/or copyrights of their respective holders. Use of them does not imply any affiliation with or endorsement by the respective holders.
 
-### Is highlighting allowed in the exam reference?
+### Which contractor trades is this edition intended for?
 
-Yes. PSI states reference material may be highlighted, underlined, and/or indexed, but it must be otherwise unmarked (not written in) and may not contain additional papers (loose or attached).
-
-### What reference book is allowed in the exam room for Georgia Business & Law?
-
-PSI lists the Georgia-NASCLA Contractors Guide to Business, Law and Project Management, Georgia State Licensing Board for Residential and General Contractors (3rd Edition) as the reference allowed in the examination center for the Georgia Business & Law exam.
-
-### What score do I need to pass the Georgia Business & Law exam?
-
-PSI states the minimum passing score is 70% (35 correct).
-
-### Are Georgia plumbing exams open book?
-
-Georgia’s official plumbing exam suggested reference list states the Journeyman Plumber exam is open-book format. The same document states that for all other plumbing exams , the reference materials may not be used during the examination.
-
-### What edition is this?
-
-This product is the Georgia Construction Industry Licensing Board 5th Edition of the NASCLA Contractors Guide to Business, Law and Project Management.
+The publication is identified for plumbing, conditioned air, low voltage, electrical, and utility contractors.
 
 ### Which licensing board is associated with this edition?
 
@@ -119,6 +111,10 @@ Yes. Georgia general contractor applicants must also satisfy the Business and La
 
 The guide provides an authorized Georgia Business and Law examination reference with organized information about contractor licensing, business management, financial responsibilities, and construction project administration. Prepare for the Georgia Residential and General Contractor Business and Law Examination with the Georgia Residential & General Contractors NASCLA Contractor's Guide to Business, Law and Project Management, 3rd Edition, from 1 Exam Prep. All products and company names are trademarks™ or registered ® trademarks and/or copyrights of their respective holders. Use of them does not imply any affiliation with or endorsement by the respective holders.
 
+### Which licensing board is associated with this publication?
+
+The Georgia Construction Industry Licensing Board is associated with this edition.
+
 ### Which agency oversees Georgia contractor licensing?
 
 The Georgia State Licensing Board for Residential and General Contractors oversees the applicable residential and general contractor licensing programs.
@@ -127,9 +123,9 @@ The Georgia State Licensing Board for Residential and General Contractors overse
 
 The edition is identified for plumbing, conditioned air, low voltage, electrical, and utility contractors.
 
-### What is the Georgia Business & Law exam fee?
+### What is the Georgia NASCLA Highlighted & Tabbed Contractor's Guide?
 
-PSI’s bulletin lists the Business & Law exam fee as $60.
+It is the NASCLA Contractor's Guide to Business, Law and Project Management, Georgia State Licensing Board for Residential and General Contractors, 3rd Edition, with professional highlighting and permanent reference tabs.
 
 ## More questions
 
@@ -137,25 +133,17 @@ PSI’s bulletin lists the Business & Law exam fee as $60.
 
 Some Georgia contractor license classifications require a trade exam in addition to Business & Law. Your exact requirement depends on the license type and application path you select.
 
-### How long is my exam approval valid in Georgia?
+### How long is my exam approval valid?
 
-PSI states you are eligible to take the examination(s) for 1 year from the date of your exam approval letter, and you must pass both the Business & Law and any required trade exam within that eligibility period.
+PSI states you are eligible to take the examination(s) for 1 year from the date of your exam approval letter. If you do not pass within the eligibility period, you must reapply with the Board.
 
 ### Are pre-printed tabs allowed in the exam room?
 
 Georgia reference lists for these trade exams state that references may be highlighted, underlined, or tabbed with permanent tabs . Keep tabs permanent and avoid adding any extra materials that are not permitted.
 
-### Are tabs and highlighting allowed?
-
-Georgia reference lists for several divisions include a candidate notice stating that references may be highlighted, underlined, or tabbed with permanent tabs and warn against bringing photocopied materials or handwritten notes (even if pasted into a book). Always follow the current notice and reference list for your exact exam.
-
 ### What is the ISBN?
 
 The ISBN-13 is 9781934234440 .
-
-### What does “Highlighted & Tabbed” mean?
-
-It means the book is prepared to support faster navigation with highlighting and tabbing so you can locate key sections more quickly while studying and during testing when your exam permits references.
 
 ### Can flash cards be taken into the examination room?
 
@@ -195,7 +183,7 @@ No. The flash cards are supplemental study materials, not authorized examination
 
 ### Questions
 
-- [Georgia Business & Law FAQ (38 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
+- [Georgia Business & Law FAQ (35 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: NASCLA Online Exam Prep Course | NASCLA Master Electrical
 url: https://passyournasclaexam.com/national/master-electrical-contractor/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with an online exam prep course designed for master electricians, unlimited.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical Contractor](https://passyournasclaexam.com/national/master-electrical-contractor/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical](https://passyournasclaexam.com/national/master-electrical-contractor/)
 

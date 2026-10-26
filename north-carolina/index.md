@@ -1,13 +1,13 @@
 ---
 title: North Carolina NASCLA Exam: License and Prep Guide
 url: https://passyournasclaexam.com/north-carolina/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the North Carolina NASCLA exam works for general and electrical contractor licenses, the extra state exams, financial rules, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) North Carolina
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # North Carolina NASCLA Exam: Licensing Rules and Prep
 
@@ -25,7 +25,7 @@ Yes. North Carolina accepts the NASCLA Accredited Examination for Commercial Gen
 
 ### Which NASCLA exams can I prepare for in North Carolina?
 
-Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (7 products from $295.00); Residential Electrical Contractor (6 products from $295.00); Business and Law (6 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (7 products from $295.00); Residential Electrical Contractor (6 products from $295.00); Business and Law (11 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 27 North Carolina products for 4 exams, from $19.95 to $4,799.00.
+- 32 North Carolina products for 4 exams, from $24.95 to $4,799.00.
 - North Carolina accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -54,7 +54,7 @@ See Master Electrical packages →](https://passyournasclaexam.com/north-carolin
 ### North Carolina Residential Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA residential electrical exam.
-See Residential Electrical packages →](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [6 PRODUCTS · FROM $19.95
+See Residential Electrical packages →](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [11 PRODUCTS · FROM $24.95
 
 ### North Carolina Business and Law
 
@@ -207,7 +207,7 @@ Yes. Qualified individuals on Limited, Intermediate, Unlimited and SP-SFD licens
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Participating Agencies (Electrical Exams)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)
@@ -239,7 +239,7 @@ Facts on this page come from these official sources, checked October 19, 2026. R
 - [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) from $199.99
 - [Master Electrical Contractor](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) from $295.00
 - [Residential Electrical Contractor](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) from $295.00
-- [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) from $19.95
+- [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) from $24.95
 
 Shop North Carolina
 
@@ -342,7 +342,7 @@ $2,245.00 (was $2,445.00) Save 8%
 
 ### North Carolina Business and Law packages
 
-[All 6 products →](https://passyournasclaexam.com/north-carolina/business-and-law/)
+[All 11 products →](https://passyournasclaexam.com/north-carolina/business-and-law/)
 
 North Carolina · Business & Law
 
@@ -350,26 +350,26 @@ North Carolina · Business & Law
 
 North Carolina NASCLA Contractor's Guide to Business, Law and Project Management NC General, 10th Edition; Pre-Printed Tabs The North Carolina NASCLA Contractor's Guide to…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/31382919774265:1) · [Details](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-tabs-10th-ed/)
-
-North Carolina · Business & Law
-
-### [Business & Law Guide (13th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-13th-ed/)
-
-The North Carolina NASCLA Contractors Guide to Business, Law and Project Management, Electrical 13th Edition is an official reference manual used for the North…
-
-$124.99 (was $148.35) Save 16%
-[Buy now](https://1examprep.com/cart/19332443668537:1) · [Details](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-13th-ed/)
 
 North Carolina · Business & Law
 
 ### [Business & Law Guide (10th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/)
 
-North Carolina NASCLA Contractor's Guide to Business, Law and Project Management NC General, 10th Edition The North Carolina NASCLA Contractor's Guide to Business, Law…
+Prepare for your North Carolina general contractor licensing examination with the . This comprehensive reference book provides essential information about construction business operations, contractor…
 
-$124.99 (was $138.25) Save 10%
-[Buy now](https://1examprep.com/cart/31381861138489:1) · [Details](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50935419699257:1) · [Details](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/)
+
+North Carolina · Business & Law
+
+### [Business & Law Guide (14th Ed.)](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-14th-ed/)
+
+North Carolina General Contractors NASCLA Contractor's Guide to Business, Law and Project Management, 10th Edition Prepare for your North Carolina general contractor licensing examination…
+
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50935420026937:1) · [Details](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-14th-ed/)
 
 North Carolina licensing
 

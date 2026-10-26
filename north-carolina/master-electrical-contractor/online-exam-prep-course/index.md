@@ -1,13 +1,13 @@
 ---
 title: North Carolina Master Electrical Online Exam Prep Course
 url: https://passyournasclaexam.com/north-carolina/master-electrical-contractor/online-exam-prep-course/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the North Carolina NASCLA Master Electrical Contractor licensing pathway with online exam prep focused on the NASCLA Accredited Trade Examination.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Master Electrical Contractor](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) Online Exam Prep Course
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Master Electrical](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
 

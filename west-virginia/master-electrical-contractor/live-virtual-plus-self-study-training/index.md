@@ -1,13 +1,13 @@
 ---
 title: West Virginia Master Electrical Live + Self-Study Training
 url: https://passyournasclaexam.com/west-virginia/master-electrical-contractor/live-virtual-plus-self-study-training/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a flexible training program that combines live virtual instruction with.
 ---
 
 [Home](https://passyournasclaexam.com/) · [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical Contractor](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/) Live Virtual + Self-Study Training
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/)
 

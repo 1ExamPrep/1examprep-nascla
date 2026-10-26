@@ -1,13 +1,13 @@
 ---
 title: Mississippi Master Electrical The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/mississippi/master-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Electrical Contractor examination and the Mississippi contractor licensing process with one comprehensive exam-preparation.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Master Electrical Contractor](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Master Electrical](https://passyournasclaexam.com/mississippi/master-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: West Virginia Master Electrical Ultimate Rental Package
 url: https://passyournasclaexam.com/west-virginia/master-electrical-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the West Virginia contractor licensing process with an all-in-one exam.
 ---
 
 [Home](https://passyournasclaexam.com/) · [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical Contractor](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: South Carolina Commercial GC Books & Courses Rental Package
 url: https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the South Carolina NASCLA Commercial General Building Contractor exam with a comprehensive book rental package that brings together the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial GC](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/)
 

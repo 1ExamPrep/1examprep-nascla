@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Exam: Licensing and Prep Guide
 url: https://passyournasclaexam.com/new-mexico/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the New Mexico NASCLA exam fits CID licensing for GB-98 and EE-98, plus the Business and Law exam, bond, fees and the prep packages that match each path.
 ---
 
 [Home](https://passyournasclaexam.com/) New Mexico
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico NASCLA Exam: How to Get Licensed and Prepare
 
@@ -25,7 +25,7 @@ Yes. New Mexico accepts the NASCLA Accredited Examination for Commercial General
 
 ### Which NASCLA exams can I prepare for in New Mexico?
 
-Commercial General Building Contractor (6 products from $395.00); Master Electrical Contractor (7 products from $295.00); Journeyman Electrician (5 products from $295.00); Residential Electrical Contractor (6 products from $295.00). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (6 products from $395.00); Master Electrical Contractor (7 products from $295.00); Journeyman Electrician (5 products from $295.00); Residential Electrical Contractor (6 products from $295.00); Business and Law (4 products from $124.99). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 24 New Mexico products for 4 exams, from $295.00 to $5,159.00.
+- 28 New Mexico products for 5 exams, from $124.99 to $5,159.00.
 - New Mexico accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -59,7 +59,12 @@ See Journeyman packages →](https://passyournasclaexam.com/new-mexico/journeyma
 ### New Mexico Residential Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA residential electrical exam.
-See Residential Electrical packages →](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
+See Residential Electrical packages →](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/) · [4 PRODUCTS · FROM $124.99
+
+### New Mexico Business and Law
+
+The state edition of NASCLA's business and law guide, on its own, with tabs, or highlighted and tabbed.
+See Business & Law packages →](https://passyournasclaexam.com/new-mexico/business-and-law/)
 
 ## Does New Mexico accept the NASCLA exam?
 
@@ -211,7 +216,7 @@ For journeymen, only EE-98J is reciprocal, with ten listed states including Texa
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Participating Agencies (Electrical Exams)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)
@@ -244,6 +249,7 @@ Facts on this page come from these official sources, checked October 19, 2026. R
 - [Master Electrical Contractor](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) from $295.00
 - [Journeyman Electrician](https://passyournasclaexam.com/new-mexico/journeyman-electrician/) from $295.00
 - [Residential Electrical Contractor](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/) from $295.00
+- [Business and Law](https://passyournasclaexam.com/new-mexico/business-and-law/) from $124.99
 
 Shop New Mexico
 
@@ -374,6 +380,37 @@ Prepare for the New Mexico NASCLA Residential Electrical Contractor examination 
 
 $2,540.00 (was $2,740.00) Save 7%
 [Buy now](https://1examprep.com/cart/46447883845689:1) · [Details](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/highlighted-and-tabbed-book-package/)
+
+### New Mexico Business and Law packages
+
+[All 4 products →](https://passyournasclaexam.com/new-mexico/business-and-law/)
+
+New Mexico · Business & Law
+
+### [Business & Law Guide (14th Ed.)](https://passyournasclaexam.com/new-mexico/business-and-law/business-and-law-guide-14th-ed/)
+
+New Mexico NASCLA Contractor's Guide to Business, Law and Project Management, Basic 14th Edition Prepare for the New Mexico contractor licensing examination with the…
+
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50945306886201:1) · [Details](https://passyournasclaexam.com/new-mexico/business-and-law/business-and-law-guide-14th-ed/)
+
+New Mexico · Business & Law
+
+### [Business & Law Guide + Tabs (14th Ed.)](https://passyournasclaexam.com/new-mexico/business-and-law/business-and-law-guide-plus-tabs-14th-ed/)
+
+New Mexico NASCLA Contractor's Guide to Business, Law and Project Management, Basic 14th Edition + Tabs Bundle Prepare for your New Mexico contractor licensing…
+
+$149.99 (was $199.99) Save 25% options to $309.99
+[Buy now](https://1examprep.com/cart/50945307213881:1) · [Details](https://passyournasclaexam.com/new-mexico/business-and-law/business-and-law-guide-plus-tabs-14th-ed/)
+
+New Mexico · Business & Law
+
+### [Business & Law Guide Highlighted & Tabbed (14th Ed.)](https://passyournasclaexam.com/new-mexico/business-and-law/business-and-law-guide-highlighted-and-tabbed-14th-ed/)
+
+New Mexico NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, Basic 14th Edition Prepare for your New Mexico contractor licensing…
+
+$264.99 (was $325.00) Save 18% options to $459.99
+[Buy now](https://1examprep.com/cart/50945330511929:1) · [Details](https://passyournasclaexam.com/new-mexico/business-and-law/business-and-law-guide-highlighted-and-tabbed-14th-ed/)
 
 New Mexico licensing
 

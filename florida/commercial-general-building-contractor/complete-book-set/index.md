@@ -1,13 +1,13 @@
 ---
 title: Florida Complete Book Set | NASCLA Commercial GC
 url: https://passyournasclaexam.com/florida/commercial-general-building-contractor/complete-book-set/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors and the Florida Business and Finance examination with a complete.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Commercial General Building Contractor](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) Complete Book Set
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Commercial GC](https://passyournasclaexam.com/florida/commercial-general-building-contractor/)
 

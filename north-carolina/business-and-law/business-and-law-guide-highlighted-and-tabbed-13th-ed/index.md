@@ -1,19 +1,19 @@
 ---
 title: North Carolina B&L Guide H&T (13th Ed.)
 url: https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-highlighted-and-tabbed-13th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The , available from Pass Your NASCLA Exam Prep, is the officially approved reference manual for the North Carolina Electrical Contractor licensing.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) Business & Law Guide Highlighted & Tabbed (13th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business & Law](https://passyournasclaexam.com/north-carolina/business-and-law/)
 
 # North Carolina NASCLA Contractors Guide to Business, Law and Project Management, NC Electrical 13th Edition; Highlighted & Tabbed
 
-$219.99 (was $244.50) Save 10%Choose an option[Buy now](https://1examprep.com/cart/45892350050361:1)
+$264.99 (was $325.00) Save 18%Choose an option[Buy now](https://1examprep.com/cart/45892350050361:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,7 @@ $219.99 (was $244.50) Save 10%Choose an option[Buy now](https://1examprep.com/ca
 
 ## Key takeaways
 
-- North Carolina Business and Law, Business & Law Guide Highlighted & Tabbed (13th Ed.): $219.99, down from $244.50.
+- North Carolina Business and Law, Business & Law Guide Highlighted & Tabbed (13th Ed.): $264.99, down from $325.00.
 - 2 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
@@ -61,7 +61,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other North Carolina Business & Law options
-[Business & Law Guide Tabs (10th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-tabs-10th-ed/) · [Business & Law Guide (13th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-13th-ed/) · [Business & Law Guide (10th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/) · [Business & Law Guide + Tabs (10th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-plus-tabs-10th-ed/) · [Business & Law Guide Highlighted & Tabbed (10th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-highlighted-and-tabbed-10th-ed/)
+[Business & Law Guide Tabs (10th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-tabs-10th-ed/) · [Business & Law Guide (10th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/) · [Business & Law Guide (14th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-14th-ed/) · [Business & Law Guide (13th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-13th-ed/) · [Business & Law Guide + Tabs (10th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-plus-tabs-10th-ed/) · [Business & Law Guide + Tabs (14th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-plus-tabs-14th-ed/)
 
 ### Other North Carolina exams
 
@@ -80,6 +80,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Hawaii](https://passyournasclaexam.com/hawaii/business-and-law/)
 - [Louisiana](https://passyournasclaexam.com/louisiana/business-and-law/)
 - [All states for this exam](https://passyournasclaexam.com/business-and-law/)
+
+### Questions
+
+- [North Carolina Business & Law FAQ (13 answers)](https://passyournasclaexam.com/faq/north-carolina/business-and-law/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

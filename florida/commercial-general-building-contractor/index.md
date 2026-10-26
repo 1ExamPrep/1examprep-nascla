@@ -1,19 +1,19 @@
 ---
 title: Florida NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/florida/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Florida commercial general building contractor exam prep: 6 products from $395.00 to $5,456.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Florida Commercial General Building Contractor Exam Prep
 
 NASCLA Commercial General Building Contractor exam prep for Florida. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 6](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/florida/residential-electrical-contractor/) · [Business & Law 6](https://passyournasclaexam.com/florida/business-and-law/)
+[Commercial GC 6](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/florida/residential-electrical-contractor/) · [Business & Law 7](https://passyournasclaexam.com/florida/business-and-law/)
 
 ## Quick answers
 

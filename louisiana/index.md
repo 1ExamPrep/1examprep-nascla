@@ -1,13 +1,13 @@
 ---
 title: Louisiana NASCLA Exam: Contractor License Guide
 url: https://passyournasclaexam.com/louisiana/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the Louisiana NASCLA exam works with the LSLBC: building and electrical credit, Business and Law, net worth, transcripts, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Louisiana
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana NASCLA Exam Guide for Commercial and Electrical Contractors
 
@@ -25,7 +25,7 @@ Yes. Louisiana accepts the NASCLA Accredited Examination for Commercial General 
 
 ### Which NASCLA exams can I prepare for in Louisiana?
 
-Commercial General Building Contractor (9 products from $124.99); Master Electrical Contractor (7 products from $295.00); Business and Law (9 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (9 products from $124.99); Master Electrical Contractor (7 products from $295.00); Business and Law (9 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 25 Louisiana products for 3 exams, from $19.95 to $4,269.00.
+- 25 Louisiana products for 3 exams, from $24.95 to $4,269.00.
 - Louisiana accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -49,7 +49,7 @@ See Commercial GC packages →](https://passyournasclaexam.com/louisiana/commerc
 ### Louisiana Master Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.
-See Master Electrical packages →](https://passyournasclaexam.com/louisiana/master-electrical-contractor/) · [9 PRODUCTS · FROM $19.95
+See Master Electrical packages →](https://passyournasclaexam.com/louisiana/master-electrical-contractor/) · [9 PRODUCTS · FROM $24.95
 
 ### Louisiana Business and Law
 
@@ -191,7 +191,7 @@ The State Plumbing Board lists the NASCLA Louisiana Master Plumbers and Master N
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [LSLBC: NASCLA exam credit](https://lslbc.louisiana.gov/?p=6355)
 2. [LSLBC: Commercial License](https://lslbc.louisiana.gov/?p=2445)
@@ -222,7 +222,7 @@ Facts on this page come from these official sources, checked October 19, 2026. R
 
 - [Commercial General Building Contractor](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/) from $124.99
 - [Master Electrical Contractor](https://passyournasclaexam.com/louisiana/master-electrical-contractor/) from $295.00
-- [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) from $19.95
+- [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) from $24.95
 
 Shop Louisiana
 
@@ -302,17 +302,8 @@ Louisiana · Business & Law
 
 The NASCLA Contractors Guide to Business, Law and Project Management, Louisiana General Contractors 12th Edition, is published under the authority of the Louisiana State…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/31694812250169:1) · [Details](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-tabs-12th-ed/)
-
-Louisiana · Business & Law
-
-### [Business & Law Guide (2nd Ed.)](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/)
-
-The Louisiana Master Plumbers NASCLA Contractors Guide to Business, Law and Project Management, published by the National Association of State Contractors Licensing Agencies (NASCLA),…
-
-$124.99 (was $137.25) Save 9%
-[Buy now](https://1examprep.com/cart/32228313677:1) · [Details](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/)
 
 Louisiana · Business & Law
 
@@ -320,8 +311,17 @@ Louisiana · Business & Law
 
 Build your understanding of Louisiana contractor business responsibilities with the NASCLA Contractor's Guide to Business, Law and Project Management, Louisiana General Contractors, 12th Edition…
 
-$124.99 (was $174.99) Save 29%
-[Buy now](https://1examprep.com/cart/50820129882169:1) · [Details](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50933854470201:1) · [Details](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/)
+
+Louisiana · Business & Law
+
+### [Business & Law Guide (2nd Ed.)](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/)
+
+Prepare for the Louisiana Master Plumber and Master Natural Gas Fitter licensing examinations with the from 1 Exam Prep. This Louisiana-specific reference book covers…
+
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50934887743545:1) · [Details](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/)
 
 Louisiana licensing
 

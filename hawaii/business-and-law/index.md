@@ -1,13 +1,13 @@
 ---
 title: Hawaii NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/hawaii/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: Hawaii business and law exam prep: 4 products from $124.99 to $264.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Hawaii business and law exam prep: 4 products from $124.99 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Hawaii](https://passyournasclaexam.com/hawaii/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Hawaii Business and Law Exam Prep
 
@@ -19,7 +19,7 @@ Contractor's Guide to Business, Law and Project Management for Hawaii. Choose ho
 
 ### How much does Hawaii business and law exam prep cost?
 
-Hawaii business and law prep runs from $124.99 to $264.99 across 4 products: Business & Law Guide (1st Ed.) $124.99; Business & Law Guide + Tabs (1st Ed.) $149.99; Business & Law Guide Highlighted & Tabbed (1st Ed.) $219.99; Business & Law Guide Highlighted & Tabbed + Flash Cards (1st Ed.) $264.99.
+Hawaii business and law prep runs from $124.99 to $309.99 across 4 products: Business & Law Guide (1st Ed.) $124.99; Business & Law Guide + Tabs (1st Ed.) $149.99; Business & Law Guide Highlighted & Tabbed (1st Ed.) $264.99; Business & Law Guide Highlighted & Tabbed + Flash Cards (1st Ed.) $309.99.
 
 ### Which book is the Hawaii business and law exam based on?
 
@@ -27,20 +27,20 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 ## Key takeaways
 
-- 4 Hawaii business and law products, from $124.99 to $264.99.
+- 4 Hawaii business and law products, from $124.99 to $309.99.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
 ## Books and tabs
 
 4 items
 
-[Business & Law Guide (1st Ed.)](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-1st-ed/) Hawaii · Business & Law $124.99[Buy now](https://1examprep.com/cart/50820049141817:1)
+[Business & Law Guide (1st Ed.)](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-1st-ed/) Hawaii · Business & Law $124.99[Buy now](https://1examprep.com/cart/50932950073401:1)
 
-[Business & Law Guide + Tabs (1st Ed.)](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-plus-tabs-1st-ed/) Hawaii · Business & Law $149.99[Buy now](https://1examprep.com/cart/50820060807225:1)
+[Business & Law Guide + Tabs (1st Ed.)](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-plus-tabs-1st-ed/) Hawaii · Business & Law $149.99[Buy now](https://1examprep.com/cart/50933221687353:1)
 
-[Business & Law Guide Highlighted & Tabbed (1st Ed.)](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-highlighted-and-tabbed-1st-ed/) Hawaii · Business & Law $219.99[Buy now](https://1examprep.com/cart/50820087611449:1)
+[Business & Law Guide Highlighted & Tabbed (1st Ed.)](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-highlighted-and-tabbed-1st-ed/) Hawaii · Business & Law $264.99[Buy now](https://1examprep.com/cart/50933335064633:1)
 
-[Business & Law Guide Highlighted & Tabbed + Flash Cards (1st Ed.)](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-1st-ed/) Hawaii · Business & Law $264.99[Buy now](https://1examprep.com/cart/50820100390969:1)
+[Business & Law Guide Highlighted & Tabbed + Flash Cards (1st Ed.)](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-1st-ed/) Hawaii · Business & Law $309.99[Buy now](https://1examprep.com/cart/50933399224377:1)
 
 ## Hawaii Business & Law questions
 

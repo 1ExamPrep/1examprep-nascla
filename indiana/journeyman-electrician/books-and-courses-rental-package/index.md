@@ -1,13 +1,13 @@
 ---
 title: Indiana Books & Courses Rental Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/indiana/journeyman-electrician/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Vanderburgh County, Indiana NASCLA Journeyman Electrician examination with a structured combination of online exam preparation and a complete.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) · [Journeyman Electrician](https://passyournasclaexam.com/indiana/journeyman-electrician/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Indiana](https://passyournasclaexam.com/indiana/) · [Journeyman](https://passyournasclaexam.com/indiana/journeyman-electrician/)
 

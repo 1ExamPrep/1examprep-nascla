@@ -1,19 +1,19 @@
 ---
 title: Arizona Business & Law Guide Highlighted & Tabbed (7th Ed.)
 url: https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-highlighted-and-tabbed-7th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The , available from Pass Your NASCLA Exam Prep, is the officially recognized reference manual for contractor licensing examinations administered by PSI on.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Business and Law](https://passyournasclaexam.com/arizona/business-and-law/) Business & Law Guide Highlighted & Tabbed (7th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Business & Law](https://passyournasclaexam.com/arizona/business-and-law/)
 
 # Arizona NASCLA Contractors Guide to Business, Law and Project Management, Arizona 7th Edition; Highlighted & Tabbed
 
-$219.99 (was $244.50) Save 10%[Buy now](https://1examprep.com/cart/7293200760889:1)
+$264.99 (was $325.00) Save 18%[Buy now](https://1examprep.com/cart/7293200760889:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,7 @@ $219.99 (was $244.50) Save 10%[Buy now](https://1examprep.com/cart/7293200760889
 
 ## Key takeaways
 
-- Arizona Business and Law, Business & Law Guide Highlighted & Tabbed (7th Ed.): $219.99, down from $244.50.
+- Arizona Business and Law, Business & Law Guide Highlighted & Tabbed (7th Ed.): $264.99, down from $325.00.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -64,7 +64,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Arizona Business & Law options
-[Business & Law Guide Tabs (7th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-tabs-7th-ed/) · [Business & Law Guide (7th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-7th-ed/) · [Business & Law Guide + Tabs (7th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-plus-tabs-7th-ed/)
+[Business & Law Guide Tabs (7th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-tabs-7th-ed/) · [Business & Law Guide (7th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-7th-ed/) · [Business & Law Guide + Tabs (7th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-plus-tabs-7th-ed/)
 
 ### Other Arizona exams
 

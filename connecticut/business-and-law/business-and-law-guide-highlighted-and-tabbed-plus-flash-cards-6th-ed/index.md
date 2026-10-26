@@ -1,19 +1,19 @@
 ---
 title: Connecticut B&L Guide H&T + Flash Cards (6th Ed.)
 url: https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-6th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Connecticut Business and Law Contractor Examination with the from 1 Exam Prep. This comprehensive study bundle combines the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Connecticut](https://passyournasclaexam.com/connecticut/) · [Business and Law](https://passyournasclaexam.com/connecticut/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (6th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Connecticut](https://passyournasclaexam.com/connecticut/) · [Business & Law](https://passyournasclaexam.com/connecticut/business-and-law/)
 
 # Connecticut NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, 6th Edition + Flash Cards Bundle
 
-$264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/50819074228281:1)
+$309.99 (was $375.00) Save 17%Choose an option[Buy now](https://1examprep.com/cart/50930055184441:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,8 @@ $264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/5081907422828
 
 ## Key takeaways
 
-- Connecticut Business and Law, Business & Law Guide Highlighted & Tabbed + Flash Cards (6th Ed.): $264.99, down from $314.99.
+- Connecticut Business and Law, Business & Law Guide Highlighted & Tabbed + Flash Cards (6th Ed.): $309.99, down from $375.00.
+- 2 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -361,7 +362,7 @@ The Connecticut Department of Consumer Protection is the associated state agency
 PSI Services is the testing provider associated with the Connecticut NASCLA guide.
 
 ### Other Connecticut Business & Law options
-[Business & Law Guide Tabs (6th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-tabs-6th-ed/) · [Business & Law Guide (6th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-6th-ed/) · [Business & Law Guide + Tabs (6th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed/) · [Business & Law Guide + Tabs (6th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed-2/) · [Business & Law Guide Highlighted & Tabbed (6th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed/)
+[Business & Law Guide Tabs (6th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-tabs-6th-ed/) · [Business & Law Guide (6th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-6th-ed/) · [Business & Law Guide + Tabs (6th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed/) · [Business & Law Guide Highlighted & Tabbed (6th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed/) · [Business & Law Guide Highlighted & Tabbed (6th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed-2/)
 
 ### Business & Law in other states
 
@@ -377,7 +378,7 @@ PSI Services is the testing provider associated with the Connecticut NASCLA guid
 
 ### Questions
 
-- [Connecticut Business & Law FAQ (11 answers)](https://passyournasclaexam.com/faq/connecticut/business-and-law/)
+- [Connecticut Business & Law FAQ (23 answers)](https://passyournasclaexam.com/faq/connecticut/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

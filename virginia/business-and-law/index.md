@@ -1,25 +1,25 @@
 ---
 title: Virginia NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/virginia/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: Virginia business and law exam prep: 5 products from $19.95 to $219.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Virginia business and law exam prep: 6 products from $19.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia Business and Law Exam Prep
 
 Contractor's Guide to Business, Law and Project Management for Virginia. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 8](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/virginia/master-electrical-contractor/) · [Journeyman 5](https://passyournasclaexam.com/virginia/journeyman-electrician/) · [Business & Law 5](https://passyournasclaexam.com/virginia/business-and-law/)
+[Commercial GC 8](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/virginia/master-electrical-contractor/) · [Journeyman 5](https://passyournasclaexam.com/virginia/journeyman-electrician/) · [Business & Law 6](https://passyournasclaexam.com/virginia/business-and-law/)
 
 ## Quick answers
 
 ### How much does Virginia business and law exam prep cost?
 
-Virginia business and law prep runs from $19.95 to $219.99 across 5 products: Business & Law Guide Tabs (10th Ed.) $19.95; Business & Law Guide Tabs (11th Ed.) $19.95; Business & Law Guide (11th Ed.) $124.99; Business & Law Guide + Tabs (11th Ed.) $134.99; Business & Law Guide Highlighted & Tabbed (11th Ed.) $219.99.
+Virginia business and law prep runs from $19.95 to $309.99 across 6 products: Business & Law Guide Tabs (10th Ed.) $19.95; Business & Law Guide Tabs (11th Ed.) $24.95; Business & Law Guide (11th Ed.) $124.99; Business & Law Guide + Tabs (11th Ed.) $149.99; Business & Law Guide Highlighted & Tabbed (11th Ed.) $264.99; Business & Law Guide Highlighted & Tabbed + Flash Cards (11th Ed.) $309.99.
 
 ### Which book is the Virginia business and law exam based on?
 
@@ -27,40 +27,52 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 ## Key takeaways
 
-- 5 Virginia business and law products, from $19.95 to $219.99.
+- 6 Virginia business and law products, from $19.95 to $309.99.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
 ## Books and tabs
 
-5 items
+6 items
 
 [Business & Law Guide Tabs (10th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-10th-ed/) Virginia · Business & Law $19.95[Buy now](https://1examprep.com/cart/2699594989594:1)
 
-[Business & Law Guide Tabs (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-11th-ed/) Virginia · Business & Law $19.95[Buy now](https://1examprep.com/cart/45416010186809:1)
+[Business & Law Guide Tabs (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-11th-ed/) Virginia · Business & Law $24.95[Buy now](https://1examprep.com/cart/45416010186809:1)
 
-[Business & Law Guide (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/) Virginia · Business & Law $124.99[Buy now](https://1examprep.com/cart/32226246605:1)
+[Business & Law Guide (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/) Virginia · Business & Law $124.99[Buy now](https://1examprep.com/cart/50946473230393:1)
 
-[Business & Law Guide + Tabs (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-plus-tabs-11th-ed/) Virginia · Business & Law $134.99[Buy now](https://1examprep.com/cart/45892368891961:1)
+[Business & Law Guide + Tabs (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-plus-tabs-11th-ed/) Virginia · Business & Law $149.99[Buy now](https://1examprep.com/cart/50946473754681:1)
 
-[Business & Law Guide Highlighted & Tabbed (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/) Virginia · Business & Law $219.99[Buy now](https://1examprep.com/cart/45892368629817:1)
+[Business & Law Guide Highlighted & Tabbed (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/) Virginia · Business & Law $264.99[Buy now](https://1examprep.com/cart/50946480242745:1)
 
-## Questions
+[Business & Law Guide Highlighted & Tabbed + Flash Cards (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-11th-ed/) Virginia · Business & Law $309.99[Buy now](https://1examprep.com/cart/50946501935161:1)
 
-### Is the NASCLA exam open book?
+## Virginia Business & Law questions
 
-Yes. You bring the approved reference books, so knowing where things are in the books matters as much as knowing the material.
+### What is the Virginia NASCLA Contractor's Guide, 11th Edition?
 
-### Are these the actual exam questions?
+It is the NASCLA Contractors Guide to Business, Law and Project Management, Virginia, 11th Edition, a reference covering construction business management, contractor licensing, law, and project administration.
 
-No. Real exam questions are confidential. Practice questions are original material written to the same subjects and format, with explanations.
+### Is the Virginia NASCLA 11th Edition used for contractor examination preparation?
 
-### When will I get it?
+Yes. The Virginia NASCLA 11th Edition is a state-specific reference for preparing for Virginia contractor business examination subjects.
 
-Online courses are delivered by email after purchase. Books ship from our fulfillment center, 1 Exam Prep; shipping options are shown at checkout.
+### Are Virginia Class A and Class B contractor business exams open book?
 
-### Does buying make me eligible to test?
+Yes. Virginia's Class A and Class B contractor business examinations use an open-book format with authorized references.
 
-No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
+### Who administers Virginia contractor business examinations?
+
+PSI Services administers the contractor business examinations for the Virginia Board for Contractors.
+
+### What exams are required for a Virginia Class A contractor license?
+
+The Designated Employee must pass the Virginia, General, and Advanced business examination portions. Applicable trade-related qualification requirements are separate.
+
+### Does a Virginia Class C contractor need the business examination?
+
+No. Virginia does not require the Designated Employee business examinations for Class C contractor licensing. Other applicable qualifications and pre-license education requirements still apply.
+
+[All 18 answers for Virginia Business & Law](https://passyournasclaexam.com/faq/virginia/business-and-law/)
 
 ### Other Virginia exams
 
@@ -79,6 +91,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Hawaii](https://passyournasclaexam.com/hawaii/business-and-law/)
 - [Louisiana](https://passyournasclaexam.com/louisiana/business-and-law/)
 - [All states for this exam](https://passyournasclaexam.com/business-and-law/)
+
+### Questions
+
+- [Virginia Business & Law FAQ (18 answers)](https://passyournasclaexam.com/faq/virginia/business-and-law/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

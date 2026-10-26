@@ -1,25 +1,25 @@
 ---
 title: Alabama NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/alabama/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: Alabama business and law exam prep: 12 products from $19.95 to $264.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Alabama business and law exam prep: 10 products from $19.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Alabama Business and Law Exam Prep
 
 Contractor's Guide to Business, Law and Project Management for Alabama. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 8](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/alabama/master-electrical-contractor/) · [Journeyman 7](https://passyournasclaexam.com/alabama/journeyman-electrician/) · [Business & Law 12](https://passyournasclaexam.com/alabama/business-and-law/)
+[Commercial GC 8](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/alabama/master-electrical-contractor/) · [Journeyman 7](https://passyournasclaexam.com/alabama/journeyman-electrician/) · [Business & Law 10](https://passyournasclaexam.com/alabama/business-and-law/)
 
 ## Quick answers
 
 ### How much does Alabama business and law exam prep cost?
 
-Alabama business and law prep runs from $19.95 to $264.99 across 12 products.
+Alabama business and law prep runs from $19.95 to $309.99 across 10 products.
 
 ### Which book is the Alabama business and law exam based on?
 
@@ -27,64 +27,60 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 ## Key takeaways
 
-- 12 Alabama business and law products, from $19.95 to $264.99.
+- 10 Alabama business and law products, from $19.95 to $309.99.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
 ## Books and tabs
 
-12 items
+10 items
 
 [Business & Law Guide Tabs (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-tabs-3rd-ed/) Alabama · Business & Law $19.95[Buy now](https://1examprep.com/cart/3165514399770:1)
 
 [Residential Business & Law Guide Tabs (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-tabs-4th-ed/) Alabama · Business & Law $19.95[Buy now](https://1examprep.com/cart/6853359960121:1)
 
-[Residential Business & Law Guide (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/) Alabama · Business & Law $124.99[Buy now](https://1examprep.com/cart/32227619149:1)
+[Business & Law Guide (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/) Alabama · Business & Law $124.99[Buy now](https://1examprep.com/cart/50930166857785:1)
 
-[Business & Law Guide (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/) Alabama · Business & Law $124.99[Buy now](https://1examprep.com/cart/6853413240889:1)
+[Residential Business & Law Guide (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/) Alabama · Business & Law $124.99[Buy now](https://1examprep.com/cart/50930269814841:1)
 
-[Business & Law Guide + Tabs (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/) Alabama · Business & Law $134.99[Buy now](https://1examprep.com/cart/45892344807481:1)
+[Business & Law Guide + Tabs (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/) Alabama · Business & Law $149.99[Buy now](https://1examprep.com/cart/50930181341241:1)
 
-[Residential Business & Law Guide + Tabs (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed/) Alabama · Business & Law $134.99[Buy now](https://1examprep.com/cart/45892338810937:1)
+[Residential Business & Law Guide + Tabs (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed/) Alabama · Business & Law $149.99[Buy now](https://1examprep.com/cart/50930287607865:1)
 
-[Business & Law Guide + Tabs (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed-2/) Alabama · Business & Law $149.99[Buy now](https://1examprep.com/cart/50817329659961:1)
+[Business & Law Guide Highlighted & Tabbed (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-highlighted-and-tabbed-3rd-ed/) Alabama · Business & Law $264.99[Buy now](https://1examprep.com/cart/50930221776953:1)
 
-[Residential Business & Law Guide + Tabs (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed-2/) Alabama · Business & Law $149.99[Buy now](https://1examprep.com/cart/50817997439033:1)
+[Residential Business & Law Guide Highlighted & Tabbed (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-4th-ed/) Alabama · Business & Law $264.99[Buy now](https://1examprep.com/cart/50930298814521:1)
 
-[Business & Law Guide Highlighted & Tabbed (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-highlighted-and-tabbed-3rd-ed/) Alabama · Business & Law $219.99[Buy now](https://1examprep.com/cart/45892338483257:1)
+[Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-3rd-ed/) Alabama · Business & Law $309.99[Buy now](https://1examprep.com/cart/50930255364153:1)
 
-[Residential Business & Law Guide Highlighted & Tabbed (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-4th-ed/) Alabama · Business & Law $219.99[Buy now](https://1examprep.com/cart/45892344381497:1)
-
-[Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.)](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-3rd-ed/) Alabama · Business & Law $264.99[Buy now](https://1examprep.com/cart/50817751580729:1)
-
-[Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-4th-ed/) Alabama · Business & Law $264.99[Buy now](https://1examprep.com/cart/50818137882681:1)
+[Residential Business & Law Guide Highlighted & Tabbed + Flash Cards (4th Ed.)](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-4th-ed/) Alabama · Business & Law $309.99[Buy now](https://1examprep.com/cart/50930322112569:1)
 
 ## Alabama Business & Law questions
 
-### Is this the Alabama General Contractors edition?
+### What is the ISBN?
 
-Yes. This is the Alabama General Contractors, 3rd Edition, published by NASCLA.
+The book's ISBN-13 is 9781948558204 .
 
-### Are tabs allowed in the exam room?
+### Is this the Alabama-specific edition?
 
-The testing facility proctor makes the final decision on whether tabs are accepted. Tabs that do not adhere properly will not be accepted.
+Yes. This is the Alabama General Contractors, 3rd Edition , designed for the Alabama general contracting industry.
 
-### Who administers Alabama general contractor licensing?
+### Why study business and law for contractor licensing?
 
-The Alabama Licensing Board for General Contractors administers the state's general contractor licensing program.
+Business and law knowledge helps contractors understand licensing responsibilities, construction agreements, financial management, employee relationships, and other important aspects of operating a construction company.
+
+### Why choose this NASCLA publication?
+
+The guide combines Alabama-specific contractor business and law information with practical construction management subjects in a single organized reference. Strengthen your knowledge of Alabama contractor business law, construction management, and professional responsibilities with the NASCLA Contractor's Guide to Business, Law and Project Management, Alabama General Contractors, 3rd Edition. All products and company names are trademarks™ or registered ® trademarks and/or copyrights of their respective holders. Use of them does not imply any affiliation with or endorsement by the respective holders.
 
 ### Is this the Alabama Residential Construction edition?
 
-Yes. This is the Alabama Residential Construction, 4th Edition, published by NASCLA.
+Yes. This is the NASCLA Contractor's Guide to Business, Law and Project Management, Alabama Residential Construction, 4th Edition.
 
-### Is the NASCLA Alabama Residential 4th Edition approved for the Business and Law Examination?
+### Is this an approved reference for the Alabama residential examination?
 
-Yes. The guide is an approved reference for the Alabama Home Builder Business and Law Examination.
+Yes. The NASCLA Alabama Residential Construction, 4th Edition, is an approved business and law examination reference.
 
-### Are tabs permitted in the examination room?
-
-The testing facility proctor makes the final decision regarding acceptance. Tabs that do not adhere properly will not be accepted.
-
-[All 17 answers for Alabama Business & Law](https://passyournasclaexam.com/faq/alabama/business-and-law/)
+[All 30 answers for Alabama Business & Law](https://passyournasclaexam.com/faq/alabama/business-and-law/)
 
 ### Other Alabama exams
 
@@ -106,7 +102,7 @@ The testing facility proctor makes the final decision regarding acceptance. Tabs
 
 ### Questions
 
-- [Alabama Business & Law FAQ (17 answers)](https://passyournasclaexam.com/faq/alabama/business-and-law/)
+- [Alabama Business & Law FAQ (30 answers)](https://passyournasclaexam.com/faq/alabama/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

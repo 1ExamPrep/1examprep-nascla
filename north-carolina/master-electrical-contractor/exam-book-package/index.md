@@ -1,13 +1,13 @@
 ---
 title: North Carolina Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/north-carolina/master-electrical-contractor/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a comprehensive reference-book package built around the electrical code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Master Electrical Contractor](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Master Electrical](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
 

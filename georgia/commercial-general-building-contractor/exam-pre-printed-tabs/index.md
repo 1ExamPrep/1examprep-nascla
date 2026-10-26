@@ -1,13 +1,13 @@
 ---
 title: Georgia Exam Pre-Printed Tabs | NASCLA Commercial GC
 url: https://passyournasclaexam.com/georgia/commercial-general-building-contractor/exam-pre-printed-tabs/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Georgia NASCLA – Accredited Examination for Commercial General Building Contractors with a faster, cleaner way to navigate your exam.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Commercial General Building Contractor](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) Exam Pre-Printed Tabs
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Commercial GC](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/)
 

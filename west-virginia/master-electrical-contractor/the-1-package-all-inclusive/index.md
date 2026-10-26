@@ -1,13 +1,13 @@
 ---
 title: West Virginia Master Electrical The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/west-virginia/master-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Build your path toward West Virginia electrical contractor licensing with an all-inclusive package that combines exam preparation, highlighted and tabbed.
 ---
 
 [Home](https://passyournasclaexam.com/) · [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical Contractor](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/)
 

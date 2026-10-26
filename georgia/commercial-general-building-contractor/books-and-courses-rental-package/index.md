@@ -1,13 +1,13 @@
 ---
 title: Georgia Commercial GC Books & Courses Rental Package
 url: https://passyournasclaexam.com/georgia/commercial-general-building-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Georgia NASCLA Commercial General Building Contractor exam with a complete book and course rental package designed to bring your exam.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Commercial General Building Contractor](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Commercial GC](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/)
 

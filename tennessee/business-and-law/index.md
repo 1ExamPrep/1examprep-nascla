@@ -1,25 +1,25 @@
 ---
 title: Tennessee NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/tennessee/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: Tennessee business and law exam prep: 3 products from $124.99 to $219.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Tennessee business and law exam prep: 4 products from $124.99 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Tennessee Business and Law Exam Prep
 
 Contractor's Guide to Business, Law and Project Management for Tennessee. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 8](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/tennessee/master-electrical-contractor/) · [Journeyman 5](https://passyournasclaexam.com/tennessee/journeyman-electrician/) · [Business & Law 3](https://passyournasclaexam.com/tennessee/business-and-law/)
+[Commercial GC 8](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/tennessee/master-electrical-contractor/) · [Journeyman 5](https://passyournasclaexam.com/tennessee/journeyman-electrician/) · [Business & Law 4](https://passyournasclaexam.com/tennessee/business-and-law/)
 
 ## Quick answers
 
 ### How much does Tennessee business and law exam prep cost?
 
-Tennessee business and law prep runs from $124.99 to $219.99 across 3 products: Business & Law Guide (4th Ed.) $124.99; Business & Law Guide + Tabs (4th Ed.) $134.99; Business & Law Guide Highlighted & Tabbed (4th Ed.) $219.99.
+Tennessee business and law prep runs from $124.99 to $309.99 across 4 products: Business & Law Guide (4th Ed.) $124.99; Business & Law Guide + Tabs (4th Ed.) $149.99; Business & Law Guide Highlighted & Tabbed (4th Ed.) $264.99; Business & Law Guide Highlighted & Tabbed + Flash Cards (4th Ed.) $309.99.
 
 ### Which book is the Tennessee business and law exam based on?
 
@@ -27,36 +27,48 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 ## Key takeaways
 
-- 3 Tennessee business and law products, from $124.99 to $219.99.
+- 4 Tennessee business and law products, from $124.99 to $309.99.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
 ## Books and tabs
 
-3 items
+4 items
 
-[Business & Law Guide (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-4th-ed/) Tennessee · Business & Law $124.99[Buy now](https://1examprep.com/cart/32227349005:1)
+[Business & Law Guide (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-4th-ed/) Tennessee · Business & Law $124.99[Buy now](https://1examprep.com/cart/50946172878905:1)
 
-[Business & Law Guide + Tabs (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-plus-tabs-4th-ed/) Tennessee · Business & Law $134.99[Buy now](https://1examprep.com/cart/45892357521465:1)
+[Business & Law Guide + Tabs (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-plus-tabs-4th-ed/) Tennessee · Business & Law $149.99[Buy now](https://1examprep.com/cart/50946175336505:1)
 
-[Business & Law Guide Highlighted & Tabbed (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/) Tennessee · Business & Law $219.99[Buy now](https://1examprep.com/cart/45892357259321:1)
+[Business & Law Guide Highlighted & Tabbed (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/) Tennessee · Business & Law $264.99[Buy now](https://1examprep.com/cart/50946179924025:1)
 
-## Questions
+[Business & Law Guide Highlighted & Tabbed + Flash Cards (4th Ed.)](https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-4th-ed/) Tennessee · Business & Law $309.99[Buy now](https://1examprep.com/cart/50946184052793:1)
 
-### Is the NASCLA exam open book?
+## Tennessee Business & Law questions
 
-Yes. You bring the approved reference books, so knowing where things are in the books matters as much as knowing the material.
+### What is the Tennessee NASCLA Contractor's Guide, 4th Edition?
 
-### Are these the actual exam questions?
+It is the NASCLA Contractors Guide to Business, Law and Project Management, Tennessee 4th Edition, a reference covering business management, contractor laws, and project administration for Tennessee contractor examination preparation.
 
-No. Real exam questions are confidential. Practice questions are original material written to the same subjects and format, with explanations.
+### Is the Tennessee NASCLA 4th Edition an authorized examination reference?
 
-### When will I get it?
+Yes. Prov lists the NASCLA Tennessee 4th Edition as an authorized reference for the Tennessee Contractor Business and Law examination.
 
-Online courses are delivered by email after purchase. Books ship from our fulfillment center, 1 Exam Prep; shipping options are shown at checkout.
+### Who administers Tennessee contractor licensing examinations?
 
-### Does buying make me eligible to test?
+Prov began administering examinations for the Tennessee Board for Licensing Contractors on July 1, 2026, succeeding PSI as the provider for new examination scheduling.
 
-No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
+### How many questions are on the Tennessee Business and Law examination?
+
+The examination contains 50 questions.
+
+### How much time is allowed for the Tennessee Business and Law examination?
+
+Candidates have 150 minutes to complete the examination.
+
+### What passing score is required?
+
+The passing score for the Tennessee Contractor Business and Law examination administered by Prov is 73%.
+
+[All 16 answers for Tennessee Business & Law](https://passyournasclaexam.com/faq/tennessee/business-and-law/)
 
 ### Other Tennessee exams
 
@@ -75,6 +87,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Hawaii](https://passyournasclaexam.com/hawaii/business-and-law/)
 - [Louisiana](https://passyournasclaexam.com/louisiana/business-and-law/)
 - [All states for this exam](https://passyournasclaexam.com/business-and-law/)
+
+### Questions
+
+- [Tennessee Business & Law FAQ (16 answers)](https://passyournasclaexam.com/faq/tennessee/business-and-law/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

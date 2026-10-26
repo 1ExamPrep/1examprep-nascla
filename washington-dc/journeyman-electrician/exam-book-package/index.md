@@ -1,13 +1,13 @@
 ---
 title: Washington DC Exam Book Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/washington-dc/journeyman-electrician/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Washington DC NASCLA Journeyman Electrician examination with a comprehensive electrical reference-book package covering the National.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Washington DC](https://passyournasclaexam.com/washington-dc/) · [Journeyman Electrician](https://passyournasclaexam.com/washington-dc/journeyman-electrician/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Washington DC](https://passyournasclaexam.com/washington-dc/) · [Journeyman](https://passyournasclaexam.com/washington-dc/journeyman-electrician/)
 

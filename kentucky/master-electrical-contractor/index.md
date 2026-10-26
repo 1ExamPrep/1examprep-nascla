@@ -1,13 +1,13 @@
 ---
 title: Kentucky NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/kentucky/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Kentucky master electrical contractor exam prep: 6 products from $295.00 to $3,305.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) Master Electrical Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Kentucky Master Electrical Contractor Exam Prep
 

@@ -1,13 +1,13 @@
 ---
 title: NASCLA Commercial General Building Contractor Exam Prep
 url: https://passyournasclaexam.com/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The NASCLA Accredited Examination for Commercial General Building Contractors is one standardized exam that. 122 products across 17 states, from $95.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 115 scored questions · 330 minutes · 70% to pass · open book
 
 # NASCLA Commercial General Building Contractor Exam Prep

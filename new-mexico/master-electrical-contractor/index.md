@@ -1,19 +1,19 @@
 ---
 title: New Mexico NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/new-mexico/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: New Mexico master electrical contractor exam prep: 7 products from $295.00 to $3,305.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) Master Electrical Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico Master Electrical Contractor Exam Prep
 
 NASCLA accredited electrical contractor exam for New Mexico. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 6](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) · [Journeyman 5](https://passyournasclaexam.com/new-mexico/journeyman-electrician/) · [Residential Electrical 6](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
+[Commercial GC 6](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) · [Journeyman 5](https://passyournasclaexam.com/new-mexico/journeyman-electrician/) · [Residential Electrical 6](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/) · [Business & Law 4](https://passyournasclaexam.com/new-mexico/business-and-law/)
 
 ## Quick answers
 
@@ -132,6 +132,7 @@ Study the electrical concepts first and practice using the references throughout
 - [New Mexico Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
 - [New Mexico Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/)
 - [New Mexico Residential Electrical](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
+- [New Mexico Business & Law](https://passyournasclaexam.com/new-mexico/business-and-law/)
 
 ### Master Electrical in other states
 

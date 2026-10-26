@@ -1,13 +1,13 @@
 ---
 title: Louisiana Commercial GC The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Louisiana commercial contractor licensing with an all-inclusive package that combines NASCLA exam preparation, a comprehensive commercial.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial General Building Contractor](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial GC](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/)
 

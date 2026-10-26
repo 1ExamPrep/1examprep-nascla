@@ -1,13 +1,13 @@
 ---
 title: Georgia NASCLA Exam: GC License Steps and Exam Prep
 url: https://passyournasclaexam.com/georgia/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the Georgia NASCLA exam and Business and Law exam fit into a Georgia general contractor license, with requirements, PSI details, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Georgia
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Georgia NASCLA Exam and General Contractor License Guide
 
@@ -25,7 +25,7 @@ Yes. Georgia accepts the NASCLA Accredited Examination for Commercial General Bu
 
 ### Which NASCLA exams can I prepare for in Georgia?
 
-Commercial General Building Contractor (7 products from $199.99); Business and Law (13 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (7 products from $199.99); Business and Law (11 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 20 Georgia products for 2 exams, from $19.95 to $4,694.00.
+- 18 Georgia products for 2 exams, from $19.95 to $4,694.00.
 - Georgia accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -44,7 +44,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 ### Georgia Commercial General Building Contractor
 
 Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
-See Commercial GC packages →](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) · [13 PRODUCTS · FROM $19.95
+See Commercial GC packages →](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) · [11 PRODUCTS · FROM $19.95
 
 ### Georgia Business and Law
 
@@ -214,7 +214,7 @@ For general and residential contractor licenses, use the Georgia State Licensing
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies](https://www.nascla.org/page/ParticipatingAgencies)
 2. [Georgia Secretary of State: State Licensing Board for Residential and Commercial General Contractors](https://sos.ga.gov/state-licensing-board-residential-and-general-contractors)
@@ -286,7 +286,7 @@ $2,949.00 (was $3,250.00) Save 9% options to $3,344.00
 
 ### Georgia Business and Law packages
 
-[All 13 products →](https://passyournasclaexam.com/georgia/business-and-law/)
+[All 11 products →](https://passyournasclaexam.com/georgia/business-and-law/)
 
 Georgia · Business & Law
 

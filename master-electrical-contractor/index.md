@@ -1,13 +1,13 @@
 ---
 title: NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/master-electrical-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: NASCLA accredits trade examinations for electrical contractor licenses in participating states. Our master. 101 products across 15 states, from $79.99.
 ---
 
 [Home](https://passyournasclaexam.com/) Master Electrical Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 NASCLA accredited electrical contractor exam
 
 # NASCLA Master Electrical Contractor Exam Prep

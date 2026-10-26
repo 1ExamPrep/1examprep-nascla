@@ -1,13 +1,13 @@
 ---
 title: Arkansas Commercial GC Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Arkansas NASCLA Commercial General Building Contractor licensing process with an all-in-one Ultimate rental package that combines the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) · [Commercial General Building Contractor](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Arkansas](https://passyournasclaexam.com/arkansas/) · [Commercial GC](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/)
 

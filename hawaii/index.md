@@ -1,13 +1,13 @@
 ---
 title: Hawaii Business and Law Exam: Contractor License Guide
 url: https://passyournasclaexam.com/hawaii/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Pass the Hawaii Business and Law exam for your contractor license: PSI format, closed book rules, Class A, B and C steps, fees and the NASCLA Hawaii guide.
 ---
 
 [Home](https://passyournasclaexam.com/) Hawaii
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Hawaii Business and Law Exam and Contractor License Guide
 
@@ -33,7 +33,7 @@ Through the Hawaii licensing board and its testing vendor, not through NASCLA's 
 
 ## Key takeaways
 
-- 4 Hawaii products for 1 exam, from $124.99 to $264.99.
+- 4 Hawaii products for 1 exam, from $124.99 to $309.99.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
 ## Choose your Hawaii exam
@@ -194,7 +194,7 @@ Not automatically. State law lets the board require a bond of at least $5,000 ba
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Hawaii DCCA: Contractors License Board](https://cca.hawaii.gov/pvl/boards/contractor/)
 2. [Hawaii DCCA: Contractors License Board Examination](https://cca.hawaii.gov/pvl/boards/contractor/application-deadline-examination-dates/)
@@ -241,8 +241,8 @@ Hawaii · Business & Law
 
 Prepare for the Hawaii Contractor Business and Law Examination with the from 1 Exam Prep. This Hawaii-specific reference book provides essential information about contractor…
 
-$124.99 (was $174.99) Save 29%
-[Buy now](https://1examprep.com/cart/50820049141817:1) · [Details](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-1st-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50932950073401:1) · [Details](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-1st-ed/)
 
 Hawaii · Business & Law
 
@@ -250,8 +250,8 @@ Hawaii · Business & Law
 
 Prepare for the Hawaii Contractor Business and Law Examination with the from 1 Exam Prep. This study package combines the Hawaii-specific NASCLA reference book…
 
-$149.99 (was $199.99) Save 25%
-[Buy now](https://1examprep.com/cart/50820060807225:1) · [Details](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-plus-tabs-1st-ed/)
+$149.99 (was $199.99) Save 25% options to $309.99
+[Buy now](https://1examprep.com/cart/50933221687353:1) · [Details](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-plus-tabs-1st-ed/)
 
 Hawaii · Business & Law
 
@@ -259,8 +259,8 @@ Hawaii · Business & Law
 
 Prepare for the Hawaii Contractor Business and Law Examination with the from 1 Exam Prep. This professionally prepared reference book combines essential contractor business…
 
-$219.99 (was $269.99) Save 19%
-[Buy now](https://1examprep.com/cart/50820087611449:1) · [Details](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-highlighted-and-tabbed-1st-ed/)
+$264.99 (was $325.00) Save 18% options to $459.99
+[Buy now](https://1examprep.com/cart/50933335064633:1) · [Details](https://passyournasclaexam.com/hawaii/business-and-law/business-and-law-guide-highlighted-and-tabbed-1st-ed/)
 
 Hawaii licensing
 

@@ -1,13 +1,13 @@
 ---
 title: NASCLA Master Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/national/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Master Unlimited Electrical open-book exam with a complete rental package that combines the required exam references with an online.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical Contractor](https://passyournasclaexam.com/national/master-electrical-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical](https://passyournasclaexam.com/national/master-electrical-contractor/)
 

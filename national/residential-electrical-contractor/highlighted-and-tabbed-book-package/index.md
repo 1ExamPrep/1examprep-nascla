@@ -1,13 +1,13 @@
 ---
 title: NASCLA Residential Electrical H&T Book Package
 url: https://passyournasclaexam.com/national/residential-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The from Pass Your NASCLA Exam Prep includes all required reference materials for the NASCLA Residential Electrical Contractor exam, professionally.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Residential Electrical Contractor](https://passyournasclaexam.com/national/residential-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Residential Electrical](https://passyournasclaexam.com/national/residential-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: Nationwide NASCLA Exam Prep Editions
 url: https://passyournasclaexam.com/national/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: NASCLA exam prep for Nationwide: Commercial GC, Master Electrical, Journeyman, Residential Electrical, Business & Law. 30 products from $19.95.
+description: NASCLA exam prep for Nationwide: Commercial GC, Master Electrical, Journeyman, Residential Electrical, Business & Law. 31 products from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Nationwide
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide NASCLA Exam Prep
 
@@ -15,7 +15,7 @@ Nationwide NASCLA editions that are not tied to one state, plus the multi-state 
 
 ## Key takeaways
 
-- 30 products for 5 exams, from $19.95 to $7,495.00.
+- 31 products for 5 exams, from $19.95 to $7,495.00.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
 ## Quick answers
@@ -44,7 +44,7 @@ See Journeyman packages →](https://passyournasclaexam.com/national/journeyman-
 ### Residential Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA residential electrical exam.
-See Residential Electrical packages →](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [8 PRODUCTS · FROM $19.95
+See Residential Electrical packages →](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [9 PRODUCTS · FROM $19.95
 
 ### Business and Law
 

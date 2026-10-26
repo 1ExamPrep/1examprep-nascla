@@ -1,13 +1,13 @@
 ---
 title: NASCLA Complete Book Set | NASCLA Commercial GC
 url: https://passyournasclaexam.com/national/commercial-general-building-contractor/complete-book-set/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The ** is a comprehensive package that includes all official reference books required for the open-book exam administered under the National Association of.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Commercial General Building Contractor](https://passyournasclaexam.com/national/commercial-general-building-contractor/) Complete Book Set
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Commercial GC](https://passyournasclaexam.com/national/commercial-general-building-contractor/)
 

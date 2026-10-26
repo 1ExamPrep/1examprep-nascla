@@ -1,13 +1,13 @@
 ---
 title: Arizona NASCLA Exam: ROC License Steps and Exam Prep
 url: https://passyournasclaexam.com/arizona/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Arizona NASCLA exam guide: B-1, B-2, C-11, R-11 and CR-11 options, ROC exams, experience, bond and fee figures, plus prep packages for each license path.
 ---
 
 [Home](https://passyournasclaexam.com/) Arizona
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona NASCLA Exam: Getting Your ROC License and Preparing to Pass
 
@@ -212,7 +212,7 @@ The ROC's published license fees are for a two year license. You renew before it
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Arizona Registrar of Contractors (commercial exam agency)](https://www.nascla.org/commercial-exam-participating-state-agencies/arizona-registrar-contractors-0)
 2. [NASCLA: Commercial Exam Participating Agencies](https://www.nascla.org/page/ParticipatingAgencies)
@@ -372,7 +372,7 @@ Arizona · Business & Law
 
 The Arizona NASCLA Contractors Guide to Business, Law and Project Management, Arizona 7th Edition is the official reference published by the National Association of…
 
-$134.99 (was $148.35) Save 9%
+$149.99 (was $200.00) Save 25%
 [Buy now](https://1examprep.com/cart/32603455821:1) · [Details](https://passyournasclaexam.com/arizona/business-and-law/business-and-law-guide-plus-tabs-7th-ed/)
 
 Arizona licensing

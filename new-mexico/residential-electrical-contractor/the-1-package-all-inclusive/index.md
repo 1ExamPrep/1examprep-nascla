@@ -1,13 +1,13 @@
 ---
 title: New Mexico Residential Electrical The 1 Package
 url: https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the New Mexico NASCLA Residential Electrical Contractor examination, organize your New Mexico licensing application, and establish the business.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Residential Electrical Contractor](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Residential Electrical](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
 
@@ -269,6 +269,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [New Mexico Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
 - [New Mexico Master Electrical](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/)
 - [New Mexico Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/)
+- [New Mexico Business & Law](https://passyournasclaexam.com/new-mexico/business-and-law/)
 
 ### Residential Electrical in other states
 

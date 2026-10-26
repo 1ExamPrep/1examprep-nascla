@@ -1,13 +1,13 @@
 ---
 title: New Mexico Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/new-mexico/master-electrical-contractor/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a complete reference-book package built around the electrical code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical Contractor](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/)
 
@@ -208,6 +208,7 @@ Yes. A passing NASCLA electrical examination result can be used with participati
 - [New Mexico Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
 - [New Mexico Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/)
 - [New Mexico Residential Electrical](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
+- [New Mexico Business & Law](https://passyournasclaexam.com/new-mexico/business-and-law/)
 
 ### Master Electrical in other states
 

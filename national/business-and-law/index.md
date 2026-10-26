@@ -1,25 +1,25 @@
 ---
 title: NASCLA Business and Law Exam Prep, Nationwide
 url: https://passyournasclaexam.com/national/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: Nationwide business and law exam prep: 8 products from $19.95 to $399.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Nationwide business and law exam prep: 9 products from $19.95 to $399.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) Business and Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide Business and Law Exam Prep
 
 Contractor's Guide to Business, Law and Project Management for Nationwide. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 7](https://passyournasclaexam.com/national/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/national/master-electrical-contractor/) · [Journeyman 4](https://passyournasclaexam.com/national/journeyman-electrician/) · [Residential Electrical 4](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [Business & Law 8](https://passyournasclaexam.com/national/business-and-law/)
+[Commercial GC 7](https://passyournasclaexam.com/national/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/national/master-electrical-contractor/) · [Journeyman 4](https://passyournasclaexam.com/national/journeyman-electrician/) · [Residential Electrical 4](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [Business & Law 9](https://passyournasclaexam.com/national/business-and-law/)
 
 ## Quick answers
 
 ### How much does Nationwide business and law exam prep cost?
 
-Nationwide business and law prep runs from $19.95 to $399.99 across 8 products: Business & Law Guide Tabs (13th Ed.) $19.95; Business & Law Guide Tabs (14th Ed.) $19.95; Business & Law Flash Cards $55.00; Business & Law Guide (14th Ed.) $124.99; Business & Law Guide + Tabs (14th Ed.) $134.99; Business & Law Guide Highlighted & Tabbed (14th Ed.) $219.99; Online Exam Prep Course $79.99; Complete Pass Package $399.99.
+Nationwide business and law prep runs from $19.95 to $399.99 across 9 products.
 
 ### Which Nationwide business and law package should I choose?
 
@@ -31,7 +31,7 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 ## Key takeaways
 
-- 8 Nationwide business and law products, from $19.95 to $399.99.
+- 9 Nationwide business and law products, from $19.95 to $399.99.
 - Each state has its own edition of the guide; use the one your state names.
 - The Complete Pass Package at $399.99 is the most complete option.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
@@ -60,7 +60,7 @@ $399.99 (was $460.00) Save 13%
 
 ## Books, tabs and flash cards
 
-6 items
+7 items
 
 [Business & Law Guide Tabs (13th Ed.)](https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-tabs-13th-ed/) Nationwide · Business & Law $19.95[Buy now](https://1examprep.com/cart/31870418812985:1)
 
@@ -70,9 +70,11 @@ $399.99 (was $460.00) Save 13%
 
 [Business & Law Guide (14th Ed.)](https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-14th-ed/) Nationwide · Business & Law $124.99[Buy now](https://1examprep.com/cart/31870420320313:1)
 
-[Business & Law Guide + Tabs (14th Ed.)](https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-plus-tabs-14th-ed/) Nationwide · Business & Law $134.99[Buy now](https://1examprep.com/cart/45892349329465:1)
+[Business & Law Guide + Tabs (14th Ed.)](https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-plus-tabs-14th-ed/) Nationwide · Business & Law $149.99[Buy now](https://1examprep.com/cart/45892349329465:1)
 
 [Business & Law Guide Highlighted & Tabbed (14th Ed.)](https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-highlighted-and-tabbed-14th-ed/) Nationwide · Business & Law $219.99[Buy now](https://1examprep.com/cart/31870420975673:1)
+
+[Business & Law Guide Highlighted & Tabbed + Flash Cards (14th Ed.)](https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-14th-ed/) Nationwide · Business & Law $264.99[Buy now](https://1examprep.com/cart/50853829345337:1)
 
 ## Nationwide Business & Law questions
 
@@ -88,7 +90,19 @@ A highlighted and tabbed book helps candidates study important material and loca
 
 No. Contractor licensing requirements vary by state, license classification, and testing provider. Some programs use the Basic NASCLA guide, while others may require state-specific NASCLA business and law references or additional materials.
 
-[All 3 answers for Nationwide Business & Law](https://passyournasclaexam.com/faq/national/business-and-law/)
+### Is the NASCLA Basic 14th Edition an approved examination reference?
+
+Yes. The publication is identified for several NASCLA Accredited Examinations and contractor or trade licensing examination programs, including commercial general building and electrical contractor examinations.
+
+### Are highlighted and tabbed books permitted during the examination?
+
+The NASCLA Accredited Commercial General Building Contractor examination permits highlighted, underlined, and indexed references when they comply with the testing provider's requirements. Tabs must be securely attached and meet the applicable examination rules.
+
+### What subjects does the NASCLA Basic 14th Edition cover?
+
+The guide covers business planning, licensing, insurance, estimating, contracts, project management, scheduling, workplace safety, financial administration, taxation fundamentals, and lien laws.
+
+[All 6 answers for Nationwide Business & Law](https://passyournasclaexam.com/faq/national/business-and-law/)
 
 ### Other Nationwide exams
 
@@ -111,7 +125,7 @@ No. Contractor licensing requirements vary by state, license classification, and
 
 ### Questions
 
-- [Nationwide Business & Law FAQ (3 answers)](https://passyournasclaexam.com/faq/national/business-and-law/)
+- [Nationwide Business & Law FAQ (6 answers)](https://passyournasclaexam.com/faq/national/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

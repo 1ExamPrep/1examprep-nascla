@@ -1,13 +1,13 @@
 ---
 title: Alabama Residential Business & Law Guide Tabs (4th Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-tabs-4th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The , distributed by Pass Your NASCLA Exam Prep, is the official reference manual approved by the Alabama Home Builders Licensure Board (HBLB) and published.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Residential Business & Law Guide Tabs (4th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 
@@ -52,7 +52,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Alabama Business & Law options
-[Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-tabs-3rd-ed/) · [Residential Business & Law Guide (4th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/) · [Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/) · [Business & Law Guide + Tabs (3rd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/) · [Residential Business & Law Guide + Tabs (4th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed/) · [Business & Law Guide + Tabs (3rd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed-2/)
+[Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/) · [Residential Business & Law Guide (4th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/) · [Business & Law Guide + Tabs (3rd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/) · [Residential Business & Law Guide + Tabs (4th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed/) · [Business & Law Guide Highlighted & Tabbed (3rd Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-highlighted-and-tabbed-3rd-ed/)
 
 ### Other Alabama exams
 
@@ -74,7 +74,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 
 ### Questions
 
-- [Alabama Business & Law FAQ (17 answers)](https://passyournasclaexam.com/faq/alabama/business-and-law/)
+- [Alabama Business & Law FAQ (30 answers)](https://passyournasclaexam.com/faq/alabama/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

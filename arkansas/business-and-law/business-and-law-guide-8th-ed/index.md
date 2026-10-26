@@ -1,13 +1,13 @@
 ---
 title: Arkansas Business & Law Guide (8th Ed.)
 url: https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-8th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The , authorized by the Arkansas Contractors Licensing Board (ACLB) and published by NASCLA, serves as the principal reference for the Arkansas Commercial.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) · [Business and Law](https://passyournasclaexam.com/arkansas/business-and-law/) Business & Law Guide (8th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Arkansas](https://passyournasclaexam.com/arkansas/) · [Business & Law](https://passyournasclaexam.com/arkansas/business-and-law/)
 
@@ -64,7 +64,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Arkansas Business & Law options
-[Business & Law Guide Tabs (7th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-7th-ed/) · [Business & Law Guide Tabs (8th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-8th-ed/) · [Business & Law Guide + Tabs (8th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-plus-tabs-8th-ed/) · [Business & Law Guide Highlighted & Tabbed (8th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-highlighted-and-tabbed-8th-ed/)
+[Business & Law Guide Tabs (7th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-7th-ed/) · [Business & Law Guide Tabs (8th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-tabs-8th-ed/) · [Business & Law Guide + Tabs (8th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-plus-tabs-8th-ed/) · [Business & Law Guide Highlighted & Tabbed (8th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/arkansas/business-and-law/business-and-law-guide-highlighted-and-tabbed-8th-ed/)
 
 ### Other Arkansas exams
 

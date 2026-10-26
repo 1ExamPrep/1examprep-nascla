@@ -1,13 +1,13 @@
 ---
 title: South Carolina Commercial GC The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for South Carolina commercial contractor licensing with an all-inclusive solution that combines NASCLA Commercial General Building Contractor exam.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial GC](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/)
 

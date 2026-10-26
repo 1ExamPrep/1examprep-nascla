@@ -1,19 +1,19 @@
 ---
 title: Utah NASCLA Commercial General Building Contractor Exam Prep
 url: https://passyournasclaexam.com/utah/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Utah commercial general building contractor exam prep: 6 products from $395.00 to $4,334.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Utah](https://passyournasclaexam.com/utah/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Utah Commercial General Building Contractor Exam Prep
 
 NASCLA Commercial General Building Contractor exam prep for Utah. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 6](https://passyournasclaexam.com/utah/commercial-general-building-contractor/) · [Business & Law 4](https://passyournasclaexam.com/utah/business-and-law/)
+[Commercial GC 6](https://passyournasclaexam.com/utah/commercial-general-building-contractor/) · [Business & Law 5](https://passyournasclaexam.com/utah/business-and-law/)
 
 ## Quick answers
 

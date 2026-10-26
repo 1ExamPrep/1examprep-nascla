@@ -1,19 +1,19 @@
 ---
 title: Mississippi NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Mississippi commercial general building contractor exam prep: 7 products from $199.99 to $4,694.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Mississippi Commercial General Building Contractor Exam Prep
 
 NASCLA Commercial General Building Contractor exam prep for Mississippi. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 7](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) · [Business & Law 4](https://passyournasclaexam.com/mississippi/business-and-law/)
+[Commercial GC 7](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) · [Business & Law 5](https://passyournasclaexam.com/mississippi/business-and-law/)
 
 ## Quick answers
 

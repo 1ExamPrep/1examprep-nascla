@@ -1,13 +1,13 @@
 ---
 title: Utah NASCLA Exam: B100 License and Exam Prep Guide
 url: https://passyournasclaexam.com/utah/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the Utah NASCLA exam meets the B100 experience rule, what the Business and Law exam covers, the steps to apply, and which prep package fits you.
 ---
 
 [Home](https://passyournasclaexam.com/) Utah
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Utah NASCLA Exam: How to Get Your General Contractor License
 
@@ -27,7 +27,7 @@ Yes. Utah accepts the NASCLA Accredited Examination for Commercial General Build
 
 ### Which NASCLA exams can I prepare for in Utah?
 
-Commercial General Building Contractor (6 products from $395.00); Business and Law (4 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (6 products from $395.00); Business and Law (5 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -35,7 +35,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 10 Utah products for 2 exams, from $19.95 to $4,334.00.
+- 11 Utah products for 2 exams, from $24.95 to $4,334.00.
 - Utah accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -46,7 +46,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 ### Utah Commercial General Building Contractor
 
 Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
-See Commercial GC packages →](https://passyournasclaexam.com/utah/commercial-general-building-contractor/) · [4 PRODUCTS · FROM $19.95
+See Commercial GC packages →](https://passyournasclaexam.com/utah/commercial-general-building-contractor/) · [5 PRODUCTS · FROM $24.95
 
 ### Utah Business and Law
 
@@ -212,7 +212,7 @@ Yes. You bring your own approved references to the test center, which does not p
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: NASCLA Commercial Exam](https://nascla.org/nascla-commercial-exam)
@@ -240,7 +240,7 @@ Facts on this page come from these official sources, checked October 19, 2026. R
 ### Utah exam prep
 
 - [Commercial General Building Contractor](https://passyournasclaexam.com/utah/commercial-general-building-contractor/) from $395.00
-- [Business and Law](https://passyournasclaexam.com/utah/business-and-law/) from $19.95
+- [Business and Law](https://passyournasclaexam.com/utah/business-and-law/) from $24.95
 
 Shop Utah
 
@@ -281,7 +281,7 @@ $2,949.00 (was $3,250.00) Save 9% options to $3,414.00
 
 ### Utah Business and Law packages
 
-[All 4 products →](https://passyournasclaexam.com/utah/business-and-law/)
+[All 5 products →](https://passyournasclaexam.com/utah/business-and-law/)
 
 Utah · Business & Law
 
@@ -289,26 +289,26 @@ Utah · Business & Law
 
 The by Pass Your NASCLA Exam Prep is a companion reference tool designed for use with the official NASCLA Business and Law Manual approved…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/31383938203705:1) · [Details](https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-tabs-4th-ed/)
 
 Utah · Business & Law
 
 ### [Business & Law Guide (4th Ed.)](https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-4th-ed/)
 
-The , published under the authority of the Utah Division of Occupational and Professional Licensing (DOPL), serves as the official reference for the NASCLA-accredited…
+Prepare for your Utah contractor licensing examination with the . This comprehensive reference manual provides essential information about construction business management, contractor licensing, legal…
 
-$124.99 (was $138.25) Save 10%
-[Buy now](https://1examprep.com/cart/32226532941:1) · [Details](https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-4th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50946207023161:1) · [Details](https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-4th-ed/)
 
 Utah · Business & Law
 
 ### [Business & Law Guide + Tabs (4th Ed.)](https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
 
-The Utah NASCLA Contractors Guide to Business, Law and Project Management, 4th Edition – Tabs Bundle, published by NASCLA and distributed through Pass Your…
+Prepare for your Utah contractor licensing examination with the . This contractor examination preparation package combines the official NASCLA Utah 4th Edition reference manual…
 
-$134.99 (was $148.35) Save 9% options to $174.99
-[Buy now](https://1examprep.com/cart/45892357587001:1) · [Details](https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
+$149.99 (was $199.99) Save 25% options to $309.99
+[Buy now](https://1examprep.com/cart/50946213904441:1) · [Details](https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
 
 Utah licensing
 

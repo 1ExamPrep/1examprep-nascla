@@ -1,19 +1,19 @@
 ---
 title: Louisiana NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/louisiana/business-and-law/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
-description: 27 answers about the Louisiana business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
+description: 29 answers about the Louisiana business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Louisiana Business & Law
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana Business and Law exam: frequently asked questions
 
-27 answers about the Louisiana business and law exam and license, compiled from our product descriptions for this exam.
+29 answers about the Louisiana business and law exam and license, compiled from our product descriptions for this exam.
 
-The exam 17Licensing 5More questions 5
+The exam 18Licensing 5More questions 6
 
 ## The exam
 
@@ -21,9 +21,9 @@ The exam 17Licensing 5More questions 5
 
 It is a Louisiana-specific NASCLA reference covering construction business planning, law, project management, and financial administration.
 
-### How many questions are on the Louisiana business and law exam?
+### How many questions are on the Louisiana Business and Law assessment?
 
-The business and law component contains 40 questions for both the Louisiana Master Plumber and Master Natural Gas Fitter examinations. Each corresponding section has a two-hour time limit.
+The Louisiana State Licensing Board for Contractors identifies 50 questions for its online Business and Law assessment, with an estimated completion time of approximately 30–45 minutes and a passing score of 70 or above.
 
 ### What score is required for the Louisiana Business and Law assessment?
 
@@ -33,9 +33,29 @@ The Board identifies a required score of 70 or above .
 
 No. Business and Law is completed through the LSLBC Contractor Portal. PSI administers applicable Louisiana trade examinations.
 
+### How many questions are on the Master Plumber business and law examination?
+
+Part III contains 40 questions with a 2-hour time limit .
+
+### How many questions are on the Master Natural Gas Fitter business and law examination?
+
+Part II contains 40 questions with a 2-hour time limit .
+
+### Who administers the Louisiana Master Plumber examination?
+
+The State Plumbing Board of Louisiana administers the examination.
+
+### Who administers the Master Natural Gas Fitter examination?
+
+The State Plumbing Board of Louisiana administers this examination as well.
+
+### Who publishes this reference?
+
+The National Association of State Contractor Licensing Agencies publishes the guide.
+
 ### Is Louisiana Business and Law an open-book assessment?
 
-Yes. Louisiana's online Business and Law assessment is described as open book and is completed through the Board's Contractor Portal.
+Yes. Louisiana's Business and Law requirement includes an online open-book assessment completed through the LSLBC Contractor Portal after the qualifying party receives the appropriate approval.
 
 ### What score is required?
 
@@ -49,21 +69,9 @@ Yes. PSI administers applicable Louisiana trade examinations separately from the
 
 The State Plumbing Board permits tabs in approved reference materials. Tabs must comply with examination instructions, and the testing facility proctor determines whether they will be accepted.
 
-### How many questions are on the Master Plumber business and law examination?
-
-Part III contains 40 questions with a 2-hour time limit .
-
-### How many questions are on the Master Natural Gas Fitter business and law examination?
-
-Part II contains 40 questions with a 2-hour time limit .
-
 ### Who administers these examinations?
 
 The State Plumbing Board of Louisiana administers both examinations.
-
-### Who publishes this reference?
-
-The National Association of State Contractor Licensing Agencies publishes the guide.
 
 ### Why choose the highlighted and tabbed Louisiana NASCLA edition?
 
@@ -75,11 +83,7 @@ Yes. This product is the Louisiana Master Plumbers and Master Natural Gas Fitter
 
 ### Are highlighted and tabbed books allowed during the examination?
 
-Yes. The Board permits highlighting and tabs in approved examination reference materials. Written notes are prohibited, and candidates may not write in their reference materials during the examination. Books must also meet the applicable binding requirements.
-
-### Is this the 2nd Edition required for Louisiana licensing preparation?
-
-Yes. This product is the NASCLA Louisiana Master Plumbers and Master Natural Gas Fitters, 2nd Edition, ISBN 978-1-948558-09-9, which matches the edition identified in the State Plumbing Board's examination reference information.
+Yes. The Board permits highlighting and tabs in approved references. Written notes, loose pages, sticky notes, and other prohibited materials are not allowed.
 
 ### Is this the correct NASCLA edition for Louisiana Master Plumber and Master Natural Gas Fitter preparation?
 
@@ -123,7 +127,11 @@ Yes. The State Plumbing Board permits highlighting and tabs in approved referenc
 
 ### What makes a highlighted and tabbed NASCLA guide useful?
 
-Highlighting helps readers identify important content, while tabs make it easier to navigate between sections. These features are particularly useful for practicing open-book reference skills and becoming familiar with the organization of the manual.
+Highlighting helps readers identify important content, while tabs make chapters easier to locate. These organizational features support reference navigation and structured study for open-book examinations.
+
+### How do the flash cards help with studying?
+
+The flash cards complement the reference book by encouraging active recall and repeated review of contractor business, law, and project management concepts. They can be used alongside chapter reading to reinforce familiarity with important material.
 
 ### Can I bring the flash cards into the examination room?
 
@@ -152,7 +160,7 @@ No. The flash cards are supplemental preparation materials and are not included 
 
 ### Questions
 
-- [Louisiana Business & Law FAQ (27 answers)](https://passyournasclaexam.com/faq/louisiana/business-and-law/)
+- [Louisiana Business & Law FAQ (29 answers)](https://passyournasclaexam.com/faq/louisiana/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

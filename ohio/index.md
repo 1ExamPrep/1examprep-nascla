@@ -1,13 +1,13 @@
 ---
 title: Ohio Contractor Business and Law Exam: NASCLA Guide Prep
 url: https://passyournasclaexam.com/ohio/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How Ohio's OCILB contractor license works, what the PSI business and law exam covers, and which NASCLA Ohio 4th Edition guide package fits your study plan.
 ---
 
 [Home](https://passyournasclaexam.com/) Ohio
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Ohio Contractor Business and Law Exam: Licensing and NASCLA Guide Prep
 
@@ -25,7 +25,7 @@ Ohio is not on NASCLA's list for the commercial building exam. The prep here is 
 
 ### Which NASCLA exams can I prepare for in Ohio?
 
-Business and Law (3 products from $124.99). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Business and Law (4 products from $124.99). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I schedule my Ohio exam?
 
@@ -33,12 +33,12 @@ Through the Ohio licensing board and its testing vendor, not through NASCLA's co
 
 ## Key takeaways
 
-- 3 Ohio products for 1 exam, from $124.99 to $219.99.
+- 4 Ohio products for 1 exam, from $124.99 to $309.99.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
 ## Choose your Ohio exam
 
-[3 PRODUCTS · FROM $124.99
+[4 PRODUCTS · FROM $124.99
 
 ### Ohio Business and Law
 
@@ -183,7 +183,7 @@ The current PSI bulletin names the Ohio 4th Edition of the NASCLA Contractor's G
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Ohio Department of Commerce: Ohio Construction Industry Licensing Board](https://com.ohio.gov/divisions-and-programs/industrial-compliance/boards/ohio-construction-industry-licensing-board)
 2. [PSI: Ohio Construction Industry Licensing Board Contractor Trade Examinations Candidate Information Bulletin](https://test-takers.psiexams.com/api/content/bulletin/1734)
@@ -222,34 +222,34 @@ Every package is built for the open-book format. Buy now opens secure checkout a
 
 ### Ohio Business and Law packages
 
-[All 3 products →](https://passyournasclaexam.com/ohio/business-and-law/)
+[All 4 products →](https://passyournasclaexam.com/ohio/business-and-law/)
 
 Ohio · Business & Law
 
 ### [Business & Law Guide (4th Ed.)](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-4th-ed/)
 
-The Ohio NASCLA Contractors Guide to Business, Law and Project Management, 4th Edition is an official reference manual published under the authority of the…
+Prepare for your Ohio contractor licensing examination with the . This comprehensive reference book provides essential information about construction business operations, contractor licensing, estimating,…
 
-$124.99 (was $138.25) Save 10%
-[Buy now](https://1examprep.com/cart/32228733325:1) · [Details](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-4th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50945973747769:1) · [Details](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-4th-ed/)
 
 Ohio · Business & Law
 
 ### [Business & Law Guide + Tabs (4th Ed.)](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
 
-Ohio NASCLA Contractors Guide to Business, Law and Project Management, Ohio 4th Edition – Tabs Bundle Pak The *Ohio NASCLA Contractors Guide to Business,…
+Prepare for your Ohio contractor licensing examination with the . This convenient study package combines the Ohio NASCLA 4th Edition reference book with matching,…
 
-$134.99 (was $148.35) Save 9% options to $174.99
-[Buy now](https://1examprep.com/cart/45892350476345:1) · [Details](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
+$149.99 (was $199.99) Save 25% options to $309.99
+[Buy now](https://1examprep.com/cart/50945973977145:1) · [Details](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-plus-tabs-4th-ed/)
 
 Ohio · Business & Law
 
 ### [Business & Law Guide Highlighted & Tabbed (4th Ed.)](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/)
 
-The Ohio NASCLA Contractors Guide to Business, Law and Project Management, 4th Edition; Highlighted & Tabbed from Pass Your NASCLA Exam Prep is a…
+Prepare for your Ohio contractor licensing examination with the . This professionally prepared reference book helps candidates study essential construction business, law, and project…
 
-$219.99 (was $244.50) Save 10% options to $259.99
-[Buy now](https://1examprep.com/cart/45892350214201:1) · [Details](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/)
+$264.99 (was $325.00) Save 18% options to $459.99
+[Buy now](https://1examprep.com/cart/50945974304825:1) · [Details](https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-highlighted-and-tabbed-4th-ed/)
 
 Ohio licensing
 

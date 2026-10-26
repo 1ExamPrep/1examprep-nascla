@@ -1,13 +1,13 @@
 ---
 title: Missouri Master Electrical Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/missouri/master-electrical-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: If you’re aiming to use the NASCLA Master/Unlimited Electrical Contractor trade exam as part of your Missouri licensing path, this Ultimate Exam Prep Rental.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Missouri](https://passyournasclaexam.com/missouri/) · [Master Electrical Contractor](https://passyournasclaexam.com/missouri/master-electrical-contractor/) Ultimate Exam Prep Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Missouri](https://passyournasclaexam.com/missouri/) · [Master Electrical](https://passyournasclaexam.com/missouri/master-electrical-contractor/)
 

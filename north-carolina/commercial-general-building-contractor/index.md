@@ -1,19 +1,19 @@
 ---
 title: North Carolina NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: North Carolina commercial general building contractor exam prep: 8 products from $199.99 to $4,799.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # North Carolina Commercial General Building Contractor Exam Prep
 
 NASCLA Commercial General Building Contractor exam prep for North Carolina. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 8](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 6](https://passyournasclaexam.com/north-carolina/business-and-law/)
+[Commercial GC 8](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
 
 ## Quick answers
 

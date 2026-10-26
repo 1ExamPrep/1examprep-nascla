@@ -1,13 +1,13 @@
 ---
 title: Arizona Online Practice Questions | NASCLA Master Electrical
 url: https://passyournasclaexam.com/arizona/master-electrical-contractor/online-practice-questions/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Arizona NASCLA Accredited Trade Examination for Electrical Contractors (C-11) (CR-11) with online practice questions designed to support.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical Contractor](https://passyournasclaexam.com/arizona/master-electrical-contractor/) Online Practice Questions
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical](https://passyournasclaexam.com/arizona/master-electrical-contractor/)
 

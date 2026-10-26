@@ -1,13 +1,13 @@
 ---
 title: Missouri NASCLA Electrical Exam: License and Prep Guide
 url: https://passyournasclaexam.com/missouri/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How to earn a Missouri statewide electrical contractor license with the NASCLA electrical exam: OSEC rules, hours, insurance, PSI testing and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Missouri
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Missouri NASCLA Electrical Exam and Statewide Electrical Contractor License
 
@@ -187,7 +187,7 @@ Yes. You can retest as many times as you need during your 2-year eligibility per
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies, Accredited Electrical Examination Program](https://www.nascla.org/page/ParticipatingAgencies_Electrical)
 2. [NASCLA: Accredited Electrical Examination Program](https://www.nascla.org/page/ElectricalExams)

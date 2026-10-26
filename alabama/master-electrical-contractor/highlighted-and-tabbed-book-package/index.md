@@ -1,13 +1,13 @@
 ---
 title: Alabama Master Electrical Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/alabama/master-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama NASCLA Master Electrical Contractor Exam with a comprehensive highlighted and tabbed book package designed around the references used.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Master Electrical Contractor](https://passyournasclaexam.com/alabama/master-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Master Electrical](https://passyournasclaexam.com/alabama/master-electrical-contractor/)
 

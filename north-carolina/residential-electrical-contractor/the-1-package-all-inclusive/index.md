@@ -1,13 +1,13 @@
 ---
 title: North Carolina Residential Electrical The 1 Package
 url: https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the North Carolina NASCLA Residential Electrical Contractor examination, organize your North Carolina electrical contractor licensing.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Residential Electrical Contractor](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) The 1 Package: All-Inclusive
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Residential Electrical](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
 

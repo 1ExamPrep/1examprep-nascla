@@ -1,13 +1,13 @@
 ---
 title: Connecticut Business and Law Exam: Contractor License Guide
 url: https://passyournasclaexam.com/connecticut/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How to get a Connecticut contractor license: who needs the PSI Business and Law exam, the NASCLA 6th Edition guide, fees, experience and how to prepare.
 ---
 
 [Home](https://passyournasclaexam.com/) Connecticut
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Connecticut Business and Law Exam and Contractor License Guide
 
@@ -35,7 +35,7 @@ Through the Connecticut licensing board and its testing vendor, not through NASC
 
 ## Key takeaways
 
-- 6 Connecticut products for 1 exam, from $19.95 to $264.99.
+- 6 Connecticut products for 1 exam, from $19.95 to $309.99.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
 ## Choose your Connecticut exam
@@ -188,7 +188,7 @@ PSI says each passed portion is valid for two years from the pass date, and cont
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Connecticut DCP: About Careers in the Trades](https://portal.ct.gov/dcp/occupational-and-professional-division/occupational--profess/about-careers-in-the-trades)
 2. [PSI Services: Connecticut DCP Electrical Trades Candidate Information Bulletin](https://test-takers.psiexams.com/api/content/bulletin/49)
@@ -241,19 +241,19 @@ Connecticut · Business & Law
 
 ### [Business & Law Guide (6th Ed.)](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-6th-ed/)
 
-The Connecticut NASCLA Contractors Guide to Business, Law and Project Management, 6th Edition is an official reference published for the Connecticut State Department of…
+Build a stronger foundation in construction business management with the . Published by the National Association of State Contractor Licensing Agencies (NASCLA), this state-specific…
 
-$124.99 (was $137.25) Save 9%
-[Buy now](https://1examprep.com/cart/3306640277530:1) · [Details](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-6th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50929978638393:1) · [Details](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-6th-ed/)
 
 Connecticut · Business & Law
 
 ### [Business & Law Guide + Tabs (6th Ed.)](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed/)
 
-Connecticut NASCLA Contractors Guide to Business, Law and Project Management, Connecticut 6th Edition – Tabs Bundle [Book + Tabs] The *Connecticut NASCLA Contractors Guide…
+Prepare for Connecticut contractor business and law examinations with the from 1 Exam Prep. This convenient package includes the Connecticut-specific NASCLA reference book and…
 
-$134.99 (was $148.35) Save 9% options to $174.99
-[Buy now](https://1examprep.com/cart/45892347035705:1) · [Details](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed/)
+$149.99 (was $199.99) Save 25% options to $309.99
+[Buy now](https://1examprep.com/cart/50930007408697:1) · [Details](https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed/)
 
 Connecticut licensing
 

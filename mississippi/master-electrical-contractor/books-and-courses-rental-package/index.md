@@ -1,13 +1,13 @@
 ---
 title: Mississippi Master Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/mississippi/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the Mississippi contractor licensing process with a complete rental.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Master Electrical Contractor](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) Books & Courses Rental Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Master Electrical](https://passyournasclaexam.com/mississippi/master-electrical-contractor/)
 

@@ -1,19 +1,19 @@
 ---
 title: Alabama NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/alabama/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Alabama commercial general building contractor exam prep: 8 products from $199.99 to $5,310.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Alabama Commercial General Building Contractor Exam Prep
 
 NASCLA Commercial General Building Contractor exam prep for Alabama. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 8](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/alabama/master-electrical-contractor/) · [Journeyman 7](https://passyournasclaexam.com/alabama/journeyman-electrician/) · [Business & Law 12](https://passyournasclaexam.com/alabama/business-and-law/)
+[Commercial GC 8](https://passyournasclaexam.com/alabama/commercial-general-building-contractor/) · [Master Electrical 6](https://passyournasclaexam.com/alabama/master-electrical-contractor/) · [Journeyman 7](https://passyournasclaexam.com/alabama/journeyman-electrician/) · [Business & Law 10](https://passyournasclaexam.com/alabama/business-and-law/)
 
 ## Quick answers
 

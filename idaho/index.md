@@ -1,13 +1,13 @@
 ---
 title: Idaho NASCLA Electrical Exam: Journeyman and Master Guide
 url: https://passyournasclaexam.com/idaho/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the Idaho NASCLA electrical exam works for journeyman and master electricians: PSI testing, hours, fees, contractor rules, and the prep packages that fit.
 ---
 
 [Home](https://passyournasclaexam.com/) Idaho
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Idaho NASCLA Electrical Exam: How to Get Your Journeyman or Master License
 
@@ -188,7 +188,7 @@ Often, yes. Passing scores are stored in NASCLA's National Examination Database,
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Idaho Electrical Board participating agency page](https://www.nascla.org/electrical-exams-participating-state-agencies/idaho-electrical-board-division-occupational-and)
 2. [NASCLA: Electrical exam participating agencies](https://www.nascla.org/page/ParticipatingAgencies_Electrical)

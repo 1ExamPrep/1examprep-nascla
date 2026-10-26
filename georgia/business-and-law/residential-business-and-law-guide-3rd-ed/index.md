@@ -1,19 +1,19 @@
 ---
 title: Georgia Residential Business & Law Guide (3rd Ed.)
 url: https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-3rd-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Georgia Residential and General Contractor Business and Law Examination with the from 1 Exam Prep. This Georgia-specific reference book.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Residential Business & Law Guide (3rd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 
 # Georgia Residential & General Contractors NASCLA Contractor's Guide to Business, Law and Project Management, 3rd Edition
 
-$124.99 (was $174.99) Save 29%[Buy now](https://1examprep.com/cart/50819765927993:1)
+$124.99 (was $174.99) Save 29%Choose an option[Buy now](https://1examprep.com/cart/50930568265785:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -22,6 +22,7 @@ $124.99 (was $174.99) Save 29%[Buy now](https://1examprep.com/cart/5081976592799
 ## Key takeaways
 
 - Georgia Business and Law, Residential Business & Law Guide (3rd Ed.): $124.99, down from $174.99.
+- 3 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -409,7 +410,7 @@ The guide covers business planning, contractor licensing, estimating, bidding, c
 Yes. Georgia residential contractor applicants must satisfy the applicable Business and Law examination requirement.
 
 ### Other Georgia Business & Law options
-[Online Exam Prep Course Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/) · [Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide Tabs (5th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/) · [Residential Business & Law Guide + Tabs (3rd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed/)
+[Online Exam Prep Course Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/online-exam-prep-course/) · [Residential Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed/) · [Business & Law Guide Tabs (5th Ed.) Business & Law**$24.95**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-tabs-5th-ed/) · [Business & Law Guide (5th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-5th-ed/) · [Residential Business & Law Guide + Tabs (3rd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed/) · [Business & Law Guide + Tabs (5th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-plus-tabs-5th-ed/)
 
 ### Other Georgia exams
 
@@ -429,7 +430,7 @@ Yes. Georgia residential contractor applicants must satisfy the applicable Busin
 
 ### Questions
 
-- [Georgia Business & Law FAQ (38 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
+- [Georgia Business & Law FAQ (35 answers)](https://passyournasclaexam.com/faq/georgia/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

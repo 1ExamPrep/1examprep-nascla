@@ -1,19 +1,19 @@
 ---
 title: NASCLA Journeyman Electrician Exam Prep, Nationwide
 url: https://passyournasclaexam.com/national/journeyman-electrician/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Nationwide journeyman electrician exam prep: 4 products from $395.00 to $1,395.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) Journeyman Electrician
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide Journeyman Electrician Exam Prep
 
 NASCLA accredited journeyman exam for Nationwide. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 7](https://passyournasclaexam.com/national/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/national/master-electrical-contractor/) · [Journeyman 4](https://passyournasclaexam.com/national/journeyman-electrician/) · [Residential Electrical 4](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [Business & Law 8](https://passyournasclaexam.com/national/business-and-law/)
+[Commercial GC 7](https://passyournasclaexam.com/national/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/national/master-electrical-contractor/) · [Journeyman 4](https://passyournasclaexam.com/national/journeyman-electrician/) · [Residential Electrical 4](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [Business & Law 9](https://passyournasclaexam.com/national/business-and-law/)
 
 ## Quick answers
 

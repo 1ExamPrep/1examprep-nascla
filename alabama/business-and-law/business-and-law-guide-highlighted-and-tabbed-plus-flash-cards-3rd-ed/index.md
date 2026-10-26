@@ -1,19 +1,19 @@
 ---
 title: Alabama B&L Guide H&T + Flash Cards (3rd Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-3rd-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama General Contractor Business and Law Examination with the from 1 Exam Prep. This comprehensive study package combines the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 
 # Alabama General Contractors NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, 3rd Edition + Flash Cards Bundle
 
-$264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/50817751580729:1)
+$309.99 (was $375.00) Save 17%Choose an option[Buy now](https://1examprep.com/cart/50930255364153:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,8 @@ $264.99 (was $314.99) Save 16%[Buy now](https://1examprep.com/cart/5081775158072
 
 ## Key takeaways
 
-- Alabama Business and Law, Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.): $264.99, down from $314.99.
+- Alabama Business and Law, Business & Law Guide Highlighted & Tabbed + Flash Cards (3rd Ed.): $309.99, down from $375.00.
+- 2 options to choose from at checkout; the price updates when you pick one.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -348,7 +349,7 @@ Flash cards encourage active recall and repeated review of important terminology
 No. The bundle includes the highlighted and tabbed physical NASCLA reference book and supplemental flash cards.
 
 ### Other Alabama Business & Law options
-[Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-tabs-3rd-ed/) · [Residential Business & Law Guide Tabs (4th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-tabs-4th-ed/) · [Residential Business & Law Guide (4th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/) · [Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/) · [Business & Law Guide + Tabs (3rd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/) · [Residential Business & Law Guide + Tabs (4th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed/)
+[Business & Law Guide Tabs (3rd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-tabs-3rd-ed/) · [Residential Business & Law Guide Tabs (4th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-tabs-4th-ed/) · [Business & Law Guide (3rd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-3rd-ed/) · [Residential Business & Law Guide (4th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/) · [Business & Law Guide + Tabs (3rd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-plus-tabs-3rd-ed/) · [Residential Business & Law Guide + Tabs (4th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-plus-tabs-4th-ed/)
 
 ### Other Alabama exams
 
@@ -370,7 +371,7 @@ No. The bundle includes the highlighted and tabbed physical NASCLA reference boo
 
 ### Questions
 
-- [Alabama Business & Law FAQ (17 answers)](https://passyournasclaexam.com/faq/alabama/business-and-law/)
+- [Alabama Business & Law FAQ (30 answers)](https://passyournasclaexam.com/faq/alabama/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

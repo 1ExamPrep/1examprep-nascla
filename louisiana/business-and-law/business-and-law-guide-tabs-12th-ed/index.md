@@ -1,19 +1,19 @@
 ---
 title: Louisiana Business & Law Guide Tabs (12th Ed.)
 url: https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-tabs-12th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The NASCLA Contractors Guide to Business, Law and Project Management, Louisiana General Contractors 12th Edition, is published under the authority of the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) Business & Law Guide Tabs (12th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business & Law](https://passyournasclaexam.com/louisiana/business-and-law/)
 
 # Louisiana General Contractors NASCLA Contractors Guide to Business, Law and Project Management, LA, General Contractors, 12th Edition; Pre-Printed Tabs
 
-$19.95 (was $22.00) Save 9%[Buy now](https://1examprep.com/cart/31694812250169:1)
+$24.95 (was $35.00) Save 29%[Buy now](https://1examprep.com/cart/31694812250169:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,7 @@ $19.95 (was $22.00) Save 9%[Buy now](https://1examprep.com/cart/31694812250169:1
 
 ## Key takeaways
 
-- Louisiana Business and Law, Business & Law Guide Tabs (12th Ed.): $19.95, down from $22.00.
+- Louisiana Business and Law, Business & Law Guide Tabs (12th Ed.): $24.95, down from $35.00.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -54,7 +54,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Louisiana Business & Law options
-[Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide (12th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/) · [Business & Law Guide + Tabs (12th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide Highlighted & Tabbed (12th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/)
+[Business & Law Guide (12th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/) · [Business & Law Guide (2nd Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-2nd-ed/) · [Business & Law Guide + Tabs (12th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-12th-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide Highlighted & Tabbed (12th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-12th-ed/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/)
 
 ### Other Louisiana exams
 
@@ -75,7 +75,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 
 ### Questions
 
-- [Louisiana Business & Law FAQ (27 answers)](https://passyournasclaexam.com/faq/louisiana/business-and-law/)
+- [Louisiana Business & Law FAQ (29 answers)](https://passyournasclaexam.com/faq/louisiana/business-and-law/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

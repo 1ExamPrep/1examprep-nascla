@@ -1,13 +1,13 @@
 ---
 title: Virginia NASCLA Exam: Contractor and Electrician Guide
 url: https://passyournasclaexam.com/virginia/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: How the Virginia NASCLA exam fits Class A, B and C contractor licensing and electrician licenses, plus business exam details, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Virginia
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia NASCLA Exam: Contractor and Electrician Licensing
 
@@ -27,7 +27,7 @@ Yes. Virginia accepts the NASCLA Accredited Examination for Commercial General B
 
 ### Which NASCLA exams can I prepare for in Virginia?
 
-Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (7 products from $295.00); Journeyman Electrician (5 products from $295.00); Business and Law (5 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (7 products from $295.00); Journeyman Electrician (5 products from $295.00); Business and Law (6 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -35,7 +35,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 25 Virginia products for 4 exams, from $19.95 to $4,674.00.
+- 26 Virginia products for 4 exams, from $19.95 to $4,674.00.
 - Virginia accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -56,7 +56,7 @@ See Master Electrical packages →](https://passyournasclaexam.com/virginia/mast
 ### Virginia Journeyman Electrician
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA journeyman exam.
-See Journeyman packages →](https://passyournasclaexam.com/virginia/journeyman-electrician/) · [5 PRODUCTS · FROM $19.95
+See Journeyman packages →](https://passyournasclaexam.com/virginia/journeyman-electrician/) · [6 PRODUCTS · FROM $19.95
 
 ### Virginia Business and Law
 
@@ -229,7 +229,7 @@ Yes. You bring your own approved references, which the test center does not prov
 
 ## Sources
 
-Facts on this page come from these official sources, checked October 19, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked October 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Participating Agencies (Electrical Program)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)
@@ -365,7 +365,7 @@ $1,145.00 (was $1,345.00) Save 15%
 
 ### Virginia Business and Law packages
 
-[All 5 products →](https://passyournasclaexam.com/virginia/business-and-law/)
+[All 6 products →](https://passyournasclaexam.com/virginia/business-and-law/)
 
 Virginia · Business & Law
 
@@ -382,17 +382,17 @@ Virginia · Business & Law
 
 The NASCLA Contractors Guide to Business, Law and Project Management – Virginia 11th Edition is the official reference for the National Association of State…
 
-$19.95 (was $22.00) Save 9%
+$24.95 (was $35.00) Save 29%
 [Buy now](https://1examprep.com/cart/45416010186809:1) · [Details](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-11th-ed/)
 
 Virginia · Business & Law
 
 ### [Business & Law Guide (11th Ed.)](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/)
 
-The is an officially recognized reference by the Virginia Board for Contractors (DPOR) for candidates preparing for the NASCLA Accredited Trade Examination. Published by…
+Prepare for your Virginia contractor licensing examination with the . This comprehensive reference manual provides essential information about construction business operations, contractor licensing, legal…
 
-$124.99 (was $138.25) Save 10%
-[Buy now](https://1examprep.com/cart/32226246605:1) · [Details](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/)
+$124.99 (was $174.99) Save 29% options to $264.99
+[Buy now](https://1examprep.com/cart/50946473230393:1) · [Details](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/)
 
 Virginia licensing
 

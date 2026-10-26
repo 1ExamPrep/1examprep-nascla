@@ -1,13 +1,13 @@
 ---
 title: Louisiana Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/louisiana/master-electrical-contractor/exam-book-package/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a complete reference-book package designed around the electrical code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Master Electrical Contractor](https://passyournasclaexam.com/louisiana/master-electrical-contractor/) Exam Book Package
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Master Electrical](https://passyournasclaexam.com/louisiana/master-electrical-contractor/)
 

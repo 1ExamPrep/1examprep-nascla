@@ -1,19 +1,19 @@
 ---
 title: NASCLA Commercial GC Prep, Nationwide
 url: https://passyournasclaexam.com/national/commercial-general-building-contractor/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: Nationwide commercial general building contractor exam prep: 7 products from $95.00 to $7,495.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) Commercial General Building Contractor
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide Commercial General Building Contractor Exam Prep
 
 NASCLA Commercial General Building Contractor exam prep for Nationwide. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 7](https://passyournasclaexam.com/national/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/national/master-electrical-contractor/) · [Journeyman 4](https://passyournasclaexam.com/national/journeyman-electrician/) · [Residential Electrical 4](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [Business & Law 8](https://passyournasclaexam.com/national/business-and-law/)
+[Commercial GC 7](https://passyournasclaexam.com/national/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/national/master-electrical-contractor/) · [Journeyman 4](https://passyournasclaexam.com/national/journeyman-electrician/) · [Residential Electrical 4](https://passyournasclaexam.com/national/residential-electrical-contractor/) · [Business & Law 9](https://passyournasclaexam.com/national/business-and-law/)
 
 ## Quick answers
 

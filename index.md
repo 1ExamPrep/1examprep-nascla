@@ -1,7 +1,7 @@
 ---
 title: NASCLA Exam Prep: Commercial, Electrical, Business & Law
 url: https://passyournasclaexam.com/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for the commercial general building contractor exam accepted in 16 states, plus NASCLA electrical and business and law exams. Books, tabbed sets, rentals and online courses by state.
 ---
@@ -11,13 +11,13 @@ NASCLA exam prep, state by state
 # Walk in ready.
 Walk out licensed in *16 states*.
 
-Prep for the NASCLA Accredited Examination for Commercial General Building Contractors, plus NASCLA electrical and business and law exams. Book packages, highlighted and tabbed sets, rentals and online courses for 28 states.
+Prep for the NASCLA Accredited Examination for Commercial General Building Contractors, plus NASCLA electrical and business and law exams. Book packages, highlighted and tabbed sets, rentals and online courses for 29 states.
 
 Find my examSee the study plan
 
 ## Key takeaways
 
-- 435 NASCLA prep products across 28 states and nationwide editions, from $19.95 to $7,495.00.
+- 460 NASCLA prep products across 29 states and nationwide editions, from $19.95 to $7,495.00.
 - The commercial exam is 115 scored questions in 330 minutes, open book, 70% to pass, and accepted in 16 states plus the U.S. Virgin Islands.
 - Every Buy now button opens secure checkout at our fulfillment center, 1 Exam Prep.
 
@@ -58,7 +58,7 @@ Prep for NASCLA accredited residential electrical contractor exams, with book pa
 ### Business and Law
 
 Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's Guide to.
-18 states · 116 products →](https://passyournasclaexam.com/business-and-law/)
+20 states · 141 products →](https://passyournasclaexam.com/business-and-law/)
 
 How to pass
 
@@ -177,9 +177,10 @@ Pick your state to see its exams. Each board sets its own rules for using NASCLA
 - [Nebraska](https://passyournasclaexam.com/nebraska/) [Master Electrical](https://passyournasclaexam.com/nebraska/master-electrical-contractor/) · [Journeyman](https://passyournasclaexam.com/nebraska/journeyman-electrician/) · [Residential Electrical](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/)
 - [Nevada](https://passyournasclaexam.com/nevada/) [Commercial GC](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/)
 - [New Jersey](https://passyournasclaexam.com/new-jersey/) [Business & Law](https://passyournasclaexam.com/new-jersey/business-and-law/)
-- [New Mexico](https://passyournasclaexam.com/new-mexico/) [Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/) · [Master Electrical](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) · [Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/) · [Residential Electrical](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
+- [New Mexico](https://passyournasclaexam.com/new-mexico/) [Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/) · [Master Electrical](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) · [Journeyman](https://passyournasclaexam.com/new-mexico/journeyman-electrician/) · [Residential Electrical](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/) · [Business & Law](https://passyournasclaexam.com/new-mexico/business-and-law/)
 - [North Carolina](https://passyournasclaexam.com/north-carolina/) [Commercial GC](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law](https://passyournasclaexam.com/north-carolina/business-and-law/)
 - [Ohio](https://passyournasclaexam.com/ohio/) [Business & Law](https://passyournasclaexam.com/ohio/business-and-law/)
+- [Oklahoma](https://passyournasclaexam.com/oklahoma/) [Business & Law](https://passyournasclaexam.com/oklahoma/business-and-law/)
 - [Oregon](https://passyournasclaexam.com/oregon/) [Commercial GC](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) · [Business & Law](https://passyournasclaexam.com/oregon/business-and-law/)
 - [South Carolina](https://passyournasclaexam.com/south-carolina/) [Commercial GC](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/) · [Master Electrical](https://passyournasclaexam.com/south-carolina/master-electrical-contractor/) · [Residential Electrical](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/) · [Business & Law](https://passyournasclaexam.com/south-carolina/business-and-law/)
 - [Tennessee](https://passyournasclaexam.com/tennessee/) [Commercial GC](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/) · [Master Electrical](https://passyournasclaexam.com/tennessee/master-electrical-contractor/) · [Journeyman](https://passyournasclaexam.com/tennessee/journeyman-electrician/) · [Business & Law](https://passyournasclaexam.com/tennessee/business-and-law/)
@@ -215,7 +216,7 @@ Use the editions named in the current NASCLA candidate information. Questions ar
 
 The same reference books, already tabbed and highlighted so you can flip to the right section fast. Most people find it saves hours of setup and a lot of time on exam day.
 
-[All 789 questions](https://passyournasclaexam.com/faq/)
+[All 995 questions](https://passyournasclaexam.com/faq/)
 
 Ready when you are
 

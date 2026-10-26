@@ -1,19 +1,19 @@
 ---
 title: Virginia Business & Law Guide Tabs (11th Ed.)
 url: https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-11th-ed/
-updated: 2026-10-19
+updated: 2026-10-26
 site: Pass Your NASCLA Exam Prep
 description: The NASCLA Contractors Guide to Business, Law and Project Management – Virginia 11th Edition is the official reference for the National Association of State.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Business and Law](https://passyournasclaexam.com/virginia/business-and-law/) Business & Law Guide Tabs (11th Ed.)
-Updated October 19, 2026 · prices checked against the 1 Exam Prep store
+Updated October 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Business & Law](https://passyournasclaexam.com/virginia/business-and-law/)
 
 # Virginia NASCLA Contractors Guide to Business, Law and Project Management, Virginia 11th Edition; Pre-Printed Tabs
 
-$19.95 (was $22.00) Save 9%[Buy now](https://1examprep.com/cart/45416010186809:1)
+$24.95 (was $35.00) Save 29%[Buy now](https://1examprep.com/cart/45416010186809:1)
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
@@ -21,7 +21,7 @@ $19.95 (was $22.00) Save 9%[Buy now](https://1examprep.com/cart/45416010186809:1
 
 ## Key takeaways
 
-- Virginia Business and Law, Business & Law Guide Tabs (11th Ed.): $19.95, down from $22.00.
+- Virginia Business and Law, Business & Law Guide Tabs (11th Ed.): $24.95, down from $35.00.
 - Online courses arrive by email; books ship from our fulfillment center, 1 Exam Prep.
 - Buying does not grant exam eligibility; NASCLA approves you to test and your state board issues the license.
 
@@ -54,7 +54,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other Virginia Business & Law options
-[Business & Law Guide Tabs (10th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-10th-ed/) · [Business & Law Guide (11th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/) · [Business & Law Guide + Tabs (11th Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-plus-tabs-11th-ed/) · [Business & Law Guide Highlighted & Tabbed (11th Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/)
+[Business & Law Guide Tabs (10th Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-tabs-10th-ed/) · [Business & Law Guide (11th Ed.) Business & Law**$124.99**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/) · [Business & Law Guide + Tabs (11th Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-plus-tabs-11th-ed/) · [Business & Law Guide Highlighted & Tabbed (11th Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-11th-ed/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (11th Ed.) Business & Law**$309.99**](https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-11th-ed/)
 
 ### Other Virginia exams
 
@@ -73,6 +73,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Hawaii](https://passyournasclaexam.com/hawaii/business-and-law/)
 - [Louisiana](https://passyournasclaexam.com/louisiana/business-and-law/)
 - [All states for this exam](https://passyournasclaexam.com/business-and-law/)
+
+### Questions
+
+- [Virginia Business & Law FAQ (18 answers)](https://passyournasclaexam.com/faq/virginia/business-and-law/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

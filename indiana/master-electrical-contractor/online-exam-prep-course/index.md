@@ -1,13 +1,13 @@
 ---
 title: Indiana Online Exam Prep Course | NASCLA Master Electrical
 url: https://passyournasclaexam.com/indiana/master-electrical-contractor/online-exam-prep-course/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with an online exam prep program focused on electrical theory, National.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) · [Master Electrical Contractor](https://passyournasclaexam.com/indiana/master-electrical-contractor/) Online Exam Prep Course
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Indiana](https://passyournasclaexam.com/indiana/) · [Master Electrical](https://passyournasclaexam.com/indiana/master-electrical-contractor/)
 

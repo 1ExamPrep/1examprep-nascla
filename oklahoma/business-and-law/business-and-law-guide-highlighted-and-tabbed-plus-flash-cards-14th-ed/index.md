@@ -1,13 +1,13 @@
 ---
 title: Oklahoma B&L Guide H&T + Flash Cards (14th Ed.)
 url: https://passyournasclaexam.com/oklahoma/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-14th-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Oklahoma NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, Basic 14th Edition + Flash Cards Bundle Prepare for your.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oklahoma](https://passyournasclaexam.com/oklahoma/) · [Business and Law](https://passyournasclaexam.com/oklahoma/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (14th Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Oklahoma](https://passyournasclaexam.com/oklahoma/) · [Business & Law](https://passyournasclaexam.com/oklahoma/business-and-law/)
 

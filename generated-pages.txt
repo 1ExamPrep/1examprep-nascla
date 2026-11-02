@@ -388,7 +388,6 @@ new-jersey
 new-jersey/business-and-law
 new-jersey/business-and-law/business-and-law-guide-2nd-ed
 new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed
-new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed-2
 new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed
 new-jersey/business-and-law/business-and-law-guide-plus-tabs-2nd-ed
 new-jersey/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2

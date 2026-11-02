@@ -1,13 +1,13 @@
 ---
 title: NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/business-and-law/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
-description: Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's. 141 products across 20 states, from $19.95.
+description: Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's. 140 products across 20 states, from $19.95.
 ---
 
 [Home](https://passyournasclaexam.com/) Business and Law
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 Contractor's Guide to Business, Law and Project Management
 
 # NASCLA Business and Law Exam Prep
@@ -16,7 +16,7 @@ Most states pair the trade exam with a business and law exam, usually written fr
 
 ## Key takeaways
 
-- 141 products for this exam across 20 states plus nationwide editions, from $19.95 to $399.99.
+- 140 products for this exam across 20 states plus nationwide editions, from $19.95 to $399.99.
 - Each state has its own edition of the guide; use the one your state names.
 - Tabbed and highlighted copies are cleared for open-book use in most states, but confirm with your candidate bulletin.
 - Pair it with your trade exam package from the same state page.
@@ -43,7 +43,7 @@ From $19.95 to $399.99, depending on whether you want a single book or tabs, a b
 - [Louisiana](https://passyournasclaexam.com/louisiana/business-and-law/) [9 products from $24.95](https://passyournasclaexam.com/louisiana/business-and-law/)
 - [Maryland](https://passyournasclaexam.com/maryland/business-and-law/) [7 products from $24.95](https://passyournasclaexam.com/maryland/business-and-law/)
 - [Mississippi](https://passyournasclaexam.com/mississippi/business-and-law/) [5 products from $24.95](https://passyournasclaexam.com/mississippi/business-and-law/)
-- [New Jersey](https://passyournasclaexam.com/new-jersey/business-and-law/) [7 products from $19.95](https://passyournasclaexam.com/new-jersey/business-and-law/)
+- [New Jersey](https://passyournasclaexam.com/new-jersey/business-and-law/) [6 products from $19.95](https://passyournasclaexam.com/new-jersey/business-and-law/)
 - [New Mexico](https://passyournasclaexam.com/new-mexico/business-and-law/) [4 products from $124.99](https://passyournasclaexam.com/new-mexico/business-and-law/)
 - [North Carolina](https://passyournasclaexam.com/north-carolina/business-and-law/) [11 products from $24.95](https://passyournasclaexam.com/north-carolina/business-and-law/)
 - [Ohio](https://passyournasclaexam.com/ohio/business-and-law/) [4 products from $124.99](https://passyournasclaexam.com/ohio/business-and-law/)

@@ -1,13 +1,13 @@
 ---
 title: North Carolina B&L Guide H&T + Flash Cards (10th Ed.)
 url: https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-10th-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your North Carolina general contractor licensing examination with the . This comprehensive exam preparation package combines a professionally.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (10th Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business & Law](https://passyournasclaexam.com/north-carolina/business-and-law/)
 

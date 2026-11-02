@@ -1,13 +1,13 @@
 ---
 title: Louisiana NASCLA Master Electrical FAQ
 url: https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: 27 answers about the Louisiana master electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Louisiana Master Electrical
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana Master Electrical Contractor exam: frequently asked questions
 

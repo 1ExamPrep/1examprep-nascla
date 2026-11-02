@@ -1,13 +1,13 @@
 ---
 title: New Jersey Business & Law Guide (2nd Ed.)
 url: https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-2nd-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your New Jersey contractor licensing examination with the . This essential reference book helps licensing candidates understand the business.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Jersey](https://passyournasclaexam.com/new-jersey/) · [Business and Law](https://passyournasclaexam.com/new-jersey/business-and-law/) Business & Law Guide (2nd Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [New Jersey](https://passyournasclaexam.com/new-jersey/) · [Business & Law](https://passyournasclaexam.com/new-jersey/business-and-law/)
 
@@ -357,7 +357,7 @@ Yes. The publication also serves as a business reference covering estimating, co
 No. The book provides study and reference material. Examination results depend on individual knowledge, preparation, and performance. Professional licensing also requires satisfying the applicable New Jersey licensing authority's requirements. Build your New Jersey contractor business and law knowledge with the NASCLA 2nd Edition. This comprehensive reference helps licensing candidates study essential business concepts, develop effective open-book examination habits, and prepare for the professional responsibilities associated with construction and trade contracting in New Jersey. All products and company names are trademarks or registered trademarks and/or copyrights of their respective holders. Use of them does not imply any affiliation with or endorsement by the respective holders.
 
 ### Other New Jersey Business & Law options
-[Business & Law Guide Tabs (2nd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-tabs-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$219.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed-2/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.) Business & Law**$309.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/)
+[Business & Law Guide Tabs (2nd Ed.) Business & Law**$19.95**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-tabs-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$134.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/) · [Business & Law Guide + Tabs (2nd Ed.) Business & Law**$149.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2/) · [Business & Law Guide Highlighted & Tabbed (2nd Ed.) Business & Law**$264.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) · [Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.) Business & Law**$309.99**](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/)
 
 ### Business & Law in other states
 

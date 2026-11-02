@@ -1,13 +1,13 @@
 ---
 title: Alabama NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/alabama/business-and-law/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: 30 answers about the Alabama business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Alabama Business & Law
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 # Alabama Business and Law exam: frequently asked questions
 

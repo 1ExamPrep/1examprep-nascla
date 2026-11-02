@@ -1,13 +1,13 @@
 ---
 title: Alabama Residential Business & Law Guide (4th Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-4th-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama Residential Home Builder Business and Law Examination with the . Published by the National Association of State Contractor Licensing.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Residential Business & Law Guide (4th Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 

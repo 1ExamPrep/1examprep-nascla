@@ -1,13 +1,13 @@
 ---
 title: New Jersey NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/new-jersey/business-and-law/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: 7 answers about the New Jersey business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) New Jersey Business & Law
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 # New Jersey Business and Law exam: frequently asked questions
 

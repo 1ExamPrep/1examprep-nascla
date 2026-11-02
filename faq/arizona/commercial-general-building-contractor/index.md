@@ -1,13 +1,13 @@
 ---
 title: Arizona NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/arizona/commercial-general-building-contractor/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: 11 answers about the Arizona commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Arizona Commercial GC
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona Commercial General Building Contractor exam: frequently asked questions
 

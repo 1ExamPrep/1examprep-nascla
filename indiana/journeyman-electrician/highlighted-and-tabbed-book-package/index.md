@@ -1,13 +1,13 @@
 ---
 title: Indiana Journeyman Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/indiana/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Vanderburgh County, Indiana NASCLA Journeyman Electrician examination with a professionally organized reference library designed for.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) · [Journeyman Electrician](https://passyournasclaexam.com/indiana/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Indiana](https://passyournasclaexam.com/indiana/) · [Journeyman](https://passyournasclaexam.com/indiana/journeyman-electrician/)
 

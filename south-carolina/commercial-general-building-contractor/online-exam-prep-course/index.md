@@ -1,13 +1,13 @@
 ---
 title: South Carolina Commercial GC Online Exam Prep Course
 url: https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the South Carolina NASCLA Commercial General Building Contractor exam with an online exam prep course built around organized study, commercial.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/) Online Exam Prep Course
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial GC](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/)
 

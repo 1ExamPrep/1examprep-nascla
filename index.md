@@ -1,7 +1,7 @@
 ---
 title: NASCLA Exam Prep: Commercial, Electrical, Business & Law
 url: https://passyournasclaexam.com/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for the commercial general building contractor exam accepted in 16 states, plus NASCLA electrical and business and law exams. Books, tabbed sets, rentals and online courses by state.
 ---
@@ -17,7 +17,7 @@ Find my examSee the study plan
 
 ## Key takeaways
 
-- 460 NASCLA prep products across 29 states and nationwide editions, from $19.95 to $7,495.00.
+- 459 NASCLA prep products across 29 states and nationwide editions, from $19.95 to $7,495.00.
 - The commercial exam is 115 scored questions in 330 minutes, open book, 70% to pass, and accepted in 16 states plus the U.S. Virgin Islands.
 - Every Buy now button opens secure checkout at our fulfillment center, 1 Exam Prep.
 
@@ -58,7 +58,7 @@ Prep for NASCLA accredited residential electrical contractor exams, with book pa
 ### Business and Law
 
 Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's Guide to.
-20 states · 141 products →](https://passyournasclaexam.com/business-and-law/)
+20 states · 140 products →](https://passyournasclaexam.com/business-and-law/)
 
 How to pass
 

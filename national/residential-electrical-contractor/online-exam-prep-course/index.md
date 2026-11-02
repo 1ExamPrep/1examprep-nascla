@@ -1,13 +1,13 @@
 ---
 title: NASCLA Residential Electrical Online Exam Prep Course
 url: https://passyournasclaexam.com/national/residential-electrical-contractor/online-exam-prep-course/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: The NASCLA Residential Electrical Online Exam Prep Course from Pass Your NASCLA Exam Prep is designed to prepare electricians for the NASCLA-accredited.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Residential Electrical Contractor](https://passyournasclaexam.com/national/residential-electrical-contractor/) Online Exam Prep Course
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Residential Electrical](https://passyournasclaexam.com/national/residential-electrical-contractor/)
 

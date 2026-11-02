@@ -1,13 +1,13 @@
 ---
 title: Virginia B&L Guide H&T + Flash Cards (11th Ed.)
 url: https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-11th-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Virginia contractor licensing examinations with the . This contractor examination preparation package combines a professionally highlighted.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Business and Law](https://passyournasclaexam.com/virginia/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (11th Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Business & Law](https://passyournasclaexam.com/virginia/business-and-law/)
 

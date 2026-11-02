@@ -1,13 +1,13 @@
 ---
 title: Connecticut B&L Guide H&T (6th Ed.) (Option 2)
 url: https://passyournasclaexam.com/connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed-2/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for applicable Connecticut contractor licensing examinations with the from 1 Exam Prep. This professionally prepared reference book combines.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Connecticut](https://passyournasclaexam.com/connecticut/) · [Business and Law](https://passyournasclaexam.com/connecticut/business-and-law/) Business & Law Guide Highlighted & Tabbed (6th Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Connecticut](https://passyournasclaexam.com/connecticut/) · [Business & Law](https://passyournasclaexam.com/connecticut/business-and-law/)
 

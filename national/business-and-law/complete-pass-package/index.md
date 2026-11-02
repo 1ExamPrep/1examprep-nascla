@@ -1,13 +1,13 @@
 ---
 title: NASCLA Complete Pass Package | NASCLA Business & Law
 url: https://passyournasclaexam.com/national/business-and-law/complete-pass-package/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: The is designed for contractor candidates who need a structured way to prepare for business, law, and project management exam content using the Basic NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Business and Law](https://passyournasclaexam.com/national/business-and-law/) Complete Pass Package
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Business & Law](https://passyournasclaexam.com/national/business-and-law/)
 

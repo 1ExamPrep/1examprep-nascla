@@ -1,13 +1,13 @@
 ---
 title: Louisiana Commercial GC Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with a complete Louisiana reference package featuring highlighted.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial General Building Contractor](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/) Highlighted & Tabbed Book Package
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Commercial GC](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/)
 

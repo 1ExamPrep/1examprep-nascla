@@ -1,13 +1,13 @@
 ---
 title: Alabama Business & Law Guide Highlighted & Tabbed (3rd Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/business-and-law-guide-highlighted-and-tabbed-3rd-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama General Contractor Business and Law Examination with the from 1 Exam Prep. This specially prepared reference book combines the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Business & Law Guide Highlighted & Tabbed (3rd Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 

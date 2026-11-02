@@ -1,13 +1,13 @@
 ---
 title: Indiana Master Electrical Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/indiana/master-electrical-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Vanderburgh County, Indiana NASCLA Electrical Contractor examination with a comprehensive Ultimate exam prep package built for candidates.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) · [Master Electrical Contractor](https://passyournasclaexam.com/indiana/master-electrical-contractor/) Ultimate Exam Prep Rental Package
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Indiana](https://passyournasclaexam.com/indiana/) · [Master Electrical](https://passyournasclaexam.com/indiana/master-electrical-contractor/)
 

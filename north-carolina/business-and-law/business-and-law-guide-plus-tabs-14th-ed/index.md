@@ -1,13 +1,13 @@
 ---
 title: North Carolina Business & Law Guide + Tabs (14th Ed.)
 url: https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-plus-tabs-14th-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the business, law, and project management portion of your North Carolina electrical contractor licensing examination with the . This convenient.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) Business & Law Guide + Tabs (14th Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business & Law](https://passyournasclaexam.com/north-carolina/business-and-law/)
 

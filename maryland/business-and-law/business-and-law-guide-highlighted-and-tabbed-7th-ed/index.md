@@ -1,13 +1,13 @@
 ---
 title: Maryland Business & Law Guide Highlighted & Tabbed (7th Ed.)
 url: https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-highlighted-and-tabbed-7th-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Maryland Home Improvement NASCLA Contractor's Guide to Business, Law and Project Management, Home Improvement Commission, 7th Edition + Tabs Bundle Prepare.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Maryland](https://passyournasclaexam.com/maryland/) · [Business and Law](https://passyournasclaexam.com/maryland/business-and-law/) Business & Law Guide Highlighted & Tabbed (7th Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [Maryland](https://passyournasclaexam.com/maryland/) · [Business & Law](https://passyournasclaexam.com/maryland/business-and-law/)
 

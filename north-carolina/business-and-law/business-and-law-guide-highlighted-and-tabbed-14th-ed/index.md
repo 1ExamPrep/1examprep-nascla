@@ -1,13 +1,13 @@
 ---
 title: North Carolina B&L Guide H&T (14th Ed.)
 url: https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-highlighted-and-tabbed-14th-ed/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your North Carolina electrical contractor licensing examination with the . This professionally highlighted and tabbed reference book helps.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) Business & Law Guide Highlighted & Tabbed (14th Ed.)
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business & Law](https://passyournasclaexam.com/north-carolina/business-and-law/)
 

@@ -1,25 +1,25 @@
 ---
 title: New Jersey NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/new-jersey/business-and-law/
-updated: 2026-10-26
+updated: 2026-11-02
 site: Pass Your NASCLA Exam Prep
-description: New Jersey business and law exam prep: 7 products from $19.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: New Jersey business and law exam prep: 6 products from $19.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Jersey](https://passyournasclaexam.com/new-jersey/) Business and Law
-Updated October 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 # New Jersey Business and Law Exam Prep
 
 Contractor's Guide to Business, Law and Project Management for New Jersey. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Business & Law 7](https://passyournasclaexam.com/new-jersey/business-and-law/)
+[Business & Law 6](https://passyournasclaexam.com/new-jersey/business-and-law/)
 
 ## Quick answers
 
 ### How much does New Jersey business and law exam prep cost?
 
-New Jersey business and law prep runs from $19.95 to $309.99 across 7 products: Business & Law Guide Tabs (2nd Ed.) $19.95; Business & Law Guide (2nd Ed.) $124.99; Business & Law Guide + Tabs (2nd Ed.) $134.99; Business & Law Guide + Tabs (2nd Ed.) $149.99; Business & Law Guide Highlighted & Tabbed (2nd Ed.) $219.99; Business & Law Guide Highlighted & Tabbed (2nd Ed.) $264.99; Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.) $309.99.
+New Jersey business and law prep runs from $19.95 to $309.99 across 6 products: Business & Law Guide Tabs (2nd Ed.) $19.95; Business & Law Guide (2nd Ed.) $124.99; Business & Law Guide + Tabs (2nd Ed.) $134.99; Business & Law Guide + Tabs (2nd Ed.) $149.99; Business & Law Guide Highlighted & Tabbed (2nd Ed.) $264.99; Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.) $309.99.
 
 ### Which book is the New Jersey business and law exam based on?
 
@@ -27,12 +27,12 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 ## Key takeaways
 
-- 7 New Jersey business and law products, from $19.95 to $309.99.
+- 6 New Jersey business and law products, from $19.95 to $309.99.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
 ## Books and tabs
 
-7 items
+6 items
 
 [Business & Law Guide Tabs (2nd Ed.)](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-tabs-2nd-ed/) New Jersey · Business & Law $19.95[Buy now](https://1examprep.com/cart/2997902737434:1)
 
@@ -42,9 +42,7 @@ Most states write it from NASCLA's Contractor's Guide to Business, Law and Proje
 
 [Business & Law Guide + Tabs (2nd Ed.)](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2/) New Jersey · Business & Law $149.99[Buy now](https://1examprep.com/cart/50945288110137:1)
 
-[Business & Law Guide Highlighted & Tabbed (2nd Ed.)](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) New Jersey · Business & Law $219.99[Buy now](https://1examprep.com/cart/45892349067321:1)
-
-[Business & Law Guide Highlighted & Tabbed (2nd Ed.)](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed-2/) New Jersey · Business & Law $264.99[Buy now](https://1examprep.com/cart/50945290043449:1)
+[Business & Law Guide Highlighted & Tabbed (2nd Ed.)](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed/) New Jersey · Business & Law $264.99[Buy now](https://1examprep.com/cart/50945290043449:1)
 
 [Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.)](https://passyournasclaexam.com/new-jersey/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/) New Jersey · Business & Law $309.99[Buy now](https://1examprep.com/cart/50945293353017:1)
 

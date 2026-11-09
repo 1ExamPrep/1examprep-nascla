@@ -1,13 +1,13 @@
 ---
 title: Nebraska Books & Courses Rental Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/nebraska/journeyman-electrician/books-and-courses-rental-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Nebraska NASCLA Journeyman Electrician examination with a structured combination of online exam preparation and a complete highlighted and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Journeyman Electrician](https://passyournasclaexam.com/nebraska/journeyman-electrician/) Books & Courses Rental Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Journeyman](https://passyournasclaexam.com/nebraska/journeyman-electrician/)
 

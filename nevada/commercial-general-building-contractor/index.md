@@ -1,13 +1,13 @@
 ---
 title: Nevada NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/nevada/commercial-general-building-contractor/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Nevada commercial general building contractor exam prep: 5 products from $395.00 to $3,695.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nevada](https://passyournasclaexam.com/nevada/) Commercial General Building Contractor
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Nevada Commercial General Building Contractor Exam Prep
 

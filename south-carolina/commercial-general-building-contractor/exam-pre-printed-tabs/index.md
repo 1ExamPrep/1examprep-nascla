@@ -1,13 +1,13 @@
 ---
 title: South Carolina Exam Pre-Printed Tabs | NASCLA Commercial GC
 url: https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/exam-pre-printed-tabs/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: The South Carolina NASCLA Commercial General Building Contractor Exam Pre-Printed Tabs, available from Pass Your NASCLA Exam Prep, are precision-designed for.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/) Exam Pre-Printed Tabs
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Commercial GC](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/)
 

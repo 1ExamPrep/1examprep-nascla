@@ -1,13 +1,13 @@
 ---
 title: Nebraska Master Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/nebraska/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the Nebraska electrical contractor licensing process with a comprehensive.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Master Electrical Contractor](https://passyournasclaexam.com/nebraska/master-electrical-contractor/) Books & Courses Rental Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Master Electrical](https://passyournasclaexam.com/nebraska/master-electrical-contractor/)
 

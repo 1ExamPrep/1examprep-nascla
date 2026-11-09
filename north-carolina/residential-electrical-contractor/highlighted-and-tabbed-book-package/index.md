@@ -1,13 +1,13 @@
 ---
 title: North Carolina Residential Electrical H&T Book Package
 url: https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the North Carolina NASCLA Residential Electrical Contractor examination with an organized highlighted and tabbed reference-book package covering.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Residential Electrical Contractor](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Residential Electrical](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
 

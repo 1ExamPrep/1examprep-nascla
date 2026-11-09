@@ -59,6 +59,7 @@ arizona/residential-electrical-contractor
 arizona/residential-electrical-contractor/books-and-courses-rental-package
 arizona/residential-electrical-contractor/exam-book-package
 arizona/residential-electrical-contractor/highlighted-and-tabbed-book-package
+arizona/residential-electrical-contractor/live-virtual-plus-self-study-training
 arizona/residential-electrical-contractor/online-exam-prep-course
 arizona/residential-electrical-contractor/online-practice-questions
 arizona/residential-electrical-contractor/the-1-package-all-inclusive

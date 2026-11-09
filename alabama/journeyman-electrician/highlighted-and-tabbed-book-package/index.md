@@ -1,13 +1,13 @@
 ---
 title: Alabama Journeyman Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/alabama/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama NASCLA Journey Level Electrician Exam with a complete reference package built around the books listed for the current NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Journeyman Electrician](https://passyournasclaexam.com/alabama/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Journeyman](https://passyournasclaexam.com/alabama/journeyman-electrician/)
 

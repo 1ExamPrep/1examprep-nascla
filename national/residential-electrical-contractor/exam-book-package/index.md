@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam Book Package | NASCLA Residential Electrical
 url: https://passyournasclaexam.com/national/residential-electrical-contractor/exam-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: The by Pass Your NASCLA Exam Prep includes all officially approved reference materials required for the NASCLA Accredited Examination for Residential.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Residential Electrical Contractor](https://passyournasclaexam.com/national/residential-electrical-contractor/) Exam Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Residential Electrical](https://passyournasclaexam.com/national/residential-electrical-contractor/)
 

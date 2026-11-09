@@ -1,13 +1,13 @@
 ---
 title: North Carolina NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/north-carolina/business-and-law/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: North Carolina business and law exam prep: 11 products from $24.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) Business and Law
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # North Carolina Business and Law Exam Prep
 

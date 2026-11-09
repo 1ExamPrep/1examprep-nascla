@@ -1,13 +1,13 @@
 ---
 title: Mississippi NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/mississippi/business-and-law/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Mississippi business and law exam prep: 5 products from $24.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) Business and Law
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Mississippi Business and Law Exam Prep
 

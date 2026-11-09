@@ -1,13 +1,13 @@
 ---
 title: Nebraska Master Electrical The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/nebraska/master-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Nebraska electrical contractor licensing with an all-inclusive package that combines NASCLA Master Electrical Contractor exam preparation.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Master Electrical Contractor](https://passyournasclaexam.com/nebraska/master-electrical-contractor/) The 1 Package: All-Inclusive
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Master Electrical](https://passyournasclaexam.com/nebraska/master-electrical-contractor/)
 

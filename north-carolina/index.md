@@ -1,13 +1,13 @@
 ---
 title: North Carolina NASCLA Exam: License and Prep Guide
 url: https://passyournasclaexam.com/north-carolina/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: How the North Carolina NASCLA exam works for general and electrical contractor licenses, the extra state exams, financial rules, fees and prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) North Carolina
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # North Carolina NASCLA Exam: Licensing Rules and Prep
 
@@ -207,7 +207,7 @@ Yes. Qualified individuals on Limited, Intermediate, Unlimited and SP-SFD licens
 
 ## Sources
 
-Facts on this page come from these official sources, checked November 2, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked November 9, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Participating Agencies (Electrical Exams)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)

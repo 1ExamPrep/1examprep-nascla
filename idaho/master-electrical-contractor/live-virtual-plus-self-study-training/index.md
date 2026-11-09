@@ -1,13 +1,13 @@
 ---
 title: Idaho Master Electrical Live Virtual + Self-Study Training
 url: https://passyournasclaexam.com/idaho/master-electrical-contractor/live-virtual-plus-self-study-training/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a flexible training program that combines live virtual instruction with.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Idaho](https://passyournasclaexam.com/idaho/) · [Master Electrical Contractor](https://passyournasclaexam.com/idaho/master-electrical-contractor/) Live Virtual + Self-Study Training
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Idaho](https://passyournasclaexam.com/idaho/) · [Master Electrical](https://passyournasclaexam.com/idaho/master-electrical-contractor/)
 

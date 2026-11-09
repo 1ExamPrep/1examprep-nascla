@@ -1,13 +1,13 @@
 ---
 title: Mississippi Commercial GC The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/the-1-package-all-inclusive/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Mississippi commercial contractor licensing with an all-inclusive package that combines NASCLA Commercial General Building Contractor exam.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Commercial General Building Contractor](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/) The 1 Package: All-Inclusive
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Commercial GC](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/)
 

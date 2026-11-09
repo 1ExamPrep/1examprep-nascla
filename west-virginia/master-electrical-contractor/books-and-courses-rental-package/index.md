@@ -1,13 +1,13 @@
 ---
 title: West Virginia Master Electrical Book + Course Rental
 url: https://passyournasclaexam.com/west-virginia/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the West Virginia contractor licensing process with a comprehensive rental.
 ---
 
 [Home](https://passyournasclaexam.com/) · [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical Contractor](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/) Books & Courses Rental Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/)
 

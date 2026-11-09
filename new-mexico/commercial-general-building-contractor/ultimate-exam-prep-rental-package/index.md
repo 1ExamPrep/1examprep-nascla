@@ -1,13 +1,13 @@
 ---
 title: New Mexico Commercial GC Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the New Mexico NASCLA Commercial General Building Contractor exam with a comprehensive Ultimate Exam Prep Rental Package that combines an.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Commercial General Building Contractor](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Commercial GC](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
 

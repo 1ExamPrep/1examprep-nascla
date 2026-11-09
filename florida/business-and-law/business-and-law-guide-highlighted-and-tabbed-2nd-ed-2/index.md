@@ -1,13 +1,13 @@
 ---
 title: Florida B&L Guide H&T (2nd Ed.) (Option 2)
 url: https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-highlighted-and-tabbed-2nd-ed-2/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Florida county contractor Business and Law Examination with the from 1 Exam Prep. This professionally prepared study reference combines an.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Business and Law](https://passyournasclaexam.com/florida/business-and-law/) Business & Law Guide Highlighted & Tabbed (2nd Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Business & Law](https://passyournasclaexam.com/florida/business-and-law/)
 

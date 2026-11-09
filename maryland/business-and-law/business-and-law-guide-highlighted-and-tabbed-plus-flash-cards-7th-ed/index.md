@@ -1,13 +1,13 @@
 ---
 title: Maryland B&L Guide H&T + Flash Cards (7th Ed.)
 url: https://passyournasclaexam.com/maryland/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-7th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Maryland Home Improvement Contractor (MHIC) licensing exam with the . This comprehensive study bundle combines the designated Maryland.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Maryland](https://passyournasclaexam.com/maryland/) · [Business and Law](https://passyournasclaexam.com/maryland/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (7th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Maryland](https://passyournasclaexam.com/maryland/) · [Business & Law](https://passyournasclaexam.com/maryland/business-and-law/)
 

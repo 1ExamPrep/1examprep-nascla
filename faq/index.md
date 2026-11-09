@@ -1,19 +1,19 @@
 ---
-title: NASCLA Exam FAQ: 995 Answers
+title: NASCLA Exam FAQ: 1004 Answers
 url: https://passyournasclaexam.com/faq/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
-description: 995 answers about NASCLA exams: the commercial exam format, which states accept it, licensing, open-book study and ordering, plus state-specific answers.
+description: 1004 answers about NASCLA exams: the commercial exam format, which states accept it, licensing, open-book study and ordering, plus state-specific answers.
 ---
 
 [Home](https://passyournasclaexam.com/) FAQ
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # NASCLA exam FAQ
 
-995 answers about NASCLA exams: what NASCLA is, the commercial exam, licensing, studying and ordering, plus 973 state-specific answers.
+1004 answers about NASCLA exams: what NASCLA is, the commercial exam, licensing, studying and ordering, plus 982 state-specific answers.
 
-About NASCLA 5The commercial exam 5Licensing 4Studying 5Ordering 3State by state 973
+About NASCLA 5The commercial exam 5Licensing 4Studying 5Ordering 3State by state 982
 
 ## About NASCLA
 
@@ -118,7 +118,7 @@ Call (877) 775-9400 or email sales@1examprep.com and tell us your state and exam
 Answers for each state and exam, taken from our product descriptions: who issues the license, open-book rules, reference books and the business and law exam.
 
 - [Alabama](https://passyournasclaexam.com/faq/alabama/commercial-general-building-contractor/) [Commercial GC 17](https://passyournasclaexam.com/faq/alabama/commercial-general-building-contractor/) · [Master Electrical 19](https://passyournasclaexam.com/faq/alabama/master-electrical-contractor/) · [Journeyman 16](https://passyournasclaexam.com/faq/alabama/journeyman-electrician/) · [Business & Law 30](https://passyournasclaexam.com/faq/alabama/business-and-law/)
-- [Arizona](https://passyournasclaexam.com/faq/arizona/commercial-general-building-contractor/) [Commercial GC 11](https://passyournasclaexam.com/faq/arizona/commercial-general-building-contractor/) · [Master Electrical 21](https://passyournasclaexam.com/faq/arizona/master-electrical-contractor/) · [Residential Electrical 27](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
+- [Arizona](https://passyournasclaexam.com/faq/arizona/commercial-general-building-contractor/) [Commercial GC 11](https://passyournasclaexam.com/faq/arizona/commercial-general-building-contractor/) · [Master Electrical 21](https://passyournasclaexam.com/faq/arizona/master-electrical-contractor/) · [Residential Electrical 36](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
 - [California](https://passyournasclaexam.com/faq/california/commercial-general-building-contractor/) [Commercial GC 14](https://passyournasclaexam.com/faq/california/commercial-general-building-contractor/)
 - [Connecticut](https://passyournasclaexam.com/faq/connecticut/business-and-law/) [Business & Law 23](https://passyournasclaexam.com/faq/connecticut/business-and-law/)
 - [Florida](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/) [Commercial GC 13](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/) · [Business & Law 17](https://passyournasclaexam.com/faq/florida/business-and-law/)

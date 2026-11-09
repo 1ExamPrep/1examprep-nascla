@@ -1,13 +1,13 @@
 ---
 title: Mississippi B&L Guide H&T + Flash Cards (6th Ed.)
 url: https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-6th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Mississippi contractor licensing examination with the . This comprehensive exam preparation bundle combines the Mississippi-specific NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Business and Law](https://passyournasclaexam.com/mississippi/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (6th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Business & Law](https://passyournasclaexam.com/mississippi/business-and-law/)
 

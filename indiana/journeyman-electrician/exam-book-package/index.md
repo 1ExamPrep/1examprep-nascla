@@ -1,13 +1,13 @@
 ---
 title: Indiana Exam Book Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/indiana/journeyman-electrician/exam-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Vanderburgh County, Indiana NASCLA Journeyman Electrician examination with a complete collection of electrical code, safety, theory, fire.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) · [Journeyman Electrician](https://passyournasclaexam.com/indiana/journeyman-electrician/) Exam Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Indiana](https://passyournasclaexam.com/indiana/) · [Journeyman](https://passyournasclaexam.com/indiana/journeyman-electrician/)
 

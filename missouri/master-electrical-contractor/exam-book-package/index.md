@@ -1,13 +1,13 @@
 ---
 title: Missouri Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/missouri/master-electrical-contractor/exam-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Get the approved open-book reference set used for the NASCLA-Accredited Trade Examination for Electrical Contractor (Master Electrician/Unlimited.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Missouri](https://passyournasclaexam.com/missouri/) · [Master Electrical Contractor](https://passyournasclaexam.com/missouri/master-electrical-contractor/) Exam Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Missouri](https://passyournasclaexam.com/missouri/) · [Master Electrical](https://passyournasclaexam.com/missouri/master-electrical-contractor/)
 

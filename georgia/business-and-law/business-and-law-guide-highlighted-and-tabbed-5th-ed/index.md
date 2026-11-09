@@ -1,13 +1,13 @@
 ---
 title: Georgia Business & Law Guide Highlighted & Tabbed (5th Ed.)
 url: https://passyournasclaexam.com/georgia/business-and-law/business-and-law-guide-highlighted-and-tabbed-5th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for applicable Georgia construction trade licensing examinations with the Georgia NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) Business & Law Guide Highlighted & Tabbed (5th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Business & Law](https://passyournasclaexam.com/georgia/business-and-law/)
 

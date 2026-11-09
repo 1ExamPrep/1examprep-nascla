@@ -1,13 +1,13 @@
 ---
 title: Arizona Residential Electrical Online Exam Prep Course
 url: https://passyournasclaexam.com/arizona/residential-electrical-contractor/online-exam-prep-course/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: The course is designed for candidates preparing for the NASCLA residential electrical contractor trade exam accepted for Arizona R-11 electrical licensing.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Residential Electrical Contractor](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) Online Exam Prep Course
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Residential Electrical](https://passyournasclaexam.com/arizona/residential-electrical-contractor/)
 
@@ -220,7 +220,7 @@ This course is intended for candidates preparing for the Arizona NASCLA Accredit
 No. This course does not guarantee a passing score, license approval, or any specific exam outcome. It is designed to help students prepare through organized review, code navigation, reference familiarization, and practice-oriented study.
 
 ### Other Arizona Residential Electrical options
-[The 1 Package: All-Inclusive Residential Electrical**$4,020.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/the-1-package-all-inclusive/) · [Ultimate Exam Prep Rental Package Residential Electrical**$3,020.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/ultimate-exam-prep-rental-package/) · [Books & Courses Rental Package Residential Electrical**$2,595.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/books-and-courses-rental-package/) · [Highlighted & Tabbed Book Package Residential Electrical**$2,245.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/highlighted-and-tabbed-book-package/) · [Exam Book Package Residential Electrical**$1,695.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/exam-book-package/) · [Online Practice Questions Residential Electrical**$79.99**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/online-practice-questions/)
+[The 1 Package: All-Inclusive Residential Electrical**$4,020.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/the-1-package-all-inclusive/) · [Ultimate Exam Prep Rental Package Residential Electrical**$3,020.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/ultimate-exam-prep-rental-package/) · [Books & Courses Rental Package Residential Electrical**$2,595.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/books-and-courses-rental-package/) · [Highlighted & Tabbed Book Package Residential Electrical**$2,245.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/highlighted-and-tabbed-book-package/) · [Exam Book Package Residential Electrical**$1,695.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/exam-book-package/) · [Live Virtual + Self-Study Training Residential Electrical**$595.00**](https://passyournasclaexam.com/arizona/residential-electrical-contractor/live-virtual-plus-self-study-training/)
 
 ### Other Arizona exams
 
@@ -240,7 +240,7 @@ No. This course does not guarantee a passing score, license approval, or any spe
 
 ### Questions
 
-- [Arizona Residential Electrical FAQ (27 answers)](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
+- [Arizona Residential Electrical FAQ (36 answers)](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

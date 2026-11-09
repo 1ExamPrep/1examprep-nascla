@@ -1,13 +1,13 @@
 ---
 title: Idaho Highlighted & Tabbed Book Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/idaho/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Idaho NASCLA Journeyman Electrician examination with a reference-book package designed for faster, more organized open-book study. The.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Idaho](https://passyournasclaexam.com/idaho/) · [Journeyman Electrician](https://passyournasclaexam.com/idaho/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Idaho](https://passyournasclaexam.com/idaho/) · [Journeyman](https://passyournasclaexam.com/idaho/journeyman-electrician/)
 

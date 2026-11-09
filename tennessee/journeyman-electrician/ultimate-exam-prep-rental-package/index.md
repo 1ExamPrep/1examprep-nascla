@@ -1,13 +1,13 @@
 ---
 title: Tennessee Journeyman Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/tennessee/journeyman-electrician/ultimate-exam-prep-rental-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Tennessee NASCLA Journeyman Electrician examination with a complete study package that combines online exam preparation, a highlighted and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Journeyman Electrician](https://passyournasclaexam.com/tennessee/journeyman-electrician/) Ultimate Exam Prep Rental Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Journeyman](https://passyournasclaexam.com/tennessee/journeyman-electrician/)
 

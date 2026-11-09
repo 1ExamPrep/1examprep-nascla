@@ -1,13 +1,13 @@
 ---
 title: Indiana Master Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/indiana/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Vanderburgh County Indiana NASCLA Electrical Contractor examination with a comprehensive rental package that combines highlighted and tabbed.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Indiana](https://passyournasclaexam.com/indiana/) · [Master Electrical Contractor](https://passyournasclaexam.com/indiana/master-electrical-contractor/) Books & Courses Rental Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Indiana](https://passyournasclaexam.com/indiana/) · [Master Electrical](https://passyournasclaexam.com/indiana/master-electrical-contractor/)
 

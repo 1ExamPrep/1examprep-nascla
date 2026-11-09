@@ -1,13 +1,13 @@
 ---
 title: Alabama Exam Book Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/alabama/journeyman-electrician/exam-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama NASCLA Journey Level Electrician Exam with a complete book package built around the official reference materials listed for the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Journeyman Electrician](https://passyournasclaexam.com/alabama/journeyman-electrician/) Exam Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Journeyman](https://passyournasclaexam.com/alabama/journeyman-electrician/)
 

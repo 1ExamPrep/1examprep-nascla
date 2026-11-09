@@ -1,13 +1,13 @@
 ---
 title: NASCLA Residential Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/residential-electrical-contractor/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
-description: Prep for NASCLA accredited residential electrical contractor exams, with book packages, highlighted and. 46 products across 7 states, from $79.99.
+description: Prep for NASCLA accredited residential electrical contractor exams, with book packages, highlighted and. 47 products across 7 states, from $79.99.
 ---
 
 [Home](https://passyournasclaexam.com/) Residential Electrical Contractor
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 NASCLA accredited residential electrical exam
 
 # NASCLA Residential Electrical Contractor Exam Prep
@@ -16,7 +16,7 @@ Prep for NASCLA accredited residential electrical contractor exams, with book pa
 
 ## Key takeaways
 
-- 46 products for this exam across 7 states plus nationwide editions, from $79.99 to $4,885.00.
+- 47 products for this exam across 7 states plus nationwide editions, from $79.99 to $4,885.00.
 - Packages are matched to the residential electrical exam in each state that offers it.
 - Highlighted and tabbed books cut lookup time on an open-book exam.
 - Licensing rules come from each state board; the product pages spell out the steps.
@@ -33,7 +33,7 @@ From $79.99 to $4,885.00, depending on whether you want a single book or tabs, a
 
 ## Choose your state
 
-- [Arizona](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) [7 products from $79.99](https://passyournasclaexam.com/arizona/residential-electrical-contractor/)
+- [Arizona](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) [8 products from $79.99](https://passyournasclaexam.com/arizona/residential-electrical-contractor/)
 - [Florida](https://passyournasclaexam.com/florida/residential-electrical-contractor/) [6 products from $295.00](https://passyournasclaexam.com/florida/residential-electrical-contractor/)
 - [Mississippi](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) [6 products from $295.00](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/)
 - [Nebraska](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/) [6 products from $295.00](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/)

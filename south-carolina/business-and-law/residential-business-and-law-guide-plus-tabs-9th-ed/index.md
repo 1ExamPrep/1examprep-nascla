@@ -1,13 +1,13 @@
 ---
 title: South Carolina Res. B&L Guide + Tabs (9th Ed.)
 url: https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-plus-tabs-9th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your South Carolina residential builder licensing examination with the . This comprehensive preparation package combines the NASCLA South.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business and Law](https://passyournasclaexam.com/south-carolina/business-and-law/) Residential Business & Law Guide + Tabs (9th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business & Law](https://passyournasclaexam.com/south-carolina/business-and-law/)
 

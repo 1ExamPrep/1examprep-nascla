@@ -1,13 +1,13 @@
 ---
 title: Maryland MHIC Exam: Contractor and Salesperson Guide
 url: https://passyournasclaexam.com/maryland/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Pass the Maryland MHIC exam. Contractor and salesperson exam format, NASCLA reference books, fees, licensing steps and the tabbed study guides that fit you.
 ---
 
 [Home](https://passyournasclaexam.com/) Maryland
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Maryland MHIC Exam: How to Get Your Home Improvement License
 
@@ -187,7 +187,7 @@ A Maryland home improvement license runs for two years from the date the origina
 
 ## Sources
 
-Facts on this page come from these official sources, checked November 2, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked November 9, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Maryland Department of Labor: Maryland Home Improvement Commission](https://labor.maryland.gov/license/mhic/)
 2. [Maryland Department of Labor: MHIC Examination Information](https://labor.maryland.gov/license/mhic/mhicexam.shtml)

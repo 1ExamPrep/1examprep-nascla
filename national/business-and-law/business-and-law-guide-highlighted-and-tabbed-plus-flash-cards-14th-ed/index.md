@@ -1,13 +1,13 @@
 ---
 title: NASCLA B&L Guide H&T + Flash Cards (14th Ed.)
 url: https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-14th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: NASCLA Contractor's Highlighted & Tabbed Guide to Business, Law and Project Management, Basic 14th Edition + Flash Cards Bundle Take a more organized.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Business and Law](https://passyournasclaexam.com/national/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (14th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Business & Law](https://passyournasclaexam.com/national/business-and-law/)
 

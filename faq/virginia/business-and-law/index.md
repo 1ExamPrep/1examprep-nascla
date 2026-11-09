@@ -1,13 +1,13 @@
 ---
 title: Virginia NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/virginia/business-and-law/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: 18 answers about the Virginia business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Virginia Business & Law
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia Business and Law exam: frequently asked questions
 

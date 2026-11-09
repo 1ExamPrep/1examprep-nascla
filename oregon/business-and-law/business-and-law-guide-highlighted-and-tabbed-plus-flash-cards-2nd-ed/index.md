@@ -1,13 +1,13 @@
 ---
 title: Oregon B&L Guide H&T + Flash Cards (2nd Ed.)
 url: https://passyournasclaexam.com/oregon/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-2nd-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Oklahoma NASCLA Highlighted & Tabbed Contractor's Guide to Business, Law and Project Management, Basic 14th Edition + Flash Cards Bundle Prepare for your.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Oregon](https://passyournasclaexam.com/oregon/) · [Business and Law](https://passyournasclaexam.com/oregon/business-and-law/) Business & Law Guide Highlighted & Tabbed + Flash Cards (2nd Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Oregon](https://passyournasclaexam.com/oregon/) · [Business & Law](https://passyournasclaexam.com/oregon/business-and-law/)
 

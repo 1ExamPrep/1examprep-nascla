@@ -1,13 +1,13 @@
 ---
 title: Alabama Res. B&L Guide H&T (4th Ed.)
 url: https://passyournasclaexam.com/alabama/business-and-law/residential-business-and-law-guide-highlighted-and-tabbed-4th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Alabama Home Builder Business and Law Examination with the from 1 Exam Prep. This professionally prepared reference book features important.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Alabama](https://passyournasclaexam.com/alabama/) · [Business and Law](https://passyournasclaexam.com/alabama/business-and-law/) Residential Business & Law Guide Highlighted & Tabbed (4th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Alabama](https://passyournasclaexam.com/alabama/) · [Business & Law](https://passyournasclaexam.com/alabama/business-and-law/)
 

@@ -1,13 +1,13 @@
 ---
 title: Kentucky Master Electrical The 1 Package: All-Inclusive
 url: https://passyournasclaexam.com/kentucky/master-electrical-contractor/the-1-package-all-inclusive/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Kentucky electrical licensing with an all-inclusive package that combines NASCLA Master Electrical Contractor exam preparation, highlighted and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical Contractor](https://passyournasclaexam.com/kentucky/master-electrical-contractor/) The 1 Package: All-Inclusive
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical](https://passyournasclaexam.com/kentucky/master-electrical-contractor/)
 

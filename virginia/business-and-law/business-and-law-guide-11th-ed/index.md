@@ -1,13 +1,13 @@
 ---
 title: Virginia Business & Law Guide (11th Ed.)
 url: https://passyournasclaexam.com/virginia/business-and-law/business-and-law-guide-11th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Virginia contractor licensing examination with the . This comprehensive reference manual provides essential information about construction.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Business and Law](https://passyournasclaexam.com/virginia/business-and-law/) Business & Law Guide (11th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Business & Law](https://passyournasclaexam.com/virginia/business-and-law/)
 

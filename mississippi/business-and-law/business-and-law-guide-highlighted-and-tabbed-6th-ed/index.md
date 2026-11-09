@@ -1,13 +1,13 @@
 ---
 title: Mississippi B&L Guide H&T (6th Ed.)
 url: https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Mississippi contractor licensing examination with the . This professionally prepared reference book combines the official Mississippi NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Business and Law](https://passyournasclaexam.com/mississippi/business-and-law/) Business & Law Guide Highlighted & Tabbed (6th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Business & Law](https://passyournasclaexam.com/mississippi/business-and-law/)
 

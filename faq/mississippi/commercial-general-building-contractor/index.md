@@ -1,13 +1,13 @@
 ---
 title: Mississippi NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/mississippi/commercial-general-building-contractor/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: 14 answers about the Mississippi commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Mississippi Commercial GC
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Mississippi Commercial General Building Contractor exam: frequently asked questions
 

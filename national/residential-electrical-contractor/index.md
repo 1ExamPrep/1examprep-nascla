@@ -1,13 +1,13 @@
 ---
 title: NASCLA Residential Electrical Prep, Nationwide
 url: https://passyournasclaexam.com/national/residential-electrical-contractor/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Nationwide residential electrical contractor exam prep: 4 products from $350.00 to $2,595.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) Residential Electrical Contractor
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide Residential Electrical Contractor Exam Prep
 

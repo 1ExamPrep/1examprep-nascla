@@ -1,13 +1,13 @@
 ---
 title: Mississippi Residential Electrical Book + Course Rental
 url: https://passyournasclaexam.com/mississippi/residential-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Mississippi NASCLA Residential Electrical Contractor examination with a comprehensive books and courses rental package designed to support.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Residential Electrical Contractor](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) Books & Courses Rental Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Residential Electrical](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/)
 

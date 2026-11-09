@@ -1,13 +1,13 @@
 ---
 title: Virginia NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/virginia/business-and-law/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Virginia business and law exam prep: 6 products from $19.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) Business and Law
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia Business and Law Exam Prep
 

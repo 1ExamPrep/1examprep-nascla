@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Journeyman Electrician Exam Prep
 url: https://passyournasclaexam.com/new-mexico/journeyman-electrician/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: New Mexico journeyman electrician exam prep: 5 products from $295.00 to $1,795.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) Journeyman Electrician
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico Journeyman Electrician Exam Prep
 

@@ -1,13 +1,13 @@
 ---
 title: Ohio Contractor Business and Law Exam: NASCLA Guide Prep
 url: https://passyournasclaexam.com/ohio/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: How Ohio's OCILB contractor license works, what the PSI business and law exam covers, and which NASCLA Ohio 4th Edition guide package fits your study plan.
 ---
 
 [Home](https://passyournasclaexam.com/) Ohio
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Ohio Contractor Business and Law Exam: Licensing and NASCLA Guide Prep
 
@@ -183,7 +183,7 @@ The current PSI bulletin names the Ohio 4th Edition of the NASCLA Contractor's G
 
 ## Sources
 
-Facts on this page come from these official sources, checked November 2, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked November 9, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [Ohio Department of Commerce: Ohio Construction Industry Licensing Board](https://com.ohio.gov/divisions-and-programs/industrial-compliance/boards/ohio-construction-industry-licensing-board)
 2. [PSI: Ohio Construction Industry Licensing Board Contractor Trade Examinations Candidate Information Bulletin](https://test-takers.psiexams.com/api/content/bulletin/1734)

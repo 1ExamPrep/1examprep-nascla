@@ -1,25 +1,25 @@
 ---
 title: Arizona NASCLA Residential Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/arizona/residential-electrical-contractor/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
-description: Arizona residential electrical contractor exam prep: 7 products from $79.99 to $4,020.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Arizona residential electrical contractor exam prep: 8 products from $79.99 to $4,020.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) Residential Electrical Contractor
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona Residential Electrical Contractor Exam Prep
 
 NASCLA accredited residential electrical exam for Arizona. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 6](https://passyournasclaexam.com/arizona/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/arizona/master-electrical-contractor/) · [Residential Electrical 7](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) · [Business & Law 4](https://passyournasclaexam.com/arizona/business-and-law/)
+[Commercial GC 6](https://passyournasclaexam.com/arizona/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/arizona/master-electrical-contractor/) · [Residential Electrical 8](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) · [Business & Law 4](https://passyournasclaexam.com/arizona/business-and-law/)
 
 ## Quick answers
 
 ### How much does Arizona residential electrical contractor exam prep cost?
 
-Arizona residential electrical contractor prep runs from $79.99 to $4,020.00 across 7 products: Online Practice Questions $79.99; Online Exam Prep Course $295.00; Exam Book Package $1,695.00; Highlighted & Tabbed Book Package $2,245.00; Books & Courses Rental Package $2,595.00; Ultimate Exam Prep Rental Package $3,020.00; The 1 Package: All-Inclusive $4,020.00.
+Arizona residential electrical contractor prep runs from $79.99 to $4,020.00 across 8 products: Online Practice Questions $79.99; Online Exam Prep Course $295.00; Live Virtual + Self-Study Training $595.00; Exam Book Package $1,695.00; Highlighted & Tabbed Book Package $2,245.00; Books & Courses Rental Package $2,595.00; Ultimate Exam Prep Rental Package $3,020.00; The 1 Package: All-Inclusive $4,020.00.
 
 ### Which Arizona residential electrical contractor package should I choose?
 
@@ -27,14 +27,14 @@ Pick by how much help you want: the online course at $295.00; the highlighted an
 
 ## Key takeaways
 
-- 7 Arizona residential electrical contractor products, from $79.99 to $4,020.00.
+- 8 Arizona residential electrical contractor products, from $79.99 to $4,020.00.
 - The Ultimate Exam Prep Rental Package at $3,020.00 bundles the books with the online course.
 - The 1 Package: All-Inclusive at $4,020.00 is the most complete option.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
 ## Packages
 
-7 options, smallest to most complete
+8 options, smallest to most complete
 
 Arizona · Residential Electrical
 
@@ -53,6 +53,15 @@ The course is designed for candidates preparing for the NASCLA residential elect
 
 $295.00 (was $395.00) Save 25%
 [Buy now](https://1examprep.com/cart/45813487861817:1) · [Details](https://passyournasclaexam.com/arizona/residential-electrical-contractor/online-exam-prep-course/)
+
+Arizona · Residential Electrical
+
+### [Live Virtual + Self-Study Training](https://passyournasclaexam.com/arizona/residential-electrical-contractor/live-virtual-plus-self-study-training/)
+
+Prepare for the NASCLA Accredited Trade Examination for Residential Electrical Contractors with from 1 Exam Prep. This specialized program combines live virtual instruction with…
+
+$595.00 (was $795.00) Save 25%
+[Buy now](https://1examprep.com/cart/46234234486841:1) · [Details](https://passyournasclaexam.com/arizona/residential-electrical-contractor/live-virtual-plus-self-study-training/)
 
 Arizona · Residential Electrical
 
@@ -125,7 +134,7 @@ No. Passing the required exam is part of the licensing process, but the applican
 
 The exam contains 100 scored questions and 10 non-scored experimental questions. The minimum passing score is 70, and candidates are allowed 270 minutes.
 
-[All 27 answers for Arizona Residential Electrical](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
+[All 36 answers for Arizona Residential Electrical](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
 
 ### Other Arizona exams
 
@@ -145,7 +154,7 @@ The exam contains 100 scored questions and 10 non-scored experimental questions.
 
 ### Questions
 
-- [Arizona Residential Electrical FAQ (27 answers)](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
+- [Arizona Residential Electrical FAQ (36 answers)](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

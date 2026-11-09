@@ -1,13 +1,13 @@
 ---
 title: Arizona Master Electrical Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/arizona/master-electrical-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: The is designed for candidates preparing for the NASCLA electrical trade exam option connected to Arizona electrical contractor licensing. This package is.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical Contractor](https://passyournasclaexam.com/arizona/master-electrical-contractor/) Ultimate Exam Prep Rental Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Master Electrical](https://passyournasclaexam.com/arizona/master-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: NASCLA Business & Law Guide (14th Ed.)
 url: https://passyournasclaexam.com/national/business-and-law/business-and-law-guide-14th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: The Basic NASCLA Contractors’ Guide to Business, Law and Project Management, Basic 14th Edition is an officially recognized reference prepared under the.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Business and Law](https://passyournasclaexam.com/national/business-and-law/) Business & Law Guide (14th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Business & Law](https://passyournasclaexam.com/national/business-and-law/)
 

@@ -1,13 +1,13 @@
 ---
 title: North Carolina Business & Law Guide (10th Ed.)
 url: https://passyournasclaexam.com/north-carolina/business-and-law/business-and-law-guide-10th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your North Carolina general contractor licensing examination with the . This comprehensive reference book provides essential information about.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) Business & Law Guide (10th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Business & Law](https://passyournasclaexam.com/north-carolina/business-and-law/)
 

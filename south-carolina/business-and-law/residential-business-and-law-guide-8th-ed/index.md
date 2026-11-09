@@ -1,13 +1,13 @@
 ---
 title: South Carolina Residential Business & Law Guide (8th Ed.)
 url: https://passyournasclaexam.com/south-carolina/business-and-law/residential-business-and-law-guide-8th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: SOUTH CAROLINA-NASCLA CONTRACTORS GUIDE TO BUSINESS, LAW AND PROJECT MANAGEMENT, SOUTH CAROLINA RESIDENTIAL BUILDERS, 8TH EDITION The South Carolina NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business and Law](https://passyournasclaexam.com/south-carolina/business-and-law/) Residential Business & Law Guide (8th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business & Law](https://passyournasclaexam.com/south-carolina/business-and-law/)
 

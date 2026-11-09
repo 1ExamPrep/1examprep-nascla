@@ -1,13 +1,13 @@
 ---
 title: New Mexico Business & Law Guide + Tabs (14th Ed.)
 url: https://passyournasclaexam.com/new-mexico/business-and-law/business-and-law-guide-plus-tabs-14th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: New Mexico NASCLA Contractor's Guide to Business, Law and Project Management, Basic 14th Edition + Tabs Bundle Prepare for your New Mexico contractor.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Business and Law](https://passyournasclaexam.com/new-mexico/business-and-law/) Business & Law Guide + Tabs (14th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Business & Law](https://passyournasclaexam.com/new-mexico/business-and-law/)
 

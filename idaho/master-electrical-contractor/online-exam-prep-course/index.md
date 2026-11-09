@@ -1,13 +1,13 @@
 ---
 title: Idaho Online Exam Prep Course | NASCLA Master Electrical
 url: https://passyournasclaexam.com/idaho/master-electrical-contractor/online-exam-prep-course/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with an online exam prep program focused on electrical theory, National.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Idaho](https://passyournasclaexam.com/idaho/) · [Master Electrical Contractor](https://passyournasclaexam.com/idaho/master-electrical-contractor/) Online Exam Prep Course
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Idaho](https://passyournasclaexam.com/idaho/) · [Master Electrical](https://passyournasclaexam.com/idaho/master-electrical-contractor/)
 

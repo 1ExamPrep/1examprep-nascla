@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/new-mexico/business-and-law/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: New Mexico business and law exam prep: 4 products from $124.99 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) Business and Law
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico Business and Law Exam Prep
 

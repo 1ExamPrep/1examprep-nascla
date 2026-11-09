@@ -1,19 +1,19 @@
 ---
 title: Arizona NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/arizona/master-electrical-contractor/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Arizona master electrical contractor exam prep: 7 products from $79.99 to $3,515.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) Master Electrical Contractor
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona Master Electrical Contractor Exam Prep
 
 NASCLA accredited electrical contractor exam for Arizona. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 6](https://passyournasclaexam.com/arizona/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/arizona/master-electrical-contractor/) · [Residential Electrical 7](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) · [Business & Law 4](https://passyournasclaexam.com/arizona/business-and-law/)
+[Commercial GC 6](https://passyournasclaexam.com/arizona/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/arizona/master-electrical-contractor/) · [Residential Electrical 8](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) · [Business & Law 4](https://passyournasclaexam.com/arizona/business-and-law/)
 
 ## Quick answers
 

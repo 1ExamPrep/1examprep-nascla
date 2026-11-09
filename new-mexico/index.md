@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Exam: Licensing and Prep Guide
 url: https://passyournasclaexam.com/new-mexico/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: How the New Mexico NASCLA exam fits CID licensing for GB-98 and EE-98, plus the Business and Law exam, bond, fees and the prep packages that match each path.
 ---
 
 [Home](https://passyournasclaexam.com/) New Mexico
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico NASCLA Exam: How to Get Licensed and Prepare
 
@@ -216,7 +216,7 @@ For journeymen, only EE-98J is reciprocal, with ten listed states including Texa
 
 ## Sources
 
-Facts on this page come from these official sources, checked November 2, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked November 9, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Participating Agencies (Electrical Exams)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)

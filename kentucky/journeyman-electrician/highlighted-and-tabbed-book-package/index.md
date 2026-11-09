@@ -1,13 +1,13 @@
 ---
 title: Kentucky Journeyman Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/kentucky/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Kentucky NASCLA Journeyman Electrician examination with a professionally organized collection of electrical code, safety, theory, fire alarm.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) · [Journeyman Electrician](https://passyournasclaexam.com/kentucky/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Kentucky](https://passyournasclaexam.com/kentucky/) · [Journeyman](https://passyournasclaexam.com/kentucky/journeyman-electrician/)
 

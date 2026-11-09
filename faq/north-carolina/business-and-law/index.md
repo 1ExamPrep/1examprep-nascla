@@ -1,13 +1,13 @@
 ---
 title: North Carolina NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/north-carolina/business-and-law/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: 13 answers about the North Carolina business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) North Carolina Business & Law
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # North Carolina Business and Law exam: frequently asked questions
 

@@ -1,13 +1,13 @@
 ---
 title: Nebraska Exam Book Package | NASCLA Residential Electrical
 url: https://passyournasclaexam.com/nebraska/residential-electrical-contractor/exam-book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Nebraska NASCLA Residential Electrical Contractor examination with a complete reference-book package covering residential electrical code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Residential Electrical Contractor](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/) Exam Book Package
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Residential Electrical](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: New Mexico NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/new-mexico/master-electrical-contractor/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: New Mexico master electrical contractor exam prep: 7 products from $295.00 to $3,305.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) Master Electrical Contractor
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # New Mexico Master Electrical Contractor Exam Prep
 

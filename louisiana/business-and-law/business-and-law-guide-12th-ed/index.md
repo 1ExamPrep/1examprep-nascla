@@ -1,13 +1,13 @@
 ---
 title: Louisiana Business & Law Guide (12th Ed.)
 url: https://passyournasclaexam.com/louisiana/business-and-law/business-and-law-guide-12th-ed/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Build your understanding of Louisiana contractor business responsibilities with the NASCLA Contractor's Guide to Business, Law and Project Management.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business and Law](https://passyournasclaexam.com/louisiana/business-and-law/) Business & Law Guide (12th Ed.)
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Business & Law](https://passyournasclaexam.com/louisiana/business-and-law/)
 

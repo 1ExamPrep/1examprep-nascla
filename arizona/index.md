@@ -1,13 +1,13 @@
 ---
 title: Arizona NASCLA Exam: ROC License Steps and Exam Prep
 url: https://passyournasclaexam.com/arizona/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
 description: Arizona NASCLA exam guide: B-1, B-2, C-11, R-11 and CR-11 options, ROC exams, experience, bond and fee figures, plus prep packages for each license path.
 ---
 
 [Home](https://passyournasclaexam.com/) Arizona
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona NASCLA Exam: Getting Your ROC License and Preparing to Pass
 
@@ -25,7 +25,7 @@ Yes. Arizona accepts the NASCLA Accredited Examination for Commercial General Bu
 
 ### Which NASCLA exams can I prepare for in Arizona?
 
-Commercial General Building Contractor (6 products from $395.00); Master Electrical Contractor (7 products from $79.99); Residential Electrical Contractor (7 products from $79.99); Business and Law (4 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (6 products from $395.00); Master Electrical Contractor (7 products from $79.99); Residential Electrical Contractor (8 products from $79.99); Business and Law (4 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,7 +33,7 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 24 Arizona products for 4 exams, from $19.95 to $4,669.00.
+- 25 Arizona products for 4 exams, from $19.95 to $4,669.00.
 - Arizona accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -49,7 +49,7 @@ See Commercial GC packages →](https://passyournasclaexam.com/arizona/commercia
 ### Arizona Master Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.
-See Master Electrical packages →](https://passyournasclaexam.com/arizona/master-electrical-contractor/) · [7 PRODUCTS · FROM $79.99
+See Master Electrical packages →](https://passyournasclaexam.com/arizona/master-electrical-contractor/) · [8 PRODUCTS · FROM $79.99
 
 ### Arizona Residential Electrical Contractor
 
@@ -212,7 +212,7 @@ The ROC's published license fees are for a two year license. You renew before it
 
 ## Sources
 
-Facts on this page come from these official sources, checked November 2, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked November 9, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Arizona Registrar of Contractors (commercial exam agency)](https://www.nascla.org/commercial-exam-participating-state-agencies/arizona-registrar-contractors-0)
 2. [NASCLA: Commercial Exam Participating Agencies](https://www.nascla.org/page/ParticipatingAgencies)
@@ -315,7 +315,7 @@ $1,195.00 (was $1,295.00) Save 8% options to $1,695.00
 
 ### Arizona Residential Electrical Contractor packages
 
-[All 7 products →](https://passyournasclaexam.com/arizona/residential-electrical-contractor/)
+[All 8 products →](https://passyournasclaexam.com/arizona/residential-electrical-contractor/)
 
 Arizona · Residential Electrical
 
@@ -337,12 +337,12 @@ $295.00 (was $395.00) Save 25%
 
 Arizona · Residential Electrical
 
-### [Exam Book Package](https://passyournasclaexam.com/arizona/residential-electrical-contractor/exam-book-package/)
+### [Live Virtual + Self-Study Training](https://passyournasclaexam.com/arizona/residential-electrical-contractor/live-virtual-plus-self-study-training/)
 
-The is designed for contractor candidates preparing for the NASCLA residential electrical trade exam accepted for Arizona’s R-11 Electrical Residential contractor licensing path. This…
+Prepare for the NASCLA Accredited Trade Examination for Residential Electrical Contractors with from 1 Exam Prep. This specialized program combines live virtual instruction with…
 
-$1,695.00 (was $1,795.00) Save 6% options to $2,245.00
-[Buy now](https://1examprep.com/cart/46133590360121:1) · [Details](https://passyournasclaexam.com/arizona/residential-electrical-contractor/exam-book-package/)
+$595.00 (was $795.00) Save 25%
+[Buy now](https://1examprep.com/cart/46234234486841:1) · [Details](https://passyournasclaexam.com/arizona/residential-electrical-contractor/live-virtual-plus-self-study-training/)
 
 ### Arizona Business and Law packages
 

@@ -1,19 +1,19 @@
 ---
 title: Arizona NASCLA Residential Electrical FAQ
 url: https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your NASCLA Exam Prep
-description: 27 answers about the Arizona residential electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
+description: 36 answers about the Arizona residential electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Arizona Residential Electrical
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona Residential Electrical Contractor exam: frequently asked questions
 
-27 answers about the Arizona residential electrical contractor exam and license, compiled from our product descriptions for this exam.
+36 answers about the Arizona residential electrical contractor exam and license, compiled from our product descriptions for this exam.
 
-The exam 13Licensing 4More questions 10
+The exam 16Licensing 7More questions 13
 
 ## The exam
 
@@ -44,6 +44,18 @@ Yes. Approved references may be highlighted, underlined, and indexed before the 
 ### Does passing the NASCLA residential electrical exam automatically give me an Arizona contractor license?
 
 No. Passing the exam supports the trade-exam requirement, but applicants must still meet Arizona Registrar of Contractors licensing requirements and receive approval for the R-11 license classification.
+
+### How many questions are on the NASCLA Residential Electrical examination?
+
+The examination has 100 scored questions, a minimum passing score of 70%, and a time allowance of 270 minutes.
+
+### Does passing NASCLA automatically provide an Arizona R-11 license?
+
+No. Candidates must also satisfy the Arizona Registrar of Contractors' applicable licensing qualifications and application requirements.
+
+### Where can I find the current live class schedule?
+
+Visit the Live Class Schedule to view current training information.
 
 ### How many questions are on the NASCLA residential electrical contractor exam?
 
@@ -78,6 +90,18 @@ Yes. Arizona applicants applying for the R-11 Electrical residential classificat
 ### Can Arizona R-11 applicants use the NASCLA Residential Electrical Contractors exam?
 
 Yes. Arizona applicants applying for the R-11 Electrical Residential classification may choose either the NASCLA Accredited Trade Examination for Residential Electrical Contractors or the Arizona ROC Electrical Residential exam.
+
+### What is the NASCLA Accredited Residential Electrical Contractor examination?
+
+It is a nationally developed electrical trade examination offered through NASCLA and accepted by participating state licensing agencies, including Arizona for the R-11 residential electrical trade examination requirement.
+
+### Can I use the NASCLA examination for Arizona R-11 licensing?
+
+Yes. Arizona accepts the NASCLA Accredited Trade Examination for Residential Electrical Contractors as an alternative to its state-specific R-11 electrical trade examination.
+
+### Is this the same as the NASCLA Master Electrical Contractor examination?
+
+No. This program focuses on the NASCLA Residential Electrical Contractor examination. The Master or Unlimited Electrical Contractor examination is a different trade examination.
 
 ### What is the NASCLA Accredited Trade Examination for Residential Electrical Contractors?
 
@@ -121,6 +145,18 @@ Yes. Candidates may use a silent, nonprinting, non-programmable calculator durin
 
 Start with the content outline, organize every approved reference, focus heavily on NEC navigation, review OSHA and NFPA 70E safety topics, practice theory and calculation questions, and complete timed lookup drills with the books you plan to use during the exam.
 
+### Does the program cover NFPA 70E and NFPA 72?
+
+Yes. The listed references include NFPA 70E, 2024, for workplace electrical safety and NFPA 72, 2022, for fire alarm and signaling requirements.
+
+### Can NASCLA examination results be used in other states?
+
+NASCLA examination results can be transmitted to participating jurisdictions for consideration under their licensing procedures. Each state determines its own license requirements.
+
+### Does Arizona require a separate Statutes and Rules examination?
+
+Yes. Arizona's contractor licensing process includes a Statutes and Rules Training Course and Examination requirement.
+
 ### What subjects are covered on the exam?
 
 The exam covers Theory, Personal Jobsite Safety, Project Design, Estimating, and Measurement, Grounding and Bonding, Special System and Special Equipment Installations, Tools and Equipment, Circuit Protection and Installation, Wiring Methods and Practices, Equipment for General Use, and Energy Efficiency/Management.
@@ -151,7 +187,7 @@ This product includes 3 months of access. During that period, you can work throu
 
 ### Questions
 
-- [Arizona Residential Electrical FAQ (27 answers)](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
+- [Arizona Residential Electrical FAQ (36 answers)](https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

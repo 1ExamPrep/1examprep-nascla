@@ -1,25 +1,25 @@
 ---
 title: Florida NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/
-updated: 2026-11-09
+updated: 2026-11-16
 site: Pass Your NASCLA Exam Prep
-description: 13 answers about the Florida commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
+description: 26 answers about the Florida commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Florida Commercial GC
-Updated November 9, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 # Florida Commercial General Building Contractor exam: frequently asked questions
 
-13 answers about the Florida commercial general building contractor exam and license, compiled from our product descriptions for this exam.
+26 answers about the Florida commercial general building contractor exam and license, compiled from our product descriptions for this exam.
 
-The exam 7Licensing 1More questions 5
+The exam 11Licensing 6More questions 9
 
 ## The exam
 
-### Does passing NASCLA automatically provide a Florida license?
+### Does passing NASCLA automatically provide a Florida contractor license?
 
-No. Candidates must complete the applicable Florida licensing process and satisfy the state’s examination, experience, financial, fingerprinting, insurance, and application requirements.
+No. Applicants must complete Florida's applicable licensing requirements, including Business and Finance and Florida Building Code examination requirements for the NASCLA endorsement pathway.
 
 ### Should I study with the prepared books before the exam?
 
@@ -45,11 +45,47 @@ Yes. Applicants using the NASCLA endorsement pathway must pass the Florida Busin
 
 Yes. Candidates should combine online course review with regular practice using the listed editions so the reference library is familiar before examination day.
 
+### How many questions are on the NASCLA examination?
+
+The examination includes 115 scored questions and 10 additional unscored pretest questions, for a total of 125 administered questions.
+
+### What is the NASCLA examination passing score?
+
+Candidates must answer at least 81 of the 115 scored questions correctly.
+
+### Who administers the NASCLA examination?
+
+PSI Services LLC administers the NASCLA Accredited Examination for Commercial General Building Contractors.
+
+### What books are used for the NASCLA exam?
+
+The authorized reference library includes the NASCLA Contractors Guide, International Building Code, OSHA construction standards, construction management publications, and specialized technical references.
+
 ## Licensing
 
 ### Must I take the Florida Business and Finance examination?
 
 Yes. Applicants using the NASCLA endorsement pathway must pass the Florida Business and Finance examination.
+
+### What is the Florida NASCLA General Contractor Exam Prep Free Demo Personal AI Tutor?
+
+It is a free demo introducing ACE, the personal AI exam coach from Pass Your NASCLA Exam Prep, for candidates preparing for the NASCLA Accredited Examination for Commercial General Building Contractors.
+
+### How long is the NASCLA General Contractor exam?
+
+The examination allows 330 minutes, equivalent to five hours and thirty minutes.
+
+### Does Florida accept the NASCLA General Contractor exam?
+
+Yes. Florida recognizes the NASCLA Commercial General Building Contractor examination for eligible General, Building, and Residential Contractor endorsement applications, subject to additional state requirements.
+
+### Can experienced contractors benefit from ACE?
+
+Yes. Experienced contractors may understand field operations but benefit from additional review of unfamiliar construction disciplines, business responsibilities, technical calculations, or reference navigation.
+
+### Does ACE issue contractor licenses or NASCLA credentials?
+
+No. ACE is an educational examination preparation resource. NASCLA administers its accredited examination program, and participating state agencies determine contractor licensure.
 
 ## More questions
 
@@ -72,6 +108,22 @@ Yes. NASCLA endorsement applicants must affirm that they have passed an examinat
 ### How should I organize my study plan?
 
 Study the Florida Business and Finance materials separately, group the NASCLA references by trade subject, and practice timed reference searches with the listed books.
+
+### What subjects are covered on the NASCLA exam?
+
+The examination covers general requirements, construction trades, building systems, sitework, safety, procurement, contracting, and project management.
+
+### What is the largest NASCLA exam content category?
+
+Procurement and Contracting Requirements is the largest category, accounting for 31 scored questions.
+
+### Can NASCLA exam results be used in multiple states?
+
+Yes. Participating jurisdictions recognize NASCLA examination results for designated trade examination requirements, while maintaining their own licensing qualifications.
+
+### How do I get started with ACE by 1 Exam Prep?
+
+Visit the ACE by Pass Your NASCLA Exam Prep Personal AI Exam Coach page to explore the free demo and discover a personalized approach to NASCLA General Contractor exam preparation. Take the next step toward more focused Florida NASCLA General Contractor exam preparation. Explore the free ACE AI tutor demo and strengthen your study routine with 1 Exam Prep.
 
 ### Ready to study?
 
@@ -96,7 +148,7 @@ Study the Florida Business and Finance materials separately, group the NASCLA re
 
 ### Questions
 
-- [Florida Commercial GC FAQ (13 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+- [Florida Commercial GC FAQ (26 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

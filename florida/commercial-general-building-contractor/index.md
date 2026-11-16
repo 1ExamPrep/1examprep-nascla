@@ -1,25 +1,25 @@
 ---
 title: Florida NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/florida/commercial-general-building-contractor/
-updated: 2026-11-09
+updated: 2026-11-16
 site: Pass Your NASCLA Exam Prep
-description: Florida commercial general building contractor exam prep: 6 products from $395.00 to $5,456.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Florida commercial general building contractor exam prep: 7 products from $0.00 to $5,456.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) Commercial General Building Contractor
-Updated November 9, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 # Florida Commercial General Building Contractor Exam Prep
 
 NASCLA Commercial General Building Contractor exam prep for Florida. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 6](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/florida/residential-electrical-contractor/) · [Business & Law 7](https://passyournasclaexam.com/florida/business-and-law/)
+[Commercial GC 7](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) · [Residential Electrical 7](https://passyournasclaexam.com/florida/residential-electrical-contractor/) · [Business & Law 7](https://passyournasclaexam.com/florida/business-and-law/)
 
 ## Quick answers
 
 ### How much does Florida commercial general building contractor exam prep cost?
 
-Florida commercial general building contractor prep runs from $395.00 to $5,456.00 across 6 products: Online Exam Prep Course $395.00; Complete Book Set $2,394.00; Highlighted & Tabbed Book Package $3,366.00; Books & Courses Rental Package $4,156.00; Ultimate Exam Prep Rental Package $4,956.00; The 1 Package: All-Inclusive $5,456.00.
+Florida commercial general building contractor prep runs from $0.00 to $5,456.00 across 7 products: Book $0.00; Online Exam Prep Course $395.00; Complete Book Set $2,394.00; Highlighted & Tabbed Book Package $3,366.00; Books & Courses Rental Package $4,156.00; Ultimate Exam Prep Rental Package $4,956.00; The 1 Package: All-Inclusive $5,456.00.
 
 ### Which Florida commercial general building contractor package should I choose?
 
@@ -31,7 +31,7 @@ Yes. Florida accepts the NASCLA commercial exam in place of its trade exam; the 
 
 ## Key takeaways
 
-- 6 Florida commercial general building contractor products, from $395.00 to $5,456.00.
+- 7 Florida commercial general building contractor products, from $0.00 to $5,456.00.
 - Florida accepts the NASCLA commercial exam: 115 scored questions, 330 minutes, open book, 70% to pass.
 - The Ultimate Exam Prep Rental Package at $4,956.00 bundles the books with the online course.
 - The 1 Package: All-Inclusive at $5,456.00 is the most complete option.
@@ -94,15 +94,21 @@ Prepare for Florida general contractor licensing with an all-inclusive package t
 $5,456.00 (was $5,956.00) Save 8%
 [Buy now](https://1examprep.com/cart/46435684483129:1) · [Details](https://passyournasclaexam.com/florida/commercial-general-building-contractor/the-1-package-all-inclusive/)
 
+## Books, tabs and flash cards
+
+1 item
+
+[Book](https://passyournasclaexam.com/florida/commercial-general-building-contractor/book/) Florida · Commercial GC $0.00[Buy now](https://1examprep.com/cart/51158767894585:1)
+
 ## Florida Commercial GC questions
 
 ### How long does order preparation take?
 
 Please allow an additional 15 business days for highlighted and tabbed book package orders.
 
-### Does passing NASCLA automatically provide a Florida license?
+### Does passing NASCLA automatically provide a Florida contractor license?
 
-No. Candidates must complete the applicable Florida licensing process and satisfy the state’s examination, experience, financial, fingerprinting, insurance, and application requirements.
+No. Applicants must complete Florida's applicable licensing requirements, including Business and Finance and Florida Building Code examination requirements for the NASCLA endorsement pathway.
 
 ### Why are highlighting and tabs helpful?
 
@@ -120,7 +126,7 @@ No. Candidates are responsible for obtaining and bringing all permitted referenc
 
 Books must comply with current testing rules. Candidates should avoid loose papers, removable notes, unauthorized inserts, and other prohibited materials.
 
-[All 13 answers for Florida Commercial GC](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+[All 26 answers for Florida Commercial GC](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 
 ### Other Florida exams
 
@@ -141,7 +147,7 @@ Books must comply with current testing rules. Candidates should avoid loose pape
 
 ### Questions
 
-- [Florida Commercial GC FAQ (13 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+- [Florida Commercial GC FAQ (26 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

@@ -1,25 +1,25 @@
 ---
 title: Florida NASCLA Residential Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/florida/residential-electrical-contractor/
-updated: 2026-11-09
+updated: 2026-11-16
 site: Pass Your NASCLA Exam Prep
-description: Florida residential electrical contractor exam prep: 6 products from $295.00 to $4,589.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: Florida residential electrical contractor exam prep: 7 products from $0.00 to $4,589.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) Residential Electrical Contractor
-Updated November 9, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 # Florida Residential Electrical Contractor Exam Prep
 
 NASCLA accredited residential electrical exam for Florida. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 6](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/florida/residential-electrical-contractor/) · [Business & Law 7](https://passyournasclaexam.com/florida/business-and-law/)
+[Commercial GC 7](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) · [Residential Electrical 7](https://passyournasclaexam.com/florida/residential-electrical-contractor/) · [Business & Law 7](https://passyournasclaexam.com/florida/business-and-law/)
 
 ## Quick answers
 
 ### How much does Florida residential electrical contractor exam prep cost?
 
-Florida residential electrical contractor prep runs from $295.00 to $4,589.00 across 6 products: Online Exam Prep Course $295.00; Exam Book Package $1,894.00; Highlighted & Tabbed Book Package $2,544.00; Books & Courses Rental Package $3,289.00; Ultimate Exam Prep Rental Package $4,089.00; The 1 Package: All-Inclusive $4,589.00.
+Florida residential electrical contractor prep runs from $0.00 to $4,589.00 across 7 products: Book $0.00; Online Exam Prep Course $295.00; Exam Book Package $1,894.00; Highlighted & Tabbed Book Package $2,544.00; Books & Courses Rental Package $3,289.00; Ultimate Exam Prep Rental Package $4,089.00; The 1 Package: All-Inclusive $4,589.00.
 
 ### Which Florida residential electrical contractor package should I choose?
 
@@ -27,7 +27,7 @@ Pick by how much help you want: the online course at $295.00; the highlighted an
 
 ## Key takeaways
 
-- 6 Florida residential electrical contractor products, from $295.00 to $4,589.00.
+- 7 Florida residential electrical contractor products, from $0.00 to $4,589.00.
 - The Ultimate Exam Prep Rental Package at $4,089.00 bundles the books with the online course.
 - The 1 Package: All-Inclusive at $4,589.00 is the most complete option.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
@@ -90,23 +90,39 @@ Prepare for the Florida NASCLA Residential Electrical Contractor examination, or
 $4,589.00 (was $5,089.00) Save 10%
 [Buy now](https://1examprep.com/cart/46448251994169:1) · [Details](https://passyournasclaexam.com/florida/residential-electrical-contractor/the-1-package-all-inclusive/)
 
-## Questions
+## Books, tabs and flash cards
 
-### Is the NASCLA exam open book?
+1 item
 
-Yes. You bring the approved reference books, so knowing where things are in the books matters as much as knowing the material.
+[Book](https://passyournasclaexam.com/florida/residential-electrical-contractor/book/) Florida · Residential Electrical $0.00[Buy now](https://1examprep.com/cart/51158782836793:1)
 
-### Are these the actual exam questions?
+## Florida Residential Electrical questions
 
-No. Real exam questions are confidential. Practice questions are original material written to the same subjects and format, with explanations.
+### What is the Florida NASCLA Residential Electrician Exam Prep Free Demo Personal AI Tutor?
 
-### When will I get it?
+It is a free demo introducing ACE, the personal AI exam coach from Pass Your NASCLA Exam Prep, for candidates preparing for the NASCLA Accredited Trade Examination for Residential Electrical Contractors.
 
-Online courses are delivered by email after purchase. Books ship from our fulfillment center, 1 Exam Prep; shipping options are shown at checkout.
+### How many questions are on the NASCLA Residential Electrician examination?
 
-### Does buying make me eligible to test?
+The examination includes 100 scored questions and 10 additional unscored experimental questions.
 
-No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
+### How long is the NASCLA Residential Electrician exam?
+
+The examination allows 270 minutes, equivalent to four hours and thirty minutes.
+
+### What is the passing score for the NASCLA Residential Electrician exam?
+
+Candidates must answer at least 70 of the 100 scored questions correctly.
+
+### Does Florida accept the NASCLA Residential Electrician examination?
+
+Yes. Florida recognizes the NASCLA Residential Electrical Contractor examination for eligible Certified Residential Electrical Specialty Contractor endorsement applicants.
+
+### Does passing NASCLA automatically provide a Florida electrical contractor license?
+
+No. Applicants must satisfy Florida's separate licensing requirements. The NASCLA endorsement pathway also requires an existing qualifying license from another jurisdiction.
+
+[All 14 answers for Florida Residential Electrical](https://passyournasclaexam.com/faq/florida/residential-electrical-contractor/)
 
 ### Other Florida exams
 
@@ -122,6 +138,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [North Carolina](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
 - [South Carolina](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/)
 - [All states for this exam](https://passyournasclaexam.com/residential-electrical-contractor/)
+
+### Questions
+
+- [Florida Residential Electrical FAQ (14 answers)](https://passyournasclaexam.com/faq/florida/residential-electrical-contractor/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

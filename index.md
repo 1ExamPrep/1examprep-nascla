@@ -1,7 +1,7 @@
 ---
 title: NASCLA Exam Prep: Commercial, Electrical, Business & Law
 url: https://passyournasclaexam.com/
-updated: 2026-11-09
+updated: 2026-11-16
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam prep for the commercial general building contractor exam accepted in 16 states, plus NASCLA electrical and business and law exams. Books, tabbed sets, rentals and online courses by state.
 ---
@@ -17,7 +17,7 @@ Find my examSee the study plan
 
 ## Key takeaways
 
-- 460 NASCLA prep products across 29 states and nationwide editions, from $19.95 to $7,495.00.
+- 462 NASCLA prep products across 29 states and nationwide editions, from $0.00 to $7,495.00.
 - The commercial exam is 115 scored questions in 330 minutes, open book, 70% to pass, and accepted in 16 states plus the U.S. Virgin Islands.
 - Every Buy now button opens secure checkout at our fulfillment center, 1 Exam Prep.
 
@@ -38,7 +38,7 @@ Choose the exam, then your state. Every state page lists the books, tabs, rental
 ### Commercial General Building Contractor
 
 The NASCLA Accredited Examination for Commercial General Building Contractors is one standardized exam that.
-17 states · 122 products →](https://passyournasclaexam.com/commercial-general-building-contractor/) · [NASCLA ACCREDITED ELECTRICAL CONTRACTOR EXAM
+17 states · 123 products →](https://passyournasclaexam.com/commercial-general-building-contractor/) · [NASCLA ACCREDITED ELECTRICAL CONTRACTOR EXAM
 
 ### Master Electrical Contractor
 
@@ -53,7 +53,7 @@ Prep for NASCLA accredited journeyman electrician exams in the states that use t
 ### Residential Electrical Contractor
 
 Prep for NASCLA accredited residential electrical contractor exams, with book packages, highlighted and tabbed sets.
-7 states · 47 products →](https://passyournasclaexam.com/residential-electrical-contractor/) · [CONTRACTOR'S GUIDE TO BUSINESS, LAW AND PROJECT MANAGEMENT
+7 states · 48 products →](https://passyournasclaexam.com/residential-electrical-contractor/) · [CONTRACTOR'S GUIDE TO BUSINESS, LAW AND PROJECT MANAGEMENT
 
 ### Business and Law
 
@@ -216,7 +216,7 @@ Use the editions named in the current NASCLA candidate information. Questions ar
 
 The same reference books, already tabbed and highlighted so you can flip to the right section fast. Most people find it saves hours of setup and a lot of time on exam day.
 
-[All 1004 questions](https://passyournasclaexam.com/faq/)
+[All 1031 questions](https://passyournasclaexam.com/faq/)
 
 Ready when you are
 

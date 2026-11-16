@@ -110,6 +110,7 @@ faq/california/commercial-general-building-contractor
 faq/connecticut/business-and-law
 faq/florida/business-and-law
 faq/florida/commercial-general-building-contractor
+faq/florida/residential-electrical-contractor
 faq/georgia/business-and-law
 faq/georgia/commercial-general-building-contractor
 faq/hawaii/business-and-law
@@ -159,6 +160,7 @@ florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed
 florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed-2
 florida/business-and-law/business-and-law-guide-tabs
 florida/commercial-general-building-contractor
+florida/commercial-general-building-contractor/book
 florida/commercial-general-building-contractor/books-and-courses-rental-package
 florida/commercial-general-building-contractor/complete-book-set
 florida/commercial-general-building-contractor/highlighted-and-tabbed-book-package
@@ -166,6 +168,7 @@ florida/commercial-general-building-contractor/online-exam-prep-course
 florida/commercial-general-building-contractor/the-1-package-all-inclusive
 florida/commercial-general-building-contractor/ultimate-exam-prep-rental-package
 florida/residential-electrical-contractor
+florida/residential-electrical-contractor/book
 florida/residential-electrical-contractor/books-and-courses-rental-package
 florida/residential-electrical-contractor/exam-book-package
 florida/residential-electrical-contractor/highlighted-and-tabbed-book-package

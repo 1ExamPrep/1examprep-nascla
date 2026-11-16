@@ -1,13 +1,13 @@
 ---
 title: Arizona NASCLA Residential Electrical FAQ
 url: https://passyournasclaexam.com/faq/arizona/residential-electrical-contractor/
-updated: 2026-11-09
+updated: 2026-11-16
 site: Pass Your NASCLA Exam Prep
 description: 36 answers about the Arizona residential electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Arizona Residential Electrical
-Updated November 9, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 # Arizona Residential Electrical Contractor exam: frequently asked questions
 

@@ -1,13 +1,13 @@
 ---
 title: Florida Complete Book Set | NASCLA Commercial GC
 url: https://passyournasclaexam.com/florida/commercial-general-building-contractor/complete-book-set/
-updated: 2026-11-09
+updated: 2026-11-16
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors and the Florida Business and Finance examination with a complete.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Commercial General Building Contractor](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) Complete Book Set
-Updated November 9, 2026 · prices checked against the 1 Exam Prep store
+Updated November 16, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Commercial GC](https://passyournasclaexam.com/florida/commercial-general-building-contractor/)
 
@@ -237,7 +237,7 @@ No. Florida reviews each applicant’s examination history, experience, financia
 Study the Florida Business and Finance materials separately, group the NASCLA references by trade subject, and practice timed reference searches with the listed books.
 
 ### Other Florida Commercial GC options
-[The 1 Package: All-Inclusive Commercial GC**$5,456.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/the-1-package-all-inclusive/) · [Ultimate Exam Prep Rental Package Commercial GC**$4,956.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/ultimate-exam-prep-rental-package/) · [Books & Courses Rental Package Commercial GC**$4,156.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/books-and-courses-rental-package/) · [Highlighted & Tabbed Book Package Commercial GC**$3,366.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/highlighted-and-tabbed-book-package/) · [Online Exam Prep Course Commercial GC**$395.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/online-exam-prep-course/)
+[The 1 Package: All-Inclusive Commercial GC**$5,456.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/the-1-package-all-inclusive/) · [Ultimate Exam Prep Rental Package Commercial GC**$4,956.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/ultimate-exam-prep-rental-package/) · [Books & Courses Rental Package Commercial GC**$4,156.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/books-and-courses-rental-package/) · [Highlighted & Tabbed Book Package Commercial GC**$3,366.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/highlighted-and-tabbed-book-package/) · [Online Exam Prep Course Commercial GC**$395.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/online-exam-prep-course/) · [Book Commercial GC**$0.00**](https://passyournasclaexam.com/florida/commercial-general-building-contractor/book/)
 
 ### Other Florida exams
 
@@ -258,7 +258,7 @@ Study the Florida Business and Finance materials separately, group the NASCLA re
 
 ### Questions
 
-- [Florida Commercial GC FAQ (13 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+- [Florida Commercial GC FAQ (26 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

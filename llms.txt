@@ -1,6 +1,6 @@
 # Pass Your NASCLA Exam Prep
 
-> NASCLA exam prep: the NASCLA Accredited Examination for Commercial General Building Contractors (accepted in 16 states and the U.S. Virgin Islands), NASCLA accredited electrical exams (master electrical contractor, journeyman electrician, residential electrical contractor) and state business and law exams. 460 products across 29 states plus nationwide editions. Buy buttons go straight to secure checkout; orders are fulfilled by 1 Exam Prep. Phone (877) 775-9400, email sales@1examprep.com.
+> NASCLA exam prep: the NASCLA Accredited Examination for Commercial General Building Contractors (accepted in 16 states and the U.S. Virgin Islands), NASCLA accredited electrical exams (master electrical contractor, journeyman electrician, residential electrical contractor) and state business and law exams. 462 products across 29 states plus nationwide editions. Buy buttons go straight to secure checkout; orders are fulfilled by 1 Exam Prep. Phone (877) 775-9400, email sales@1examprep.com.
 
 ## How the site is organised
 
@@ -65,8 +65,8 @@
 - [Arkansas Business and Law](https://passyournasclaexam.com/arkansas/business-and-law/index.md): 5 products from $24.95
 - [California Commercial General Building Contractor](https://passyournasclaexam.com/california/commercial-general-building-contractor/index.md): 6 products from $395.00
 - [Connecticut Business and Law](https://passyournasclaexam.com/connecticut/business-and-law/index.md): 6 products from $19.95
-- [Florida Commercial General Building Contractor](https://passyournasclaexam.com/florida/commercial-general-building-contractor/index.md): 6 products from $395.00
-- [Florida Residential Electrical Contractor](https://passyournasclaexam.com/florida/residential-electrical-contractor/index.md): 6 products from $295.00
+- [Florida Commercial General Building Contractor](https://passyournasclaexam.com/florida/commercial-general-building-contractor/index.md): 7 products from $0.00
+- [Florida Residential Electrical Contractor](https://passyournasclaexam.com/florida/residential-electrical-contractor/index.md): 7 products from $0.00
 - [Florida Business and Law](https://passyournasclaexam.com/florida/business-and-law/index.md): 7 products from $19.95
 - [Georgia Commercial General Building Contractor](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/index.md): 7 products from $199.99
 - [Georgia Business and Law](https://passyournasclaexam.com/georgia/business-and-law/index.md): 11 products from $19.95
@@ -146,6 +146,7 @@
 - [Connecticut Business and Law FAQ](https://passyournasclaexam.com/faq/connecticut/business-and-law/index.md)
 - [Florida Business and Law FAQ](https://passyournasclaexam.com/faq/florida/business-and-law/index.md)
 - [Florida Commercial General Building Contractor FAQ](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/index.md)
+- [Florida Residential Electrical Contractor FAQ](https://passyournasclaexam.com/faq/florida/residential-electrical-contractor/index.md)
 - [Georgia Business and Law FAQ](https://passyournasclaexam.com/faq/georgia/business-and-law/index.md)
 - [Georgia Commercial General Building Contractor FAQ](https://passyournasclaexam.com/faq/georgia/commercial-general-building-contractor/index.md)
 - [Hawaii Business and Law FAQ](https://passyournasclaexam.com/faq/hawaii/business-and-law/index.md)

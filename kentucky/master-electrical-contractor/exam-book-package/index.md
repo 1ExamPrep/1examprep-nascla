@@ -1,13 +1,13 @@
 ---
 title: Kentucky Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/kentucky/master-electrical-contractor/exam-book-package/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a reference-book package built around the electrical code, electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical Contractor](https://passyournasclaexam.com/kentucky/master-electrical-contractor/) Exam Book Package
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical](https://passyournasclaexam.com/kentucky/master-electrical-contractor/)
 

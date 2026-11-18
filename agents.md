@@ -2,7 +2,7 @@
 
 > Instructions for AI assistants and agents reading https://passyournasclaexam.com/.
 
-Last updated: 2026-11-16
+Last updated: 2026-11-18
 
 ## What this site is
 

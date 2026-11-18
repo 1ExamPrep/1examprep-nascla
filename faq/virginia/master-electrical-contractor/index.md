@@ -1,13 +1,13 @@
 ---
 title: Virginia NASCLA Master Electrical FAQ
 url: https://passyournasclaexam.com/faq/virginia/master-electrical-contractor/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: 31 answers about the Virginia master electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Virginia Master Electrical
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Virginia Master Electrical Contractor exam: frequently asked questions
 

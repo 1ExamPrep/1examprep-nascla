@@ -1,13 +1,13 @@
 ---
 title: Mississippi Master Electrical Online Exam Prep Course
 url: https://passyournasclaexam.com/mississippi/master-electrical-contractor/online-exam-prep-course/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with an online exam prep course focused on electrical code navigation.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Master Electrical Contractor](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) Online Exam Prep Course
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Master Electrical](https://passyournasclaexam.com/mississippi/master-electrical-contractor/)
 

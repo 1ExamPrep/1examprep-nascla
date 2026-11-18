@@ -1,13 +1,13 @@
 ---
 title: New Mexico Master Electrical Books & Courses Rental Package
 url: https://passyournasclaexam.com/new-mexico/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the New Mexico electrical contractor licensing process with a.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical Contractor](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) Books & Courses Rental Package
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/)
 

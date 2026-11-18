@@ -1,13 +1,13 @@
 ---
 title: Utah Business & Law Guide + Tabs (4th Ed.)
 url: https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-plus-tabs-4th-ed/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Utah contractor licensing examination with the . This contractor examination preparation package combines the official NASCLA Utah 4th.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Utah](https://passyournasclaexam.com/utah/) · [Business and Law](https://passyournasclaexam.com/utah/business-and-law/) Business & Law Guide + Tabs (4th Ed.)
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Utah](https://passyournasclaexam.com/utah/) · [Business & Law](https://passyournasclaexam.com/utah/business-and-law/)
 

@@ -1,19 +1,26 @@
 ---
 title: NASCLA Exam Prep Blog
 url: https://passyournasclaexam.com/blog/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Study plans, licensing steps and exam strategy for NASCLA commercial, electrical and business and law exams.
 ---
 
 [Home](https://passyournasclaexam.com/) Blog
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 # The NASCLA Exam Prep Blog
 
 Study plans for open-book NASCLA exams, state licensing steps, business and law tips and news, written by the people who make the prep.
 
 [
+
+November 18, 2026 9 min read
+
+## What Topics Are Covered in the NASCLA Contractor Exam Study Guides?
+
+Preparing for the NASCLA contractor exam means getting to know a wide range of construction subjects. The study guides cover everything from bidding and contract law to the details of concrete and electrical systems, making sure you are ready for all parts of the exam. Since the NASCLA exam is open
+](https://passyournasclaexam.com/blog/nascla-contractor-exam-study-guide-topics/) · [
 
 October 19, 2026 10 min read
 

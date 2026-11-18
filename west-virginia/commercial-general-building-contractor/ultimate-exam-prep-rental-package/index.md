@@ -1,13 +1,13 @@
 ---
 title: West Virginia Commercial GC Ultimate Rental Package
 url: https://passyournasclaexam.com/west-virginia/commercial-general-building-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the West Virginia NASCLA Commercial General Building Contractor licensing pathway with a comprehensive Ultimate Exam Prep Rental Package that.
 ---
 
 [Home](https://passyournasclaexam.com/) · [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Commercial General Building Contractor](https://passyournasclaexam.com/west-virginia/commercial-general-building-contractor/) Ultimate Exam Prep Rental Package
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Commercial GC](https://passyournasclaexam.com/west-virginia/commercial-general-building-contractor/)
 

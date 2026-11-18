@@ -1,13 +1,13 @@
 ---
 title: Arkansas The 1 Package: All-Inclusive | NASCLA Commercial GC
 url: https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/the-1-package-all-inclusive/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Arkansas commercial contractor licensing with an all-inclusive package that brings together NASCLA exam preparation, the complete reference-book.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arkansas](https://passyournasclaexam.com/arkansas/) · [Commercial General Building Contractor](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/) The 1 Package: All-Inclusive
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Arkansas](https://passyournasclaexam.com/arkansas/) · [Commercial GC](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/)
 

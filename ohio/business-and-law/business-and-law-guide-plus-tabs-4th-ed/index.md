@@ -1,13 +1,13 @@
 ---
 title: Ohio Business & Law Guide + Tabs (4th Ed.)
 url: https://passyournasclaexam.com/ohio/business-and-law/business-and-law-guide-plus-tabs-4th-ed/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Ohio contractor licensing examination with the . This convenient study package combines the Ohio NASCLA 4th Edition reference book with.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Ohio](https://passyournasclaexam.com/ohio/) · [Business and Law](https://passyournasclaexam.com/ohio/business-and-law/) Business & Law Guide + Tabs (4th Ed.)
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Ohio](https://passyournasclaexam.com/ohio/) · [Business & Law](https://passyournasclaexam.com/ohio/business-and-law/)
 

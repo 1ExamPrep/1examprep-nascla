@@ -1,13 +1,13 @@
 ---
 title: New Jersey NASCLA Business and Law Exam Prep
 url: https://passyournasclaexam.com/new-jersey/business-and-law/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: New Jersey business and law exam prep: 6 products from $19.95 to $309.99. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Jersey](https://passyournasclaexam.com/new-jersey/) Business and Law
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 # New Jersey Business and Law Exam Prep
 

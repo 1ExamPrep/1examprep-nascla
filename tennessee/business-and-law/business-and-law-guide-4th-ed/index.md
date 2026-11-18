@@ -1,13 +1,13 @@
 ---
 title: Tennessee Business & Law Guide (4th Ed.)
 url: https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-4th-ed/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Tennessee contractor licensing examination with the . This comprehensive reference manual covers the business, legal, and project management.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Business and Law](https://passyournasclaexam.com/tennessee/business-and-law/) Business & Law Guide (4th Ed.)
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Business & Law](https://passyournasclaexam.com/tennessee/business-and-law/)
 

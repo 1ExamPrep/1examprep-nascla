@@ -1,13 +1,13 @@
 ---
 title: Utah NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/utah/business-and-law/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: 13 answers about the Utah business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Utah Business & Law
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 # Utah Business and Law exam: frequently asked questions
 

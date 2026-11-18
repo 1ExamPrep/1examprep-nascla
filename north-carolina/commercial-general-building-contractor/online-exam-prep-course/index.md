@@ -1,13 +1,13 @@
 ---
 title: North Carolina Commercial GC Online Exam Prep Course
 url: https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the North Carolina NASCLA Commercial General Building Contractor exam with an online exam prep course designed to help you organize a broad.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) Online Exam Prep Course
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial GC](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
 

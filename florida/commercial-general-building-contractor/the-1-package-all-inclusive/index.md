@@ -1,13 +1,13 @@
 ---
 title: Florida The 1 Package: All-Inclusive | NASCLA Commercial GC
 url: https://passyournasclaexam.com/florida/commercial-general-building-contractor/the-1-package-all-inclusive/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for Florida general contractor licensing with an all-inclusive package that combines NASCLA commercial building exam preparation, Florida-specific.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Commercial General Building Contractor](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) The 1 Package: All-Inclusive
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Commercial GC](https://passyournasclaexam.com/florida/commercial-general-building-contractor/)
 

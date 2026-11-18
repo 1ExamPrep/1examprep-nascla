@@ -1,13 +1,13 @@
 ---
 title: Kentucky Master Electrical Ultimate Exam Prep Rental Package
 url: https://passyournasclaexam.com/kentucky/master-electrical-contractor/ultimate-exam-prep-rental-package/
-updated: 2026-11-16
+updated: 2026-11-18
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors and the Kentucky electrical licensing process with a comprehensive Ultimate.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical Contractor](https://passyournasclaexam.com/kentucky/master-electrical-contractor/) Ultimate Exam Prep Rental Package
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 [Kentucky](https://passyournasclaexam.com/kentucky/) · [Master Electrical](https://passyournasclaexam.com/kentucky/master-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: NASCLA Residential Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/residential-electrical-contractor/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: Prep for NASCLA accredited residential electrical contractor exams, with book packages, highlighted and. 48 products across 7 states, from $0.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Residential Electrical Contractor
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 NASCLA accredited residential electrical exam
 
 # NASCLA Residential Electrical Contractor Exam Prep

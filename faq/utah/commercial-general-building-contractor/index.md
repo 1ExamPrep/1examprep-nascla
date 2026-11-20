@@ -1,13 +1,13 @@
 ---
 title: Utah NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/utah/commercial-general-building-contractor/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: 21 answers about the Utah commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Utah Commercial GC
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 # Utah Commercial General Building Contractor exam: frequently asked questions
 

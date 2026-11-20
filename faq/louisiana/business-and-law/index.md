@@ -1,13 +1,13 @@
 ---
 title: Louisiana NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/louisiana/business-and-law/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: 29 answers about the Louisiana business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Louisiana Business & Law
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana Business and Law exam: frequently asked questions
 

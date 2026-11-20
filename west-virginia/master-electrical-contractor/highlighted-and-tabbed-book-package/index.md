@@ -1,13 +1,13 @@
 ---
 title: West Virginia Master Electrical H&T Book Package
 url: https://passyournasclaexam.com/west-virginia/master-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a professionally organized reference-book package built for efficient.
 ---
 
 [Home](https://passyournasclaexam.com/) · [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical Contractor](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 [West Virginia](https://passyournasclaexam.com/west-virginia/) · [Master Electrical](https://passyournasclaexam.com/west-virginia/master-electrical-contractor/)
 

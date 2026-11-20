@@ -1,13 +1,13 @@
 ---
 title: Virginia Master Electrical Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/virginia/master-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a professionally organized collection of electrical reference books.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Master Electrical Contractor](https://passyournasclaexam.com/virginia/master-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Master Electrical](https://passyournasclaexam.com/virginia/master-electrical-contractor/)
 

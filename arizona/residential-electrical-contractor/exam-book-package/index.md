@@ -1,13 +1,13 @@
 ---
 title: Arizona Exam Book Package | NASCLA Residential Electrical
 url: https://passyournasclaexam.com/arizona/residential-electrical-contractor/exam-book-package/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: The is designed for contractor candidates preparing for the NASCLA residential electrical trade exam accepted for Arizona’s R-11 Electrical Residential.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Residential Electrical Contractor](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) Exam Book Package
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Residential Electrical](https://passyournasclaexam.com/arizona/residential-electrical-contractor/)
 

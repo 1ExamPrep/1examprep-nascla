@@ -1,13 +1,13 @@
 ---
 title: Virginia Complete Book Set | NASCLA Commercial GC
 url: https://passyournasclaexam.com/virginia/commercial-general-building-contractor/complete-book-set/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: The provides the full collection of approved trade references required for the NASCLA-accredited commercial general building contractor licensing exam in.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Commercial General Building Contractor](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/) Complete Book Set
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Commercial GC](https://passyournasclaexam.com/virginia/commercial-general-building-contractor/)
 

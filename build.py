@@ -19,6 +19,8 @@ Copy and schema text live in this file. Previously generated folders are removed
 """
 import json, os, re, sys, shutil, html, datetime
 from urllib.parse import quote
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools"))
+import schemakit
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CFG = json.load(open(os.path.join(ROOT, "site-config.json"), encoding="utf-8"))
@@ -582,7 +584,9 @@ def product_page(p, sibs):
     jsonld = clean({"@context": "https://schema.org", "@type": "Product", "name": p["title"], "image": imgs[:6], "description": p["desc"][:500], "brand": {"@type": "Brand", "name": FUL["name"]},
                     "sku": str(p["id"]), "productID": str(p["id"]), "category": "NASCLA %s Exam Prep" % E["name"], "url": absurl(path),
                     "offers": [{"@type": "Offer", "name": v["title"] if v["title"] != "Default Title" else p["kindName"], "priceCurrency": "USD", "price": v["price"], "availability": "https://schema.org/InStock",
-                                "itemCondition": "https://schema.org/NewCondition", "url": absurl(path), "seller": {"@type": "Organization", "name": BRAND}} for v in p["variants"]]})
+                                "url": absurl(path), "seller": {"@type": "Organization", "name": FUL["name"], "url": FUL["url"]},
+                                **({"itemCondition": schemakit.condition(p["title"] + " " + v["title"], p.get("productType", ""))} if schemakit.condition(p["title"] + " " + v["title"], p.get("productType", "")) else {}),
+                                **schemakit.delivery_fields(p["title"] + " " + v["title"], p.get("productType", ""))} for v in p["variants"]]})
     crumbs = [("Home", ""), (nm, slug(p["state"]) + "/"), (E["name"], "%s/%s/" % (slug(p["state"]), p["exam"])), (p["kindName"], path)]
     extra_lds = []
     if p["kind"] in ("online-course", "live-training", "practice-questions", "complete-pass-package"):

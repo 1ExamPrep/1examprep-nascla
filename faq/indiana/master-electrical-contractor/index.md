@@ -1,13 +1,13 @@
 ---
 title: Indiana NASCLA Master Electrical FAQ
 url: https://passyournasclaexam.com/faq/indiana/master-electrical-contractor/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: 35 answers about the Indiana master electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Indiana Master Electrical
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 # Indiana Master Electrical Contractor exam: frequently asked questions
 

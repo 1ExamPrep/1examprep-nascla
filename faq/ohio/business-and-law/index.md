@@ -1,13 +1,13 @@
 ---
 title: Ohio NASCLA Business & Law FAQ
 url: https://passyournasclaexam.com/faq/ohio/business-and-law/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: 9 answers about the Ohio business and law exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Ohio Business & Law
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 # Ohio Business and Law exam: frequently asked questions
 

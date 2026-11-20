@@ -1,13 +1,13 @@
 ---
 title: Tennessee Business & Law Guide + Tabs (4th Ed.)
 url: https://passyournasclaexam.com/tennessee/business-and-law/business-and-law-guide-plus-tabs-4th-ed/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Tennessee contractor licensing examination with the . This essential contractor examination preparation package combines the NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Tennessee](https://passyournasclaexam.com/tennessee/) · [Business and Law](https://passyournasclaexam.com/tennessee/business-and-law/) Business & Law Guide + Tabs (4th Ed.)
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 [Tennessee](https://passyournasclaexam.com/tennessee/) · [Business & Law](https://passyournasclaexam.com/tennessee/business-and-law/)
 

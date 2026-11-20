@@ -1,13 +1,13 @@
 ---
 title: New Mexico Master Electrical H&T Book Package
 url: https://passyournasclaexam.com/new-mexico/master-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a professionally organized collection of electrical reference books.
 ---
 
 [Home](https://passyournasclaexam.com/) · [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical Contractor](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 [New Mexico](https://passyournasclaexam.com/new-mexico/) · [Master Electrical](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/)
 

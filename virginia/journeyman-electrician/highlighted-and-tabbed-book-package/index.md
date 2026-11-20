@@ -1,13 +1,13 @@
 ---
 title: Virginia Journeyman Highlighted & Tabbed Book Package
 url: https://passyournasclaexam.com/virginia/journeyman-electrician/highlighted-and-tabbed-book-package/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Virginia NASCLA Journeyman Electrician examination with a professionally organized reference library designed for open-book study and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Journeyman Electrician](https://passyournasclaexam.com/virginia/journeyman-electrician/) Highlighted & Tabbed Book Package
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Journeyman](https://passyournasclaexam.com/virginia/journeyman-electrician/)
 

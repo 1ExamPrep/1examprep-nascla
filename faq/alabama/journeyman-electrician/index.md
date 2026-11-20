@@ -1,13 +1,13 @@
 ---
 title: Alabama NASCLA Journeyman FAQ
 url: https://passyournasclaexam.com/faq/alabama/journeyman-electrician/
-updated: 2026-11-18
+updated: 2026-11-20
 site: Pass Your NASCLA Exam Prep
 description: 16 answers about the Alabama journeyman electrician exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Alabama Journeyman
-Updated November 18, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 # Alabama Journeyman Electrician exam: frequently asked questions
 

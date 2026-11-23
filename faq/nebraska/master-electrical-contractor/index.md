@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 15Licensing 5More questions 12
 
+## Key takeaways
+
+- 32 answers about the Nebraska master electrical contractor exam and license, compiled from our product descriptions.
+- 7 Nebraska master electrical contractor prep products, from $295.00 to $2,980.00.
+- Packages are listed state by state, because each board names its own references and rules.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### Are all rental books highlighted and tabbed?

@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 15Licensing 16More questions 5
 
+## Key takeaways
+
+- 36 answers about the Idaho master electrical contractor exam and license, compiled from our product descriptions.
+- 7 Idaho master electrical contractor prep products, from $295.00 to $3,905.00.
+- Packages are listed state by state, because each board names its own references and rules.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### Are all rental books highlighted and tabbed?

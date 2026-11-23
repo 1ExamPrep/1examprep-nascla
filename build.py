@@ -28,7 +28,7 @@ SITE = (CFG.get("siteUrl") or "").rstrip("/") + "/" if CFG.get("siteUrl") else N
 BRAND = CFG.get("brand", "Pass Your NASCLA Exam Prep")
 FUL = CFG.get("fulfillment") or {"name": "1 Exam Prep", "url": "https://1examprep.com", "note": ""}
 WM = CFG.get("wordmark") or [BRAND, "", ""]
-TODAY = datetime.date.today().isoformat()
+TODAY = os.environ.get("BUILD_DATE") or datetime.date.today().isoformat()  # BUILD_DATE pins the "last checked" date when only copy changed
 LAUNCH = CFG.get("launched", TODAY)
 YEAR = TODAY[:4]
 
@@ -672,8 +672,17 @@ for (s, k), pairs in sorted(STATE_FAQS.items(), key=lambda kv: (kv[0][0] is None
     rest = [x for x in pairs if x not in used]
     if rest: secs.append(("more", "More questions", rest))
     jump = "".join('<a class="chip" href="#%s">%s <small>%d</small></a>' % (sid, esc(n), len(sel)) for sid, n, sel in secs)
-    body = ('<section class="phead"><div class="wrap">%s<h1>%s %s exam: frequently asked questions</h1><p class="lead">%d answers about the %s %s exam and license, compiled from our product descriptions for this exam.</p><div class="jump">%s</div></div></section>'
-            % (crumbs_html([("Home", ""), ("FAQ", "faq/"), ("%s %s" % (nm, E["short"]), "/".join(parts) + "/")], rel), esc(nm), esc(E["name"]), len(pairs), esc(nm), esc(E["name"].lower()), jump))
+    se_ps = items_for(s, k)
+    tk_items = ["%d answers about the %s %s exam and license, compiled from our product descriptions." % (len(pairs), nm, E["name"].lower())]
+    if se_ps:
+        se_paid = [p for p in se_ps if float(p["price"]) > 0] or se_ps
+        tk_items.append("%d %s %s prep products, from %s to %s." % (len(se_ps), nm, E["name"].lower(), money(price_range(se_paid)[0]), money(price_range(se_paid)[1])))
+    if k == "commercial-general-building-contractor" and s in NCOMM:
+        tk_items.append("%s accepts the NASCLA commercial building exam in place of its state trade exam; the board's own rules still apply." % s)
+    tk_items += EXAM_COPY[k]["points"][:1]
+    tk_items.append("Books ship from our fulfillment center, %s; online courses arrive by email." % FUL["name"])
+    body = ('<section class="phead"><div class="wrap">%s<h1>%s %s exam: frequently asked questions</h1><p class="lead">%d answers about the %s %s exam and license, compiled from our product descriptions for this exam.</p><div class="jump">%s</div>%s</div></section>'
+            % (crumbs_html([("Home", ""), ("FAQ", "faq/"), ("%s %s" % (nm, E["short"]), "/".join(parts) + "/")], rel), esc(nm), esc(E["name"]), len(pairs), esc(nm), esc(E["name"].lower()), jump, takeaways(tk_items[:5])))
     body += '<section class="sec-tight" style="padding-top:0"><div class="wrap"><div class="layout"><div class="main-col">%s</div><aside class="side-col"><div class="side-card"><h3>Ready to study?</h3><ul><li><a href="%s%s/%s/">%s %s packages</a></li></ul></div>%s</aside></div></div></section>' % (
         "".join('<section class="faq-sec" aria-labelledby="%s"><h2 id="%s">%s</h2>%s</section>' % (sid, sid, esc(n), faq_html(sel, i == 0)) for i, (sid, n, sel) in enumerate(secs)), rel, slug(s), k, esc(nm), esc(E["short"]), cols_html(related_cols(s, k, rel)))
     title = "%s NASCLA %s FAQ" % (nm, E["short"])
@@ -703,9 +712,13 @@ def blog_index(parts, posts, tag=None):
     rel = "../" * len(parts); path = "/".join(parts) + "/"
     h1 = ("Posts tagged “%s”" % tag) if tag else "The NASCLA Exam Prep Blog"
     tags = ('<div class="chips">%s</div>' % "".join('<a class="chip" href="%sblog/tag/%s/"%s>%s</a>' % (rel, blogkit.slugify(t), ' aria-current="page"' if t == tag else "", esc(t)) for t in all_tags)) if all_tags else ""
-    body = ('<section class="phead"><div class="wrap">%s<h1>%s</h1><p class="lead">%s</p>%s</div></section><section class="sec-tight" style="padding-top:0"><div class="wrap">%s</div></section>'
+    tk = "" if tag else takeaways(["%d post%s on NASCLA study plans, state licensing steps and the business and law exam." % (len(posts), "" if len(posts) == 1 else "s"),
+                                   "The NASCLA commercial exam is 115 scored questions in 330 minutes, open book, with 70% to pass.",
+                                   "Prep for %d states plus nationwide editions is on the exam and state pages." % len(STATES),
+                                   "Every Buy now button opens secure checkout at our fulfillment center, %s." % FUL["name"]])
+    body = ('<section class="phead"><div class="wrap">%s<h1>%s</h1><p class="lead">%s</p>%s%s</div></section><section class="sec-tight" style="padding-top:0"><div class="wrap">%s</div></section>'
             % (crumbs_html([("Home", ""), ("Blog", "blog/")] + ([(tag, path)] if tag else []), rel), esc(h1), "Study plans for open-book NASCLA exams, state licensing steps, business and law tips and news, written by the people who make the prep." if not tag else "%d posts." % len(posts),
-               tags, ('<div class="post-grid">%s</div>' % "".join(post_card(q, rel) for q in posts)) if posts else '<p class="empty">No posts yet. The first one is on its way.</p>'))
+               tags, tk, ('<div class="post-grid">%s</div>' % "".join(post_card(q, rel) for q in posts)) if posts else '<p class="empty">No posts yet. The first one is on its way.</p>'))
     body += final_cta("Ready to study?", "Pick your exam and state.", "Book packages, tabbed sets, rentals and online courses.", rel + "#exams", "Find my exam")
     lds = [crumbs_ld([("Home", ""), ("Blog", "blog/")] + ([(tag, path)] if tag else [])), clean({"@context": "https://schema.org", "@type": "Blog", "name": h1, "url": absurl(path), "publisher": {"@type": "Organization", "name": BRAND},
            "blogPost": [{"@type": "BlogPosting", "headline": q["title"], "url": absurl("blog/%s/" % q["slug"]), "datePublished": q["date"]} for q in posts[:20]]})]

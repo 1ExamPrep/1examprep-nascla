@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 18Licensing 9More questions 8
 
+## Key takeaways
+
+- 35 answers about the Georgia business and law exam and license, compiled from our product descriptions.
+- 11 Georgia business and law prep products, from $19.95 to $309.99.
+- Each state has its own edition of the guide; use the one your state names.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### How many questions are on the Georgia Business & Law exam, and how long do I have?

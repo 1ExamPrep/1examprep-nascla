@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 16Licensing 7More questions 13
 
+## Key takeaways
+
+- 36 answers about the Arizona residential electrical contractor exam and license, compiled from our product descriptions.
+- 8 Arizona residential electrical contractor prep products, from $79.99 to $4,020.00.
+- Packages are matched to the residential electrical exam in each state that offers it.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### How long should I allow for an Ultimate book package order?

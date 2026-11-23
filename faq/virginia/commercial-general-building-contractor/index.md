@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 7Licensing 8More questions 6
 
+## Key takeaways
+
+- 21 answers about the Virginia commercial general building contractor exam and license, compiled from our product descriptions.
+- 8 Virginia commercial general building contractor prep products, from $199.99 to $4,674.00.
+- Virginia accepts the NASCLA commercial building exam in place of its state trade exam; the board's own rules still apply.
+- Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
+
 ## The exam
 
 ### Does Passing NASCLA Automatically Give Me a Virginia Contractor License?

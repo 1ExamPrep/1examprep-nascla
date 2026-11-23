@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 6
 
+## Key takeaways
+
+- 6 answers about the Nationwide business and law exam and license, compiled from our product descriptions.
+- 9 Nationwide business and law prep products, from $19.95 to $399.99.
+- Each state has its own edition of the guide; use the one your state names.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### What does the NASCLA Business Basic Edition material cover?

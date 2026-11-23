@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 10Licensing 2More questions 4
 
+## Key takeaways
+
+- 16 answers about the Tennessee business and law exam and license, compiled from our product descriptions.
+- 4 Tennessee business and law prep products, from $124.99 to $309.99.
+- Each state has its own edition of the guide; use the one your state names.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### What is the Tennessee NASCLA Contractor's Guide, 4th Edition?

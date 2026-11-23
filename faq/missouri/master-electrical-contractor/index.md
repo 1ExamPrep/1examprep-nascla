@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 16Licensing 3More questions 5
 
+## Key takeaways
+
+- 24 answers about the Missouri master electrical contractor exam and license, compiled from our product descriptions.
+- 6 Missouri master electrical contractor prep products, from $395.00 to $2,820.00.
+- Packages are listed state by state, because each board names its own references and rules.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### Is the NASCLA Master/Unlimited Electrical Contractor exam open book?

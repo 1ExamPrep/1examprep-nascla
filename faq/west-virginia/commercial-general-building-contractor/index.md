@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 8Licensing 4More questions 6
 
+## Key takeaways
+
+- 18 answers about the West Virginia commercial general building contractor exam and license, compiled from our product descriptions.
+- 6 West Virginia commercial general building contractor prep products, from $395.00 to $4,525.00.
+- West Virginia accepts the NASCLA commercial building exam in place of its state trade exam; the board's own rules still apply.
+- Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
+
 ## The exam
 
 ### Does Passing NASCLA Automatically Give Me a West Virginia Contractor License?

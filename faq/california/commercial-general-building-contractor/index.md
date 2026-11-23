@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 8Licensing 2More questions 4
 
+## Key takeaways
+
+- 14 answers about the California commercial general building contractor exam and license, compiled from our product descriptions.
+- 6 California commercial general building contractor prep products, from $395.00 to $4,669.00.
+- Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### Does passing NASCLA automatically provide a California license?

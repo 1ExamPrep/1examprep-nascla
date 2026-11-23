@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 9Licensing 4More questions 8
 
+## Key takeaways
+
+- 21 answers about the Arizona master electrical contractor exam and license, compiled from our product descriptions.
+- 7 Arizona master electrical contractor prep products, from $79.99 to $3,515.00.
+- Packages are listed state by state, because each board names its own references and rules.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### How long should I allow for an Ultimate book package order?

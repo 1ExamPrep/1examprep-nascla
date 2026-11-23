@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 12Licensing 3More questions 1
 
+## Key takeaways
+
+- 16 answers about the Alabama journeyman electrician exam and license, compiled from our product descriptions.
+- 7 Alabama journeyman electrician prep products, from $295.00 to $2,215.00.
+- Choose your state to see the book packages, rentals and online course for that exam.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### What are the published time and question details for the NASCLA Journeyman Electrician exam?

@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 10Licensing 6More questions 3
 
+## Key takeaways
+
+- 19 answers about the Alabama master electrical contractor exam and license, compiled from our product descriptions.
+- 6 Alabama master electrical contractor prep products, from $395.00 to $3,470.00.
+- Packages are listed state by state, because each board names its own references and rules.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### Are these books highlighted and tabbed?

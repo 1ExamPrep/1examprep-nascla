@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 8Licensing 3More questions 4
 
+## Key takeaways
+
+- 15 answers about the Maryland business and law exam and license, compiled from our product descriptions.
+- 7 Maryland business and law prep products, from $24.95 to $309.99.
+- Each state has its own edition of the guide; use the one your state names.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### Is the NASCLA 7th Edition approved for the Maryland Home Improvement Contractor exam?

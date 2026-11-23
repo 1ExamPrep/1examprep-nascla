@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 6More questions 6
 
+## Key takeaways
+
+- 12 answers about the Nationwide master electrical contractor exam and license, compiled from our product descriptions.
+- 7 Nationwide master electrical contractor prep products, from $80.99 to $1,995.00.
+- Packages are listed state by state, because each board names its own references and rules.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### How many questions are on the NASCLA Master Electrician exam?

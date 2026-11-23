@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 18Licensing 12More questions 9
 
+## Key takeaways
+
+- 39 answers about the New Mexico master electrical contractor exam and license, compiled from our product descriptions.
+- 7 New Mexico master electrical contractor prep products, from $295.00 to $3,305.00.
+- Packages are listed state by state, because each board names its own references and rules.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### Does Passing NASCLA Automatically Give Me a New Mexico EE98 License?

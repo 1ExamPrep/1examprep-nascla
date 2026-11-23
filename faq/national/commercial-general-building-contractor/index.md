@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 7More questions 4
 
+## Key takeaways
+
+- 11 answers about the Nationwide commercial general building contractor exam and license, compiled from our product descriptions.
+- 7 Nationwide commercial general building contractor prep products, from $95.00 to $7,495.00.
+- Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### How many questions are on the NASCLA Commercial General Building Contractor exam?

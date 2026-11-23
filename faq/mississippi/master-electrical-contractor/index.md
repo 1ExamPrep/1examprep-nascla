@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 8Licensing 1More questions 2
 
+## Key takeaways
+
+- 11 answers about the Mississippi master electrical contractor exam and license, compiled from our product descriptions.
+- 6 Mississippi master electrical contractor prep products, from $395.00 to $3,245.00.
+- Packages are listed state by state, because each board names its own references and rules.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### Does passing the NASCLA examination create a national license?

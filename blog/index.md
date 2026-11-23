@@ -13,6 +13,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 Study plans for open-book NASCLA exams, state licensing steps, business and law tips and news, written by the people who make the prep.
 
+## Key takeaways
+
+- 2 posts on NASCLA study plans, state licensing steps and the business and law exam.
+- The NASCLA commercial exam is 115 scored questions in 330 minutes, open book, with 70% to pass.
+- Prep for 29 states plus nationwide editions is on the exam and state pages.
+- Every Buy now button opens secure checkout at our fulfillment center, 1 Exam Prep.
+
 [
 
 November 18, 2026 9 min read

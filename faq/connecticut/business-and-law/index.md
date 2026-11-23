@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 8Licensing 8More questions 7
 
+## Key takeaways
+
+- 23 answers about the Connecticut business and law exam and license, compiled from our product descriptions.
+- 6 Connecticut business and law prep products, from $19.95 to $309.99.
+- Each state has its own edition of the guide; use the one your state names.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### What is the Connecticut NASCLA Contractor's Guide, 6th Edition?

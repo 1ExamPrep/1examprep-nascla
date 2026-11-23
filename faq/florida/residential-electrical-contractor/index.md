@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 6Licensing 2More questions 6
 
+## Key takeaways
+
+- 14 answers about the Florida residential electrical contractor exam and license, compiled from our product descriptions.
+- 7 Florida residential electrical contractor prep products, from $295.00 to $4,589.00.
+- Packages are matched to the residential electrical exam in each state that offers it.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### How many questions are on the NASCLA Residential Electrician examination?

@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 20Licensing 4More questions 4
 
+## Key takeaways
+
+- 28 answers about the South Carolina business and law exam and license, compiled from our product descriptions.
+- 14 South Carolina business and law prep products, from $19.95 to $309.99.
+- Each state has its own edition of the guide; use the one your state names.
+- Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
+
 ## The exam
 
 ### What is the South Carolina Commercial NASCLA 9th Edition?

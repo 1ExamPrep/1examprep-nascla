@@ -15,6 +15,13 @@ Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 The exam 11Licensing 1More questions 5
 
+## Key takeaways
+
+- 17 answers about the Alabama commercial general building contractor exam and license, compiled from our product descriptions.
+- 8 Alabama commercial general building contractor prep products, from $199.99 to $5,310.00.
+- Alabama accepts the NASCLA commercial building exam in place of its state trade exam; the board's own rules still apply.
+- Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
+
 ## The exam
 
 ### How many questions are on the NASCLA examination?

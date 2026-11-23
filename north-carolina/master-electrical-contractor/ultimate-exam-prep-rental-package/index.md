@@ -252,7 +252,7 @@ The Intermediate classification requires at least 5,750 hours of qualifying expe
 
 ### Questions
 
-- [North Carolina Master Electrical FAQ (25 answers)](https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/)
+- [North Carolina Master Electrical FAQ (33 answers)](https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

@@ -269,7 +269,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 
 ### Questions
 
-- [Florida Commercial GC FAQ (26 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+- [Florida Commercial GC FAQ (31 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

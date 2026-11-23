@@ -3,7 +3,7 @@ title: Louisiana NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: 13 answers about the Louisiana commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
+description: 17 answers about the Louisiana commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Louisiana Commercial GC
@@ -11,13 +11,13 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 # Louisiana Commercial General Building Contractor exam: frequently asked questions
 
-13 answers about the Louisiana commercial general building contractor exam and license, compiled from our product descriptions for this exam.
+17 answers about the Louisiana commercial general building contractor exam and license, compiled from our product descriptions for this exam.
 
-The exam 9Licensing 1More questions 3
+The exam 10Licensing 2More questions 5
 
 ## Key takeaways
 
-- 13 answers about the Louisiana commercial general building contractor exam and license, compiled from our product descriptions.
+- 17 answers about the Louisiana commercial general building contractor exam and license, compiled from our product descriptions.
 - 9 Louisiana commercial general building contractor prep products, from $124.99 to $4,269.00.
 - Louisiana accepts the NASCLA commercial building exam in place of its state trade exam; the board's own rules still apply.
 - Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
@@ -56,15 +56,23 @@ No. Candidates are responsible for obtaining and bringing all permitted referenc
 
 Yes. Code provisions, technical requirements, page numbers, illustrations, and book organization may differ between editions.
 
-### Should I study directly from the listed books?
+### How many questions are on the NASCLA examination?
 
-Yes. Candidates should combine course review with regular practice using the listed references so the library is familiar before examination day.
+The examination contains 115 questions , allows 5 hours and 30 minutes , and requires at least 81 correct answers to pass.
+
+### Does passing the NASCLA examination automatically provide a Louisiana contractor license?
+
+No. Applicants must complete the Louisiana licensing process and satisfy the applicable business, qualifying-party, financial, examination, and administrative requirements.
 
 ## Licensing
 
 ### Is Louisiana Business and Law required?
 
-Yes. Each applicant or licensee must have at least one approved qualifying party for Louisiana Business and Law. The current requirement is an online course with an examination at the conclusion.
+Qualifying parties receiving trade-examination credit through NASCLA or reciprocity must complete Louisiana’s online Business and Law course through the LSLBC contractor portal.
+
+### Does Louisiana accept the NASCLA Commercial General Building Contractor examination?
+
+Yes. Louisiana accepts the NASCLA examination for applicable technical examination credit within its contractor licensing process.
 
 ## More questions
 
@@ -76,9 +84,17 @@ Yes. The Louisiana State Licensing Board for Contractors accepts the NASCLA Accr
 
 Highlighting identifies useful material, while permanent tabs help candidates reach important chapters, code sections, tables, and technical subjects more efficiently.
 
-### Does the NASCLA result expire?
+### What subjects does the online exam prep cover?
 
-NASCLA examination results remain in the National Examination Database. Candidates must still follow the Louisiana application policies and any timing requirements associated with their state licensing file.
+Preparation covers construction management, safety, sitework, concrete, steel, masonry, carpentry, roofing, accessibility, building codes, environmental controls, and mechanical and electrical coordination.
+
+### Can NASCLA examination results be sent to Louisiana?
+
+Yes. Successful candidates can request transmission of their examination results through the NASCLA National Examination Database for use in the applicable Louisiana licensing process.
+
+### How does 1 Exam Prep help candidates prepare?
+
+Pass Your NASCLA Exam Prep supports candidates through organized online study guidance, commercial construction review, practice-oriented preparation, and technical reference-navigation strategies designed to strengthen examination readiness.
 
 ### Ready to study?
 
@@ -103,7 +119,7 @@ NASCLA examination results remain in the National Examination Database. Candidat
 
 ### Questions
 
-- [Louisiana Commercial GC FAQ (13 answers)](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
+- [Louisiana Commercial GC FAQ (17 answers)](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

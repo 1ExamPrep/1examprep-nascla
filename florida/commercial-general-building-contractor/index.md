@@ -44,7 +44,7 @@ Florida · Commercial GC
 
 ### [Online Exam Prep Course](https://passyournasclaexam.com/florida/commercial-general-building-contractor/online-exam-prep-course/)
 
-Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an organized online exam prep course focused on commercial construction knowledge, open-book…
+Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with structured online exam preparation from 1 Exam Prep. Designed for construction professionals,…
 
 $395.00 (was $440.00) Save 10% options to $695.00
 [Buy now](https://1examprep.com/cart/45340863856697:1) · [Details](https://passyournasclaexam.com/florida/commercial-general-building-contractor/online-exam-prep-course/)
@@ -126,7 +126,7 @@ No. Candidates are responsible for obtaining and bringing all permitted referenc
 
 Books must comply with current testing rules. Candidates should avoid loose papers, removable notes, unauthorized inserts, and other prohibited materials.
 
-[All 26 answers for Florida Commercial GC](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+[All 31 answers for Florida Commercial GC](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 
 ### Other Florida exams
 
@@ -147,7 +147,7 @@ Books must comply with current testing rules. Candidates should avoid loose pape
 
 ### Questions
 
-- [Florida Commercial GC FAQ (26 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+- [Florida Commercial GC FAQ (31 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

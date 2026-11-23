@@ -3,7 +3,7 @@ title: North Carolina NASCLA Master Electrical FAQ
 url: https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: 25 answers about the North Carolina master electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
+description: 33 answers about the North Carolina master electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) North Carolina Master Electrical
@@ -11,14 +11,14 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 # North Carolina Master Electrical Contractor exam: frequently asked questions
 
-25 answers about the North Carolina master electrical contractor exam and license, compiled from our product descriptions for this exam.
+33 answers about the North Carolina master electrical contractor exam and license, compiled from our product descriptions for this exam.
 
-The exam 15Licensing 8More questions 2
+The exam 18Licensing 9More questions 6
 
 ## Key takeaways
 
-- 25 answers about the North Carolina master electrical contractor exam and license, compiled from our product descriptions.
-- 7 North Carolina master electrical contractor prep products, from $295.00 to $3,155.00.
+- 33 answers about the North Carolina master electrical contractor exam and license, compiled from our product descriptions.
+- 8 North Carolina master electrical contractor prep products, from $295.00 to $3,155.00.
 - Packages are listed state by state, because each board names its own references and rules.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
@@ -84,6 +84,18 @@ View the current schedule on the Live Class Schedule page.
 
 The examination is open book, but the references contain extensive technical information. Practicing navigation can help candidates identify the correct reference and locate applicable information more efficiently during timed preparation.
 
+### How many questions are on the examination?
+
+The examination contains 100 scored questions and ten additional unscored experimental questions under the 2026 examination format.
+
+### Which NEC editions are accepted?
+
+The examination reference list permits the 2020 or 2023 National Electrical Code or corresponding NEC Handbook.
+
+### Does passing NASCLA automatically provide an Unlimited license?
+
+No. Applicants must satisfy the North Carolina Board's experience, financial, character, and licensing requirements for the selected classification.
+
 ## Licensing
 
 ### Does North Carolina accept the NASCLA Electrical Contractor/Master Electrician examination?
@@ -118,6 +130,10 @@ The Unlimited classification requires at least 9,000 hours of qualifying experie
 
 Applicants who have passed the NASCLA Electrical Contractor/Master Electrician examination may apply for eligible North Carolina electrical contracting classifications including Limited, Intermediate, Unlimited, and applicable Special Restricted classifications, subject to the requirements for the selected license.
 
+### What is the North Carolina NASCLA Master Electrical Contractor Exam Prep Free Demo Personal AI Tutor?
+
+It is a free demonstration of ACE, the personal AI exam coach from Pass Your NASCLA Exam Prep, introducing study guidance for the NASCLA Master Electrical Contractor examination accepted by North Carolina.
+
 ## More questions
 
 ### Does North Carolina require my NASCLA transcript?
@@ -127,6 +143,22 @@ Yes. Applicants using the NASCLA examination pathway must have their NASCLA exam
 ### Does North Carolina require continuing education?
 
 Yes. Qualified individuals listed on Limited, Intermediate, Unlimited, and Special Restricted Single-Family Dwelling licenses must complete eight hours of approved continuing education for renewal under current requirements.
+
+### How long is the examination?
+
+Candidates have 270 minutes, or four hours and 30 minutes.
+
+### Does North Carolina require an additional state examination?
+
+Yes. NASCLA-qualified applicants must complete the North Carolina Laws, Rules and Business Practices examination as part of the licensing process.
+
+### Can NASCLA examination results be used in other states?
+
+Participating jurisdictions accept qualifying NASCLA examination transcripts for applicable license classifications, subject to their individual requirements.
+
+### How do I get started with ACE?
+
+Visit the ACE Personal AI Exam Coach page to explore personalized NASCLA Master Electrical Contractor examination preparation. Take the next step toward focused North Carolina NASCLA Master Electrical Contractor exam preparation. Explore the free ACE AI tutor demo and strengthen your understanding of electrical theory, NEC requirements, wiring methods, grounding, electrical safety, and professional contracting responsibilities with 1 Exam Prep.
 
 ### Ready to study?
 
@@ -152,7 +184,7 @@ Yes. Qualified individuals listed on Limited, Intermediate, Unlimited, and Speci
 
 ### Questions
 
-- [North Carolina Master Electrical FAQ (25 answers)](https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/)
+- [North Carolina Master Electrical FAQ (33 answers)](https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

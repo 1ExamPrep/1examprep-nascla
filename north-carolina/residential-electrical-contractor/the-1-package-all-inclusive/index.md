@@ -266,7 +266,7 @@ Online courses are delivered by email after purchase. Books ship from our fulfil
 No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
 
 ### Other North Carolina Residential Electrical options
-[Ultimate Exam Prep Rental Package Residential Electrical**$3,020.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/ultimate-exam-prep-rental-package/) · [Books & Courses Rental Package Residential Electrical**$2,595.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/books-and-courses-rental-package/) · [Highlighted & Tabbed Book Package Residential Electrical**$2,245.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/highlighted-and-tabbed-book-package/) · [Exam Book Package Residential Electrical**$1,695.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/exam-book-package/) · [Online Exam Prep Course Residential Electrical**$295.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/online-exam-prep-course/)
+[Ultimate Exam Prep Rental Package Residential Electrical**$3,020.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/ultimate-exam-prep-rental-package/) · [Books & Courses Rental Package Residential Electrical**$2,595.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/books-and-courses-rental-package/) · [Highlighted & Tabbed Book Package Residential Electrical**$2,245.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/highlighted-and-tabbed-book-package/) · [Exam Book Package Residential Electrical**$1,695.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/exam-book-package/) · [Online Exam Prep Course Residential Electrical**$295.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/online-exam-prep-course/) · [Book Residential Electrical**$0.00**](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/book/)
 
 ### Other North Carolina exams
 
@@ -283,6 +283,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [New Mexico](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
 - [South Carolina](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/)
 - [All states for this exam](https://passyournasclaexam.com/residential-electrical-contractor/)
+
+### Questions
+
+- [North Carolina Residential Electrical FAQ (14 answers)](https://passyournasclaexam.com/faq/north-carolina/residential-electrical-contractor/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

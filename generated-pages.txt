@@ -139,7 +139,9 @@ faq/new-jersey/business-and-law
 faq/new-mexico/business-and-law
 faq/new-mexico/master-electrical-contractor
 faq/north-carolina/business-and-law
+faq/north-carolina/commercial-general-building-contractor
 faq/north-carolina/master-electrical-contractor
+faq/north-carolina/residential-electrical-contractor
 faq/ohio/business-and-law
 faq/oklahoma/business-and-law
 faq/oregon/business-and-law
@@ -195,6 +197,7 @@ georgia/business-and-law/residential-business-and-law-guide-highlighted-and-tabb
 georgia/business-and-law/residential-business-and-law-guide-plus-tabs-3rd-ed
 georgia/business-and-law/residential-business-and-law-guide-tabs-3rd-ed
 georgia/commercial-general-building-contractor
+georgia/commercial-general-building-contractor/book
 georgia/commercial-general-building-contractor/books-and-courses-rental-package
 georgia/commercial-general-building-contractor/complete-book-set
 georgia/commercial-general-building-contractor/exam-pre-printed-tabs
@@ -450,6 +453,7 @@ north-carolina/business-and-law/business-and-law-guide-plus-tabs-10th-ed
 north-carolina/business-and-law/business-and-law-guide-plus-tabs-14th-ed
 north-carolina/business-and-law/business-and-law-guide-tabs-10th-ed
 north-carolina/commercial-general-building-contractor
+north-carolina/commercial-general-building-contractor/book
 north-carolina/commercial-general-building-contractor/books-and-courses-rental-package
 north-carolina/commercial-general-building-contractor/complete-book-set
 north-carolina/commercial-general-building-contractor/complete-book-set-2
@@ -459,6 +463,7 @@ north-carolina/commercial-general-building-contractor/online-exam-prep-course
 north-carolina/commercial-general-building-contractor/the-1-package-all-inclusive
 north-carolina/commercial-general-building-contractor/ultimate-exam-prep-rental-package
 north-carolina/master-electrical-contractor
+north-carolina/master-electrical-contractor/book
 north-carolina/master-electrical-contractor/books-and-courses-rental-package
 north-carolina/master-electrical-contractor/exam-book-package
 north-carolina/master-electrical-contractor/highlighted-and-tabbed-book-package
@@ -467,6 +472,7 @@ north-carolina/master-electrical-contractor/online-exam-prep-course
 north-carolina/master-electrical-contractor/the-1-package-all-inclusive
 north-carolina/master-electrical-contractor/ultimate-exam-prep-rental-package
 north-carolina/residential-electrical-contractor
+north-carolina/residential-electrical-contractor/book
 north-carolina/residential-electrical-contractor/books-and-courses-rental-package
 north-carolina/residential-electrical-contractor/exam-book-package
 north-carolina/residential-electrical-contractor/highlighted-and-tabbed-book-package

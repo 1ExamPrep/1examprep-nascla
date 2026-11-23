@@ -229,7 +229,7 @@ Use the books throughout preparation. Practice NEC lookups, electrical calculati
 
 ### Questions
 
-- [Louisiana Master Electrical FAQ (27 answers)](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
+- [Louisiana Master Electrical FAQ (34 answers)](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

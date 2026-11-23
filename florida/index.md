@@ -254,7 +254,7 @@ Florida · Commercial GC
 
 ### [Online Exam Prep Course](https://passyournasclaexam.com/florida/commercial-general-building-contractor/online-exam-prep-course/)
 
-Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an organized online exam prep course focused on commercial construction knowledge, open-book…
+Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with structured online exam preparation from 1 Exam Prep. Designed for construction professionals,…
 
 $395.00 (was $440.00) Save 10% options to $695.00
 [Buy now](https://1examprep.com/cart/45340863856697:1) · [Details](https://passyournasclaexam.com/florida/commercial-general-building-contractor/online-exam-prep-course/)
@@ -285,7 +285,7 @@ Florida · Residential Electrical
 
 ### [Online Exam Prep Course](https://passyournasclaexam.com/florida/residential-electrical-contractor/online-exam-prep-course/)
 
-Prepare for the NASCLA Accredited Residential Electrical Contractor examination with trade-focused online study designed around residential electrical code, safety, theory, wiring methods, equipment, business…
+Prepare for the NASCLA Accredited Residential Electrical Contractor Examination with structured online exam preparation from 1 Exam Prep. Designed for experienced residential electricians, electrical…
 
 $295.00 (was $395.00) Save 25%
 [Buy now](https://1examprep.com/cart/46445133103161:1) · [Details](https://passyournasclaexam.com/florida/residential-electrical-contractor/online-exam-prep-course/)

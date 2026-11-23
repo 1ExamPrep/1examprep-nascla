@@ -3,7 +3,7 @@ title: Georgia NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/georgia/commercial-general-building-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: 25 answers about the Georgia commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
+description: 39 answers about the Georgia commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Georgia Commercial GC
@@ -11,14 +11,14 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 # Georgia Commercial General Building Contractor exam: frequently asked questions
 
-25 answers about the Georgia commercial general building contractor exam and license, compiled from our product descriptions for this exam.
+39 answers about the Georgia commercial general building contractor exam and license, compiled from our product descriptions for this exam.
 
-The exam 16Licensing 7More questions 2
+The exam 22Licensing 11More questions 6
 
 ## Key takeaways
 
-- 25 answers about the Georgia commercial general building contractor exam and license, compiled from our product descriptions.
-- 7 Georgia commercial general building contractor prep products, from $199.99 to $4,694.00.
+- 39 answers about the Georgia commercial general building contractor exam and license, compiled from our product descriptions.
+- 8 Georgia commercial general building contractor prep products, from $199.99 to $4,694.00.
 - Georgia accepts the NASCLA commercial building exam in place of its state trade exam; the board's own rules still apply.
 - Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
 
@@ -72,6 +72,30 @@ No. The Georgia PSI contractor bulletin states that references may be tabbed/ind
 
 No. The Georgia PSI contractor bulletin states references may be highlighted, underlined, and/or indexed, but must be otherwise unmarked. It also states references may not contain additional papers (loose or attached).
 
+### How many questions are on the NASCLA examination?
+
+The examination contains 115 scored questions.
+
+### What score is required to pass?
+
+Candidates must answer at least 81 of the 115 scored questions correctly.
+
+### Does passing NASCLA provide a contractor license in multiple states?
+
+No. NASCLA examination results may be submitted to participating jurisdictions, but each jurisdiction has its own licensing requirements.
+
+### What subjects receive the most examination questions?
+
+Procurement and contracting requirements account for 31 questions, general requirements for 25, and site construction for 15.
+
+### What references are important for preparation?
+
+Important references include the International Building Code, OSHA Construction Standards, construction management publications, and designated technical manuals covering commercial building trades.
+
+### Does passing the NASCLA examination automatically grant a Georgia license?
+
+No. Applicants must meet Georgia's licensing qualifications, complete the required examinations, and satisfy the Board's issuance requirements.
+
 ### Can I highlight or underline my references if they are tabbed?
 
 PSI’s bulletin states reference materials may be highlighted, underlined, and/or indexed, but they must be otherwise unmarked (not written in) and may not contain additional papers.
@@ -114,6 +138,22 @@ Georgia’s How-To Guide for Commercial General Contractors explains that applic
 
 Georgia’s How-To Guide states renewal is conducted online and must be completed by June 30 of even-numbered years , with a late renewal period from July 1 through July 31 .
 
+### What is the Georgia NASCLA Commercial General Building Contractor Exam Prep Free Demo Personal AI Tutor?
+
+It is a free demonstration of ACE, the personal AI exam coach from Pass Your NASCLA Exam Prep, introducing preparation guidance for the NASCLA Commercial General Building Contractor examination accepted by Georgia.
+
+### Is the Georgia Business and Law examination also required?
+
+Yes. Georgia's examination requirements include the NASCLA trade examination and the Georgia Business and Law examination for the applicable commercial general contractor licensing categories.
+
+### Can ACE help experienced commercial construction professionals?
+
+ACE introduces technical explanations and practice-oriented review covering commercial construction, safety, project management, and building systems.
+
+### Does ACE issue contractor licenses?
+
+No. Georgia's State Licensing Board for Residential and General Contractors regulates licensing. ACE provides educational examination preparation support.
+
 ### Are tabs allowed for the Georgia NASCLA Commercial General Building Contractor exam?
 
 Yes. PSI’s Georgia contractor bulletin explains that references may be tabbed/indexed with permanent tabs only . Temporary tabs (such as Post-It notes) are not allowed and must be removed before the exam begins.
@@ -127,6 +167,22 @@ Highlighting identifies useful material, while permanent tabs help candidates re
 ### How long do I have to complete the NASCLA exam in Georgia?
 
 The Georgia PSI contractor bulletin lists 330 minutes for the NASCLA Commercial General Building Contractors exam.
+
+### How long is the NASCLA examination?
+
+Candidates have 330 minutes, or five hours and thirty minutes.
+
+### Does Georgia accept the NASCLA examination?
+
+Yes. Georgia accepts the NASCLA Accredited Examination for Commercial General Building Contractors as the trade examination for its General Contractor and General Contractor Limited Tier classifications.
+
+### Does the examination cover concrete and masonry?
+
+Yes. Concrete and masonry are separate examination categories, alongside metals, wood construction, and other building systems.
+
+### How do I get started with ACE?
+
+Visit the ACE Personal AI Exam Coach page to explore Georgia NASCLA Commercial General Building Contractor examination preparation. Take the next step toward Georgia NASCLA Commercial General Building Contractor exam preparation. Explore the free ACE AI tutor demo and strengthen your understanding of commercial construction, building codes, sitework, concrete, masonry, structural systems, construction safety, and project management with 1 Exam Prep.
 
 ### Ready to study?
 
@@ -150,7 +206,7 @@ The Georgia PSI contractor bulletin lists 330 minutes for the NASCLA Commercial 
 
 ### Questions
 
-- [Georgia Commercial GC FAQ (25 answers)](https://passyournasclaexam.com/faq/georgia/commercial-general-building-contractor/)
+- [Georgia Commercial GC FAQ (39 answers)](https://passyournasclaexam.com/faq/georgia/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

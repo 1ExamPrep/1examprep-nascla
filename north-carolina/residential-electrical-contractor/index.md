@@ -3,7 +3,7 @@ title: North Carolina NASCLA Residential Electrical Exam Prep
 url: https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: North Carolina residential electrical contractor exam prep: 6 products from $295.00 to $3,660.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: North Carolina residential electrical contractor exam prep: 7 products from $0.00 to $3,660.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) Residential Electrical Contractor
@@ -13,13 +13,13 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 NASCLA accredited residential electrical exam for North Carolina. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 8](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
+[Commercial GC 9](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 8](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 7](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
 
 ## Quick answers
 
 ### How much does North Carolina residential electrical contractor exam prep cost?
 
-North Carolina residential electrical contractor prep runs from $295.00 to $3,660.00 across 6 products: Online Exam Prep Course $295.00; Exam Book Package $1,695.00; Highlighted & Tabbed Book Package $2,245.00; Books & Courses Rental Package $2,595.00; Ultimate Exam Prep Rental Package $3,020.00; The 1 Package: All-Inclusive $3,660.00.
+North Carolina residential electrical contractor prep runs from $0.00 to $3,660.00 across 7 products: Book $0.00; Online Exam Prep Course $295.00; Exam Book Package $1,695.00; Highlighted & Tabbed Book Package $2,245.00; Books & Courses Rental Package $2,595.00; Ultimate Exam Prep Rental Package $3,020.00; The 1 Package: All-Inclusive $3,660.00.
 
 ### Which North Carolina residential electrical contractor package should I choose?
 
@@ -27,7 +27,7 @@ Pick by how much help you want: the online course at $295.00; the highlighted an
 
 ## Key takeaways
 
-- 6 North Carolina residential electrical contractor products, from $295.00 to $3,660.00.
+- 7 North Carolina residential electrical contractor products, from $0.00 to $3,660.00.
 - The Ultimate Exam Prep Rental Package at $3,020.00 bundles the books with the online course.
 - The 1 Package: All-Inclusive at $3,660.00 is the most complete option.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
@@ -90,23 +90,39 @@ Prepare for the North Carolina NASCLA Residential Electrical Contractor examinat
 $3,660.00 (was $4,160.00) Save 12%
 [Buy now](https://1examprep.com/cart/46448289316921:1) · [Details](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/the-1-package-all-inclusive/)
 
-## Questions
+## Books, tabs and flash cards
 
-### Is the NASCLA exam open book?
+1 item
 
-Yes. You bring the approved reference books, so knowing where things are in the books matters as much as knowing the material.
+[Book](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/book/) North Carolina · Residential Electrical $0.00[Buy now](https://1examprep.com/cart/51213164937273:1)
 
-### Are these the actual exam questions?
+## North Carolina Residential Electrical questions
 
-No. Real exam questions are confidential. Practice questions are original material written to the same subjects and format, with explanations.
+### What is the North Carolina NASCLA Residential Electrician Contractor Exam Prep Free Demo Personal AI Tutor?
 
-### When will I get it?
+It is a free demonstration of ACE, the personal AI exam coach from Pass Your NASCLA Exam Prep, introducing study guidance for the NASCLA Residential Electrical Contractor examination.
 
-Online courses are delivered by email after purchase. Books ship from our fulfillment center, 1 Exam Prep; shipping options are shown at checkout.
+### Does North Carolina accept the NASCLA Residential Electrical examination?
 
-### Does buying make me eligible to test?
+Yes. North Carolina accepts this examination for the Special Restricted Single-Family Residential Dwelling (SP-SFD) electrical contractor classification.
 
-No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
+### How many questions are on the examination?
+
+The examination contains 100 scored questions and ten additional unscored experimental questions.
+
+### How long is the examination?
+
+Candidates have 270 minutes, or four hours and 30 minutes.
+
+### What score is required to pass?
+
+A minimum of 70 correct answers out of 100 scored questions is required.
+
+### Which NEC editions are approved?
+
+The examination permits the 2020 or 2023 National Electrical Code or the corresponding NEC Handbook.
+
+[All 14 answers for North Carolina Residential Electrical](https://passyournasclaexam.com/faq/north-carolina/residential-electrical-contractor/)
 
 ### Other North Carolina exams
 
@@ -123,6 +139,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [New Mexico](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
 - [South Carolina](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/)
 - [All states for this exam](https://passyournasclaexam.com/residential-electrical-contractor/)
+
+### Questions
+
+- [North Carolina Residential Electrical FAQ (14 answers)](https://passyournasclaexam.com/faq/north-carolina/residential-electrical-contractor/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

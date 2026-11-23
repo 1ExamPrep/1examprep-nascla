@@ -179,7 +179,7 @@ No. Tabs are a navigation tool, not a substitute for understanding. They can hel
 
 ### Questions
 
-- [Georgia Commercial GC FAQ (25 answers)](https://passyournasclaexam.com/faq/georgia/commercial-general-building-contractor/)
+- [Georgia Commercial GC FAQ (39 answers)](https://passyournasclaexam.com/faq/georgia/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

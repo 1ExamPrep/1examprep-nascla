@@ -198,7 +198,7 @@ No. This listing is for the complete book set only. If you want structured lesso
 No. The books are tools. Results depend on your study time, your understanding of the material, and your ability to manage pace and questions under exam conditions.
 
 ### Other Georgia Commercial GC options
-[The 1 Package: All-Inclusive Commercial GC**$4,694.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/the-1-package-all-inclusive/) · [Ultimate Exam Prep Rental Package Commercial GC**$3,964.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/ultimate-exam-prep-rental-package/) · [Books & Courses Rental Package Commercial GC**$3,539.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/books-and-courses-rental-package/) · [Highlighted & Tabbed Book Package Commercial GC**$2,949.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/highlighted-and-tabbed-book-package/) · [Online Exam Prep Course Commercial GC**$395.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/online-exam-prep-course/) · [Exam Pre-Printed Tabs Commercial GC**$199.99**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/exam-pre-printed-tabs/)
+[The 1 Package: All-Inclusive Commercial GC**$4,694.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/the-1-package-all-inclusive/) · [Ultimate Exam Prep Rental Package Commercial GC**$3,964.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/ultimate-exam-prep-rental-package/) · [Books & Courses Rental Package Commercial GC**$3,539.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/books-and-courses-rental-package/) · [Highlighted & Tabbed Book Package Commercial GC**$2,949.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/highlighted-and-tabbed-book-package/) · [Online Exam Prep Course Commercial GC**$395.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/online-exam-prep-course/) · [Book Commercial GC**$0.00**](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/book/)
 
 ### Other Georgia exams
 
@@ -218,7 +218,7 @@ No. The books are tools. Results depend on your study time, your understanding o
 
 ### Questions
 
-- [Georgia Commercial GC FAQ (25 answers)](https://passyournasclaexam.com/faq/georgia/commercial-general-building-contractor/)
+- [Georgia Commercial GC FAQ (39 answers)](https://passyournasclaexam.com/faq/georgia/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

@@ -349,7 +349,7 @@ Yes. Participating licensing agencies may recognize NASCLA examination results a
 
 ### Questions
 
-- [Florida Residential Electrical FAQ (14 answers)](https://passyournasclaexam.com/faq/florida/residential-electrical-contractor/)
+- [Florida Residential Electrical FAQ (21 answers)](https://passyournasclaexam.com/faq/florida/residential-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

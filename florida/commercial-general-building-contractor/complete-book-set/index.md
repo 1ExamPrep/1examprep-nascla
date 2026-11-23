@@ -258,7 +258,7 @@ Study the Florida Business and Finance materials separately, group the NASCLA re
 
 ### Questions
 
-- [Florida Commercial GC FAQ (26 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+- [Florida Commercial GC FAQ (31 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

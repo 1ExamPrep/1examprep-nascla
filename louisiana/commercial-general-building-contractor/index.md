@@ -44,7 +44,7 @@ Louisiana · Commercial GC
 
 ### [Online Exam Prep Course](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/online-exam-prep-course/)
 
-Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an organized online exam prep course focused on commercial construction knowledge, open-book…
+Prepare for the Louisiana NASCLA Commercial General Building Contractor Exam with online exam preparation from 1 Exam Prep. Designed for commercial general contractors, construction…
 
 $395.00 (was $440.00) Save 10% options to $695.00
 [Buy now](https://1examprep.com/cart/45333789769785:1) · [Details](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/online-exam-prep-course/)
@@ -130,7 +130,7 @@ Yes. Repeated practice helps candidates learn which reference applies to each su
 
 No. Candidates are responsible for obtaining and bringing all permitted references to the testing location.
 
-[All 13 answers for Louisiana Commercial GC](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
+[All 17 answers for Louisiana Commercial GC](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
 
 ### Other Louisiana exams
 
@@ -151,7 +151,7 @@ No. Candidates are responsible for obtaining and bringing all permitted referenc
 
 ### Questions
 
-- [Louisiana Commercial GC FAQ (13 answers)](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
+- [Louisiana Commercial GC FAQ (17 answers)](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

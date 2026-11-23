@@ -3,7 +3,7 @@ title: NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/master-electrical-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: NASCLA accredits trade examinations for electrical contractor licenses in participating states. Our master. 101 products across 15 states, from $79.99.
+description: NASCLA accredits trade examinations for electrical contractor licenses in participating states. Our master. 102 products across 15 states, from $0.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Master Electrical Contractor
@@ -16,7 +16,7 @@ NASCLA accredits trade examinations for electrical contractor licenses in partic
 
 ## Key takeaways
 
-- 101 products for this exam across 15 states plus nationwide editions, from $79.99 to $3,905.00.
+- 102 products for this exam across 15 states plus nationwide editions, from $0.00 to $3,905.00.
 - Packages are listed state by state, because each board names its own references and rules.
 - Open-book exams reward fast navigation, so the highlighted and tabbed sets are the most popular way to prepare.
 - Your state board decides eligibility and licensing; the product pages explain each state's steps.
@@ -29,7 +29,7 @@ We carry master electrical contractor prep for Alabama, Arizona, Idaho, Indiana,
 
 ### What does master electrical contractor prep cost?
 
-From $79.99 to $3,905.00, depending on whether you want a single book or tabs, a book package, a rental, an online course or an all-inclusive package.
+From $0.00 to $3,905.00, depending on whether you want a single book or tabs, a book package, a rental, an online course or an all-inclusive package.
 
 ## Choose your state
 
@@ -43,7 +43,7 @@ From $79.99 to $3,905.00, depending on whether you want a single book or tabs, a
 - [Missouri](https://passyournasclaexam.com/missouri/master-electrical-contractor/) [6 products from $395.00](https://passyournasclaexam.com/missouri/master-electrical-contractor/)
 - [Nebraska](https://passyournasclaexam.com/nebraska/master-electrical-contractor/) [7 products from $295.00](https://passyournasclaexam.com/nebraska/master-electrical-contractor/)
 - [New Mexico](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/) [7 products from $295.00](https://passyournasclaexam.com/new-mexico/master-electrical-contractor/)
-- [North Carolina](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) [7 products from $295.00](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
+- [North Carolina](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) [8 products from $0.00](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
 - [South Carolina](https://passyournasclaexam.com/south-carolina/master-electrical-contractor/) [1 products from $1,995.00](https://passyournasclaexam.com/south-carolina/master-electrical-contractor/)
 - [Tennessee](https://passyournasclaexam.com/tennessee/master-electrical-contractor/) [6 products from $395.00](https://passyournasclaexam.com/tennessee/master-electrical-contractor/)
 - [Virginia](https://passyournasclaexam.com/virginia/master-electrical-contractor/) [7 products from $295.00](https://passyournasclaexam.com/virginia/master-electrical-contractor/)

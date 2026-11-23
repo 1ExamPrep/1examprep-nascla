@@ -273,6 +273,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Mississippi](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/)
 - [All states for this exam](https://passyournasclaexam.com/commercial-general-building-contractor/)
 
+### Questions
+
+- [North Carolina Commercial GC FAQ (15 answers)](https://passyournasclaexam.com/faq/north-carolina/commercial-general-building-contractor/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
+
 ---
 
 Source: https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/books-and-courses-rental-package/  

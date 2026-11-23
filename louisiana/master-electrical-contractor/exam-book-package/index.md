@@ -249,7 +249,7 @@ Use the references throughout your preparation. Combine NEC navigation with theo
 
 ### Questions
 
-- [Louisiana Master Electrical FAQ (27 answers)](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
+- [Louisiana Master Electrical FAQ (34 answers)](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

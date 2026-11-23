@@ -238,7 +238,7 @@ Louisiana · Commercial GC
 
 ### [Online Exam Prep Course](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/online-exam-prep-course/)
 
-Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an organized online exam prep course focused on commercial construction knowledge, open-book…
+Prepare for the Louisiana NASCLA Commercial General Building Contractor Exam with online exam preparation from 1 Exam Prep. Designed for commercial general contractors, construction…
 
 $395.00 (was $440.00) Save 10% options to $695.00
 [Buy now](https://1examprep.com/cart/45333789769785:1) · [Details](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/online-exam-prep-course/)
@@ -269,7 +269,7 @@ Louisiana · Master Electrical
 
 ### [Online Exam Prep Course](https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/)
 
-Prepare for the Louisiana NASCLA Master Electrical Contractor licensing pathway with online exam prep focused on the NASCLA Accredited Trade Examination for Electrical Contractors,…
+Prepare for the Louisiana NASCLA Master Electrical Contractor Exam with online exam preparation from 1 Exam Prep. Designed for experienced electricians, electrical contractors, and…
 
 $295.00 (was $395.00) Save 25%
 [Buy now](https://1examprep.com/cart/46439955955769:1) · [Details](https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/)

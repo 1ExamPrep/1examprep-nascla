@@ -268,7 +268,7 @@ No. Florida reviews each applicant’s examination history, experience, financia
 
 ### Questions
 
-- [Florida Commercial GC FAQ (26 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
+- [Florida Commercial GC FAQ (31 answers)](https://passyournasclaexam.com/faq/florida/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

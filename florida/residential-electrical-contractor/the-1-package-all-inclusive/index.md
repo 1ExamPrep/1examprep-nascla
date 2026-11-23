@@ -267,7 +267,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 
 ### Questions
 
-- [Florida Residential Electrical FAQ (14 answers)](https://passyournasclaexam.com/faq/florida/residential-electrical-contractor/)
+- [Florida Residential Electrical FAQ (21 answers)](https://passyournasclaexam.com/faq/florida/residential-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

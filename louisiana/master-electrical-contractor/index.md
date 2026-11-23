@@ -40,7 +40,7 @@ Louisiana · Master Electrical
 
 ### [Online Exam Prep Course](https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/)
 
-Prepare for the Louisiana NASCLA Master Electrical Contractor licensing pathway with online exam prep focused on the NASCLA Accredited Trade Examination for Electrical Contractors,…
+Prepare for the Louisiana NASCLA Master Electrical Contractor Exam with online exam preparation from 1 Exam Prep. Designed for experienced electricians, electrical contractors, and…
 
 $295.00 (was $395.00) Save 25%
 [Buy now](https://1examprep.com/cart/46439955955769:1) · [Details](https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/)
@@ -125,7 +125,7 @@ Louisiana requires a commercial contractor license for electrical projects excee
 
 Yes. Louisiana contractor applicants must designate a qualifying party who represents the licensed entity for Business and Law and for the requirements associated with each contractor classification.
 
-[All 27 answers for Louisiana Master Electrical](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
+[All 34 answers for Louisiana Master Electrical](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
 
 ### Other Louisiana exams
 
@@ -146,7 +146,7 @@ Yes. Louisiana contractor applicants must designate a qualifying party who repre
 
 ### Questions
 
-- [Louisiana Master Electrical FAQ (27 answers)](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
+- [Louisiana Master Electrical FAQ (34 answers)](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

@@ -3,7 +3,7 @@ title: NASCLA Residential Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/residential-electrical-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: Prep for NASCLA accredited residential electrical contractor exams, with book packages, highlighted and. 48 products across 7 states, from $0.00.
+description: Prep for NASCLA accredited residential electrical contractor exams, with book packages, highlighted and. 49 products across 7 states, from $0.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Residential Electrical Contractor
@@ -16,7 +16,7 @@ Prep for NASCLA accredited residential electrical contractor exams, with book pa
 
 ## Key takeaways
 
-- 48 products for this exam across 7 states plus nationwide editions, from $0.00 to $4,885.00.
+- 49 products for this exam across 7 states plus nationwide editions, from $0.00 to $4,885.00.
 - Packages are matched to the residential electrical exam in each state that offers it.
 - Highlighted and tabbed books cut lookup time on an open-book exam.
 - Licensing rules come from each state board; the product pages spell out the steps.
@@ -38,7 +38,7 @@ From $0.00 to $4,885.00, depending on whether you want a single book or tabs, a 
 - [Mississippi](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) [6 products from $295.00](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/)
 - [Nebraska](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/) [6 products from $295.00](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/)
 - [New Mexico](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/) [6 products from $295.00](https://passyournasclaexam.com/new-mexico/residential-electrical-contractor/)
-- [North Carolina](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) [6 products from $295.00](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
+- [North Carolina](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) [7 products from $0.00](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
 - [South Carolina](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/) [5 products from $295.00](https://passyournasclaexam.com/south-carolina/residential-electrical-contractor/)
 
 ## Nationwide editions

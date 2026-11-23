@@ -13,7 +13,7 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 Contractor's Guide to Business, Law and Project Management for North Carolina. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 8](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
+[Commercial GC 9](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 8](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 7](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
 
 ## Quick answers
 

@@ -3,7 +3,7 @@ title: NASCLA Commercial General Building Contractor Exam Prep
 url: https://passyournasclaexam.com/commercial-general-building-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: The NASCLA Accredited Examination for Commercial General Building Contractors is one standardized exam that. 123 products across 17 states, from $0.00.
+description: The NASCLA Accredited Examination for Commercial General Building Contractors is one standardized exam that. 125 products across 17 states, from $0.00.
 ---
 
 [Home](https://passyournasclaexam.com/) Commercial General Building Contractor
@@ -16,7 +16,7 @@ The NASCLA Accredited Examination for Commercial General Building Contractors is
 
 ## Key takeaways
 
-- 123 products for this exam across 17 states plus nationwide editions, from $0.00 to $7,495.00.
+- 125 products for this exam across 17 states plus nationwide editions, from $0.00 to $7,495.00.
 - Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
 - 115 scored questions in 330 minutes, open book, with 70% needed to pass.
 - Apply through NASCLA at ned.nascla.org; you must be pre-approved before you can schedule.
@@ -42,12 +42,12 @@ Get the approved reference books, tab and highlight them, work an online course 
 - [Arkansas](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/) [6 products from $395.00](https://passyournasclaexam.com/arkansas/commercial-general-building-contractor/)
 - [California](https://passyournasclaexam.com/california/commercial-general-building-contractor/) [6 products from $395.00](https://passyournasclaexam.com/california/commercial-general-building-contractor/)
 - [Florida](https://passyournasclaexam.com/florida/commercial-general-building-contractor/) [7 products from $0.00](https://passyournasclaexam.com/florida/commercial-general-building-contractor/)
-- [Georgia](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) [7 products from $199.99](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/)
+- [Georgia](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) [8 products from $0.00](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/)
 - [Louisiana](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/) [9 products from $124.99](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/)
 - [Mississippi](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/) [7 products from $199.99](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/)
 - [Nevada](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/) [5 products from $395.00](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/)
 - [New Mexico](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/) [6 products from $395.00](https://passyournasclaexam.com/new-mexico/commercial-general-building-contractor/)
-- [North Carolina](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) [8 products from $199.99](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
+- [North Carolina](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) [9 products from $0.00](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
 - [Oregon](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/) [6 products from $395.00](https://passyournasclaexam.com/oregon/commercial-general-building-contractor/)
 - [South Carolina](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/) [7 products from $199.99](https://passyournasclaexam.com/south-carolina/commercial-general-building-contractor/)
 - [Tennessee](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/) [8 products from $199.99](https://passyournasclaexam.com/tennessee/commercial-general-building-contractor/)

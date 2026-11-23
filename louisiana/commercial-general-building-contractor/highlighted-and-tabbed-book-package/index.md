@@ -261,7 +261,7 @@ No. Licensing decisions are made by the Louisiana State Licensing Board for Cont
 
 ### Questions
 
-- [Louisiana Commercial GC FAQ (13 answers)](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
+- [Louisiana Commercial GC FAQ (17 answers)](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

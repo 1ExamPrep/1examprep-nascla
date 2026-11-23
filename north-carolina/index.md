@@ -25,7 +25,7 @@ Yes. North Carolina accepts the NASCLA Accredited Examination for Commercial Gen
 
 ### Which NASCLA exams can I prepare for in North Carolina?
 
-Commercial General Building Contractor (8 products from $199.99); Master Electrical Contractor (7 products from $295.00); Residential Electrical Contractor (6 products from $295.00); Business and Law (11 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (9 products from $0.00); Master Electrical Contractor (8 products from $0.00); Residential Electrical Contractor (7 products from $0.00); Business and Law (11 products from $24.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,23 +33,23 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 32 North Carolina products for 4 exams, from $24.95 to $4,799.00.
+- 35 North Carolina products for 4 exams, from $0.00 to $4,799.00.
 - North Carolina accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
 ## Choose your North Carolina exam
 
-[8 PRODUCTS · FROM $199.99
+[9 PRODUCTS · FROM $0.00
 
 ### North Carolina Commercial General Building Contractor
 
 Book packages, highlighted and tabbed sets, rentals and the online course for the NASCLA commercial exam.
-See Commercial GC packages →](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [7 PRODUCTS · FROM $295.00
+See Commercial GC packages →](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [8 PRODUCTS · FROM $0.00
 
 ### North Carolina Master Electrical Contractor
 
 Reference books, tabbed sets, rentals and online prep for the NASCLA electrical contractor exam.
-See Master Electrical packages →](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [6 PRODUCTS · FROM $295.00
+See Master Electrical packages →](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [7 PRODUCTS · FROM $0.00
 
 ### North Carolina Residential Electrical Contractor
 
@@ -236,9 +236,9 @@ Facts on this page come from these official sources, checked November 23, 2026. 
 
 ### North Carolina exam prep
 
-- [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) from $199.99
-- [Master Electrical Contractor](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) from $295.00
-- [Residential Electrical Contractor](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) from $295.00
+- [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) from $0.00
+- [Master Electrical Contractor](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) from $0.00
+- [Residential Electrical Contractor](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) from $0.00
 - [Business and Law](https://passyournasclaexam.com/north-carolina/business-and-law/) from $24.95
 
 Shop North Carolina
@@ -249,7 +249,7 @@ Every package is built for the open-book format. Buy now opens secure checkout a
 
 ### North Carolina Commercial General Building Contractor packages
 
-[All 8 products →](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
+[All 9 products →](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
 
 North Carolina · Commercial GC
 
@@ -280,7 +280,7 @@ $2,244.00 (was $2,344.00) Save 4% options to $3,144.00
 
 ### North Carolina Master Electrical Contractor packages
 
-[All 7 products →](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
+[All 8 products →](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
 
 North Carolina · Master Electrical
 
@@ -311,7 +311,7 @@ $1,195.00 (was $1,295.00) Save 8%
 
 ### North Carolina Residential Electrical Contractor packages
 
-[All 6 products →](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
+[All 7 products →](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
 
 North Carolina · Residential Electrical
 

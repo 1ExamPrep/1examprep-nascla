@@ -84,7 +84,7 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 
 ### Questions
 
-- [Louisiana Commercial GC FAQ (13 answers)](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
+- [Louisiana Commercial GC FAQ (17 answers)](https://passyournasclaexam.com/faq/louisiana/commercial-general-building-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

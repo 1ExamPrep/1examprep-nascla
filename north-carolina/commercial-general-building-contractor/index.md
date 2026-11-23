@@ -3,7 +3,7 @@ title: North Carolina NASCLA Commercial GC Exam Prep
 url: https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: North Carolina commercial general building contractor exam prep: 8 products from $199.99 to $4,799.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: North Carolina commercial general building contractor exam prep: 9 products from $0.00 to $4,799.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) Commercial General Building Contractor
@@ -13,13 +13,13 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 NASCLA Commercial General Building Contractor exam prep for North Carolina. Choose how much help you want, from the online course to The 1 Package with licensing and business setup.
 
-[Commercial GC 8](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
+[Commercial GC 9](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 8](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 7](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
 
 ## Quick answers
 
 ### How much does North Carolina commercial general building contractor exam prep cost?
 
-North Carolina commercial general building contractor prep runs from $199.99 to $4,799.00 across 8 products: Exam Pre-Printed Tabs $199.99; Online Exam Prep Course $395.00; Complete Book Set $2,199.00; Complete Book Set $2,244.00; Highlighted & Tabbed Book Package $3,144.00; Books & Courses Rental Package $3,734.00; Ultimate Exam Prep Rental Package $4,159.00; The 1 Package: All-Inclusive $4,799.00.
+North Carolina commercial general building contractor prep runs from $0.00 to $4,799.00 across 9 products.
 
 ### Which North Carolina commercial general building contractor package should I choose?
 
@@ -31,7 +31,7 @@ Yes. North Carolina accepts the NASCLA commercial exam in place of its trade exa
 
 ## Key takeaways
 
-- 8 North Carolina commercial general building contractor products, from $199.99 to $4,799.00.
+- 9 North Carolina commercial general building contractor products, from $0.00 to $4,799.00.
 - North Carolina accepts the NASCLA commercial exam: 115 scored questions, 330 minutes, open book, 70% to pass.
 - The Ultimate Exam Prep Rental Package at $4,159.00 bundles the books with the online course.
 - The 1 Package: All-Inclusive at $4,799.00 is the most complete option.
@@ -105,27 +105,39 @@ $4,799.00 (was $5,300.00) Save 9%
 
 ## Books, tabs and flash cards
 
-1 item
+2 items
+
+[Book](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/book/) North Carolina · Commercial GC $0.00[Buy now](https://1examprep.com/cart/51213102153785:1)
 
 [Exam Pre-Printed Tabs](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/exam-pre-printed-tabs/) North Carolina · Commercial GC $199.99[Buy now](https://1examprep.com/cart/7227900231737:1)
 
-## Questions
+## North Carolina Commercial GC questions
 
-### Is the NASCLA exam open book?
+### What is the North Carolina NASCLA General Contractor Exam Prep Free Demo Personal AI Tutor?
 
-Yes. You bring the approved reference books, so knowing where things are in the books matters as much as knowing the material.
+It is a free demonstration of ACE, the personal AI exam coach from Pass Your NASCLA Exam Prep, introducing preparation for the NASCLA Commercial General Building examination accepted by North Carolina.
 
-### Are these the actual exam questions?
+### Does North Carolina accept the NASCLA General Contractor examination?
 
-No. Real exam questions are confidential. Practice questions are original material written to the same subjects and format, with explanations.
+Yes. The North Carolina Licensing Board for General Contractors accepts the NASCLA Commercial General Building examination for the Building Contractor classification.
 
-### When will I get it?
+### How many questions are on the examination?
 
-Online courses are delivered by email after purchase. Books ship from our fulfillment center, 1 Exam Prep; shipping options are shown at checkout.
+The examination contains 115 scored questions and ten additional unscored pretest questions.
 
-### Does buying make me eligible to test?
+### How long is the NASCLA examination?
 
-No. NASCLA approves you to sit the exam and your state board decides on your license. This package gets you ready for the test itself.
+Candidates have 330 minutes, or five hours and 30 minutes, to complete the examination.
+
+### What score is required to pass?
+
+Candidates must answer at least 81 of the 115 scored questions correctly.
+
+### Who administers the NASCLA examination?
+
+PSI administers the examination through NASCLA's accredited examination program.
+
+[All 15 answers for North Carolina Commercial GC](https://passyournasclaexam.com/faq/north-carolina/commercial-general-building-contractor/)
 
 ### Other North Carolina exams
 
@@ -144,6 +156,11 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 - [Louisiana](https://passyournasclaexam.com/louisiana/commercial-general-building-contractor/)
 - [Mississippi](https://passyournasclaexam.com/mississippi/commercial-general-building-contractor/)
 - [All states for this exam](https://passyournasclaexam.com/commercial-general-building-contractor/)
+
+### Questions
+
+- [North Carolina Commercial GC FAQ (15 answers)](https://passyournasclaexam.com/faq/north-carolina/commercial-general-building-contractor/)
+- [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---
 

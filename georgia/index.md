@@ -25,7 +25,7 @@ Yes. Georgia accepts the NASCLA Accredited Examination for Commercial General Bu
 
 ### Which NASCLA exams can I prepare for in Georgia?
 
-Commercial General Building Contractor (7 products from $199.99); Business and Law (11 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
+Commercial General Building Contractor (8 products from $0.00); Business and Law (11 products from $19.95). Each has its own page with the books, tabbed sets, rentals and online courses for that exam.
 
 ### How do I register for the NASCLA exam?
 
@@ -33,13 +33,13 @@ Apply through NASCLA at ned.nascla.org. You must be pre-approved before you can 
 
 ## Key takeaways
 
-- 18 Georgia products for 2 exams, from $19.95 to $4,694.00.
+- 19 Georgia products for 2 exams, from $0.00 to $4,694.00.
 - Georgia accepts the NASCLA commercial building exam in place of its state trade exam; the board's other requirements still apply.
 - Books ship from our fulfillment center, 1 Exam Prep; online courses arrive by email.
 
 ## Choose your Georgia exam
 
-[7 PRODUCTS · FROM $199.99
+[8 PRODUCTS · FROM $0.00
 
 ### Georgia Commercial General Building Contractor
 
@@ -244,7 +244,7 @@ Facts on this page come from these official sources, checked November 23, 2026. 
 
 ### Georgia exam prep
 
-- [Commercial General Building Contractor](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) from $199.99
+- [Commercial General Building Contractor](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) from $0.00
 - [Business and Law](https://passyournasclaexam.com/georgia/business-and-law/) from $19.95
 
 Shop Georgia
@@ -255,7 +255,7 @@ Every package is built for the open-book format. Buy now opens secure checkout a
 
 ### Georgia Commercial General Building Contractor packages
 
-[All 7 products →](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/)
+[All 8 products →](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/)
 
 Georgia · Commercial GC
 

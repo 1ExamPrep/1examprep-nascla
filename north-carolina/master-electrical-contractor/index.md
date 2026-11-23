@@ -3,7 +3,7 @@ title: North Carolina NASCLA Master Electrical Contractor Exam Prep
 url: https://passyournasclaexam.com/north-carolina/master-electrical-contractor/
 updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
-description: North Carolina master electrical contractor exam prep: 7 products from $295.00 to $3,155.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
+description: North Carolina master electrical contractor exam prep: 8 products from $0.00 to $3,155.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) Master Electrical Contractor
@@ -13,13 +13,13 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 NASCLA accredited electrical contractor exam for North Carolina. Choose how much help you want, from a single tabbed guide to the all-inclusive package.
 
-[Commercial GC 8](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 7](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 6](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
+[Commercial GC 9](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) · [Master Electrical 8](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) · [Residential Electrical 7](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) · [Business & Law 11](https://passyournasclaexam.com/north-carolina/business-and-law/)
 
 ## Quick answers
 
 ### How much does North Carolina master electrical contractor exam prep cost?
 
-North Carolina master electrical contractor prep runs from $295.00 to $3,155.00 across 7 products: Online Exam Prep Course $295.00; Live Virtual + Self-Study Training $595.00; Exam Book Package $1,195.00; Highlighted & Tabbed Book Package $1,695.00; Books & Courses Rental Package $2,090.00; Ultimate Exam Prep Rental Package $2,515.00; The 1 Package: All-Inclusive $3,155.00.
+North Carolina master electrical contractor prep runs from $0.00 to $3,155.00 across 8 products: Book $0.00; Online Exam Prep Course $295.00; Live Virtual + Self-Study Training $595.00; Exam Book Package $1,195.00; Highlighted & Tabbed Book Package $1,695.00; Books & Courses Rental Package $2,090.00; Ultimate Exam Prep Rental Package $2,515.00; The 1 Package: All-Inclusive $3,155.00.
 
 ### Which North Carolina master electrical contractor package should I choose?
 
@@ -27,7 +27,7 @@ Pick by how much help you want: the online course at $295.00; the highlighted an
 
 ## Key takeaways
 
-- 7 North Carolina master electrical contractor products, from $295.00 to $3,155.00.
+- 8 North Carolina master electrical contractor products, from $0.00 to $3,155.00.
 - The Ultimate Exam Prep Rental Package at $2,515.00 bundles the books with the online course.
 - The 1 Package: All-Inclusive at $3,155.00 is the most complete option.
 - Buy now goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
@@ -99,6 +99,12 @@ Prepare for North Carolina electrical contractor licensing with an all-inclusive
 $3,155.00 (was $3,655.00) Save 14%
 [Buy now](https://1examprep.com/cart/46444298076217:1) · [Details](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/the-1-package-all-inclusive/)
 
+## Books, tabs and flash cards
+
+1 item
+
+[Book](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/book/) North Carolina · Master Electrical $0.00[Buy now](https://1examprep.com/cart/51213124862009:1)
+
 ## North Carolina Master Electrical questions
 
 ### How long should I allow for my Ultimate book package order?
@@ -125,7 +131,7 @@ The Intermediate classification requires at least 5,750 hours of qualifying expe
 
 The Unlimited classification requires at least 9,000 hours of qualifying experience, including at least 8,000 hours of primary electrical experience. Unlimited applicants must also provide the required statements regarding their ability to supervise and direct electrical installation work.
 
-[All 25 answers for North Carolina Master Electrical](https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/)
+[All 33 answers for North Carolina Master Electrical](https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/)
 
 ### Other North Carolina exams
 
@@ -147,7 +153,7 @@ The Unlimited classification requires at least 9,000 hours of qualifying experie
 
 ### Questions
 
-- [North Carolina Master Electrical FAQ (25 answers)](https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/)
+- [North Carolina Master Electrical FAQ (33 answers)](https://passyournasclaexam.com/faq/north-carolina/master-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

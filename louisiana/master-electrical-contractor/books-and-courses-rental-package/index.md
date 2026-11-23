@@ -252,7 +252,7 @@ Louisiana requires the applicable commercial contractor license when regulated E
 
 ### Questions
 
-- [Louisiana Master Electrical FAQ (27 answers)](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
+- [Louisiana Master Electrical FAQ (34 answers)](https://passyournasclaexam.com/faq/louisiana/master-electrical-contractor/)
 - [Nationwide NASCLA FAQ](https://passyournasclaexam.com/faq/)
 
 ---

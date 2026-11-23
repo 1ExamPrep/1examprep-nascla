@@ -13,14 +13,24 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 Study plans for open-book NASCLA exams, state licensing steps, business and law tips and news, written by the people who make the prep.
 
+[commercial general building](https://passyournasclaexam.com/blog/tag/commercial-general-building/) · [contractor license](https://passyournasclaexam.com/blog/tag/contractor-license/) · [nascla exam](https://passyournasclaexam.com/blog/tag/nascla-exam/) · [psi](https://passyournasclaexam.com/blog/tag/psi/)
+
 ## Key takeaways
 
-- 2 posts on NASCLA study plans, state licensing steps and the business and law exam.
+- 3 posts on NASCLA study plans, state licensing steps and the business and law exam.
 - The NASCLA commercial exam is 115 scored questions in 330 minutes, open book, with 70% to pass.
 - Prep for 29 states plus nationwide editions is on the exam and state pages.
 - Every Buy now button opens secure checkout at our fulfillment center, 1 Exam Prep.
 
 [
+NASCLA Exam: 15 Questions People Ask, Answered
+
+November 23, 2026 7 min read
+
+## NASCLA Exam: 15 Questions People Ask, Answered
+
+What is the NASCLA exam, how hard is it, how many questions are on it, where can you take it and how long is the score good for? Straight answers to the 15 questions contractors search most. Each answer is short, plain and checked against the official board and exam sources.
+](https://passyournasclaexam.com/blog/nascla-exam-questions-answered/) · [
 
 November 18, 2026 9 min read
 

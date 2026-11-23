@@ -20,7 +20,7 @@ November 18, 2026 9 min read
 - Organizing study materials with tabs and indexes improves speed and confidence during the timed exam.
 - The guides are regularly updated to reflect the latest building codes and state-specific amendments.
 
-# What Topics Are Covered in the NASCLA Contractor Exam Study Guides?
+## What Topics Are Covered in the NASCLA Contractor Exam Study Guides?
 
 The NASCLA contractor exam study guides cover key construction topics including procurement and contracting, general construction requirements, site construction, concrete, metals, mechanical and plumbing systems, wood and composites, thermal and moisture protection, finishes, masonry, doors, windows, glazing, and electrical systems. These cover the full scope of the NASCLA commercial general building contractor exam.
 
@@ -180,6 +180,14 @@ Book packages, tabbed sets, rentals and online courses.
 ## Keep reading
 
 [
+NASCLA Exam: 15 Questions People Ask, Answered
+
+November 23, 2026 7 min read
+
+## NASCLA Exam: 15 Questions People Ask, Answered
+
+What is the NASCLA exam, how hard is it, how many questions are on it, where can you take it and how long is the score good for? Straight answers to the 15 questions contractors search most. Each answer is short, plain and checked against the official board and exam sources.
+](https://passyournasclaexam.com/blog/nascla-exam-questions-answered/) · [
 
 October 19, 2026 10 min read
 

@@ -15,6 +15,8 @@ Posts live in content/posts/<slug>.md:
     status: published     (or draft: kept out of the build)
     kind: page            (optional: a standalone page at /pages/<slug>/ instead of a blog post)
     metaTitle / metaDescription   (optional: used for <title> and the meta description)
+    faq: Question? => Answer || Another question? => Answer   (optional; without it the FAQ is read from the post:
+         <details> blocks, headings that end in "?", or bold questions. Becomes FAQPage schema and joins /faq/)
     ---
     Markdown or HTML body.
 
@@ -87,6 +89,45 @@ def md_to_html(md):
     flush_para(buf)
     return "\n".join(out)
 
+# --- FAQ pairs for FAQPage schema, found in every post automatically ---
+def _plain(h): return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", h or ""))).strip()
+def extract_faq(meta, body_html, limit=10):
+    """Question-and-answer pairs from a post, newest format first:
+    1. front matter  faq: Question one? => Answer one || Question two? => Answer two
+    2. <details><summary>Question?</summary>answer</details> blocks (how most FAQ sections are written)
+    3. any h2/h3/h4 heading that ends in '?', answered by the paragraphs under it (up to the next heading)
+    4. a bold question in its own paragraph (<p><strong>Question?</strong></p>) followed by the answer paragraph
+    Answers are cut to about 80 words at a sentence end. Fewer than 2 pairs means no FAQ schema."""
+    pairs = []
+    if meta.get("faq"):
+        for part in meta["faq"].split("||"):
+            if "=>" in part:
+                q, a = part.split("=>", 1)
+                if q.strip() and a.strip(): pairs.append((q.strip(), a.strip()))
+    if not pairs:
+        for q, a in re.findall(r"(?is)<details[^>]*>\s*<summary[^>]*>(.*?)</summary>(.*?)</details>", body_html):
+            pairs.append((_plain(q), _plain(a)))
+    if not pairs:
+        for m in re.finditer(r"(?is)<h([2-4])[^>]*>(.*?)</h\1>(.*?)(?=<h[1-4][^>]*>|$)", body_html):
+            q = _plain(m.group(2))
+            if q.endswith("?"):
+                paras = re.findall(r"(?is)<(p|li)[^>]*>(.*?)</\1>", m.group(3))
+                a = " ".join(_plain(x[1]) for x in paras[:3])
+                if a: pairs.append((q, a))
+    if not pairs:
+        for q, a in re.findall(r"(?is)<p[^>]*>\s*<(?:strong|b)>([^<]{8,200}\?)</(?:strong|b)>\s*</p>\s*<p[^>]*>(.*?)</p>", body_html):
+            pairs.append((_plain(q), _plain(a)))
+    out, seen = [], set()
+    for q, a in pairs:
+        if not q or not a or q.lower() in seen: continue
+        seen.add(q.lower())
+        w = a.split()
+        if len(w) > 80:
+            cut = " ".join(w[:80]); end = max(cut.rfind(". "), cut.rfind("? "), cut.rfind("! "))
+            a = cut[:end + 1] if end > 120 else cut + "…"
+        out.append((q, a))
+    return out[:limit] if len(out) >= 2 else []
+
 def load_posts(folder, site_url=""):
     posts = []
     if not os.path.isdir(folder): return posts
@@ -97,6 +138,7 @@ def load_posts(folder, site_url=""):
         slug = slugify(meta.get("slug") or fn[:-3])
         date = (meta.get("date") or datetime.date.fromtimestamp(os.path.getmtime(os.path.join(folder, fn))).isoformat())[:10]
         body_html = md_to_html(body)
+        body_html = re.sub(r"<(/?)h1\b", r"<\1h2", body_html, flags=re.I)  # the page shows the title as its H1; one H1 per page
         text = re.sub(r"<[^>]+>", " ", body_html); text = re.sub(r"\s+", " ", html.unescape(text)).strip()
         excerpt = meta.get("excerpt") or (text[:157].rsplit(" ", 1)[0] + "…" if len(text) > 160 else text)
         img = meta.get("image") or (re.search(r'<img[^>]+src="([^"]+)"', body_html) or [None, ""])[1]
@@ -115,6 +157,6 @@ def load_posts(folder, site_url=""):
         posts.append({"slug": slug, "title": meta.get("title") or slug.replace("-", " ").title(), "date": date, "updated": (meta.get("updated") or date)[:10],
                       "kind": (meta.get("kind") or "blog").lower(), "meta_title": meta.get("metatitle", ""), "meta_description": meta.get("metadescription", ""), "external_id": meta.get("externalid", ""),
                       "author": meta.get("author") or "", "excerpt": excerpt, "image": img, "tags": tags, "state": meta.get("state", ""), "level": meta.get("level", ""),
-                      "takeaways": takeaways[:4], "html": body_html, "words": len(text.split()), "file": fn})
+                      "takeaways": takeaways[:4], "faq": extract_faq(meta, body_html), "html": body_html, "words": len(text.split()), "file": fn})
     posts.sort(key=lambda p: (p["date"], p["slug"]), reverse=True)
     return posts

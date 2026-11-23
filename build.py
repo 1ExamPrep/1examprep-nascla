@@ -743,7 +743,7 @@ for q in POSTS + PAGES:
     art = clean({"@context": "https://schema.org", "@type": "Article" if is_page else "BlogPosting", "headline": q["title"][:110], "description": q["excerpt"], "image": [q["image"]] if q["image"] else None, "datePublished": q["date"], "dateModified": q["updated"],
                  "author": {"@type": "Organization" if not q["author"] or q["author"] == BRAND else "Person", "name": q["author"] or BRAND}, "publisher": {"@type": "Organization", "name": BRAND, "logo": {"@type": "ImageObject", "url": CFG.get("logo")}},
                  "mainEntityOfPage": absurl(path), "url": absurl(path), "wordCount": q["words"], "keywords": ", ".join(q["tags"]) or None, "inLanguage": "en-US"})
-    write(parts, body, q.get("meta_title") or (q["title"] if len(q["title"]) + len(BRAND) + 3 > 60 else "%s | %s" % (q["title"], BRAND)), q.get("meta_description") or q["excerpt"], q["image"] or None, [crumbs_ld(cr), art], cta=(rel + "#exams", "Find my exam"), current="blog", priority="0.7")
+    write(parts, body, q.get("meta_title") or (q["title"] if len(q["title"]) + len(BRAND) + 3 > 60 else "%s | %s" % (q["title"], BRAND)), q.get("meta_description") or q["excerpt"], q["image"] or None, [crumbs_ld(cr), art] + ([faq_ld(q["faq"])] if q.get("faq") and '"FAQPage"' not in q["html"] else []), cta=(rel + "#exams", "Find my exam"), current="blog", priority="0.7")
 rpath = os.path.join(ROOT, "content", "redirects.json")
 if os.path.exists(rpath):
     try: RED = json.load(open(rpath, encoding="utf-8"))

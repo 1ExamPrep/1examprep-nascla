@@ -1,13 +1,13 @@
 ---
 title: Nebraska Residential Electrical Online Exam Prep Course
 url: https://passyournasclaexam.com/nebraska/residential-electrical-contractor/online-exam-prep-course/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Nebraska NASCLA Residential Electrical Contractor examination with structured online exam preparation focused on residential electrical code.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Residential Electrical Contractor](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/) Online Exam Prep Course
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Residential Electrical](https://passyournasclaexam.com/nebraska/residential-electrical-contractor/)
 

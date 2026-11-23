@@ -1,13 +1,13 @@
 ---
 title: Mississippi Master Electrical H&T Book Package
 url: https://passyournasclaexam.com/mississippi/master-electrical-contractor/highlighted-and-tabbed-book-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a complete collection of professionally highlighted and tabbed.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Master Electrical Contractor](https://passyournasclaexam.com/mississippi/master-electrical-contractor/) Highlighted & Tabbed Book Package
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Master Electrical](https://passyournasclaexam.com/mississippi/master-electrical-contractor/)
 

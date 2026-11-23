@@ -1,13 +1,13 @@
 ---
 title: South Carolina Business & Law Guide (9th Ed.)
 url: https://passyournasclaexam.com/south-carolina/business-and-law/business-and-law-guide-9th-ed/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your South Carolina commercial contractor licensing examination with the . This comprehensive reference book provides essential information about.
 ---
 
 [Home](https://passyournasclaexam.com/) · [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business and Law](https://passyournasclaexam.com/south-carolina/business-and-law/) Business & Law Guide (9th Ed.)
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 [South Carolina](https://passyournasclaexam.com/south-carolina/) · [Business & Law](https://passyournasclaexam.com/south-carolina/business-and-law/)
 

@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam Pre-Printed Tabs | NASCLA Commercial GC
 url: https://passyournasclaexam.com/national/commercial-general-building-contractor/exam-pre-printed-tabs/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your NASCLA Exam Prep
 description: The “” product provides labeled tabs designed for the full reference set used in the NASCLA Accredited Examination for Commercial General Building.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Commercial General Building Contractor](https://passyournasclaexam.com/national/commercial-general-building-contractor/) Exam Pre-Printed Tabs
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Commercial GC](https://passyournasclaexam.com/national/commercial-general-building-contractor/)
 

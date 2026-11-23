@@ -15,6 +15,13 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 About NASCLA 5The commercial exam 5Licensing 4Studying 5Ordering 3State by state 1009
 
+## Key takeaways
+
+- 1031 answers in all: 22 about NASCLA exams in general and 1009 for individual states and exams.
+- The NASCLA commercial exam is 115 scored questions in 330 minutes, open book, with 70% to pass.
+- Accepted in 16 states and the U.S. Virgin Islands: Alabama, Arizona, Arkansas, Florida, Georgia, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, Oregon, South Carolina, Tennessee, Utah, Virginia, West Virginia.
+- Most states that accept NASCLA still require their own business and law exam.
+
 ## About NASCLA
 
 ### What is NASCLA?

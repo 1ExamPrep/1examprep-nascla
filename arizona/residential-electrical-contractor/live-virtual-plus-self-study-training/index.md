@@ -1,13 +1,13 @@
 ---
 title: Arizona Residential Electrical Live + Self-Study Training
 url: https://passyournasclaexam.com/arizona/residential-electrical-contractor/live-virtual-plus-self-study-training/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Residential Electrical Contractors with from 1 Exam Prep. This specialized program combines live.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Residential Electrical Contractor](https://passyournasclaexam.com/arizona/residential-electrical-contractor/) Live Virtual + Self-Study Training
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Residential Electrical](https://passyournasclaexam.com/arizona/residential-electrical-contractor/)
 

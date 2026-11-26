@@ -1,13 +1,13 @@
 ---
 title: NASCLA Contractor Exam Study Guide Topics Explained
 url: https://passyournasclaexam.com/blog/nascla-contractor-exam-study-guide-topics/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your NASCLA Exam Prep
 description: Discover the key topics covered in the NASCLA contractor exam study guides, from contracts to electrical systems for effective exam prep.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Blog](https://passyournasclaexam.com/blog/) What Topics Are Covered in the NASCLA Contractor Exam Study Guides?
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 # What Topics Are Covered in the NASCLA Contractor Exam Study Guides?
 
@@ -180,6 +180,13 @@ Book packages, tabbed sets, rentals and online courses.
 ## Keep reading
 
 [
+
+November 26, 2026 10 min read
+
+## How Do the NASCLA Exams Differ for General Building and Electrical Contractors?
+
+NASCLA exams provide a standardized, nationally accepted pathway for contractor licensing in multiple states. While both general building and electrical NASCLA exams share a common format and are open book, they differ mainly in the trade knowledge and codes tested. General building contractors prep
+](https://passyournasclaexam.com/blog/nascla-exams-general-building-vs-electrical/) · [
 NASCLA Exam: 15 Questions People Ask, Answered
 
 November 23, 2026 7 min read

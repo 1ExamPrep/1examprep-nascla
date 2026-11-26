@@ -1,13 +1,13 @@
 ---
 title: North Carolina Book | NASCLA Commercial GC
 url: https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/book/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the North Carolina NASCLA General Contractor examination with the from 1 Exam Prep. Discover a personalized approach to studying commercial.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial General Building Contractor](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/) Book
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Commercial GC](https://passyournasclaexam.com/north-carolina/commercial-general-building-contractor/)
 

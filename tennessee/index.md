@@ -1,13 +1,13 @@
 ---
 title: Tennessee NASCLA Exam: Contractor License Prep Guide
 url: https://passyournasclaexam.com/tennessee/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your NASCLA Exam Prep
 description: How the NASCLA exam fits Tennessee contractor licensing: BC-B and CE classifications, Business and Law exam, monetary limits, fees and exam prep packages.
 ---
 
 [Home](https://passyournasclaexam.com/) Tennessee
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 # Tennessee NASCLA Exam and Contractor License Guide
 
@@ -211,7 +211,7 @@ PSI's Tennessee rules allowed highlighting, underlining and permanent tabs, but 
 
 ## Sources
 
-Facts on this page come from these official sources, checked November 23, 2026. Rules and fees change, so confirm with the board before you apply.
+Facts on this page come from these official sources, checked November 26, 2026. Rules and fees change, so confirm with the board before you apply.
 
 1. [NASCLA: Participating Agencies (Commercial Exam)](https://www.nascla.org/page/ParticipatingAgencies)
 2. [NASCLA: Participating Agencies (Electrical Exams)](https://www.nascla.org/page/ParticipatingAgencies_Electrical)

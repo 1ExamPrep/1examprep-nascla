@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam: 15 Common Questions Answered
 url: https://passyournasclaexam.com/blog/nascla-exam-questions-answered/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam answers: what it is, how to apply and schedule, 115 questions in 330 minutes, open book, 70% to pass, accepting states, cost and how to study.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Blog](https://passyournasclaexam.com/blog/) NASCLA Exam: 15 Questions People Ask, Answered
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 # NASCLA Exam: 15 Questions People Ask, Answered
 
@@ -149,6 +149,13 @@ Book packages, tabbed sets, rentals and online courses.
 ## Keep reading
 
 [
+
+November 26, 2026 10 min read
+
+## How Do the NASCLA Exams Differ for General Building and Electrical Contractors?
+
+NASCLA exams provide a standardized, nationally accepted pathway for contractor licensing in multiple states. While both general building and electrical NASCLA exams share a common format and are open book, they differ mainly in the trade knowledge and codes tested. General building contractors prep
+](https://passyournasclaexam.com/blog/nascla-exams-general-building-vs-electrical/) · [
 
 November 18, 2026 9 min read
 

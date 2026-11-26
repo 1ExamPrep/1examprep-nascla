@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam Prep Blog
 url: https://passyournasclaexam.com/blog/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your NASCLA Exam Prep
 description: Study plans, licensing steps and exam strategy for NASCLA commercial, electrical and business and law exams.
 ---
 
 [Home](https://passyournasclaexam.com/) Blog
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 # The NASCLA Exam Prep Blog
 
@@ -17,12 +17,19 @@ Study plans for open-book NASCLA exams, state licensing steps, business and law 
 
 ## Key takeaways
 
-- 3 posts on NASCLA study plans, state licensing steps and the business and law exam.
+- 4 posts on NASCLA study plans, state licensing steps and the business and law exam.
 - The NASCLA commercial exam is 115 scored questions in 330 minutes, open book, with 70% to pass.
 - Prep for 29 states plus nationwide editions is on the exam and state pages.
 - Every Buy now button opens secure checkout at our fulfillment center, 1 Exam Prep.
 
 [
+
+November 26, 2026 10 min read
+
+## How Do the NASCLA Exams Differ for General Building and Electrical Contractors?
+
+NASCLA exams provide a standardized, nationally accepted pathway for contractor licensing in multiple states. While both general building and electrical NASCLA exams share a common format and are open book, they differ mainly in the trade knowledge and codes tested. General building contractors prep
+](https://passyournasclaexam.com/blog/nascla-exams-general-building-vs-electrical/) · [
 NASCLA Exam: 15 Questions People Ask, Answered
 
 November 23, 2026 7 min read

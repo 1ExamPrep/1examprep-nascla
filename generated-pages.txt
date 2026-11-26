@@ -82,6 +82,7 @@ blog
 blog/is-pass-your-nascla-exam-prep-reliable
 blog/nascla-contractor-exam-study-guide-topics
 blog/nascla-exam-questions-answered
+blog/nascla-exams-general-building-vs-electrical
 blog/tag/commercial-general-building
 blog/tag/contractor-license
 blog/tag/nascla-exam

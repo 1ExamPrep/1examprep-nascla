@@ -11,7 +11,7 @@ Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 # Contact Pass Your NASCLA Exam Prep
 
-Reach a NASCLA exam advisor by form, phone at (877) 775-9400 or email at sales@1examprep.com. Tell us your state, your NASCLA exam and your test date. We reply with the books, tabs or course that fit, plus a study timeline, usually within one business day.
+Reach a NASCLA exam advisor by form, phone at (877) 519-2118 or email at sales@1examprep.com. Tell us your state, your NASCLA exam and your test date. We reply with the books, tabs or course that fit, plus a study timeline, usually within one business day.
 
 ## Key takeaways
 
@@ -24,11 +24,11 @@ Reach a NASCLA exam advisor by form, phone at (877) 775-9400 or email at sales@1
 
 The form takes about one minute. Your details go straight to the 1 Exam Prep team, the fulfillment center that ships every order on this site. Nothing is sold or shared with a third party.
 
-- **Phone:** [(877) 775-9400](tel:+18777759400)
+- **Phone:** [(877) 519-2118](tel:+18775192118)
 - **Email:** [sales@1examprep.com](mailto:sales@1examprep.com)
 - **Orders and shipping:** handled by [1 Exam Prep](https://1examprep.com)
 
-Loading the form. You can also call [(877) 775-9400](tel:+18777759400) or email [sales@1examprep.com](mailto:sales@1examprep.com).
+Loading the form. You can also call [(877) 519-2118](tel:+18775192118) or email [sales@1examprep.com](mailto:sales@1examprep.com).
 
 ## What can a NASCLA exam advisor help with?
 
@@ -61,7 +61,7 @@ If you already know your exam, you can skip the form. Browse the [commercial gen
 
 ### How fast will someone reply to my message?
 
-Most messages sent through the form get a reply within one business day. Calls to (877) 775-9400 are answered during business hours.
+Most messages sent through the form get a reply within one business day. Calls to (877) 519-2118 are answered during business hours.
 
 ### Can you tell me which books my state requires?
 
@@ -81,7 +81,7 @@ Yes. It has 115 scored questions in 330 minutes, about 2.9 minutes each, and 70%
 
 ### Can I order by phone instead of online?
 
-Yes. Call (877) 775-9400 and an advisor can place the order with you. Every online Buy now button also goes to the same secure checkout.
+Yes. Call (877) 519-2118 and an advisor can place the order with you. Every online Buy now button also goes to the same secure checkout.
 
 ### Does buying prep make me eligible for the exam?
 
@@ -95,5 +95,5 @@ No. Eligibility and licensing are decided by NASCLA and your state board. Buying
 ---
 
 Source: https://passyournasclaexam.com/contact/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

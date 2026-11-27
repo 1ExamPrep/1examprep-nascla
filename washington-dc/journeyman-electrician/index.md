@@ -113,5 +113,5 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 ---
 
 Source: https://passyournasclaexam.com/washington-dc/journeyman-electrician/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -294,6 +294,32 @@ def quick_answers(pairs):
 def final_cta(kicker, title, text, href, label):
     return '<section class="sec-tight"><div class="wrap"><div class="final"><div><span class="eyebrow">%s</span><h2>%s</h2><p>%s</p></div><a class="btn btn-buy" href="%s">%s</a></div></div></section>' % (esc(kicker), esc(title), esc(text), href, esc(label))
 
+# ---------- photos (image plan, Nov 27 2026) ----------
+# Every slot names its file in shared/img/. Until the file exists the page shows a styled placeholder
+# (home page) or nothing (state, exam and product pages). Drop the .webp in and rebuild; no code change needed.
+IMG_DIR = os.path.join(ROOT, "shared", "img")
+def has_img(name): return os.path.exists(os.path.join(IMG_DIR, name))
+def img_slot(name, w, h, alt, cls="", rel="", eager=False, placeholder=True):
+    if has_img(name):
+        small = name.replace(".webp", "-800.webp")
+        srcset = (' srcset="%sshared/img/%s 800w, %sshared/img/%s %dw" sizes="(max-width:800px) 100vw, %dpx"' % (rel, small, rel, name, w, w)) if has_img(small) else ""
+        return ('<img class="photo %s" src="%sshared/img/%s"%s width="%d" height="%d" alt="%s" decoding="async" %s>'
+                % (cls, rel, name, srcset, w, h, esc(alt), 'fetchpriority="high" loading="eager"' if eager else 'loading="lazy"'))
+    if not placeholder: return ""
+    return '<div class="img-ph %s" style="aspect-ratio:%d/%d" data-img="%s" data-size="%dx%d" data-alt="%s" aria-hidden="true"></div>' % (cls, w, h, esc(name), w, h, esc(alt))
+def banner(name, alt, rel):
+    """wide hero photo above a hub page's heading; nothing until the file exists"""
+    im = img_slot(name, 1920, 700, alt, "banner-img", rel=rel, eager=True, placeholder=False)
+    return ('<div class="banner"><div class="wrap">%s</div></div>' % im) if im else ""
+EXAM_IMG = {"commercial-general-building-contractor": ("nascla-commercial-contractor.webp", "Experienced contractor reviewing blueprints at a large commercial construction project"),
+            "master-electrical-contractor": ("nascla-master-electrical.webp", "Senior electrician inspecting commercial electrical distribution equipment"),
+            "journeyman-electrician": ("nascla-journeyman-electrician.webp", "Electrician installing conduit on a commercial job"),
+            "residential-electrical-contractor": ("nascla-residential-electrical.webp", "Residential electrician wiring a newly built home"),
+            "business-and-law": ("nascla-business-and-law.webp", "Construction company owner reviewing contracts, estimates and business documents")}
+PLAN_IMG = ["study-plan-application.webp", "study-plan-book-tabbing.webp", "study-plan-core.webp", "study-plan-lookup.webp", "study-plan-practice.webp", "study-plan-exam-day.webp"]
+PLAN_ALT = ["Contractor filling out a NASCLA exam application on a laptop", "Hands placing colored tabs in a code book", "Contractor studying reference books at a desk",
+            "Contractor flipping to a tabbed section of a code book", "Contractor taking a timed practice exam", "Contractor walking into a testing center with a book bag"]
+
 # ---------- GoHighLevel lead form ----------
 # The form is injected by shared/site.js from a placeholder, so the served HTML has no <iframe>, <form> or body <script>
 # (all three trip the pre-publish check). Without JavaScript the phone and email fallback shows instead.
@@ -377,8 +403,8 @@ def home():
     exam_cards = ""
     for k in EXAM_ORDER:
         ps = [p for p in CATALOG if p["exam"] == k]; sts = sorted({p["state"] for p in ps if p["state"]})
-        exam_cards += ('<a class="exam" href="%s/"><span class="k">%s</span><h3>%s</h3><p>%s</p><span class="more">%d state%s · %d products →</span></a>'
-                       % (k, esc(EXAM_COPY[k]["kicker"].upper() if k != "commercial-general-building-contractor" else "ACCEPTED IN 16 STATES + USVI"), esc(EXAMS[k]["name"]), esc(trim_desc(EXAM_COPY[k]["intro"], 120)), len(sts), "" if len(sts) == 1 else "s", len(ps)))
+        exam_cards += (('<a class="exam" href="%s/"><!--EXIMG--><span class="k">%s</span><h3>%s</h3><p>%s</p><span class="more">%d state%s · %d products →</span></a>'
+                       % (k, esc(EXAM_COPY[k]["kicker"].upper() if k != "commercial-general-building-contractor" else "ACCEPTED IN 16 STATES + USVI"), esc(EXAMS[k]["name"]), esc(trim_desc(EXAM_COPY[k]["intro"], 120)), len(sts), "" if len(sts) == 1 else "s", len(ps))).replace("<!--EXIMG-->", img_slot(EXAM_IMG[k][0], 800, 600, EXAM_IMG[k][1], "exam-img") if k in EXAM_IMG else ""))
     st_items = ""
     for s in STATES + [None]:
         ex = [k for k in EXAM_ORDER if items_for(s, k)]
@@ -387,8 +413,8 @@ def home():
     gen_pairs = [(q, a) for c in GEN_FAQ for q, a in c["items"]]
     home_faq = [gen_pairs[i] for i in (2, 5, 6, 8, 9, 15) if i < len(gen_pairs)]
     lo, hi = price_range(CATALOG)
-    body = ('<section class="hero"><div class="wrap"><div class="hero-copy"><span class="eyebrow">NASCLA exam prep, state by state</span>'
-            '<h1>Walk in ready.<br>Walk out licensed in <em>16 states</em>.</h1>'
+    body = ('<section class="hero hero-photo"><!--HEROBG--><div class="wrap"><div class="hero-copy"><span class="eyebrow">NASCLA exam prep, state by state</span>'
+            '<h1>Walk in ready.<br><em>Unlock multi-state</em> contracting opportunities.</h1>'
             '<p class="lead">Prep for the NASCLA Accredited Examination for Commercial General Building Contractors, plus NASCLA electrical and business and law exams. Book packages, highlighted and tabbed sets, rentals and online courses for %d states.</p>'
             '<div class="hero-ctas"><a class="btn btn-buy" href="#exams">Find my exam</a><a class="btn btn-ghost" href="#plan">See the study plan</a></div>%s</div>'
             '<div class="hero-form" aria-labelledby="hero-form-title"><div class="clock-top"><span>Commercial exam at a glance</span><span class="pill">Open book</span></div>'
@@ -397,14 +423,22 @@ def home():
             % (len(STATES), takeaways(["%d NASCLA prep products across %d states and nationwide editions, from %s to %s." % (len(CATALOG), len(STATES), money(lo), money(hi)),
                                       "The commercial exam is 115 scored questions in 330 minutes, open book, 70%% to pass, and accepted in 16 states plus the U.S. Virgin Islands.",
                                       "Every Buy now button opens secure checkout at our fulfillment center, %s." % FUL["name"]]).replace("%%", "%")))
+    body = body.replace("<!--HEROBG-->", img_slot("nascla-exam-prep-hero.webp", 1920, 900, "Commercial general contractor reviewing construction plans at a commercial job site", "hero-bg", eager=True))
     body = body.replace("<!--HEROFORM-->", ghl_form("hero", "Free NASCLA study plan request"))
     body += '<section class="sec" id="exams"><div class="wrap"><span class="eyebrow">Pick your exam</span><h2>Which NASCLA exam are you taking?</h2><p class="lead-s">Choose the exam, then your state. Every state page lists the books, tabs, rentals and online courses for that exam.</p><div class="exams">%s</div></div></section>' % exam_cards
-    body += '<section class="sec sec-alt" id="plan"><div class="wrap"><span class="eyebrow">How to pass</span><h2>Your study plan</h2><p class="lead-s">A sample six-week path for an open-book NASCLA exam. Go faster or slower to fit your schedule.</p><div class="plan">%s</div></div></section>' % "".join('<div><b>WEEK %s</b><h3>%s</h3><p>%s</p></div>' % (n, esc(t), esc(d)) for n, t, d in PLAN)
+    body += ('<section class="sec" id="why-nascla"><div class="wrap"><div class="why">%s<div class="why-copy"><span class="eyebrow">Why NASCLA?</span>'
+             '<h2 id="why-take-the-nascla-exam">Why take the NASCLA exam? One exam, more opportunities.</h2>'
+             '<p>The NASCLA Accredited Examination for Commercial General Building Contractors is accepted in 16 states plus the U.S. Virgin Islands. Pass it once and you can use the score toward the trade exam in each of those places.</p>'
+             '<ul class="cb-list"><li>Expand your contracting business into participating states.</li><li>Reduce duplicate trade examination requirements where applicable.</li>'
+             '<li>Prepare using the approved reference materials.</li><li>Build your path toward multi-state contractor licensing.</li></ul>'
+             '<p class="cb-alt">Passing does not grant a license by itself. Each state board still sets its own application rules, and most add a business and law exam.</p></div></div></div></section>'
+             % img_slot("nascla-multistate-contractor.webp", 1200, 900, "Commercial contractor on a multi-story job site reviewing plans with a project team", "why-img"))
+    body += '<section class="sec sec-alt" id="plan"><div class="wrap"><span class="eyebrow">How to pass</span><h2>Your study plan</h2><p class="lead-s">A sample six-week path for an open-book NASCLA exam. Go faster or slower to fit your schedule.</p><div class="plan">%s</div></div></section>' % "".join('<div>%s<b>WEEK %s</b><h3>%s</h3><p>%s</p></div>' % (img_slot(PLAN_IMG[i], 640, 360, PLAN_ALT[i], "plan-img"), n, esc(t), esc(d)) for i, (n, t, d) in enumerate(PLAN))
     if natl:
         body += '<section class="sec"><div class="wrap"><span class="eyebrow">Nationwide editions</span><h2>Commercial General Building Contractor packages</h2><p class="lead-s">The NASCLA commercial exam is the same in every accepting state. These nationwide packages work wherever you test; state editions add the business and law material for your state.</p><div class="grid" id="rail">%s</div></div></section>' % "".join(card(p, rel) for p in natl[:6])
     body += '<section class="sec sec-alt" id="states"><div class="wrap"><span class="eyebrow">By state</span><h2>Every state we carry</h2><p class="lead-s">Pick your state to see its exams. Each board sets its own rules for using NASCLA scores, and the product pages explain the steps.</p><ul class="states">%s</ul></div></section>' % st_items
     body += '<section class="sec"><div class="wrap" style="max-width:860px"><h2>Questions</h2>%s<p style="margin-top:20px"><a href="faq/">All %d questions</a></p></div></section>' % (faq_html(home_faq), len(gen_pairs) + sum(len(v) for v in STATE_FAQS.values()))
-    body += ('<section class="sec sec-alt" id="contact"><div class="wrap"><div class="contact-band"><div class="cb-copy"><span class="eyebrow">Talk to an advisor</span>'
+    body += ('<section class="sec cta-photo" id="contact">' + img_slot("nascla-contractor-success.webp", 1920, 600, "Licensed contractor standing in front of a finished commercial building", "cta-bg") + '<div class="wrap"><div class="contact-band"><div class="cb-copy"><span class="eyebrow">Talk to an advisor</span>'
              '<h2 id="not-sure-which-package-fits">Not sure which NASCLA package fits?</h2>'
              '<p>Send your state, your exam and your test date. A 1 Exam Prep advisor will match you with the right books, tabs or course and a study timeline, usually within one business day.</p>'
              '<ul class="cb-list"><li>Which edition of the business and law guide your state uses</li><li>Whether a rental, a tabbed set or The 1 Package fits your budget</li><li>How many weeks to plan before a 330-minute open-book exam</li></ul>'
@@ -436,6 +470,7 @@ for k in EXAM_ORDER:
         body += '<section class="sec-tight"><div class="wrap"><div class="group-h"><h2>Nationwide editions</h2><p>Not tied to one state.</p></div>%s%s</div></section>' % (('<div class="grid" id="rail">%s</div>' % "".join(card(p, rel) for p in pk)) if pk else "", ('<div class="rows" style="margin-top:18px">%s</div>' % "".join(row(p, rel) for p in ad)) if ad else "")
     body += '<section class="sec-tight"><div class="wrap" style="max-width:860px"><h2 style="font-size:28px">About this exam</h2><ul class="prose">%s</ul></div></section>' % "".join("<li>%s</li>" % esc(x) for x in C["points"])
     title = "NASCLA %s Exam Prep" % E["name"]
+    if k in EXAM_IMG: body = banner(EXAM_IMG[k][0].replace(".webp", "-wide.webp"), EXAM_IMG[k][1], rel) + body
     write([k], body, title if len(title) <= 60 else "NASCLA %s Exam Prep" % E["short"], "%s %d products across %d states, from %s." % (trim_desc(C["intro"], 110), len(ps), len(sts), money(lo)),
           (ps[0]["image"] if ps else None), [crumbs_ld([("Home", ""), (E["name"], k + "/")]), faq_ld(qa), {"@context": "https://schema.org", "@type": "CollectionPage", "name": title, "url": absurl(k + "/"),
           "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": absurl("%s/%s/" % (slug(s), k)), "name": "%s %s" % (s, E["name"])} for i, s in enumerate(sts)]}}],
@@ -547,8 +582,10 @@ for s in STATES + [None]:
     G = load_guide(slug(s)) if s else None
     if G:
         gbody, gtitle, gdesc, glds = guide_page(s, G, ex, ps, rel, qa)
+        gbody = banner("nascla-%s-contractor-exam-prep.webp" % slug(s), "Commercial construction in %s" % s, rel) + gbody
         write([slug(s)], gbody, gtitle, gdesc, ps[-1]["image"], [crumbs_ld([("Home", ""), (nm, slug(s) + "/")])] + glds, cta=("#packages", "See packages"), route={"state": slug(s)}, priority="0.9")
         continue
+    if s: body = banner("nascla-%s-contractor-exam-prep.webp" % slug(s), "Commercial construction in %s" % s, rel) + body
     write([slug(s)], body, ("%s NASCLA Exam Prep" % nm) if s else "Nationwide NASCLA Exam Prep Editions", "NASCLA exam prep for %s: %s. %d products from %s." % (nm, ", ".join(EXAMS[k]["short"] for k in ex), len(ps), money(price_range(ps)[0])),
           ps[-1]["image"], [crumbs_ld([("Home", ""), (nm, slug(s) + "/")]), faq_ld(qa)], cta=("#main", "Pick my exam"), route={"state": slug(s)}, priority="0.8")
 

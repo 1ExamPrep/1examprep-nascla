@@ -379,11 +379,11 @@ Arizona licensing
 
 ## Ready to study for your Arizona exam?
 
-Pick your exam above, or call (877) 775-9400 and we will help you choose.
+Pick your exam above, or call (877) 519-2118 and we will help you choose.
 See Arizona packages
 
 ---
 
 Source: https://passyournasclaexam.com/arizona/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

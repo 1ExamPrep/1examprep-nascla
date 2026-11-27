@@ -17,7 +17,7 @@ $1,995.00 (was ) Choose an option[Buy now](https://1examprep.com/cart/4440646556
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
-- Questions? Call [(877) 775-9400](tel:+18777759400)
+- Questions? Call [(877) 519-2118](tel:+18775192118)
 
 ## Key takeaways
 
@@ -121,5 +121,5 @@ No. NASCLA approves you to sit the exam and your state board decides on your lic
 ---
 
 Source: https://passyournasclaexam.com/south-carolina/master-electrical-contractor/books-and-courses-rental-package/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

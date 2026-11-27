@@ -17,7 +17,7 @@ $2,905.00 (was $3,305.00) Save 12%[Buy now](https://1examprep.com/cart/464414533
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
-- Questions? Call [(877) 775-9400](tel:+18777759400)
+- Questions? Call [(877) 519-2118](tel:+18775192118)
 
 ## Key takeaways
 
@@ -260,5 +260,5 @@ Idaho's Master Electrician application requires applicants who took the applicab
 ---
 
 Source: https://passyournasclaexam.com/idaho/master-electrical-contractor/ultimate-exam-prep-rental-package/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

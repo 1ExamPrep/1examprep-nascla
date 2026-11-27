@@ -17,7 +17,7 @@ $199.99 (was $225.25) Save 11%[Buy now](https://1examprep.com/cart/7227835056185
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
-- Questions? Call [(877) 775-9400](tel:+18777759400)
+- Questions? Call [(877) 519-2118](tel:+18775192118)
 
 ## Key takeaways
 
@@ -185,5 +185,5 @@ No. Tabs are a navigation tool, not a substitute for understanding. They can hel
 ---
 
 Source: https://passyournasclaexam.com/georgia/commercial-general-building-contractor/exam-pre-printed-tabs/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

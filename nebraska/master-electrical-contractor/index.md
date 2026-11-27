@@ -152,5 +152,5 @@ Nebraska adopted the 2023 National Electrical Code effective August 1, 2024, and
 ---
 
 Source: https://passyournasclaexam.com/nebraska/master-electrical-contractor/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -118,7 +118,7 @@ Online courses are delivered by email after purchase, so you can start the same 
 
 ### Where can I get help choosing a package?
 
-Call (877) 775-9400 or email sales@1examprep.com and tell us your state and exam. We will tell you which books your exam uses and which package fits how you like to study.
+Call (877) 519-2118 or email sales@1examprep.com and tell us your state and exam. We will tell you which books your exam uses and which package fits how you like to study.
 
 ## State by state
 
@@ -162,5 +162,5 @@ Every package is built for the open-book format.
 ---
 
 Source: https://passyournasclaexam.com/faq/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

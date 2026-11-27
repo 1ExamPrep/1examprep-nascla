@@ -297,5 +297,32 @@ p{margin:0 0 1em}
 .ty-card p{color:var(--muted);margin:0;font-size:15px}
 @media (max-width:900px){.contact-band{grid-template-columns:1fr;padding:24px;gap:24px}.hero-form{max-width:none}}
 @media (max-width:600px){.contact-band{padding:18px}.cb-form{padding:10px}.hero-form{padding:18px}}
-/* reviews page */
-.reviews-embed{margin:18px 0 24px;min-height:120px}.reviews-embed iframe{display:block;width:100%;min-width:100%;border:0}.reviews-fallback{font-size:.95em;opacity:.8}
+
+/* photo slots (image plan). .img-ph is the placeholder shown until shared/img/<file> exists. */
+.img-ph{position:relative;width:100%;border-radius:12px;background:linear-gradient(135deg,#1A2135 0%,#141A2A 55%,#1F2A44 100%);border:1px dashed #33406A;overflow:hidden}
+.img-ph:after{content:"";position:absolute;left:50%;top:50%;width:40px;height:40px;transform:translate(-50%,-50%);opacity:.35;
+  background:no-repeat center/contain url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%238DB6FF' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='3' y='5' width='18' height='14' rx='2'/%3E%3Ccircle cx='9' cy='10' r='2'/%3E%3Cpath d='m21 16-5-5-9 8'/%3E%3C/svg%3E")}
+.photo{width:100%;height:auto;border-radius:12px;object-fit:cover}
+.exam-img{margin:-8px -8px 6px;width:calc(100% + 16px);aspect-ratio:4/3;object-fit:cover}
+.plan-img{margin:0 0 12px;aspect-ratio:16/9;object-fit:cover;border-radius:10px}
+/* hero: photo behind, dark gradient on the left for the headline */
+.hero-photo{position:relative;overflow:hidden;isolation:isolate}
+.hero-photo .hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:right center;border-radius:0;border:0;z-index:-2;aspect-ratio:auto!important}
+.hero-photo:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(11,15,26,.96) 0%,rgba(11,15,26,.88) 45%,rgba(11,15,26,.45) 100%)}
+.hero-photo .img-ph.hero-bg{border:0;background:radial-gradient(1200px 500px at 85% 40%,#1F2A44 0%,#0B0F1A 70%)}
+.hero-photo .img-ph.hero-bg:after{display:none}
+/* Why NASCLA: image left, copy right */
+.why{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;align-items:center}
+.why-img{aspect-ratio:4/3;border-radius:var(--r-lg)}
+.why h2{font-size:clamp(26px,3.4vw,38px)}
+.why-copy>p{color:var(--muted)}
+@media (max-width:900px){.why{grid-template-columns:1fr;gap:24px}}
+/* bottom call to action: photo behind with a dark overlay */
+.cta-photo{position:relative;overflow:hidden;isolation:isolate;border-top:1px solid var(--line2)}
+.cta-photo .cta-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border-radius:0;border:0;z-index:-2;aspect-ratio:auto!important}
+.cta-photo:before{content:"";position:absolute;inset:0;z-index:-1;background:rgba(11,15,26,.78)}
+.cta-photo .img-ph.cta-bg{background:linear-gradient(120deg,#0F1424 0%,#1A2135 60%,#0F1424 100%)}
+.cta-photo .img-ph.cta-bg:after{display:none}
+.cta-photo .contact-band{background:rgba(20,26,42,.92);backdrop-filter:blur(4px)}
+/* state and exam page banner (shows only once the photo exists) */
+.banner{padding-top:24px}.banner-img{aspect-ratio:1920/700;max-height:420px}

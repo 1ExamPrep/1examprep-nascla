@@ -92,5 +92,5 @@ $1,395.00 (was $1,695.00) Save 18% options to $1,595.00
 ---
 
 Source: https://passyournasclaexam.com/journeyman-electrician/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

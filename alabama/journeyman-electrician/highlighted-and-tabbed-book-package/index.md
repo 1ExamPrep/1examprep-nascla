@@ -17,7 +17,7 @@ $1,495.00 (was $1,695.00) Save 12%Choose an option[Buy now](https://1examprep.co
 
 - Secure checkout at 1 Exam Prep, our fulfillment center
 - Online courses delivered by email after purchase
-- Questions? Call [(877) 775-9400](tel:+18777759400)
+- Questions? Call [(877) 519-2118](tel:+18775192118)
 
 ## Key takeaways
 
@@ -238,5 +238,5 @@ Yes. Open-book testing still requires strong electrical knowledge and efficient 
 ---
 
 Source: https://passyournasclaexam.com/alabama/journeyman-electrician/highlighted-and-tabbed-book-package/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

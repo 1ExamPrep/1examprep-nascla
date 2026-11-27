@@ -9,7 +9,7 @@ description: NASCLA exam prep for the commercial general building contractor exa
 NASCLA exam prep, state by state
 
 # Walk in ready.
-Walk out licensed in *16 states*.
+*Unlock multi-state* contracting opportunities.
 
 Prep for the NASCLA Accredited Examination for Commercial General Building Contractors, plus NASCLA electrical and business and law exams. Book packages, highlighted and tabbed sets, rentals and online courses for 29 states.
 
@@ -30,7 +30,7 @@ Get your free NASCLA study plan
 
 Tell us your state and exam. An advisor replies with the right books and a timeline.
 
-Loading the form. You can also call [(877) 775-9400](tel:+18777759400) or email [sales@1examprep.com](mailto:sales@1examprep.com).
+Loading the form. You can also call [(877) 519-2118](tel:+18775192118) or email [sales@1examprep.com](mailto:sales@1examprep.com).
 
 Pick your exam
 
@@ -64,6 +64,19 @@ Prep for NASCLA accredited residential electrical contractor exams, with book pa
 
 Most states pair the trade exam with a business and law exam, usually written from NASCLA's Contractor's Guide to.
 20 states · 140 products →](https://passyournasclaexam.com/business-and-law/)
+
+Why NASCLA?
+
+## Why take the NASCLA exam? One exam, more opportunities.
+
+The NASCLA Accredited Examination for Commercial General Building Contractors is accepted in 16 states plus the U.S. Virgin Islands. Pass it once and you can use the score toward the trade exam in each of those places.
+
+- Expand your contracting business into participating states.
+- Reduce duplicate trade examination requirements where applicable.
+- Prepare using the approved reference materials.
+- Build your path toward multi-state contractor licensing.
+
+Passing does not grant a license by itself. Each state board still sets its own application rules, and most add a business and law exam.
 
 How to pass
 
@@ -233,12 +246,12 @@ Send your state, your exam and your test date. A 1 Exam Prep advisor will match 
 - Whether a rental, a tabbed set or The 1 Package fits your budget
 - How many weeks to plan before a 330-minute open-book exam
 
-Prefer to talk now? Call [(877) 775-9400](tel:+18777759400) or email [sales@1examprep.com](mailto:sales@1examprep.com).
+Prefer to talk now? Call [(877) 519-2118](tel:+18775192118) or email [sales@1examprep.com](mailto:sales@1examprep.com).
 
-Loading the form. You can also call [(877) 775-9400](tel:+18777759400) or email [sales@1examprep.com](mailto:sales@1examprep.com).
+Loading the form. You can also call [(877) 519-2118](tel:+18775192118) or email [sales@1examprep.com](mailto:sales@1examprep.com).
 
 ---
 
 Source: https://passyournasclaexam.com/  
-Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Publisher: Pass Your NASCLA Exam Prep. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 519-2118, email sales@1examprep.com.  
 Prices change; the product page and checkout show the current price.

@@ -1,13 +1,13 @@
 ---
 title: Mississippi Residential Electrical Online Exam Prep Course
 url: https://passyournasclaexam.com/mississippi/residential-electrical-contractor/online-exam-prep-course/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Mississippi NASCLA Residential Electrical Contractor examination with structured online exam preparation focused on residential electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Residential Electrical Contractor](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/) Online Exam Prep Course
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Residential Electrical](https://passyournasclaexam.com/mississippi/residential-electrical-contractor/)
 

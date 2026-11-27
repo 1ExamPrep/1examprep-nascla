@@ -1,13 +1,13 @@
 ---
 title: Kentucky NASCLA Journeyman Electrician Exam Prep
 url: https://passyournasclaexam.com/kentucky/journeyman-electrician/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Kentucky journeyman electrician exam prep: 4 products from $295.00 to $1,370.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Kentucky](https://passyournasclaexam.com/kentucky/) Journeyman Electrician
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 # Kentucky Journeyman Electrician Exam Prep
 

@@ -1,13 +1,13 @@
 ---
 title: Nebraska Master Electrical Live + Self-Study Training
 url: https://passyournasclaexam.com/nebraska/master-electrical-contractor/live-virtual-plus-self-study-training/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a flexible training program that combines live virtual instruction with.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nebraska](https://passyournasclaexam.com/nebraska/) · [Master Electrical Contractor](https://passyournasclaexam.com/nebraska/master-electrical-contractor/) Live Virtual + Self-Study Training
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Nebraska](https://passyournasclaexam.com/nebraska/) · [Master Electrical](https://passyournasclaexam.com/nebraska/master-electrical-contractor/)
 

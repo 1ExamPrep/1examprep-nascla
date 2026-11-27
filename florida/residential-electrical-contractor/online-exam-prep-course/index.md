@@ -1,13 +1,13 @@
 ---
 title: Florida Residential Electrical Online Exam Prep Course
 url: https://passyournasclaexam.com/florida/residential-electrical-contractor/online-exam-prep-course/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Residential Electrical Contractor Examination with structured online exam preparation from 1 Exam Prep. Designed for.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Residential Electrical Contractor](https://passyournasclaexam.com/florida/residential-electrical-contractor/) Online Exam Prep Course
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Residential Electrical](https://passyournasclaexam.com/florida/residential-electrical-contractor/)
 

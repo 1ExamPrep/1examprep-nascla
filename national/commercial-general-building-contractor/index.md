@@ -1,13 +1,13 @@
 ---
 title: NASCLA Commercial GC Prep, Nationwide
 url: https://passyournasclaexam.com/national/commercial-general-building-contractor/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Nationwide commercial general building contractor exam prep: 7 products from $95.00 to $7,495.00. Book packages, highlighted and tabbed sets, rentals and online courses. One click to checkout.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) Commercial General Building Contractor
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 # Nationwide Commercial General Building Contractor Exam Prep
 

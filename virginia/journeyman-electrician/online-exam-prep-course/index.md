@@ -1,13 +1,13 @@
 ---
 title: Virginia Online Exam Prep Course | NASCLA Journeyman
 url: https://passyournasclaexam.com/virginia/journeyman-electrician/online-exam-prep-course/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Virginia NASCLA Journeyman Electrician examination with a structured online exam prep program focused on electrical knowledge, National.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Virginia](https://passyournasclaexam.com/virginia/) · [Journeyman Electrician](https://passyournasclaexam.com/virginia/journeyman-electrician/) Online Exam Prep Course
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Virginia](https://passyournasclaexam.com/virginia/) · [Journeyman](https://passyournasclaexam.com/virginia/journeyman-electrician/)
 

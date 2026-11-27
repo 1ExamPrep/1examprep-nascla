@@ -1,13 +1,13 @@
 ---
 title: Florida NASCLA Residential Electrical FAQ
 url: https://passyournasclaexam.com/faq/florida/residential-electrical-contractor/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: 21 answers about the Florida residential electrical contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) Florida Residential Electrical
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 # Florida Residential Electrical Contractor exam: frequently asked questions
 

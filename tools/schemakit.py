@@ -8,6 +8,8 @@ Store facts below come from the 1 Exam Prep Shopify store (1examprep.com), check
   - Shipping: the only delivery method is "Free USPS (Media Mail)", United States only.
   - Returns: the refund policy says "All sales are final"; returns only with supervisor approval and a 20%
     restocking fee. In schema.org terms that is MerchantReturnNotPermitted.
+  - Delivery time (added 2026-11-27): books 0-2 handling + 2-8 transit business days; rental, Ultimate and
+    1 Package orders 0-7 handling + 2-8 transit (up to 15); online access 0-1 handling, no transit.
 Re-check them when the store's shipping profile or refund policy changes, then rebuild.
 """
 import re
@@ -21,12 +23,35 @@ RETURN_POLICY = {
     "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted",
     "merchantReturnLink": RETURN_POLICY_URL,
 }
+# deliveryTime (Google Search Console "Missing field deliveryTime", November 27, 2026).
+# Numbers match what the sites already tell buyers: USPS Media Mail "usually takes 2 to 8 business days",
+# and "allow up to 15 business days for rental, Ultimate and 1 Package orders" (up to 7 days to pack + 8 in transit).
+# Online access goes out by email the same or next business day with no transit.
+BUSINESS_DAYS = {"@type": "OpeningHoursSpecification",
+                 "dayOfWeek": ["https://schema.org/Monday", "https://schema.org/Tuesday", "https://schema.org/Wednesday",
+                               "https://schema.org/Thursday", "https://schema.org/Friday"]}
+
+
+def delivery_time(handling_min, handling_max, transit_min, transit_max):
+    """schema.org ShippingDeliveryTime in business days."""
+    return {"@type": "ShippingDeliveryTime", "businessDays": BUSINESS_DAYS,
+            "handlingTime": {"@type": "QuantitativeValue", "minValue": handling_min, "maxValue": handling_max, "unitCode": "DAY"},
+            "transitTime": {"@type": "QuantitativeValue", "minValue": transit_min, "maxValue": transit_max, "unitCode": "DAY"}}
+
+
+BOOK_DELIVERY_TIME = delivery_time(0, 2, 2, 8)
+LONG_DELIVERY_TIME = delivery_time(0, 7, 2, 8)
+EMAIL_DELIVERY_TIME = delivery_time(0, 1, 0, 0)
+
 FREE_US_SHIPPING = {
     "@type": "OfferShippingDetails",
     "shippingLabel": "Free USPS Media Mail",
     "shippingRate": {"@type": "MonetaryAmount", "value": "0", "currency": "USD"},
     "shippingDestination": {"@type": "DefinedRegion", "addressCountry": "US"},
+    "deliveryTime": BOOK_DELIVERY_TIME,
 }
+# Rental, Ultimate and 1 Package orders: same free Media Mail, longer to put together.
+FREE_US_SHIPPING_LONG = dict(FREE_US_SHIPPING, deliveryTime=LONG_DELIVERY_TIME)
 # Online courses and services ship nothing: access arrives by email, so delivery is free.
 # Google still wants shippingDetails on every offer, so these get a $0 email delivery instead of no entry.
 EMAIL_DELIVERY = {
@@ -34,7 +59,9 @@ EMAIL_DELIVERY = {
     "shippingLabel": "Online access by email, nothing shipped",
     "shippingRate": {"@type": "MonetaryAmount", "value": "0", "currency": "USD"},
     "shippingDestination": {"@type": "DefinedRegion", "addressCountry": "US"},
+    "deliveryTime": EMAIL_DELIVERY_TIME,
 }
+LONG_ORDER = re.compile(r"\b(rental|ultimate|1 package)\b", re.I)
 
 # Product types and title words that mean nothing is shipped (access arrives by email).
 DIGITAL_TYPES = {"online course", "practice course", "application", "live training", "continuing education"}
@@ -75,8 +102,13 @@ def clean_description(text, limit=500):
 
 def delivery_fields(title, ptype=""):
     """shippingDetails and hasMerchantReturnPolicy for one offer. Every offer gets both (Google flags either one missing)."""
-    return {"shippingDetails": FREE_US_SHIPPING if ships(title, ptype) else EMAIL_DELIVERY,
-            "hasMerchantReturnPolicy": RETURN_POLICY}
+    if not ships(title, ptype):
+        shipping = EMAIL_DELIVERY
+    elif LONG_ORDER.search(title or "") or LONG_ORDER.search(ptype or ""):
+        shipping = FREE_US_SHIPPING_LONG
+    else:
+        shipping = FREE_US_SHIPPING
+    return {"shippingDetails": shipping, "hasMerchantReturnPolicy": RETURN_POLICY}
 
 
 def offer(v, product_name, url, ptype):

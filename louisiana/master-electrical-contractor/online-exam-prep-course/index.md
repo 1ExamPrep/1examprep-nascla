@@ -1,13 +1,13 @@
 ---
 title: Louisiana Online Exam Prep Course | NASCLA Master Electrical
 url: https://passyournasclaexam.com/louisiana/master-electrical-contractor/online-exam-prep-course/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Louisiana NASCLA Master Electrical Contractor Exam with online exam preparation from 1 Exam Prep. Designed for experienced electricians.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Louisiana](https://passyournasclaexam.com/louisiana/) · [Master Electrical Contractor](https://passyournasclaexam.com/louisiana/master-electrical-contractor/) Online Exam Prep Course
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Louisiana](https://passyournasclaexam.com/louisiana/) · [Master Electrical](https://passyournasclaexam.com/louisiana/master-electrical-contractor/)
 

@@ -1,13 +1,13 @@
 ---
 title: North Carolina Master Electrical Book + Course Rental
 url: https://passyournasclaexam.com/north-carolina/master-electrical-contractor/books-and-courses-rental-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a comprehensive rental package that combines highlighted and tabbed.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Master Electrical Contractor](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/) Books & Courses Rental Package
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Master Electrical](https://passyournasclaexam.com/north-carolina/master-electrical-contractor/)
 

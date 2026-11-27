@@ -1,13 +1,13 @@
 ---
 title: Utah Business & Law Guide (4th Ed.) | NASCLA Business & Law
 url: https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-4th-ed/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for your Utah contractor licensing examination with the . This comprehensive reference manual provides essential information about construction.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Utah](https://passyournasclaexam.com/utah/) · [Business and Law](https://passyournasclaexam.com/utah/business-and-law/) Business & Law Guide (4th Ed.)
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Utah](https://passyournasclaexam.com/utah/) · [Business & Law](https://passyournasclaexam.com/utah/business-and-law/)
 

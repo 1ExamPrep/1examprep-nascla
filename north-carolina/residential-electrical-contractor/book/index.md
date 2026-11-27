@@ -1,13 +1,13 @@
 ---
 title: North Carolina Book | NASCLA Residential Electrical
 url: https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/book/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the North Carolina NASCLA Residential Electrician Contractor examination with the from 1 Exam Prep. Explore residential wiring, electrical.
 ---
 
 [Home](https://passyournasclaexam.com/) · [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Residential Electrical Contractor](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/) Book
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [North Carolina](https://passyournasclaexam.com/north-carolina/) · [Residential Electrical](https://passyournasclaexam.com/north-carolina/residential-electrical-contractor/)
 

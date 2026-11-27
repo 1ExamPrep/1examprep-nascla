@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam: 15 Common Questions Answered
 url: https://passyournasclaexam.com/blog/nascla-exam-questions-answered/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: NASCLA exam answers: what it is, how to apply and schedule, 115 questions in 330 minutes, open book, 70% to pass, accepting states, cost and how to study.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Blog](https://passyournasclaexam.com/blog/) NASCLA Exam: 15 Questions People Ask, Answered
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 # NASCLA Exam: 15 Questions People Ask, Answered
 

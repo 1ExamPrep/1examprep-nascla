@@ -1,13 +1,13 @@
 ---
 title: Mississippi Business & Law Guide Tabs (6th Ed.)
 url: https://passyournasclaexam.com/mississippi/business-and-law/business-and-law-guide-tabs-6th-ed/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Mississippi NASCLA Contractors Guide to Business, Law and Project Management, Mississippi 6th Edition – Pre-Printed Tabs The *Mississippi NASCLA Contractors.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Mississippi](https://passyournasclaexam.com/mississippi/) · [Business and Law](https://passyournasclaexam.com/mississippi/business-and-law/) Business & Law Guide Tabs (6th Ed.)
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Mississippi](https://passyournasclaexam.com/mississippi/) · [Business & Law](https://passyournasclaexam.com/mississippi/business-and-law/)
 

@@ -1,13 +1,13 @@
 ---
 title: Georgia Book | NASCLA Commercial GC
 url: https://passyournasclaexam.com/georgia/commercial-general-building-contractor/book/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Georgia NASCLA Commercial General Building Contractor examination with ACE, the Free Demo Personal AI Tutor from 1 Exam Prep. Explore.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Georgia](https://passyournasclaexam.com/georgia/) · [Commercial General Building Contractor](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/) Book
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Georgia](https://passyournasclaexam.com/georgia/) · [Commercial GC](https://passyournasclaexam.com/georgia/commercial-general-building-contractor/)
 

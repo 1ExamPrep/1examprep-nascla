@@ -1,13 +1,13 @@
 ---
 title: Florida Business & Law Guide + Tabs (2nd Ed.)
 url: https://passyournasclaexam.com/florida/business-and-law/business-and-law-guide-plus-tabs-2nd-ed/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: FLORIDA NASCLA CONTRACTORS GUIDE TO BUSINESS, LAW AND PROJECT MANAGEMENT, FLORIDA COUNTIES 2ND EDITION – TABS BUNDLE (BOOK + TABS) The FLORIDA NASCLA.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Florida](https://passyournasclaexam.com/florida/) · [Business and Law](https://passyournasclaexam.com/florida/business-and-law/) Business & Law Guide + Tabs (2nd Ed.)
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Florida](https://passyournasclaexam.com/florida/) · [Business & Law](https://passyournasclaexam.com/florida/business-and-law/)
 

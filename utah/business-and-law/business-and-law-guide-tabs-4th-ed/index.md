@@ -1,13 +1,13 @@
 ---
 title: Utah Business & Law Guide Tabs (4th Ed.)
 url: https://passyournasclaexam.com/utah/business-and-law/business-and-law-guide-tabs-4th-ed/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: The by Pass Your NASCLA Exam Prep is a companion reference tool designed for use with the official NASCLA Business and Law Manual approved by the Utah.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Utah](https://passyournasclaexam.com/utah/) · [Business and Law](https://passyournasclaexam.com/utah/business-and-law/) Business & Law Guide Tabs (4th Ed.)
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Utah](https://passyournasclaexam.com/utah/) · [Business & Law](https://passyournasclaexam.com/utah/business-and-law/)
 

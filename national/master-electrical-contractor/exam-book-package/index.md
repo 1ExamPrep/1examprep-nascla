@@ -1,13 +1,13 @@
 ---
 title: NASCLA Exam Book Package | NASCLA Master Electrical
 url: https://passyournasclaexam.com/national/master-electrical-contractor/exam-book-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Trade Examination for Electrical Contractors with a complete collection of nine approved exam references. The brings.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical Contractor](https://passyournasclaexam.com/national/master-electrical-contractor/) Exam Book Package
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Nationwide](https://passyournasclaexam.com/national/) · [Master Electrical](https://passyournasclaexam.com/national/master-electrical-contractor/)
 

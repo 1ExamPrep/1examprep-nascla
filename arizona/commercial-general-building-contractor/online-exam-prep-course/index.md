@@ -1,13 +1,13 @@
 ---
 title: Arizona Online Exam Prep Course | NASCLA Commercial GC
 url: https://passyournasclaexam.com/arizona/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the NASCLA Accredited Examination for Commercial General Building Contractors with an online exam prep course built around the knowledge areas.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Arizona](https://passyournasclaexam.com/arizona/) · [Commercial General Building Contractor](https://passyournasclaexam.com/arizona/commercial-general-building-contractor/) Online Exam Prep Course
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Arizona](https://passyournasclaexam.com/arizona/) · [Commercial GC](https://passyournasclaexam.com/arizona/commercial-general-building-contractor/)
 

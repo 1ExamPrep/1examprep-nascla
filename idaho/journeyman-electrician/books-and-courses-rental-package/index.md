@@ -1,13 +1,13 @@
 ---
 title: Idaho Books & Courses Rental Package | NASCLA Journeyman
 url: https://passyournasclaexam.com/idaho/journeyman-electrician/books-and-courses-rental-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Prepare for the Idaho NASCLA Journeyman Electrician examination with an organized combination of online exam preparation and a complete highlighted and.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Idaho](https://passyournasclaexam.com/idaho/) · [Journeyman Electrician](https://passyournasclaexam.com/idaho/journeyman-electrician/) Books & Courses Rental Package
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Idaho](https://passyournasclaexam.com/idaho/) · [Journeyman](https://passyournasclaexam.com/idaho/journeyman-electrician/)
 

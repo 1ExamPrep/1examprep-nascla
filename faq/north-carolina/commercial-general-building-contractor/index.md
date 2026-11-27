@@ -1,13 +1,13 @@
 ---
 title: North Carolina NASCLA Commercial GC FAQ
 url: https://passyournasclaexam.com/faq/north-carolina/commercial-general-building-contractor/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: 15 answers about the North Carolina commercial general building contractor exam: open-book rules, reference books, licensing steps, the business and law exam and more.
 ---
 
 [Home](https://passyournasclaexam.com/) · [FAQ](https://passyournasclaexam.com/faq/) North Carolina Commercial GC
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 # North Carolina Commercial General Building Contractor exam: frequently asked questions
 

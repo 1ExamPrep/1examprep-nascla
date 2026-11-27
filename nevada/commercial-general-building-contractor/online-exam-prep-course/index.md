@@ -1,13 +1,13 @@
 ---
 title: Nevada Online Exam Prep Course | NASCLA Commercial GC
 url: https://passyournasclaexam.com/nevada/commercial-general-building-contractor/online-exam-prep-course/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: The NASCLA Accredited Examination for Commercial General Building Contractor, recognized by the Nevada State Licensing Board and supported by Pass Your.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Nevada](https://passyournasclaexam.com/nevada/) · [Commercial General Building Contractor](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/) Online Exam Prep Course
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 [Nevada](https://passyournasclaexam.com/nevada/) · [Commercial GC](https://passyournasclaexam.com/nevada/commercial-general-building-contractor/)
 

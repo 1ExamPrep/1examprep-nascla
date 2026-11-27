@@ -1,13 +1,13 @@
 ---
 title: Differences Between NASCLA General Building and Electrical E
 url: https://passyournasclaexam.com/blog/nascla-exams-general-building-vs-electrical/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your NASCLA Exam Prep
 description: Learn how NASCLA exams differ for general building vs electrical contractors in content, focus, and state requirements.
 ---
 
 [Home](https://passyournasclaexam.com/) · [Blog](https://passyournasclaexam.com/blog/) How Do the NASCLA Exams Differ for General Building and Electrical Contractors?
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 # How Do the NASCLA Exams Differ for General Building and Electrical Contractors?
 

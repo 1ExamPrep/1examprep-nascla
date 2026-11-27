@@ -4,7 +4,11 @@
   "_siteUrl_help": "Final address with https and no trailing slash. Canonical tags, sitemap.xml, robots.txt, llms.txt and agents.md all use it.",
   "brand": "Pass Your NASCLA Exam Prep",
   "_brand_help": "The site's own name. Shown in the header, titles, schema and footer.",
-  "wordmark": ["passyour", "nascla", "examprep"],
+  "wordmark": [
+    "passyour",
+    "nascla",
+    "examprep"
+  ],
   "_wordmark_help": "Header logo text in three parts: before, highlighted (accent colour), after.",
   "fulfillment": {
     "name": "1 Exam Prep",
@@ -36,5 +40,12 @@
   "dashboardUrl": "https://site-dashboard-c32v.onrender.com",
   "siteKey": "sk_f75adf18fa4e3554a0b36279",
   "_siteKey_help": "The site's tracker key from the dashboard (Settings > Tracker). Page views and Buy now clicks reach the dashboard once this is set.",
+  "leadForm": {
+    "id": "ORfGWb8YnHGsp3Z9c7DZ",
+    "host": "https://app.1examprep.com",
+    "name": "passyournasclaexam.com",
+    "height": 620
+  },
+  "_leadForm_help": "GoHighLevel form shown in the home hero, at the bottom of the home page and on /contact/. shared/site.js injects it. Set the form's redirect in GHL to /thank-you/. Paste brand/ghl-form.css into the form's Custom CSS.",
   "launched": "2026-10-18"
 }

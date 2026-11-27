@@ -171,7 +171,7 @@ def wordmark(rel=""):
     return '%s<span class="wm">%s<span>%s</span>%s</span>' % (ICON_CLOCK, esc(WM[0]), esc(WM[1]), esc(WM[2])) if len(WM) == 3 else ICON_CLOCK + esc(BRAND)
 def header(rel, cta_href, cta_label="Find my exam", current=""):
     home = rel or "./"
-    links = [("Exams", home + "#exams", "exams"), ("States", home + "#states", "states"), ("FAQ", rel + "faq/", "faq"), ("Blog", rel + "blog/", "blog")]
+    links = [("Exams", home + "#exams", "exams"), ("States", home + "#states", "states"), ("FAQ", rel + "faq/", "faq"), ("Blog", rel + "blog/", "blog"), ("Contact", rel + "contact/", "contact")]
     return ('<a class="skip" href="#main">Skip to content</a><header class="nav"><div class="wrap"><a class="brand" href="%s" aria-label="%s home">%s</a>'
             '<nav class="nav-links" aria-label="Main">%s</nav><div class="nav-tools"><a class="nav-phone" href="tel:%s" aria-label="Call %s">%s<span>%s</span></a>'
             '<button type="button" class="nav-search" data-sopen aria-label="Search the site">%s</button><a class="btn btn-buy btn-sm" href="%s">%s</a></div></div></header>'
@@ -184,10 +184,10 @@ def footer(rel):
     pop = "".join('<li><a href="%s%s/">%s</a></li>' % (rel, slug(s), s) for s in ["Florida", "Georgia", "North Carolina", "Tennessee", "Alabama", "Arizona"] if s in STATES)
     return ('<footer class="site-footer"><div class="wrap"><div class="cols"><div><a class="brand" href="%s">%s</a><p style="margin-top:12px">%s</p><p class="contact"><a href="tel:%s">%s</a><a href="mailto:%s">%s</a></p></div>'
             '<nav aria-label="Exams"><h2>Exams</h2><ul>%s</ul></nav><nav aria-label="Popular states"><h2>Popular states</h2><ul>%s<li><a href="%s#states">All states</a></li></ul></nav>'
-            '<nav aria-label="Help"><h2>Help</h2><ul><li><a href="%sfaq/">FAQ</a></li><li><a href="%sblog/">Blog</a></li><li><a href="%ssearch/">Search</a></li></ul><h2 style="margin-top:20px">Follow</h2><ul>%s</ul></nav></div>'
+            '<nav aria-label="Help"><h2>Help</h2><ul><li><a href="%sfaq/">FAQ</a></li><li><a href="%sblog/">Blog</a></li><li><a href="%scontact/">Contact us</a></li><li><a href="%ssearch/">Search</a></li></ul><h2 style="margin-top:20px">Follow</h2><ul>%s</ul></nav></div>'
             '<p class="fine"><strong>%s</strong> &copy; <span data-year>%s</span>. %s Prices come from the fulfillment store and were last checked <time datetime="%s">%s</time>; the price at checkout is the one that applies. '
             'Not affiliated with NASCLA, any state licensing board or testing vendor. Purchasing does not grant exam eligibility or a license.</p></div></footer>'
-            % (home, wordmark(rel), esc(CFG.get("tagline", "")), CFG["phoneTel"], esc(CFG["phone"]), CFG["email"], CFG["email"], exams, pop, home, rel, rel, rel, soc,
+            % (home, wordmark(rel), esc(CFG.get("tagline", "")), CFG["phoneTel"], esc(CFG["phone"]), CFG["email"], CFG["email"], exams, pop, home, rel, rel, rel, rel, soc,
                esc(BRAND), YEAR, esc(FUL.get("note") or ""), TODAY, datetime.date.fromisoformat(TODAY).strftime("%B %-d, %Y")))
 
 from html.parser import HTMLParser
@@ -291,6 +291,17 @@ def quick_answers(pairs):
 def final_cta(kicker, title, text, href, label):
     return '<section class="sec-tight"><div class="wrap"><div class="final"><div><span class="eyebrow">%s</span><h2>%s</h2><p>%s</p></div><a class="btn btn-buy" href="%s">%s</a></div></div></section>' % (esc(kicker), esc(title), esc(text), href, esc(label))
 
+# ---------- GoHighLevel lead form ----------
+# The form is injected by shared/site.js from a placeholder, so the served HTML has no <iframe>, <form> or body <script>
+# (all three trip the pre-publish check). Without JavaScript the phone and email fallback shows instead.
+FORM = CFG.get("leadForm") or {}
+def ghl_form(slot, label):
+    if not FORM.get("id"): return ""
+    return ('<div class="ghl-form" data-ghl-form="%s" data-ghl-host="%s" data-ghl-name="%s" data-ghl-slot="%s" data-ghl-height="%s" aria-label="%s">'
+            '<p class="ghl-fallback">Loading the form. You can also call <a href="tel:%s">%s</a> or email <a href="mailto:%s">%s</a>.</p></div>'
+            % (esc(FORM["id"]), esc(FORM.get("host", "")), esc(FORM.get("name", BRAND)), esc(slot), esc(FORM.get("height", 620)), esc(label),
+               CFG["phoneTel"], esc(CFG["phone"]), CFG["email"], CFG["email"]))
+
 # ---------- catalog views ----------
 def ppath(p): return "%s/%s/%s/" % (slug(p["state"]), p["exam"], p["slug"])
 def items_for(state, exam): return [p for p in CATALOG if p["state"] == state and p["exam"] == exam]
@@ -377,19 +388,26 @@ def home():
             '<h1>Walk in ready.<br>Walk out licensed in <em>16 states</em>.</h1>'
             '<p class="lead">Prep for the NASCLA Accredited Examination for Commercial General Building Contractors, plus NASCLA electrical and business and law exams. Book packages, highlighted and tabbed sets, rentals and online courses for %d states.</p>'
             '<div class="hero-ctas"><a class="btn btn-buy" href="#exams">Find my exam</a><a class="btn btn-ghost" href="#plan">See the study plan</a></div>%s</div>'
-            '<div class="clock" aria-label="NASCLA commercial exam at a glance"><div class="clock-top"><span>Commercial exam clock</span><span class="pill">Open book</span></div>'
-            '<div class="clock-time" aria-hidden="true">5:30:00</div><div class="clock-bar" aria-hidden="true"><i></i></div>'
-            '<div class="stats"><div><b>115</b><small>scored questions</small></div><div><b>~2.9</b><small>min each</small></div><div><b>70%%</b><small>to pass</small></div></div></div></div></section>'
+            '<div class="hero-form" aria-labelledby="hero-form-title"><div class="clock-top"><span>Commercial exam at a glance</span><span class="pill">Open book</span></div>'
+            '<div class="stats"><div><b>115</b><small>scored questions</small></div><div><b>330</b><small>minutes</small></div><div><b>70%%</b><small>to pass</small></div></div>'
+            '<p class="hf-title" id="hero-form-title">Get your free NASCLA study plan</p><p class="hf-sub">Tell us your state and exam. An advisor replies with the right books and a timeline.</p><!--HEROFORM--></div></div></section>'
             % (len(STATES), takeaways(["%d NASCLA prep products across %d states and nationwide editions, from %s to %s." % (len(CATALOG), len(STATES), money(lo), money(hi)),
                                       "The commercial exam is 115 scored questions in 330 minutes, open book, 70%% to pass, and accepted in 16 states plus the U.S. Virgin Islands.",
                                       "Every Buy now button opens secure checkout at our fulfillment center, %s." % FUL["name"]]).replace("%%", "%")))
+    body = body.replace("<!--HEROFORM-->", ghl_form("hero", "Free NASCLA study plan request"))
     body += '<section class="sec" id="exams"><div class="wrap"><span class="eyebrow">Pick your exam</span><h2>Which NASCLA exam are you taking?</h2><p class="lead-s">Choose the exam, then your state. Every state page lists the books, tabs, rentals and online courses for that exam.</p><div class="exams">%s</div></div></section>' % exam_cards
     body += '<section class="sec sec-alt" id="plan"><div class="wrap"><span class="eyebrow">How to pass</span><h2>Your study plan</h2><p class="lead-s">A sample six-week path for an open-book NASCLA exam. Go faster or slower to fit your schedule.</p><div class="plan">%s</div></div></section>' % "".join('<div><b>WEEK %s</b><h3>%s</h3><p>%s</p></div>' % (n, esc(t), esc(d)) for n, t, d in PLAN)
     if natl:
         body += '<section class="sec"><div class="wrap"><span class="eyebrow">Nationwide editions</span><h2>Commercial General Building Contractor packages</h2><p class="lead-s">The NASCLA commercial exam is the same in every accepting state. These nationwide packages work wherever you test; state editions add the business and law material for your state.</p><div class="grid" id="rail">%s</div></div></section>' % "".join(card(p, rel) for p in natl[:6])
     body += '<section class="sec sec-alt" id="states"><div class="wrap"><span class="eyebrow">By state</span><h2>Every state we carry</h2><p class="lead-s">Pick your state to see its exams. Each board sets its own rules for using NASCLA scores, and the product pages explain the steps.</p><ul class="states">%s</ul></div></section>' % st_items
     body += '<section class="sec"><div class="wrap" style="max-width:860px"><h2>Questions</h2>%s<p style="margin-top:20px"><a href="faq/">All %d questions</a></p></div></section>' % (faq_html(home_faq), len(gen_pairs) + sum(len(v) for v in STATE_FAQS.values()))
-    body += final_cta("Ready when you are", "Pick your exam and state, then choose how much help you want.", "From a single tabbed guide to The 1 Package with licensing and business setup.", "#exams", "Find my exam")
+    body += ('<section class="sec sec-alt" id="contact"><div class="wrap"><div class="contact-band"><div class="cb-copy"><span class="eyebrow">Talk to an advisor</span>'
+             '<h2 id="not-sure-which-package-fits">Not sure which NASCLA package fits?</h2>'
+             '<p>Send your state, your exam and your test date. A 1 Exam Prep advisor will match you with the right books, tabs or course and a study timeline, usually within one business day.</p>'
+             '<ul class="cb-list"><li>Which edition of the business and law guide your state uses</li><li>Whether a rental, a tabbed set or The 1 Package fits your budget</li><li>How many weeks to plan before a 330-minute open-book exam</li></ul>'
+             '<p class="cb-alt">Prefer to talk now? Call <a href="tel:%s">%s</a> or email <a href="mailto:%s">%s</a>.</p></div>'
+             '<div class="cb-form">%s</div></div></div></section>'
+             % (CFG["phoneTel"], esc(CFG["phone"]), CFG["email"], CFG["email"], ghl_form("home-bottom", "Contact a NASCLA exam advisor")))
     write([], body, "NASCLA Exam Prep: Commercial, Electrical, Business & Law", "NASCLA exam prep for the commercial general building contractor exam accepted in 16 states, plus NASCLA electrical and business and law exams. Books, tabbed sets, rentals and online courses by state.",
           CFG.get("logo"), [org_ld(), website_ld(), faq_ld(home_faq), crumbs_ld([("Home", "")])], cta=("#exams", "Find my exam"), priority="1.0")
 home()
@@ -758,6 +776,74 @@ items = "".join('<item><title>%s</title><link>%s</link><guid isPermaLink="true">
 open(os.path.join(ROOT, "blog", "feed.xml"), "w", encoding="utf-8").write('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>%s Blog</title><link>%s</link><description>NASCLA exam prep study tips, licensing steps and news.</description><language>en-us</language>\n%s</channel></rss>\n' % (esc(BRAND), absurl("blog/"), items))
 open(os.path.join(ROOT, "blog", "posts.json"), "w", encoding="utf-8").write(json.dumps([{k: q[k] for k in ("slug", "title", "date", "updated", "excerpt", "image", "tags", "state", "level", "author", "words")} for q in POSTS], ensure_ascii=False))
 
+# ---------- contact and thank you ----------
+def contact_page():
+    parts = ["contact"]; rel = "../"
+    qa = [("How fast will someone reply to my message?", "Most messages sent through the form get a reply within one business day. Calls to %s are answered during business hours." % CFG["phone"]),
+          ("Can you tell me which books my state requires?", "Yes. Send your state and exam and an advisor will list the references named in your candidate bulletin, with the matching book package or tabbed set."),
+          ("Do you schedule the NASCLA exam for me?", "No. You apply and schedule through NASCLA and your testing vendor. The 1 Package adds help with the state license application and business setup."),
+          ("Can I return books after I pass?", "Purchased books are not returnable. Rental packages are sent back after your exam, and the product page lists the rental period and deposit terms."),
+          ("Is the NASCLA commercial exam open book?", "Yes. It has 115 scored questions in 330 minutes, about 2.9 minutes each, and 70%% is a passing score. Tabbed and highlighted books are allowed in most states." ),
+          ("Can I order by phone instead of online?", "Yes. Call %s and an advisor can place the order with you. Every online Buy now button also goes to the same secure checkout." % CFG["phone"]),
+          ("Does buying prep make me eligible for the exam?", "No. Eligibility and licensing are decided by NASCLA and your state board. Buying prep materials does not grant approval or a license.")]
+    qa = [(q, a.replace("%%", "%")) for q, a in qa]
+    tk = ["The form, phone and email all reach the same 1 Exam Prep advisors.",
+          "Most form messages get a reply within one business day.",
+          "Include your state, exam and test date for a faster, exact answer.",
+          "Advisors help with books and study plans; NASCLA and your state board handle eligibility."]
+    body = ('<section class="phead"><div class="wrap">%s<h1>Contact Pass Your NASCLA Exam Prep</h1>'
+            '<p class="lead">Reach a NASCLA exam advisor by form, phone at %s or email at %s. Tell us your state, your NASCLA exam and your test date. We reply with the books, tabs or course that fit, plus a study timeline, usually within one business day.</p>%s</div></section>'
+            % (crumbs_html([("Home", ""), ("Contact", "contact/")], rel), esc(CFG["phone"]), esc(CFG["email"]), takeaways(tk)))
+    body += ('<section class="sec-tight" style="padding-top:0"><div class="wrap"><div class="contact-band"><div class="cb-copy">'
+             '<h2 id="send-us-a-message">Send us a message</h2><p>The form takes about one minute. Your details go straight to the 1 Exam Prep team, the fulfillment center that ships every order on this site. Nothing is sold or shared with a third party.</p>'
+             '<ul class="cb-list"><li><strong>Phone:</strong> <a href="tel:%s">%s</a></li><li><strong>Email:</strong> <a href="mailto:%s">%s</a></li><li><strong>Orders and shipping:</strong> handled by <a href="%s" rel="noopener">%s</a></li></ul></div>'
+             '<div class="cb-form">%s</div></div></div></section>'
+             % (CFG["phoneTel"], esc(CFG["phone"]), CFG["email"], CFG["email"], esc(FUL["url"]), esc(FUL["name"]), ghl_form("contact", "Contact form")))
+    main = ('<h2 id="what-can-an-advisor-help-with">What can a NASCLA exam advisor help with?</h2>'
+            '<p>Advisors answer questions about the prep, not the license itself. The most common requests fall into five groups:</p>'
+            '<ul><li>Matching your state to the right edition of the NASCLA Contractor\'s Guide to Business, Law and Project Management.</li>'
+            '<li>Choosing between a book package, a highlighted and tabbed set, a rental and an online course.</li>'
+            '<li>Checking which references your candidate bulletin allows in the testing room.</li>'
+            '<li>Order status, shipping and rental returns.</li>'
+            '<li>Upgrading to The 1 Package, which adds license application help and business setup.</li></ul>'
+            '<h2 id="what-should-i-include-in-my-message">What should I include in my message?</h2>'
+            '<p>Three details let an advisor answer in one reply instead of three. Add your state, because each of the %d states we carry names its own business and law edition. Add the exam: commercial general building, master electrical, residential electrical or business and law. Add your test date, so the advisor can tell you whether 4, 6 or 8 weeks of study is realistic.</p>'
+            '<table><thead><tr><th scope="col">Detail</th><th scope="col">Why it matters</th></tr></thead><tbody>'
+            '<tr><td>State</td><td>Sets the business and law edition and any state add-on exam.</td></tr>'
+            '<tr><td>Exam</td><td>Sets the reference list. The commercial exam alone uses more than 20 references.</td></tr>'
+            '<tr><td>Test date</td><td>Sets shipping speed and whether a rental period covers your exam.</td></tr>'
+            '<tr><td>Budget</td><td>Prep here runs from %s to %s, so a range helps narrow it fast.</td></tr></tbody></table>'
+            '<h2 id="how-is-the-nascla-commercial-exam-set-up">How is the NASCLA commercial exam set up?</h2>'
+            '<p>The NASCLA Accredited Examination for Commercial General Building Contractors has 115 scored questions and a 330-minute time limit. That works out to about 2.9 minutes per question. A score of 70 percent passes. The exam is open book, so fast lookup matters more than memorizing. NASCLA says the exam is accepted in 16 states plus the U.S. Virgin Islands. Most of those states still require their own business and law exam. Read the current rules on the <a href="https://www.nascla.org/" rel="noopener">NASCLA website</a> before you apply.</p>'
+            '<h2 id="where-do-orders-ship-from">Where do orders ship from?</h2>'
+            '<p>Every order on %s is processed and shipped by %s, our fulfillment center. Book packages ship as physical books. Online courses arrive by email, usually within minutes of checkout. Rental packages include a return label and a set rental period listed on each product page. For anything about an existing order, include your order number in the form so the right person picks it up the first time.</p>'
+            '<h2 id="ready-to-start">Ready to start studying?</h2>'
+            '<p>If you already know your exam, you can skip the form. Browse the <a href="../commercial-general-building-contractor/">commercial general building contractor packages</a>, the <a href="../master-electrical-contractor/">master electrical contractor packages</a> or the <a href="../business-and-law/">business and law guides</a>. The <a href="../faq/">NASCLA exam FAQ</a> answers more than 100 common questions, and the <a href="../blog/">blog</a> has study plans you can follow week by week.</p>'
+            % (len(STATES), money(price_range(CATALOG)[0]), money(price_range(CATALOG)[1]), esc(BRAND), esc(FUL["name"])))
+    body += ('<section class="sec-tight"><div class="wrap" style="max-width:860px">%s<h2 id="contact-questions">Contact questions</h2>%s'
+             '<h2 id="sources">Sources</h2><ul><li><a href="https://www.nascla.org/" rel="noopener">NASCLA: National Association of State Contractors Licensing Agencies</a></li><li><a href="https://ned.nascla.org/" rel="noopener">NASCLA exam application portal</a></li></ul></div></section>'
+             % (main, faq_html(qa)))
+    contact_ld = clean({"@context": "https://schema.org", "@type": "ContactPage", "name": "Contact %s" % BRAND, "url": absurl("contact/"), "description": "Contact a NASCLA exam advisor by form, phone or email.",
+                        "dateModified": TODAY, "mainEntity": clean({"@type": "Organization", "name": BRAND, "url": SITE, "telephone": CFG.get("phoneTel"), "email": CFG.get("email"),
+                        "contactPoint": [{"@type": "ContactPoint", "contactType": "customer service", "telephone": CFG.get("phoneTel"), "email": CFG.get("email"), "areaServed": "US", "availableLanguage": "English"}]})})
+    write(parts, body, "Contact a NASCLA Exam Advisor | Pass Your NASCLA", "Contact a NASCLA exam advisor by form, phone or email. Get the right books, tabs or course for your state and a study timeline, usually within one business day.",
+          None, [contact_ld, crumbs_ld([("Home", ""), ("Contact", "contact/")]), faq_ld(qa)], cta=("../#exams", "Find my exam"), current="contact", priority="0.6")
+contact_page()
+
+def thank_you_page():
+    body = ('<section class="phead"><div class="wrap"><h1>Thanks, your message is in</h1>'
+            '<p class="lead">A NASCLA exam advisor from %s will reply, usually within one business day. Check your inbox and spam folder for our email. If your exam is soon, call <a href="tel:%s">%s</a> and we can help right away.</p></div></section>'
+            '<section class="sec-tight" style="padding-top:0"><div class="wrap"><div class="ty-grid">'
+            '<a class="ty-card" href="../commercial-general-building-contractor/"><h2>Commercial exam packages</h2><p>Books, tabbed sets, rentals and the online course for the 115-question commercial exam.</p></a>'
+            '<a class="ty-card" href="../#states"><h2>Find your state</h2><p>Each state page lists its business and law edition and every exam we carry.</p></a>'
+            '<a class="ty-card" href="../faq/"><h2>NASCLA exam FAQ</h2><p>Answers on open-book rules, scoring, applying and ordering while you wait.</p></a>'
+            '<a class="ty-card" href="../blog/"><h2>Study plans</h2><p>Week-by-week plans and tabbing tips from the blog.</p></a>'
+            '</div><p style="margin-top:28px"><a class="btn btn-ghost" href="../">Back to the home page</a></p></div></section>'
+            % (esc(FUL["name"]), CFG["phoneTel"], esc(CFG["phone"])))
+    write(["thank-you"], body, "Thank You | %s" % BRAND, "Thanks for contacting %s. A NASCLA exam advisor will reply, usually within one business day." % BRAND,
+          None, (), noindex=True, cta=("../#exams", "Find my exam"), sitemap=False)
+thank_you_page()
+
 # ---------- search ----------
 write(["search"], '<section class="phead search-page"><div class="wrap"><h1>Search</h1><form id="searchPage" class="srch-form" role="search"><label class="sr-only" for="sp">Search</label><input class="srch-q" id="sp" name="q" type="search" placeholder="State, exam or product" autocomplete="off"><button class="btn btn-buy" type="submit">Search</button></form><div id="searchOut" class="srch-res"></div></div></section>',
       "Search | %s" % BRAND, "Search NASCLA exam prep by state, exam or product.", None, noindex=True, cta=("../#exams", "Find my exam"), sitemap=False, scripts='<script src="../shared/catalog.js"></script>')
@@ -842,6 +928,7 @@ llm += ["- [NASCLA %s exam prep](%s): %s" % (EXAMS[k]["name"], absurl(k + "/inde
 llm += ["", "## State pages", ""] + ["- [%s NASCLA exam prep](%s)" % (sname(s), absurl(slug(s) + "/index.md")) for s in STATES + [None]]
 llm += ["", "## State and exam pages", ""] + ["- [%s %s](%s): %d products from %s" % (sname(s), EXAMS[k]["name"], absurl("%s/%s/index.md" % (slug(s), k)), len(items_for(s, k)), money(price_range(items_for(s, k))[0])) for s, k in LISTINGS]
 if POSTS: llm += ["", "## Blog", "", "- [All posts](%s)" % absurl("blog/")] + ["- [%s](%s): %s" % (q["title"], absurl("blog/%s/" % q["slug"]), q["excerpt"]) for q in POSTS[:30]]
+llm += ["", "## Contact", "", "- [Contact a NASCLA exam advisor](%s): form, phone %s and email %s." % (absurl("contact/index.md"), CFG["phone"], CFG["email"])]
 llm += ["", "## FAQ", "", "- [NASCLA exam FAQ](%s): what NASCLA is, the commercial exam, licensing, studying and ordering." % absurl("faq/index.md")] + ["- [%s %s FAQ](%s)" % (sname(s), EXAMS[k]["name"], absurl("faq/%s/%s/index.md" % (slug(s), k))) for (s, k) in sorted(STATE_FAQS, key=lambda x: (x[0] or "~", x[1]))]
 llm += ["", "## Every page", "", "- Each HTML page has a Markdown copy at the same address plus `index.md` (for example %s), linked from the page with rel=\"alternate\" type=\"text/markdown\"." % absurl("alabama/commercial-general-building-contractor/index.md"), "- [Sitemap of every page](%s)" % absurl("sitemap.xml")]
 if PAGES: llm += ["", "## Pages", ""] + ["- [%s](%s): %s" % (q["title"], absurl("pages/%s/" % q["slug"]), q["excerpt"]) for q in PAGES[:30]]

@@ -69,4 +69,30 @@
     });});
     if(document.querySelector(".stickybar")) document.body.classList.add("has-sticky");
   }
+  /* ---------- GoHighLevel lead form ----------
+     build.py writes <div class="ghl-form" data-ghl-form="ID" ...> placeholders (hero, bottom of home, /contact/).
+     The iframe and GHL's form_embed.js are added here, so the served HTML stays free of iframes and body scripts.
+     Each copy gets its own iframe id, so two copies on the home page both size themselves. */
+  (function(){
+    var slots=document.querySelectorAll("[data-ghl-form]"); if(!slots.length) return;
+    var host="";
+    slots.forEach(function(el,i){
+      var id=el.getAttribute("data-ghl-form"), name=el.getAttribute("data-ghl-name")||"Contact form", h=el.getAttribute("data-ghl-height")||"620";
+      host=(el.getAttribute("data-ghl-host")||"").replace(/\/$/,"");
+      var fid="inline-"+id+(i?"-"+i:"");
+      var f=document.createElement("iframe");
+      f.src=host+"/widget/form/"+encodeURIComponent(id);
+      f.id=fid; f.title=name; f.loading=i?"lazy":"eager";
+      f.style.cssText="width:100%;height:"+h+"px;min-height:"+h+"px;border:none;border-radius:12px;display:block;background:transparent";
+      var attrs={"data-layout":"{'id':'INLINE'}","data-trigger-type":"alwaysShow","data-trigger-value":"","data-activation-type":"alwaysActivated","data-activation-value":"",
+        "data-deactivation-type":"neverDeactivate","data-deactivation-value":"","data-form-name":name,"data-height":h,"data-layout-iframe-id":fid,"data-form-id":id,
+        "data-cookie-consent":"true","data-cookie-consent-provider":"auto"};
+      for(var k in attrs) f.setAttribute(k,attrs[k]);
+      f.addEventListener("load",function(){el.classList.add("is-loaded");});
+      el.appendChild(f);
+    });
+    if(host&&!document.querySelector('script[src$="/js/form_embed.js"]')){
+      var s=document.createElement("script"); s.src=host+"/js/form_embed.js"; s.async=true; document.body.appendChild(s);
+    }
+  })();
 })();

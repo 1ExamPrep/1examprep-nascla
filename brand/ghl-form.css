@@ -1,0 +1,122 @@
+/* Pass Your NASCLA Exam Prep: style for the GoHighLevel form ORfGWb8YnHGsp3Z9c7DZ ("passyournasclaexam.com").
+   Paste into GHL: Sites > Forms > Builder > open the form > Styles & Options > Custom CSS. Save.
+   Matches the site's "Exam Day" theme: dark navy card #141A2A, text #EEF1F8, blue accent #4C8DFF,
+   Poppins headings, Manrope body. The site puts the form on a #0F1424 panel, so the form background is transparent. */
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Poppins:wght@600;700&display=swap");
+
+html, body { background: transparent !important; }
+
+#_builder-form, .form-builder, #_builder-form * {
+  font-family: "Manrope", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
+}
+#_builder-form, .form-builder {
+  background: transparent !important;
+  color: #EEF1F8 !important;
+  padding: 4px 2px !important;
+  max-width: 100% !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+/* spacing between fields */
+#_builder-form .form-builder--item, .form-builder .form-builder--item {
+  padding: 0 0 16px 0 !important;
+  margin: 0 !important;
+}
+
+/* labels */
+#_builder-form label, #_builder-form .field-label, .form-builder--item label {
+  display: block !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  color: #EEF1F8 !important;
+  margin: 0 0 6px !important;
+  letter-spacing: 0 !important;
+}
+
+/* text boxes, dropdowns and the message box */
+#_builder-form input[type="text"], #_builder-form input[type="email"], #_builder-form input[type="tel"],
+#_builder-form input[type="number"], #_builder-form input[type="date"], #_builder-form select,
+#_builder-form textarea, #_builder-form .form-control, #_builder-form .iti input,
+#_builder-form .multiselect__tags, #_builder-form .multiselect__input {
+  width: 100% !important;
+  min-height: 48px !important;
+  padding: 12px 14px !important;
+  font-size: 16px !important; /* 16px stops phones zooming in */
+  line-height: 1.4 !important;
+  color: #EEF1F8 !important;
+  background: #0B0F1A !important;
+  border: 1.5px solid #2A3452 !important;
+  border-radius: 12px !important;
+  box-shadow: none !important;
+  transition: border-color .15s, box-shadow .15s !important;
+}
+#_builder-form select option { background: #141A2A !important; color: #EEF1F8 !important; }
+#_builder-form textarea { min-height: 120px !important; resize: vertical !important; }
+#_builder-form input::placeholder, #_builder-form textarea::placeholder { color: #8D97AE !important; opacity: 1 !important; }
+#_builder-form input:hover, #_builder-form select:hover, #_builder-form textarea:hover { border-color: #3A4770 !important; }
+#_builder-form input:focus, #_builder-form select:focus, #_builder-form textarea:focus, #_builder-form .form-control:focus {
+  outline: none !important;
+  border-color: #4C8DFF !important;
+  box-shadow: 0 0 0 4px rgba(76, 141, 255, .22) !important;
+}
+/* browser autofill keeps the dark field */
+#_builder-form input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 40px #0B0F1A inset !important;
+  -webkit-text-fill-color: #EEF1F8 !important;
+}
+
+/* phone field with the country flag */
+#_builder-form .iti { width: 100% !important; }
+#_builder-form .iti input { padding-left: 52px !important; }
+#_builder-form .iti__country-list { background: #141A2A !important; color: #EEF1F8 !important; border-color: #2A3452 !important; }
+
+/* checkboxes and radio buttons (consent, choices) */
+#_builder-form input[type="checkbox"], #_builder-form input[type="radio"] {
+  width: 18px !important; height: 18px !important; min-height: 0 !important;
+  accent-color: #4C8DFF !important; margin-right: 8px !important; vertical-align: -3px !important;
+}
+#_builder-form .option label, #_builder-form .terms-and-conditions, #_builder-form .checkbox label,
+#_builder-form .terms-and-conditions * {
+  font-weight: 400 !important; font-size: 12.5px !important; color: #B3BCD0 !important; line-height: 1.5 !important;
+}
+#_builder-form a { color: #8DB6FF !important; text-decoration: underline !important; }
+
+/* submit button: same blue pill as the site's Buy now buttons */
+#_builder-form button[type="submit"], #_builder-form .btn-dark, #_builder-form .form-builder--item .btn {
+  width: 100% !important;
+  min-height: 52px !important;
+  padding: 14px 24px !important;
+  font-size: 17px !important;
+  font-weight: 800 !important;
+  letter-spacing: .01em !important;
+  color: #0B0F1A !important;
+  background: #4C8DFF !important;
+  border: none !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 22px rgba(76, 141, 255, .28) !important;
+  cursor: pointer !important;
+  transition: background .15s, transform .05s !important;
+}
+#_builder-form button[type="submit"]:hover, #_builder-form .btn-dark:hover { background: #8DB6FF !important; }
+#_builder-form button[type="submit"]:active, #_builder-form .btn-dark:active { transform: translateY(1px) !important; }
+
+/* errors and the thank-you message */
+#_builder-form .error, #_builder-form .text-danger, #_builder-form .help-block {
+  color: #FFB86B !important; font-size: 13px !important; font-weight: 600 !important; margin-top: 6px !important;
+}
+#_builder-form .has-error input, #_builder-form .has-error textarea, #_builder-form .has-error select { border-color: #FFB86B !important; }
+.thank-you-message, #_builder-form .thank-you-message {
+  font-size: 17px !important; color: #EEF1F8 !important; text-align: center !important; padding: 24px 8px !important;
+}
+
+/* headings or text blocks added in the builder */
+#_builder-form h1, #_builder-form h2, #_builder-form h3 {
+  font-family: "Poppins", system-ui, sans-serif !important; color: #EEF1F8 !important; font-weight: 700 !important; letter-spacing: -.01em !important;
+}
+#_builder-form p { color: #B3BCD0 !important; line-height: 1.6 !important; }
+
+/* two fields side by side on wide screens, stacked on phones */
+@media (max-width: 600px) {
+  #_builder-form .form-builder--item { width: 100% !important; flex: 0 0 100% !important; max-width: 100% !important; }
+}

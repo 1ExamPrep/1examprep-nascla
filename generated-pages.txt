@@ -105,6 +105,7 @@ connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-6th-e
 connecticut/business-and-law/business-and-law-guide-highlighted-and-tabbed-plus-flash-cards-6th-ed
 connecticut/business-and-law/business-and-law-guide-plus-tabs-6th-ed
 connecticut/business-and-law/business-and-law-guide-tabs-6th-ed
+contact
 faq
 faq/alabama/business-and-law
 faq/alabama/commercial-general-building-contractor
@@ -568,6 +569,7 @@ tennessee/master-electrical-contractor/highlighted-and-tabbed-book-package
 tennessee/master-electrical-contractor/online-exam-prep-course
 tennessee/master-electrical-contractor/the-1-package-all-inclusive
 tennessee/master-electrical-contractor/ultimate-exam-prep-rental-package
+thank-you
 utah
 utah/business-and-law
 utah/business-and-law/business-and-law-guide-4th-ed

@@ -21,11 +21,16 @@ Find my examSee the study plan
 - The commercial exam is 115 scored questions in 330 minutes, open book, 70% to pass, and accepted in 16 states plus the U.S. Virgin Islands.
 - Every Buy now button opens secure checkout at our fulfillment center, 1 Exam Prep.
 
-Commercial exam clock Open book
+Commercial exam at a glance Open book
 
 **115** scored questions
-**~2.9** min each
+**330** minutes
 **70%** to pass
+Get your free NASCLA study plan
+
+Tell us your state and exam. An advisor replies with the right books and a timeline.
+
+Loading the form. You can also call [(877) 775-9400](tel:+18777759400) or email [sales@1examprep.com](mailto:sales@1examprep.com).
 
 Pick your exam
 
@@ -218,12 +223,19 @@ The same reference books, already tabbed and highlighted so you can flip to the 
 
 [All 1105 questions](https://passyournasclaexam.com/faq/)
 
-Ready when you are
+Talk to an advisor
 
-## Pick your exam and state, then choose how much help you want.
+## Not sure which NASCLA package fits?
 
-From a single tabbed guide to The 1 Package with licensing and business setup.
-Find my exam
+Send your state, your exam and your test date. A 1 Exam Prep advisor will match you with the right books, tabs or course and a study timeline, usually within one business day.
+
+- Which edition of the business and law guide your state uses
+- Whether a rental, a tabbed set or The 1 Package fits your budget
+- How many weeks to plan before a 330-minute open-book exam
+
+Prefer to talk now? Call [(877) 775-9400](tel:+18777759400) or email [sales@1examprep.com](mailto:sales@1examprep.com).
+
+Loading the form. You can also call [(877) 775-9400](tel:+18777759400) or email [sales@1examprep.com](mailto:sales@1examprep.com).
 
 ---
 

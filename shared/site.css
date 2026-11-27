@@ -273,3 +273,27 @@ p{margin:0 0 1em}
 .brand-img{display:block;height:48px;width:auto}
 .site-footer .brand-img{height:56px;margin-bottom:4px}
 @media (max-width:720px){.brand-img{height:38px}}
+
+/* lead form (GoHighLevel, injected by site.js) */
+.hero-form{flex:1 1 380px;max-width:460px;background:var(--card);border:1px solid var(--line);border-radius:var(--r-lg);padding:24px;box-shadow:0 20px 50px rgba(0,0,0,.35)}
+.hero-form .stats{margin-bottom:18px;padding-bottom:16px;border-bottom:1px solid var(--line2)}
+.hf-title{font-family:var(--display);font-size:22px;font-weight:700;line-height:1.2;margin:0 0 6px;color:var(--text)}
+.hf-sub{color:var(--muted);font-size:15px;margin:0 0 14px}
+.ghl-form{position:relative;min-height:200px}
+.ghl-form .ghl-fallback{color:var(--muted);font-size:15px;margin:0}
+.ghl-form.is-loaded .ghl-fallback{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.contact-band{display:grid;grid-template-columns:1fr minmax(320px,480px);gap:40px;align-items:start;background:var(--card);border:1px solid var(--line);border-radius:var(--r-lg);padding:36px}
+.contact-band h2{font-size:clamp(26px,3.4vw,36px)}
+.cb-copy p{color:var(--muted)}
+.cb-list{list-style:none;padding:0;margin:0 0 18px}
+.cb-list li{position:relative;padding:8px 0 8px 28px;border-bottom:1px solid var(--line2);color:var(--text)}
+.cb-list li:before{content:"";position:absolute;left:4px;top:17px;width:10px;height:10px;border-radius:50%;background:var(--accent)}
+.cb-alt{font-size:15px}
+.cb-form{background:var(--bg2);border:1px solid var(--line2);border-radius:var(--r);padding:18px}
+.ty-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.ty-card{display:block;background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:22px;text-decoration:none;color:var(--text)}
+.ty-card:hover{border-color:var(--accent);color:var(--text)}
+.ty-card h2{font-size:20px;margin-bottom:6px}
+.ty-card p{color:var(--muted);margin:0;font-size:15px}
+@media (max-width:900px){.contact-band{grid-template-columns:1fr;padding:24px;gap:24px}.hero-form{max-width:none}}
+@media (max-width:600px){.contact-band{padding:18px}.cb-form{padding:10px}.hero-form{padding:18px}}

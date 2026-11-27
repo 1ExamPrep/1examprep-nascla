@@ -60,7 +60,13 @@
     "nascla-master-electrical.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-master-electrical.webp?v=1795800401",
     "nascla-business-and-law.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-business-and-law.webp?v=1795800401",
     "nascla-master-electrical-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-master-electrical.webp?v=1795800401",
-    "nascla-business-and-law-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-business-and-law.webp?v=1795800401"
+    "nascla-business-and-law-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-business-and-law.webp?v=1795800401",
+    "study-plan-application.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-study-plan-application.webp?v=1795800760",
+    "study-plan-book-tabbing.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-study-plan-book-tabbing.webp?v=1795800760",
+    "study-plan-core.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-study-plan-core.webp?v=1795800760",
+    "study-plan-lookup.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-study-plan-lookup.webp?v=1795800760",
+    "study-plan-practice.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-study-plan-practice.webp?v=1795800760",
+    "study-plan-exam-day.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-study-plan-exam-day.webp?v=1795800760"
   },
   "_imageUrls_help": "Photo slots that use a Shopify Files link (Content > Files). Key = slot filename from build.py, value = the file's cdn.shopify.com URL. 1672x941 originals; the build adds width= sizes for srcset. A slot with no entry here falls back to shared/img/<file>, then to a placeholder.",
   "launched": "2026-10-18"

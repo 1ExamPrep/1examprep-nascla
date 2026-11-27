@@ -325,8 +325,9 @@ EXAM_IMG = {"commercial-general-building-contractor": ("nascla-commercial-contra
             "residential-electrical-contractor": ("nascla-residential-electrical.webp", "Electrician wiring an outlet box in a newly framed home"),
             "business-and-law": ("nascla-business-and-law.webp", "Two contractors reviewing plans on a laptop at a job site table")}
 PLAN_IMG = ["study-plan-application.webp", "study-plan-book-tabbing.webp", "study-plan-core.webp", "study-plan-lookup.webp", "study-plan-practice.webp", "study-plan-exam-day.webp"]
-PLAN_ALT = ["Contractor filling out a NASCLA exam application on a laptop", "Hands placing colored tabs in a code book", "Contractor studying reference books at a desk",
-            "Contractor flipping to a tabbed section of a code book", "Contractor taking a timed practice exam", "Contractor walking into a testing center with a book bag"]
+PLAN_ALT = ["Contractor in a hard hat beside a desk with a laptop, calculator and blueprints", "Smiling electrician with arms crossed beside reference books, blueprints and a laptop",
+            "Two contractors studying blueprints together at a job site table", "Electrician in safety glasses holding a tablet next to an electrical panel",
+            "Electrician checking a commercial panel against notes on a tablet", "Confident electrician holding blueprints on a commercial job site"]
 
 # ---------- GoHighLevel lead form ----------
 # The form is injected by shared/site.js from a placeholder, so the served HTML has no <iframe>, <form> or body <script>

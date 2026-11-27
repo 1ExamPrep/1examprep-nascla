@@ -251,6 +251,9 @@ class MD(HTMLParser):
         md = re.sub(r"\*\*\s*\*\*", "", md); md = re.sub(r"\[\s*\]\([^)]*\)", "", md)
         md = re.sub(r"[ \t]+\n", "\n", md); md = re.sub(r"\n{3,}", "\n\n", md)
         return md.strip() + "\n"
+_footer_base = footer
+def footer(rel):
+    return _footer_base(rel).replace('faq/">FAQ</a></li>', 'faq/">FAQ</a></li><li><a href="%sreviews/">Customer reviews</a></li>' % rel, 1)
 def write_md(parts, path, title, desc, body):
     if not SITE: return
     p = MD(absurl(path)); p.feed(body)
@@ -720,6 +723,19 @@ body += '<section class="sec-tight" style="padding-top:0"><div class="wrap" styl
 body += final_cta("Ready to study?", "Pick your exam and state.", "Every package is built for the open-book format.", "../#exams", "Find my exam")
 write(["faq"], body, "NASCLA Exam FAQ: %d Answers" % (len(gen_pairs) + total_state_q), "%d answers about NASCLA exams: the commercial exam format, which states accept it, licensing, open-book study and ordering, plus state-specific answers." % (len(gen_pairs) + total_state_q),
       None, [crumbs_ld([("Home", ""), ("FAQ", "faq/")]), faq_ld(gen_pairs)], cta=("#exams", "Find my exam"), current="faq", priority="0.7")
+
+# ---------- /reviews/: Google reviews + Shopper Approved (widgets injected by shared/site.js) ----------
+sys.path.insert(0, os.path.join(ROOT, "tools")); import reviewskit as rk
+_rc = rk.content(BRAND, "NASCLA exam", CFG["phone"], CFG["phoneTel"], CFG["email"], faq_url="../faq/", contact_url="tel:" + CFG["phoneTel"], home_url="../")
+_rsecs = "".join('<section class="faq-sec" aria-labelledby="%s"><h2 id="%s">%s</h2>%s</section>' % (i, i, esc(h), b) for i, h, b in _rc["sections"])
+_rsrc = ('<section class="sources" aria-labelledby="h-sources"><h2 id="h-sources">Sources</h2><ul>%s</ul></section>'
+         % "".join('<li><a href="%s" rel="noopener" target="_blank">%s</a></li>' % (esc(u), esc(n)) for n, u in _rc["sources"]))
+body = ('<section class="phead"><div class="wrap">%s<h1>%s</h1><p class="lead">%s</p>%s</div></section>'
+        % (crumbs_html([("Home", ""), ("Reviews", "reviews/")], "../"), esc(_rc["h1"]), esc(_rc["lead"]), takeaways(_rc["takeaways"])))
+body += ('<section class="sec-tight" style="padding-top:0"><div class="wrap" style="max-width:900px">%s<section class="faq-sec" aria-labelledby="reviews-faq"><h2 id="reviews-faq">What do people ask about our reviews?</h2>%s</section>%s</div></section>'
+         % (_rsecs, faq_html(_rc["faq"]), _rsrc))
+body += final_cta("Ready to study?", "Pick your exam and state.", "Every package is built for the open-book format.", "../#exams", "Find my exam")
+write(["reviews"], body, _rc["title"], _rc["desc"], None, [crumbs_ld([("Home", ""), ("Reviews", "reviews/")]), faq_ld(_rc["faq"])], cta=("#exams", "Find my exam"), priority="0.5")
 
 # ---------- blog ----------
 shutil.rmtree(os.path.join(ROOT, "blog"), ignore_errors=True); shutil.rmtree(os.path.join(ROOT, "pages"), ignore_errors=True)

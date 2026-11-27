@@ -297,3 +297,5 @@ p{margin:0 0 1em}
 .ty-card p{color:var(--muted);margin:0;font-size:15px}
 @media (max-width:900px){.contact-band{grid-template-columns:1fr;padding:24px;gap:24px}.hero-form{max-width:none}}
 @media (max-width:600px){.contact-band{padding:18px}.cb-form{padding:10px}.hero-form{padding:18px}}
+/* reviews page */
+.reviews-embed{margin:18px 0 24px;min-height:120px}.reviews-embed iframe{display:block;width:100%;min-width:100%;border:0}.reviews-fallback{font-size:.95em;opacity:.8}

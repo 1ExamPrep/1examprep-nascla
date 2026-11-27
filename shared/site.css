@@ -326,3 +326,9 @@ p{margin:0 0 1em}
 .cta-photo .contact-band{background:rgba(20,26,42,.92);backdrop-filter:blur(4px)}
 /* state and exam page banner (shows only once the photo exists) */
 .banner{padding-top:24px}.banner-img{aspect-ratio:1920/700;max-height:420px}
+
+/* real photos: keep the person in frame when cropped */
+.exam-img{object-position:center}
+.why-img{object-position:75% center;height:auto}
+img.why-img{aspect-ratio:4/3}
+.cta-photo .cta-bg{object-position:right center}

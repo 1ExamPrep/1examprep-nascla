@@ -299,7 +299,15 @@ def final_cta(kicker, title, text, href, label):
 # (home page) or nothing (state, exam and product pages). Drop the .webp in and rebuild; no code change needed.
 IMG_DIR = os.path.join(ROOT, "shared", "img")
 def has_img(name): return os.path.exists(os.path.join(IMG_DIR, name))
+IMG_URLS = CFG.get("imageUrls") or {}
+def cdn_w(u, w): return u + ("&" if "?" in u else "?") + "width=%d" % w
 def img_slot(name, w, h, alt, cls="", rel="", eager=False, placeholder=True):
+    if name in IMG_URLS:   # hosted in Shopify Files; the Shopify CDN resizes on the fly
+        u = IMG_URLS[name]; sizes = [x for x in (480, 800, 1200, 1672) if x <= 1672]
+        srcset = ", ".join("%s %dw" % (esc(cdn_w(u, x)), x) for x in sizes)
+        sz = "100vw" if cls in ("hero-bg", "cta-bg", "banner-img") else ("(max-width:900px) 100vw, 600px" if cls == "why-img" else "(max-width:700px) 100vw, 400px")
+        return ('<img class="photo %s" src="%s" srcset="%s" sizes="%s" width="1672" height="941" alt="%s" decoding="async" %s>'
+                % (cls, esc(cdn_w(u, 1200)), srcset, sz, esc(alt), 'fetchpriority="high" loading="eager"' if eager else 'loading="lazy"'))
     if has_img(name):
         small = name.replace(".webp", "-800.webp")
         srcset = (' srcset="%sshared/img/%s 800w, %sshared/img/%s %dw" sizes="(max-width:800px) 100vw, %dpx"' % (rel, small, rel, name, w, w)) if has_img(small) else ""
@@ -311,10 +319,10 @@ def banner(name, alt, rel):
     """wide hero photo above a hub page's heading; nothing until the file exists"""
     im = img_slot(name, 1920, 700, alt, "banner-img", rel=rel, eager=True, placeholder=False)
     return ('<div class="banner"><div class="wrap">%s</div></div>' % im) if im else ""
-EXAM_IMG = {"commercial-general-building-contractor": ("nascla-commercial-contractor.webp", "Experienced contractor reviewing blueprints at a large commercial construction project"),
+EXAM_IMG = {"commercial-general-building-contractor": ("nascla-commercial-contractor.webp", "Two contractors reviewing blueprints in front of a steel-frame commercial building"),
             "master-electrical-contractor": ("nascla-master-electrical.webp", "Senior electrician inspecting commercial electrical distribution equipment"),
-            "journeyman-electrician": ("nascla-journeyman-electrician.webp", "Electrician installing conduit on a commercial job"),
-            "residential-electrical-contractor": ("nascla-residential-electrical.webp", "Residential electrician wiring a newly built home"),
+            "journeyman-electrician": ("nascla-journeyman-electrician.webp", "Electrician securing metal conduit on a commercial job site"),
+            "residential-electrical-contractor": ("nascla-residential-electrical.webp", "Electrician wiring an outlet box in a newly framed home"),
             "business-and-law": ("nascla-business-and-law.webp", "Construction company owner reviewing contracts, estimates and business documents")}
 PLAN_IMG = ["study-plan-application.webp", "study-plan-book-tabbing.webp", "study-plan-core.webp", "study-plan-lookup.webp", "study-plan-practice.webp", "study-plan-exam-day.webp"]
 PLAN_ALT = ["Contractor filling out a NASCLA exam application on a laptop", "Hands placing colored tabs in a code book", "Contractor studying reference books at a desk",
@@ -423,7 +431,7 @@ def home():
             % (len(STATES), takeaways(["%d NASCLA prep products across %d states and nationwide editions, from %s to %s." % (len(CATALOG), len(STATES), money(lo), money(hi)),
                                       "The commercial exam is 115 scored questions in 330 minutes, open book, 70%% to pass, and accepted in 16 states plus the U.S. Virgin Islands.",
                                       "Every Buy now button opens secure checkout at our fulfillment center, %s." % FUL["name"]]).replace("%%", "%")))
-    body = body.replace("<!--HEROBG-->", img_slot("nascla-exam-prep-hero.webp", 1920, 900, "Commercial general contractor reviewing construction plans at a commercial job site", "hero-bg", eager=True))
+    body = body.replace("<!--HEROBG-->", img_slot("nascla-exam-prep-hero.webp", 1920, 900, "Commercial general contractor in a hard hat and safety vest at a commercial job site", "hero-bg", eager=True))
     body = body.replace("<!--HEROFORM-->", ghl_form("hero", "Free NASCLA study plan request"))
     body += '<section class="sec" id="exams"><div class="wrap"><span class="eyebrow">Pick your exam</span><h2>Which NASCLA exam are you taking?</h2><p class="lead-s">Choose the exam, then your state. Every state page lists the books, tabs, rentals and online courses for that exam.</p><div class="exams">%s</div></div></section>' % exam_cards
     body += ('<section class="sec" id="why-nascla"><div class="wrap"><div class="why">%s<div class="why-copy"><span class="eyebrow">Why NASCLA?</span>'
@@ -432,13 +440,13 @@ def home():
              '<ul class="cb-list"><li>Expand your contracting business into participating states.</li><li>Reduce duplicate trade examination requirements where applicable.</li>'
              '<li>Prepare using the approved reference materials.</li><li>Build your path toward multi-state contractor licensing.</li></ul>'
              '<p class="cb-alt">Passing does not grant a license by itself. Each state board still sets its own application rules, and most add a business and law exam.</p></div></div></div></section>'
-             % img_slot("nascla-multistate-contractor.webp", 1200, 900, "Commercial contractor on a multi-story job site reviewing plans with a project team", "why-img"))
+             % img_slot("nascla-multistate-contractor.webp", 1200, 900, "Construction professional in a hard hat inside a commercial building under construction", "why-img"))
     body += '<section class="sec sec-alt" id="plan"><div class="wrap"><span class="eyebrow">How to pass</span><h2>Your study plan</h2><p class="lead-s">A sample six-week path for an open-book NASCLA exam. Go faster or slower to fit your schedule.</p><div class="plan">%s</div></div></section>' % "".join('<div>%s<b>WEEK %s</b><h3>%s</h3><p>%s</p></div>' % (img_slot(PLAN_IMG[i], 640, 360, PLAN_ALT[i], "plan-img"), n, esc(t), esc(d)) for i, (n, t, d) in enumerate(PLAN))
     if natl:
         body += '<section class="sec"><div class="wrap"><span class="eyebrow">Nationwide editions</span><h2>Commercial General Building Contractor packages</h2><p class="lead-s">The NASCLA commercial exam is the same in every accepting state. These nationwide packages work wherever you test; state editions add the business and law material for your state.</p><div class="grid" id="rail">%s</div></div></section>' % "".join(card(p, rel) for p in natl[:6])
     body += '<section class="sec sec-alt" id="states"><div class="wrap"><span class="eyebrow">By state</span><h2>Every state we carry</h2><p class="lead-s">Pick your state to see its exams. Each board sets its own rules for using NASCLA scores, and the product pages explain the steps.</p><ul class="states">%s</ul></div></section>' % st_items
     body += '<section class="sec"><div class="wrap" style="max-width:860px"><h2>Questions</h2>%s<p style="margin-top:20px"><a href="faq/">All %d questions</a></p></div></section>' % (faq_html(home_faq), len(gen_pairs) + sum(len(v) for v in STATE_FAQS.values()))
-    body += ('<section class="sec cta-photo" id="contact">' + img_slot("nascla-contractor-success.webp", 1920, 600, "Licensed contractor standing in front of a finished commercial building", "cta-bg") + '<div class="wrap"><div class="contact-band"><div class="cb-copy"><span class="eyebrow">Talk to an advisor</span>'
+    body += ('<section class="sec cta-photo" id="contact">' + img_slot("nascla-contractor-success.webp", 1920, 600, "Construction leader in a hard hat on a commercial job site with crew behind", "cta-bg") + '<div class="wrap"><div class="contact-band"><div class="cb-copy"><span class="eyebrow">Talk to an advisor</span>'
              '<h2 id="not-sure-which-package-fits">Not sure which NASCLA package fits?</h2>'
              '<p>Send your state, your exam and your test date. A 1 Exam Prep advisor will match you with the right books, tabs or course and a study timeline, usually within one business day.</p>'
              '<ul class="cb-list"><li>Which edition of the business and law guide your state uses</li><li>Whether a rental, a tabbed set or The 1 Package fits your budget</li><li>How many weeks to plan before a 330-minute open-book exam</li></ul>'

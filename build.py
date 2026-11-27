@@ -320,10 +320,10 @@ def banner(name, alt, rel):
     im = img_slot(name, 1920, 700, alt, "banner-img", rel=rel, eager=True, placeholder=False)
     return ('<div class="banner"><div class="wrap">%s</div></div>' % im) if im else ""
 EXAM_IMG = {"commercial-general-building-contractor": ("nascla-commercial-contractor.webp", "Two contractors reviewing blueprints in front of a steel-frame commercial building"),
-            "master-electrical-contractor": ("nascla-master-electrical.webp", "Senior electrician inspecting commercial electrical distribution equipment"),
+            "master-electrical-contractor": ("nascla-master-electrical.webp", "Electrician in a hard hat checking blueprints and a tablet beside a commercial electrical panel"),
             "journeyman-electrician": ("nascla-journeyman-electrician.webp", "Electrician securing metal conduit on a commercial job site"),
             "residential-electrical-contractor": ("nascla-residential-electrical.webp", "Electrician wiring an outlet box in a newly framed home"),
-            "business-and-law": ("nascla-business-and-law.webp", "Construction company owner reviewing contracts, estimates and business documents")}
+            "business-and-law": ("nascla-business-and-law.webp", "Two contractors reviewing plans on a laptop at a job site table")}
 PLAN_IMG = ["study-plan-application.webp", "study-plan-book-tabbing.webp", "study-plan-core.webp", "study-plan-lookup.webp", "study-plan-practice.webp", "study-plan-exam-day.webp"]
 PLAN_ALT = ["Contractor filling out a NASCLA exam application on a laptop", "Hands placing colored tabs in a code book", "Contractor studying reference books at a desk",
             "Contractor flipping to a tabbed section of a code book", "Contractor taking a timed practice exam", "Contractor walking into a testing center with a book bag"]
@@ -431,7 +431,7 @@ def home():
             % (len(STATES), takeaways(["%d NASCLA prep products across %d states and nationwide editions, from %s to %s." % (len(CATALOG), len(STATES), money(lo), money(hi)),
                                       "The commercial exam is 115 scored questions in 330 minutes, open book, 70%% to pass, and accepted in 16 states plus the U.S. Virgin Islands.",
                                       "Every Buy now button opens secure checkout at our fulfillment center, %s." % FUL["name"]]).replace("%%", "%")))
-    body = body.replace("<!--HEROBG-->", img_slot("nascla-exam-prep-hero.webp", 1920, 900, "Commercial general contractor in a hard hat and safety vest at a commercial job site", "hero-bg", eager=True))
+    body = body.replace("<!--HEROBG-->", img_slot("nascla-exam-prep-hero.webp", 1920, 900, "Smiling commercial contractor in a hard hat holding a clipboard at a steel-frame job site", "hero-bg", eager=True))
     body = body.replace("<!--HEROFORM-->", ghl_form("hero", "Free NASCLA study plan request"))
     body += '<section class="sec" id="exams"><div class="wrap"><span class="eyebrow">Pick your exam</span><h2>Which NASCLA exam are you taking?</h2><p class="lead-s">Choose the exam, then your state. Every state page lists the books, tabs, rentals and online courses for that exam.</p><div class="exams">%s</div></div></section>' % exam_cards
     body += ('<section class="sec" id="why-nascla"><div class="wrap"><div class="why">%s<div class="why-copy"><span class="eyebrow">Why NASCLA?</span>'
@@ -446,7 +446,7 @@ def home():
         body += '<section class="sec"><div class="wrap"><span class="eyebrow">Nationwide editions</span><h2>Commercial General Building Contractor packages</h2><p class="lead-s">The NASCLA commercial exam is the same in every accepting state. These nationwide packages work wherever you test; state editions add the business and law material for your state.</p><div class="grid" id="rail">%s</div></div></section>' % "".join(card(p, rel) for p in natl[:6])
     body += '<section class="sec sec-alt" id="states"><div class="wrap"><span class="eyebrow">By state</span><h2>Every state we carry</h2><p class="lead-s">Pick your state to see its exams. Each board sets its own rules for using NASCLA scores, and the product pages explain the steps.</p><ul class="states">%s</ul></div></section>' % st_items
     body += '<section class="sec"><div class="wrap" style="max-width:860px"><h2>Questions</h2>%s<p style="margin-top:20px"><a href="faq/">All %d questions</a></p></div></section>' % (faq_html(home_faq), len(gen_pairs) + sum(len(v) for v in STATE_FAQS.values()))
-    body += ('<section class="sec cta-photo" id="contact">' + img_slot("nascla-contractor-success.webp", 1920, 600, "Construction leader in a hard hat on a commercial job site with crew behind", "cta-bg") + '<div class="wrap"><div class="contact-band"><div class="cb-copy"><span class="eyebrow">Talk to an advisor</span>'
+    body += ('<section class="sec cta-photo" id="contact">' + img_slot("nascla-contractor-success.webp", 1920, 600, "Confident construction leader with arms crossed in front of a commercial building under construction", "cta-bg") + '<div class="wrap"><div class="contact-band"><div class="cb-copy"><span class="eyebrow">Talk to an advisor</span>'
              '<h2 id="not-sure-which-package-fits">Not sure which NASCLA package fits?</h2>'
              '<p>Send your state, your exam and your test date. A 1 Exam Prep advisor will match you with the right books, tabs or course and a study timeline, usually within one business day.</p>'
              '<ul class="cb-list"><li>Which edition of the business and law guide your state uses</li><li>Whether a rental, a tabbed set or The 1 Package fits your budget</li><li>How many weeks to plan before a 330-minute open-book exam</li></ul>'

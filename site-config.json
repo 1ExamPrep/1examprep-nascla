@@ -48,15 +48,19 @@
   },
   "_leadForm_help": "GoHighLevel form shown in the home hero, at the bottom of the home page and on /contact/. shared/site.js injects it. Set the form's redirect in GHL to /thank-you/. Paste brand/ghl-form.css into the form's Custom CSS.",
   "imageUrls": {
-    "nascla-exam-prep-hero.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-exam-prep-hero.webp?v=1795799511",
+    "nascla-exam-prep-hero.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-exam-prep-hero-v2.webp?v=1795800401",
     "nascla-commercial-contractor.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-commercial-contractor.webp?v=1795799511",
     "nascla-journeyman-electrician.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-journeyman-electrician.webp?v=1795799511",
     "nascla-residential-electrical.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-residential-electrical.webp?v=1795799511",
     "nascla-multistate-contractor.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-multistate-contractor.webp?v=1795799511",
-    "nascla-contractor-success.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-contractor-success.webp?v=1795799511",
+    "nascla-contractor-success.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-contractor-success-v2.webp?v=1795800401",
     "nascla-commercial-contractor-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-commercial-contractor.webp?v=1795799511",
     "nascla-journeyman-electrician-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-journeyman-electrician.webp?v=1795799511",
-    "nascla-residential-electrical-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-residential-electrical.webp?v=1795799511"
+    "nascla-residential-electrical-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-residential-electrical.webp?v=1795799511",
+    "nascla-master-electrical.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-master-electrical.webp?v=1795800401",
+    "nascla-business-and-law.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-business-and-law.webp?v=1795800401",
+    "nascla-master-electrical-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-master-electrical.webp?v=1795800401",
+    "nascla-business-and-law-wide.webp": "https://cdn.shopify.com/s/files/1/1789/0861/files/nascla-business-and-law.webp?v=1795800401"
   },
   "_imageUrls_help": "Photo slots that use a Shopify Files link (Content > Files). Key = slot filename from build.py, value = the file's cdn.shopify.com URL. 1672x941 originals; the build adds width= sizes for srcset. A slot with no entry here falls back to shared/img/<file>, then to a placeholder.",
   "launched": "2026-10-18"
